@@ -1,0 +1,254 @@
+Beweislast
+Kopf- und Nackenschmerzen als unfallbedingte Körperverletzung und
+Beweislast
+EFZG § 6 I; BGB § 823 I; StVG §§ 7 I, 11
+1.Zur Beweislast des Arbeitgebers bei einem Forderungsübergang gem. § 6 I EFZG.
+2.Zahlt der Arbeitgeber seinem Arbeitnehmer nach einem Verkehrsunfall das Entgelt
+fort, muss er bei einem Regress gegen den Unfallgegner den Verdienstausfall des
+Arbeitnehmers darlegen und beweisen.
+3.Lässt sich nach einem Verkehrsunfall die Diagnose HWS-Distorsion nicht
+verifizieren, können glaubhaft bekundete starke Nacken- und Kopfschmerzen eine
+Rechtsgutsverletzung darstellen und damit als unfallbedingte Körperverletzung im
+Sinne von § 823 I BGB, §§ 7 I, 11 StVG angesehen werden. (Leitsätze 2 und 3 von der
+Redaktion)
+BGH, Urteil vom 23.6.2020 – VI ZR 435/19
+Zum Sachverhalt
+Die Kl. nahm die Bekl. als Haftpflichtversicherer aus gem. § 6 I EFZG übergegangenem
+Recht auf Erstattung der Entgeltfortzahlung an ihre ehemalige Arbeitnehmerin, die
+Zeugin W, nach einem Verkehrsunfall vom 16.3.2016 in Anspruch, für den die volle
+Haftung der Bekl. dem Grunde nach außer Streit steht. Bei dem Unfall fuhr die Fahrerin
+des bei der Bekl. haftpflichtversicherten Pkw an einer roten Ampel von hinten auf den
+Pkw der Kl. auf, der von W geführt wurde. Auf Grundlage einer
+Arbeitsunfähigkeitsbescheinigung des Dr. M vom 18.3.2016, welcher W eine vom 18.
+bis 24.3.2016 andauernde Arbeitsunfähigkeit attestierte, leistete die Kl. an W
+Entgeltfortzahlung iHv 753,26 Euro. Mit der Klage hat die Kl. die Erstattung dieses
+Betrags von der Bekl. zuzüglich Nebenkosten verlangt. Sie hat behauptet, die
+attestierte Arbeitsunfähigkeit der Zeugin W sei Folge einer durch den Unfall bedingten
+HWS-Distorsion. Die Bekl. hat behauptet, bei dem Auffahrunfall sei es nur zu einem
+leichten Stoßimpuls gekommen, der nicht geeignet gewesen sei, das behauptete
+Verletzungsbild der Zeugin W hervorzurufen.
+Das AG Bad Homburg hat der Klage durch Versäumnisurteil stattgegeben und dieses
+nach Einspruch der Bekl. und Vernehmung der Zeugin W aufrechterhalten. Das Gericht
+hat es durch die Aussage der Zeugin W als erwiesen angesehen, dass der Unfall kausal
+für die Entgeltfortzahlung gewesen sei. Auf die Berufung der Bekl. hat das LG Frankfurt
+a. M. (Urt. v. 30.9.2019 – 2-16 S 183/18) die Klage abgewiesen. Die vom BerGer.
+zugelassene Revision der Kl. hatte Erfolg und führte zur Aufhebung und
+Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+9II. Der angefochtenen Entscheidung liegt die rechtsfehlerhafte Auffassung zugrunde,
+dass sich eine unfallbedingte Körperverletzung nur dann feststellen ließe, wenn die Kl.
+die von ihr behauptete HWS-Distorsion beweisen könnte. Das BerGer. hat verkannt,
+dass auch die von der Zeugin W bekundeten starken Nacken- und Kopfschmerzen als
+Primärverletzung in Betracht kommen können, und deshalb Feststellungen dazu
+unterlassen, ob diese Schmerzen unfallbedingt waren und zur Arbeitsunfähigkeit der
+Zeugin W geführt haben.
+101. Der Forderungsübergang gem. § 6 EFZG setzt voraus, dass der Arbeitnehmer –
+vorliegend die Zeugin W – aufgrund gesetzlicher Vorschriften von einem Dritten – hier
+der Bekl. – Schadensersatz wegen des Verdienstausfalls beanspruchen kann, der ihm durch die Arbeitsunfähigkeit entstanden ist, und dass der
+Arbeitgeber – hier die Kl. – dem Arbeitnehmer nach dem Entgeltfortzahlungsgesetz
+(hier: gem. § 3 I 1 EFZG im Krankheitsfall) Arbeitsentgelt fortgezahlt hat. Die Kl. hat
+daher außer der Entgeltfortzahlung darzulegen und zu beweisen, dass der Zeugin W
+gegen die Bekl. ein Anspruch auf Ersatz des (normativen, vgl. Senat NJOZ 2017, 1095
+Verdienstausfallschadens aus § 823 I BGB oder §§ 7 I, 11  StVG iVm § 115 I VVG
+zusteht. Es gelten insoweit keine anderen Grundsätze, als wenn die Zeugin W ihren
+Schadensersatzanspruch selbst geltend machen würde.
+112. Nach der gefestigten Rechtsprechung des Senats genügt eine Partei
+grundsätzlich ihrer Darlegungslast, wenn sie Tatsachen anführt, die in Verbindung mit
+einem Rechtssatz geeignet sind, das geltend gemachte Recht als in ihrer Person
+8 mwN). Die Angabe näherer Einzelheiten ist nicht erforderlich, soweit diese für die
+Rn. 11 mwN).
+12Vorliegend hat die Kl. ihrer Darlegungslast dadurch genügt, dass sie behauptet hat,
+die Zeugin W habe infolge des Unfalls Verletzungen erlitten und sei deshalb vom 18.
+bis 24.3.2016 arbeitsunfähig krank gewesen. Die Frage, wann der Arbeitgeber im
+Regressprozess seiner Darlegungslast genügt, stellt sich daher, anders als das BerGer.
+zur Begründung der Zulassung der Revision angeführt hat, vorliegend nicht.
+133. Was die Beweislast angeht, so gilt für die haftungsbegründende Kausalität, die
+den Kausalzusammenhang zwischen der Verletzungshandlung und der
+Rechtsgutsverletzung, das heißt dem ersten Verletzungserfolg (Primärverletzung)
+betrifft, das strenge Beweismaß des § 286 ZPO, das die volle Überzeugung des
+absolute oder unumstößliche Gewissheit und auch keine an Sicherheit grenzende
+Wahrscheinlichkeit, sondern nur einen für das praktische Leben brauchbaren Grad von
+Kausalität, die den ursächlichen Zusammenhang zwischen der primären
+Rechtsgutsverletzung und weiteren Schäden des Verletzten (Sekundärschäden)
+betrifft, gilt das erleichterte Beweismaß des § 287 ZPO, das heißt zur
+Überzeugungsbildung kann eine hinreichende bzw. überwiegende Wahrscheinlichkeit
+14Das BerGer. hat zutreffend gesehen, dass die Frage, ob sich W bei dem Unfall
+überhaupt eine Verletzung zugezogen hat, die haftungsbegründende Kausalität betrifft
+und damit den strengen Anforderungen des Vollbeweises gem. § 286 ZPO unterliegt
+2004, 777 [778]). Erforderlich ist der Nachweis einer Körper- oder
+Gesundheitsverletzung, der bloße Verletzungsverdacht reicht nicht aus (Senat NJW
+2013, 3634 Rn. 8, 14).
+15a) Das BerGer. hat es nicht als bewiesen erachtet, dass W infolge des Unfalls eine
+HWS-Distorsion erlitten hat. Diese tatrichterliche Beurteilung lässt keine Rechtsfehler
+erkennen. Dabei ist zu berücksichtigen, dass die Beweiswürdigung dem Tatrichter
+vorbehalten ist, an dessen Feststellungen das RevGer. gem. § 559 ZPO gebunden ist.
+Dieses kann lediglich nachprüfen, ob sich der Tatrichter entsprechend dem Gebot des
+§ 286 ZPO mit dem Prozessstoff und den Beweisergebnissen umfassend und
+widerspruchsfrei auseinandergesetzt hat, die Beweiswürdigung also vollständig und
+rechtlich möglich ist und nicht gegen Denkgesetze und Erfahrungssätze verstößt
+RR 2008, 1380 = VersR 2008, 1133 Rn. 8).
+16aa) Revisionsrechtlich nicht zu beanstanden ist die Auffassung des BerGer., dass
+die Kl. ihrer Beweislast hinsichtlich des Haftungsgrundes nicht durch die Vorlage der
+Arbeitsunfähigkeitsbescheinigung vom 18.3.2016 nachgekommen ist. Diese enthält
+weder Angaben zur Diagnose, also zur Art der Krankheit, noch verhält sie sich zu der
+Frage, ob die die Arbeitsunfähigkeit auslösende Krankheit unfallbedingt ist. Da sich die
+Arbeitsunfähigkeitsbescheinigung schon ihrem Inhalt nach nicht auf Art und Ursache
+der Krankheit erstreckt, kommt es nicht darauf an, welche (formelle oder materielle)
+Beweiskraft einer Privaturkunde überhaupt zukommen kann.
+17bb) Entgegen der Ansicht der Revision ist es revisionsrechtlich nicht zu beanstanden,
+dass das BerGer., ohne die Zeugin W erneut zu vernehmen, nicht der Feststellung des
+AG gefolgt ist, durch die Aussage der Zeugin W sei die von der Kl. behauptete HWS-
+Distorsion bewiesen, sondern dass es hierfür die Einholung eines medizinischen
+Sachverständigengutachtens für erforderlich erachtet hat.
+18(1) Nach § 529 I Nr. 1 ZPO hat das BerGer. seiner Verhandlung und Entscheidung die
+vom Gericht des ersten Rechtszugs festgestellten Tatsachen zugrunde zu legen,
+soweit nicht konkrete Anhaltspunkte Zweifel an der Richtigkeit oder Vollständigkeit der
+entscheidungserheblichen Feststellungen begründen und deshalb eine erneute
+Feststellung gebieten. Konkrete Anhaltspunkte, die die in dieser Bestimmung
+angeordnete Bindung des BerGer. an die erstinstanzlichen Feststellungen entfallen
+lassen, können sich insbesondere aus Verfahrensfehlern ergeben, die dem
+erstinstanzlichen Gericht bei der Feststellung des Sachverhalts unterlaufen sind. Ein
+solcher Verfahrensfehler liegt namentlich vor, wenn die Beweiswürdigung in dem
+erstinstanzlichen Urteil den Anforderungen nicht genügt, die von der Rechtsprechung
+zu § 286 I ZPO entwickelt worden sind. Dies ist der Fall, wenn die Beweiswürdigung
+unvollständig oder in sich widersprüchlich ist oder wenn sie gegen Denkgesetze oder
+Erfahrungssätze verstößt. Zweifel an der Richtigkeit und Vollständigkeit der
+erstinstanzlichen Feststellungen können sich ferner aus der Möglichkeit
+unterschiedlicher Wertung ergeben, insbesondere daraus, dass das BerGer. das
+Ergebnis einer erstinstanzlichen Beweisaufnahme anders würdigt als das Gericht der
+Vorinstanz (vgl. Senat NJW-RR 2017, 219 = VersR 2016, 1194 Rn. 10 f. mwN). Dann
+aber hat es in eine erneute Beweisaufnahme einzutreten. Insbesondere muss das
+BerGer. einen bereits in erster Instanz vernommenen Zeugen nochmals gem. § 398 I
+ZPO vernehmen, wenn es dessen Aussage anders würdigen will als die Vorinstanz. Die
+nochmalige Vernehmung eines Zeugen kann allenfalls dann unterbleiben, wenn sich
+das Rechtsmittelgericht auf solche Umstände stützt, die weder die Urteilsfähigkeit, das
+Erinnerungsvermögen oder die Wahrheitsliebe des Zeugen noch die Vollständigkeit
+2018, 308 = VersR 2018, 249 Rn. 9 mwN).
+19(2) Vorliegend ist das BerGer. nicht von der Würdigung des AG abgewichen, dass die
+Zeugin glaubhaft ausgeführt hat, sie habe nach dem Unfallereignis unter starken
+Nacken- und Kopfschmerzen gelitten, woraufhin ärztlicherseits ein Schleudertrauma diagnostiziert worden sei, welches sie mit Physiotherapie
+behandelt habe. Vielmehr hat das BerGer. die Beweiswürdigung des AG deshalb
+angezweifelt, weil sich mit der Zeugenaussage, anders als mit einem medizinischen
+Sachverständigengutachten, die objektive Richtigkeit der der Zeugin mitgeteilten
+Diagnose nicht nachweisen lasse. Damit hat das BerGer. die Beweiswürdigung des AG
+im Ergebnis als verfahrensfehlerhaft angesehen. Dies ist revisionsrechtlich nicht zu
+beanstanden.
+Allein der Umstand, dass Dr. M, wie von der Zeugin W bekundet, ein Schleudertrauma
+diagnostizierte, lässt nicht darauf schließen, dass diese Diagnose richtig war. Da der
+Arzt, der einen Unfallgeschädigten untersucht und behandelt, diesen nicht aus der Sicht
+eines Gutachters betrachtet, sondern ihn als Therapeut behandelt, steht für ihn die
+Notwendigkeit einer Therapie im Mittelpunkt, während die Benennung der Diagnose als
+solche für ihn zunächst von untergeordneter Bedeutung ist. Eine ausschlaggebende
+Bedeutung wird solchen Diagnosen im Allgemeinen jedenfalls nicht beizumessen sein.
+Im Regelfall wird das Ergebnis einer solchen Untersuchung nur als eines unter
+mehreren Indizien für den Zustand des Geschädigten nach dem Unfall
+RR 2008, 1380 = VersR 2008, 1133 Rn. 11).
+Etwas anderes ergibt sich nicht daraus, dass Dr. M der Zeugin zugleich
+Arbeitsunfähigkeit attestierte. Denn auch hierfür stand die objektiv richtige Diagnose,
+die nicht Gegenstand der Arbeitsunfähigkeitsbescheinigung ist, nicht im Mittelpunkt.
+Entgegen der Ansicht der Revision spielt es ferner keine Rolle, dass nach Aussage der
+Zeugin W der Stellung der Diagnose Befunderhebungen (Röntgenaufnahmen,
+manuelles Abtasten) vorausgingen, zumal nicht festgestellt ist, dass und welche
+Auffälligkeiten diese Befunde ergeben haben sollen. Für die dem Beweis durch
+Vernehmung der Zeugin W nicht zugängliche Frage, ob die gestellte Diagnose der HWS-
+Distorsion zutreffend war, durfte das BerGer. – entgegen der Ansicht der Revision ohne
+nähere Begründung seitens der Bekl., weshalb die Diagnose unrichtig sein soll – die
+Einholung eines medizinischen Sachverständigengutachtens daher für erforderlich
+erachten. Ermessensfehlerfrei und von der Revision nicht beanstandet ist weiter die
+Auffassung des BerGer., dass es nach Hinweis auf die Erforderlichkeit eines
+entsprechenden Beweisantrags dieses Gutachten nicht gegen den Willen der Kl. von
+Amts wegen einzuholen hatte (vgl. BGH NJW-RR 2019, 719 = MDR 2019, 563 Rn. 18 f.).
+Entgegen der Ansicht der Revision war es auch nicht verfahrensfehlerhaft, ohne
+Vernehmung des Dr. M dessen Diagnose (HWS-Distorsion/Schleudertrauma) „die
+Beweiskraft“ abzusprechen. Denn die Kl. hat nach dem insoweit von der
+Revisionsbegründung in Bezug genommenen Beweisantritt in der Klage die
+Vernehmung des Zeugen Dr. M nicht zum Beweis dafür angeboten, dass die Zeugin W
+eine HWS-Distorsion erlitten hat.
+20b) Mit Erfolg rügt die Revision jedoch, dass sich das BerGer. bei der Prüfung der
+unfallbedingten Rechtsgutsverletzung lediglich mit dem Vorliegen einer HWS-
+Distorsion befasst hat. Die Zeugin W hat – so die Feststellung des AG, die vom BerGer.
+bislang nicht angezweifelt worden ist und ohne erneute Vernehmung der Zeugin auch
+nicht angezweifelt werden kann – glaubhaft bekundet, nach dem Unfall unter „starken
+Nacken- und Kopfschmerzen“ gelitten zu haben. Diese bei der Beweisaufnahme zutage
+getretenen Umstände hat sich die Kl. zumindest hilfsweise zu eigen gemacht (vgl.
+Auch diese Beschwerden können als unfallbedingte Körperverletzung zu bewerten
+sein. Denn der Begriff der Körperverletzung iSv § 823 I BGB, §§ 7 I, 11 StVG ist weit
+auszulegen und umfasst jeden Eingriff in die Integrität der körperlichen Befindlichkeit
+die Verifizierung eines bestimmten Diagnoseinhalts und die Beschränkung der Prüfung
+darauf, ob überhaupt eine Körper- oder Gesundheitsverletzung vorliegt, nicht darauf
+hinaus, einen Verletzungsverdacht ausreichen zu lassen. Denn auch dann, wenn sich
+die Diagnose HWS-Distorsion nicht verifizieren lässt, können glaubhaft bekundete
+starke Nacken- und Kopfschmerzen eine Rechtsgutsverletzung und nicht nur einen
+= VersR 2008, 1133 Rn. 12). Für die Annahme der haftungsbegründenden Kausalität ist
+dann entscheidend, ob die Beschwerden durch den Unfall hervorgerufen wurden. Ob
+dies der Fall ist oder nicht, lässt sich den vom BerGer. getroffenen Feststellungen nicht
+entnehmen, so dass diese insoweit unvollständig sind.
+214. Die Sache war daher an das BerGer. zurückzuverweisen, § 563 I 1 ZPO. Dieses
+wird die Feststellungen zur Frage des Vorliegens unfallbedingter starker Nacken- und
+Kopfschmerzen nachzuholen haben. Bejahendenfalls wird es für die Frage, ob die
+Beschwerden zur krankheitsbedingten Arbeitsunfähigkeit und damit zum (normativen)
+Verdienstausfallschaden führten (haftungsausfüllende Kausalität), das erleichterte
+Beweismaß des § 287 ZPO anzuwenden haben. Dabei wird es zu berücksichtigen
+haben, dass der Tatrichter den Beweis, dass krankheitsbedingte Arbeitsunfähigkeit
+vorlag, normalerweise als erbracht ansehen kann, wenn eine ärztliche
+der berechtigterweise auf die ihm bescheinigte Arbeitsunfähigkeit vertraut und deshalb
+nicht arbeitet, hierdurch ein ersatzfähiger normativer Schaden entsteht (vgl. Senat
+Anmerkung
+Welcher Anwalt, der überwiegend Geschädigte vertritt, kennt es nicht. Nicht selten
+begegnen Haftpflichtversicherer einer Forderung beispielsweise nach
+Schmerzensgeld oder Verdienstausfall wegen eines HWS-Syndroms mit der
+pauschalen Behauptung, eine unfallbedingte Verletzung sei nicht nachgewiesen, der
+Unfall habe sich bei einer so geringfügigen Geschwindigkeit ereignet, dass die so
+genannte Harmlosigkeitsgrenze, die übrigens von der Rechtsprechung keineswegs
+anerkannt ist (näher MüKoStVR/Almeroth, 2017, § 249 Rn. 365 mN), nicht
+überschritten sei. Auch entsprechende ärztliche Bescheinigungen seien zum Beweis
+nicht geeignet, weil der behandelnde Arzt in erster Linie therapeutisch und nicht
+diagnostisch tätig geworden sei und deshalb letztlich die Diagnose HWS-Verletzung
+als Unfallfolge nicht gesichert sei. Dasselbe habe zu gelten, wenn nicht der Verletzte
+selbst, sondern ein Dritter, meistens der Arbeitgeber, im Regressweg Ansprüche, etwa
+wegen Lohnfortzahlung, geltend mache, zumal die üblichen AU-Bescheinigungen in der
+Regel keine Diagnose enthalten.
+Mit beiden Aspekten befasst sich klarstellend das Urteil des BGH. Dass der Senat die
+Sache zur erneuten Verhandlung an das BerGer. zurückverwiesen hat, mindert die
+grundsätzliche Bedeutung seiner Aussagen nicht.
+In Übereinstimmung mit seiner ständigen Rechtsprechung stellt der Senat nochmals
+die Beweisgrundsätze dar, wonach die Frage, ob eine unfallbedingte Verletzung vorliegt, die haftungsbegründende Kausalität betrifft und damit dem
+Auffassung des BerGer., das in Abweichung zu der erstinstanzlichen Entscheidung
+diesen Beweis im konkreten Fall nicht als geführt angesehen hat, wird seitens des
+Senats akzeptiert mit der zutreffenden Begründung, die Tatsache, dass der
+behandelnde Arzt ein Schleudertrauma diagnostiziert habe, bedeute nicht notwendig,
+dass diese Diagnose richtig gewesen sei. Auch dies entspricht der ständigen
+höchstrichterlichen Rechtsprechung (vgl. etwa BGH NJW-RR 2008, 1380; OLG
+überwiegenden Literaturmeinung.
+Wichtig und von großer praktischer Relevanz sind allerdings die weiteren
+Entscheidungsgründe. Das (hier nicht bewiesene) Vorliegen einer HWS-Distorsion sei
+nämlich gar nicht Voraussetzung für einen Anspruch des Unfallopfers bzw. des
+regressierenden Arbeitgebers. Vielmehr sei der Begriff der Körperverletzung im Sinne
+der haftungsbegründenden Normen weit auszulegen, so dass jeder Eingriff in die
+Integrität der körperlichen Befindlichkeit als unfallbedingte Körperverletzung zu
+bewerten sein könne. Nachdem die unfallbeteiligte Arbeitnehmerin glaubhaft bekundet
+habe, nach dem Unfall unter „starken Nacken- und Kopfschmerzen“ gelitten zu haben,
+hätte vom BerGer. dazu Beweis erhoben werden müssen (Rn. 20).
+Da diese Beweiserhebung unterblieben ist, wurde folgerichtig zurückverwiesen, jedoch
+nicht ohne dem BerGer. wichtige Hinweise mit auf den Weg zu geben. Wenn dieser
+Beweis nämlich nach dem strengen Maßstab des § 286 ZPO erbracht werde, sei die
+weitergehende Frage, ob diese Beschwerden zur krankheitsbedingten
+Arbeitsunfähigkeit geführt haben (haftungsausfüllende Kausalität), nach dem
+erleichterte Beweismaß des § 287 ZPO zu beurteilen. Und hierfür sei nach ständiger
+Senatsrechtsprechung davon auszugehen, dass eine ärztliche
+Arbeitsunfähigkeitsbescheinigung normalerweise zum Beweis einer
+krankheitsbedingten Arbeitsunfähigkeit ausreiche. Dem Arbeitnehmer, der
+berechtigterweise auf die ihm bescheinigte Arbeitsunfähigkeit vertraut und deshalb
+nicht arbeitet, entstehe hierdurch ein ersatzfähiger normativer Schaden (Rn. 21). Damit
+schließt sich letztlich der Kreis.
+Das Urteil, das auf dem Boden der bisherigen Rechtsprechung steht, aber gleichwohl
+eine nicht zu unterschätzender Bedeutung für eine Vielzahl von Unfallschäden hat,
+lässt sich grob wie folgt zusammenfassen: Es bleibt dabei, dass allein die vom
+behandelnden Arzt gestellte Diagnose HWS-Distorsion noch keinen Beweis für eine
+derartige unfallbedingte Verletzung darstellt. Hierauf kommt es aber nicht
+entscheidend an. Sind andere unfallbedingte Körperverletzungen, etwa starke Kopfund Nackenschmerzen, iSd § 286 ZPO beweisbar und wird dem Verletzten eine
+Arbeitsunfähigkeitsbescheinigung ausgestellt, so darf dieser auf die Richtigkeit dieser
+Bescheinigung vertrauen und davon absehen, zu arbeiten. Der dadurch entstehende
+(Verdienstausfall-)Schaden kann vom Geschädigten selbst ober im Fall des
+Forderungsübergangs von seinem Arbeitgeber liquidiert werden.
+Rechtsanwalt Dr. Thomas Almeroth, Friedberg/Hessen

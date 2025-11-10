@@ -1,0 +1,247 @@
+Teilbetrags
+Zahlungsverzugskündigung – Gesamthöhe trotz unbedeutenden Teilbetrags
+BGB §§ 543, 569; ZPO § 721
+Die Erheblichkeit des zur außerordentlichen fristlosen Kündigung eines
+Wohnraummietverhältnisses wegen Zahlungsverzugs berechtigenden
+Mietrückstands ist gem. § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB, § 569 III Nr. 1  BGB
+allein nach der Gesamthöhe der beiden rückständigen Teilbeträge zu bestimmen.
+Danach ist der Rückstand jedenfalls dann nicht mehr unerheblich, wenn er die für
+einen Monat geschuldete Miete übersteigt. Für eine darüber hinausgehende
+gesonderte Bewertung der Höhe der einzelnen monatlichen Rückstände im Verhältnis
+zu jeweils einer Monatsmiete und damit für eine richterliche Anhebung der
+Anforderungen an eine außerordentliche fristlose Kündigung wegen Zahlungsverzugs
+lässt das Gesetz keinen Raum (Bestätigung von Senat NJW-RR 1987, 903 unter II 1 d,
+zu § 554 I 1 Nr. 1 Alt. 2 BGB aF).
+BGH Urteil vom 8.12.2021 – VIII ZR 32/20
+Zum Sachverhalt
+Die Bekl. ist seit 2005 Mieterin einer Wohnung der Kl. in Berlin. Von der Bruttomiete von
+monatlich 704 EUR blieb die Bekl. für den Monat Januar 2018 135,41 EUR schuldig; für
+Februar 2018 entrichtete sie keine Miete. Wegen dieser Rückstände erklärte die Kl. mit
+Schreiben vom 9.2.2018 die fristlose, hilfsweise die fristgerechte Kündigung des
+Mietvertrags. Später glich die Bekl., die die Schonfristregelung des § 569 III Nr. 2 
+BGB bereits weniger als zwei Jahre zuvor in Anspruch genommen hatte, den
+Zahlungsrückstand aus.
+Das AG Berlin-Tempelhof-Kreuzberg (Urt. v. 30.8.2018 – 16 C 161/18) hat der von der
+Kl. erhobenen Räumungs- und Herausgabeklage stattgegeben. Dabei hat es der Bekl.
+– unter der Voraussetzung der Entrichtung einer Nutzungsentschädigung – eine
+Räumungsfrist bis 31.1.2019 gewährt. Zur Begründung seiner Entscheidung hat das
+AG ausgeführt, die Kl. habe das Mietverhältnis gem. § 543 II 1 Nr. 3 Buchst. a Alt. 2
+BGB, § 569 III Nr. 1  BGB wirksam fristlos gekündigt, weil die Bekl. im Zeitpunkt der
+Kündigung für zwei aufeinander folgende Monate mit der Entrichtung eines die
+geschuldete Miete für einen Monat übersteigenden – und damit nicht unerheblichen –
+Teils der Miete in Verzug gewesen sei.
+hingegen abgewiesen und die Revision zugelassen. Sie hat unter anderem ausgeführt,
+„eine fristlose Kündigung nach § 543 II 1 Nr. 3 Buchst. b BGB (setze) voraus, dass der
+Mieter in einem Zeitraum, der sich über mehr als zwei Termine erstreckte, mit der
+Entrichtung von Raten in Höhe des Betrags in Verzug sei, der die Miete für zwei Monate
+erreiche. Danach sei bspw. bei einer Miethöhe von monatlich 1.000 EUR eine am 10.3.
+des Jahres ausgesprochene fristlose Kündigung trotz eines Gesamtrückstands von
+1.999,99 EUR unwirksam, wenn der Mieter bezogen auf die Januarmiete lediglich einen
+Cent gezahlt, hingegen die volle Februarmiete entrichtet und für März keine Miete
+gezahlt habe. Im Gegensatz hierzu sei eine fristlose Kündigung nach § 543 II 1 Nr. 3
+Buchst. a Alt. 2 BGB schon bei einem Gesamtrückstand von 1.000,01 EUR begründet,
+wenn der Mieter bezüglich der Februarmiete mit nur einem Cent in Verzug geraten sei
+und für März keine Miete entrichtet habe. Dies lasse einen inneren Grund nicht
+erkennen.“
+Die Revision hatte Erfolg und führte zur Wiederherstellung des erstinstanzlichen
+Urteils. Der Senat hat der Bekl. eine Räumungsfrist bis 30.6.2022 unter der
+Voraussetzung bewilligt, dass sie, beginnend mit Januar 2022, eine monatliche
+Nutzungsentschädigung von 704 EUR bis zu jedem dritten Werktag des Monats an die
+Klägerin entrichtet.
+Aus den Gründen
+13II. Das BerGer. hat einen Anspruch der Kl. auf Räumung und Herausgabe der von der
+Bekl. gemieteten Wohnung (§ 546 I BGB, § 985 BGB) rechtsfehlerhaft als nicht
+bestehend erachtet.
+141. Entgegen der Ansicht des BerGer. ist das Mietverhältnis der Parteien durch die
+außerordentliche fristlose Kündigung der Kl. vom 9.2.2018 beendet worden, weil zu
+diesem Zeitpunkt ein wichtiger Grund iSv § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB
+vorgelegen hat. Nach dieser Vorschrift ist ein wichtiger Grund für eine außerordentliche
+fristlose Kündigung des Mietverhältnisses gegeben, wenn der Mieter für zwei
+aufeinander folgende Termine mit der Entrichtung eines nicht unerheblichen Teils der
+Miete in Verzug ist. Für Mietverhältnisse über Wohnraum, der – wie hier – nicht nur
+zum vorübergehenden Gebrauch vermietet ist (§ 569 III Nr. 1  BGB), bestimmt § 569 III Nr. 1  BGB, dass der rückständige Teil der Miete nur dann als nicht
+unerheblich anzusehen ist, wenn er die Miete für einen Monat übersteigt. Dies ist hier
+der Fall, wie das AG, auf dessen Feststellungen das BerGer. Bezug genommen hat, zu
+Recht entschieden hat. Die Bekl. befand sich zur Zeit der Kündigungserklärung mit
+Mietzahlungen für die Monate Januar 2018 (135,41 EUR) und Februar 2018 (704 EUR)
+iHv insgesamt 839,41 EUR in Verzug. Dieser Betrag übersteigt die geschuldete
+Monatsmiete von 704 EUR.
+152. Anders als das BerGer., dessen Sichtweise auch im Schrifttum auf Ablehnung
+gestoßen ist (vgl. etwa NK-BGB/Hinz, 4. Aufl., BGB § 569 Rn. 62 ff.; Blank/Börstinghaus
+Miete, 6. Aufl., BGB § 543 Rn. 150 a; Staudinger/V. Emmerich BGB, 2021, BGB § 543
+Rn. 74; Lützenkirchen MietR/Lützenkirchen, 3. Aufl., BGB § 543 Rn. 243; Schmidt-
+Futterer/Streyl, Mietrecht, 15. Aufl., BGB § 543 Rn. 171), angenommen hat, steht der
+Wirksamkeit der außerordentlichen fristlosen Kündigung vom 9.2.2018 nicht entgegen,
+dass der in den Monaten Januar und Februar 2018 rückständige Teil zwar insgesamt
+die für einen Monat geschuldete Miete übersteigt (§ 569 III Nr. 1  BGB), der für den
+Monat Januar 2018 entstandene Rückstand iHv 135,41 EUR gemessen an einer
+Monatsmiete von 704 EUR jedoch für sich allein gesehen – wie das BerGer. gemeint
+hat – als unerheblich zu werten sei.
+16Gemäß § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB, § 569 III Nr. 1  BGB ist die
+Erheblichkeit des zur außerordentlichen fristlosen Kündigung wegen Zahlungsverzugs
+bei Wohnraummietverhältnissen berechtigenden Mietrückstands allein nach der
+Gesamthöhe der beiden rückständigen Teilbeträge zu bestimmen. Der
+Gesamtrückstand ist – wie hier – jedenfalls dann nicht mehr unerheblich, wenn er die
+für einen Monat geschuldete Miete übersteigt. Eine darüber hinausgehende
+gesonderte Bewertung der Höhe der einzelnen monatlichen Rückstände im Verhältnis
+zu einer Monatsmiete sieht das Gesetz nicht vor. Dies hat der Senat, wie das BerGer.
+im Ausgangspunkt nicht verkannt hat, bereits hinsichtlich der Vorgängerbestimmung
+zu § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB entschieden (Senat NJW-RR 1987, 903 unter II
+1 d, zu § 554 I 1 Nr. 1 Alt. 2 BGB aF); zur Maßgeblichkeit des Gesamtrückstands s. auch
+17a) Die davon abweichende Ansicht des BerGer. findet bereits im Wortlaut des § 543
+II 1 Nr. 3 Buchst. a BGB keine hinreichende Stütze. Das BerGer. hat insoweit gemeint,
+die Wortwahl „für zwei aufeinander folgende Termine“ anstelle von „nach zwei
+aufeinander folgenden Terminen“ lege es nahe, dass nicht nur der in beiden Monaten
+entstandene Gesamtrückstand nicht unerheblich sein müsse, sondern auch jeder
+einzelne Teilbetrag.
+18Der Gesetzeswortlaut „für zwei aufeinander folgende Termine“ bezieht sich jedoch
+nur darauf, dass der Mieter „für“ beide Termine mit der Verpflichtung zur Zahlung der
+Miete in Verzug sein muss. Hätte der Gesetzgeber zusätzlich verlangen wollen, dass
+auch die beiden aufeinander folgenden Einzelrückstände jeweils für sich gesehen als
+„nicht unerheblich“ zu gelten hätten, hätte es nahegelegen, § 543 II 1 Nr. 3 Buchst. a
+Alt. 2 BGB dahin zu fassen, dass der Mieter für zwei aufeinander folgende Termine mit
+der Entrichtung „jeweils“ eines nicht unerheblichen Teils der Miete in Verzug sein muss.
+In dieser Weise ist der Gesetzgeber jedoch nicht verfahren.
+19b) Außerdem verkennt das BerGer., dass § 569 III Nr. 1  BGB für Mietverhältnisse
+über Wohnraum ausdrücklich und abschließend bestimmt, welche Anforderungen an
+das Tatbestandsmerkmal eines nicht unerheblichen Rückstands im Sinn der Vorschrift
+des § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB zu stellen sind (so bereits zu § 554 II Nr. 1 BGB
+aF Senat NJW-RR 1987, 903) und damit kein Raum für eine richterliche Anhebung der
+Anforderungen an eine außerordentliche fristlose Kündigung wegen Zahlungsverzugs
+bleibt.
+20aa) Die für alle Mietverhältnisse geltende Vorschrift des § 543 II 1 Nr. 3 Buchst. a Alt.
+2 BGB lässt offen, wann von einem „nicht unerheblichen Teil der Miete“ auszugehen
+ist. Das galt bereits für die durch das Erste Gesetz zur Änderung mietrechtlicher
+Vorschriften vom 29.7.1963 (BGBl. 1963 I 505; Erstes Mietrechtsänderungsgesetz)
+neugefasste Vorgängerbestimmung des § 554 I 1 Nr. 1 Alt. 2 BGB aF Diese Regelung
+sah ebenfalls vor, dass der Vermieter das Mietverhältnis ohne Einhaltung einer
+Kündigungsfrist kündigen kann, wenn der Mieter für zwei aufeinander folgende
+Termine mit der Errichtung „eines nicht unerheblichen Teils des Mietzinses“ in Verzug
+ist.
+21Mit dem Erfordernis, wonach nur ein Verzug mit einem „nicht unerheblichen Teil“ der
+Miete kündigungsrelevant ist, hat der Gesetzgeber des Ersten
+Mietrechtsänderungsgesetzes klarstellend dem vom RG unter dem Gesichtspunkt von
+Treu und Glauben (§ 242 BGB) entwickelten Grundsatz Rechnung tragen wollen, dass
+wegen nur unerheblicher Rückstände nicht gekündigt werden dürfe. Dazu heißt es in
+den Gesetzesmaterialien (BT-Drs. IV/806, 10):
+„(...) In dem neugefassten § 554 I kommt für alle Mietverhältnisse der in der
+Rechtsprechung unter dem Gesichtspunkt von Treu und Glauben entwickelte
+Grundsatz zum Ausdruck, dass wegen nur unerheblicher Rückstände nicht fristlos
+gekündigt werden kann (RGZ 86, 334). Für Mietverhältnisse über Wohnraum, der nicht
+zu nur vorübergehendem Gebrauch vermietet ist, wird besonders bestimmt, dass der
+Rückstand mindestens einer Monatsmiete gleichkommen muss. (…)“
+22In seiner Ursprungsfassung sah § 554 I 1 Nr. 1 Alt. 2 BGB aF das Erfordernis des
+Verzugs mit einem „nicht unerheblichen Teil“ der Miete nicht ausdrücklich vor, sondern
+bestimmte lediglich, dass der Mieter für zwei aufeinander folgende Termine mit der
+Errichtung „eines Theiles des Miethzinses“ in Verzug sein müsse (RGBl. I 1896, 288 f.).
+Nach der Rechtsprechung des RG durfte die Vorschrift des § 554 BGB aF allerdings
+nicht dazu führen, den Mieter auch dann einer fristlosen Kündigung auszusetzen, wenn
+es sich nur um unerhebliche Teile einer Mietzinsrate handelt; es verstieße gegen Treu
+und Glauben, wenn der Vermieter sich auf einen geringfügigen Rückstand
+berufen dürfte (so RGZ 86, 334 (335)). Diese Rechtsprechung hat der Gesetzgeber des
+Ersten Mietrechtsänderungsgesetzes umgesetzt und § 554 I 1 Nr. 1 Alt. 2 BGB aF
+dahingehend klargestellt, dass nur ein Zahlungsverzug mit einem nicht unerheblichen
+Teil der Miete kündigungsrelevant ist.
+23bb) Die in den Gesetzesmaterialien gewählte Pluralform, „wegen nur unerheblicher
+Rückstände“ dürfe nicht fristlos gekündigt werden, eröffnet allerdings – was das
+BerGer. verkennt – keinen Raum für die Annahme eines zweiten
+Erheblichkeitserfordernisses. Denn wann von einem nicht unerheblichen Teil der Miete
+im Sinn dieser Bestimmung auszugehen ist, hat bereits der Gesetzgeber des Ersten
+Mietrechtsänderungsgesetzes für Mietverhältnisse über Wohnraum nicht offen lassen
+wollen, sondern – ersichtlich aus Gründen der Rechtssicherheit – „besonders
+bestimmt“ (so ausdr. BT-Drs. IV/806, 10).
+24Die neu eingeführte Regelung des § 554 II Nr. 1 BGB aF sah nunmehr vor, dass im
+Fall einer Kündigung nach § 554 I 1 Nr. 1 BGB der rückständige Teil der Miete nur dann
+als nicht unerheblich anzusehen ist, wenn er die Miete für einen Monat übersteigt.
+Diese besondere Schutzvorschrift zugunsten des Wohnraummieters (vgl. Senat NJW-
+Gesetzgeber des Mietrechtsreformgesetzes 2001 (BGBl. I 2001, 1149) in § 569 III Nr.
+1  BGB – mit Ausnahme der im Streitfall nicht relevanten Verlängerung der
+Schonfrist – ohne inhaltliche Änderungen übernommen (vgl. BT-Drs. 14/4553, 44, 64).
+Die Gesetzesmaterialien (BT-Drs. 14/4553, 64) heben insoweit ausdrücklich hervor,
+dass
+„Abs. 3 (des § 569 BGB) die Sonderregelung für die fristlose Kündigung von Wohnraum
+wegen Zahlungsverzuges aus § 554 II BGB auf(nimmt)“.
+25(1) Soweit die Gesetzesmaterialien zum Ersten Mietrechtsänderungsgesetz auf die
+Rechtsprechung des RG Bezug nehmen, betrifft dies ausschließlich den allgemeinen
+Grundsatz von Treu und Glauben, „dass wegen nur unerheblicher Rückstände nicht
+fristlos gekündigt werden kann“ (vgl. BT-Drs. IV/806, 10 unter Hinweis auf RGZ 86,
+334). Hingegen hat der Gesetzgeber des Ersten Mietrechtsänderungsgesetzes das
+vom RG aufgestellte Erfordernis, es komme auf das „Verhältnis des rückständigen
+Teilbetrags zu der betreffenden Rate“ an (vgl. RGZ 86, 334 (335)), gerade nicht
+umgesetzt, sondern mit der neu geschaffenen Bestimmung des § 554 II Nr. 1 Hs. 1
+BGB aF (§ 569 III Nr. 1  BGB) allein „den rückständigen Teil der Miete“ als
+kündigungsrelevant bestimmt. Nichts spricht dafür, dass nach dem Willen des
+Gesetzgebers die Erheblichkeitsschwelle mit der in § 554 II Nr. 1 Hs. 1 BGB aF
+vorgesehenen und in § 569 III Nr. 1  BGB übernommenen Anbindung an den
+Gesamtrückstand einerseits „besonders bestimmt“, andererseits aber – wie das
+BerGer. gemeint hat – zugleich ein zu beträchtlicher Rechtsunsicherheit führendes,
+unbestimmtes Zusatzerfordernis in Gestalt der Erheblichkeit der Rückstände auch zu
+den beiden jeweiligen Einzelterminen aufgestellt werden sollte.
+26(2) Anders als die Revisionserwiderung meint, ist dem Wortlaut der Bestimmung des
+§ 569 III Nr. 1  BGB, der vorsieht, dass der rückständige Teil der Miete „nur dann“
+als nicht unerheblich anzusehen ist, wenn er die Miete für einen Monat übersteigt, nicht
+zu entnehmen, dass dies keine abschließende Definition darstelle. Hierbei handelt es
+sich entgegen der Ansicht der Revisionserwiderung nicht um eine bloße
+Mindestvoraussetzung, die Raum für höhere Anforderungen an die
+Erheblichkeitsgrenze ließe. Mit der verwendeten Formulierung hat der Gesetzgeber,
+was auch in den wiedergegebenen Gesetzesmaterialien zu § 554 BGB aF (BT-Drs.
+IV/806, 10) zum Ausdruck kommt, vielmehr klargestellt, dass der Rückstand im Bereich
+der Wohnraummiete zum Schutz des Wohnraummieters nicht darunterliegen darf.
+27(3) Entgegen der Ansicht der Revisionserwiderung (unter Berufung auf Sternel WuM
+2009, 699 (701 f.)) gebietet es auch der Schutzzweck des § 569 III Nr. 1  BGB nicht,
+die Erheblichkeitsschwelle über den Gesamtrückstand hinaus zusätzlich auch an dem
+Verhältnis der Einzelrückstände zu der jeweils geschuldeten Monatsmiete zu messen.
+Der Gesetzgeber hat in § 543 II 1 Nr. 3 Buchst. a BGB, § 569 III Nr. 1  BGB die
+Wertung getroffen, dass die Fortsetzung des Mietverhältnisses für den Vermieter
+jedenfalls dann unzumutbar ist, wenn sich der Mieter für zwei aufeinander folgende
+Termine mit einem Teil der Miete in Verzug befindet, der die Miete für einen Monat
+BGB besteht daher darin, für die Wohnraummiete die kündigungsbewehrte Schwelle
+der Erheblichkeit des Mietrückstands unter Beachtung der beiderseitigen Interessen
+ausgewogen zu bestimmen. Die davon abweichende Sichtweise des BerGer., die
+zusätzlich Anforderungen an das Verhältnis der Einzelrückstände aus den beiden
+aufeinander folgenden Terminen zu der jeweils geschuldeten Monatsmiete stellen will,
+führte hingegen zu einer vom Gesetzgeber nicht gewollten Anhebung des
+Schutzniveaus des säumigen Mieters.
+28c) Das BerGer. möchte seine Bewertung schließlich auf den Grenzfall stützen, dass
+die Regelung in § 543 II 1 Nr. 3 Buchst. a Alt. 2 BGB, § 569 III Nr. 1  BGB eine fristlose
+Kündigung des Mietverhältnisses wegen Zahlungsverzugs auch dann eröffne, wenn
+der Mieter mit der Zahlung einer Monatsmiete und im Vor- oder Folgemonat mit einem
+Minimalbetrag in Verzug sei (vgl. auch Sternel WuM 2009, 699 (701 f.); ders. PiG 90
+(2011), 175 (176)).
+29Dieser – hier ohnehin nicht gegebene – Sonderfall ist nicht geeignet, ein im Gesetz
+nicht vorgesehenes zusätzliches Tatbestandserfordernis, wie die gesonderte
+Erheblichkeit der beiden Einzelrückstände im Verhältnis zu einer Monatsmiete, zu
+begründen, zumal eine solche Fallgestaltung auch dann eintreten kann, wenn es – wie
+das BerGer. gemeint hat – auf eine Einzelbetrachtung der Erheblichkeit des Rückstands
+für jeden der beiden Fälligkeitstermine ankäme. Auch bei den Einzelrückständen
+könnte die Erheblichkeitsgrenze – wo immer sie nach der Einschätzung des BerGer.
+auch anzusetzen wäre – um nur einen Cent überschritten sein.
+30In Anbetracht dessen kann auf sich beruhen, ob einer außerordentlichen, fristlosen
+Kündigung eines Mietverhältnisses über Wohnraum nach § 543 II 1 Nr. 3 Buchst. a Alt.
+2 BGB unter besonderen Umständen des Einzelfalls der Gesichtspunkt von Treu und
+Glauben (§ 241 II BGB, § 242 BGB) entgegenstehen kann, wenn der Rückstand eine
+Monatsmiete zwar übersteigt (§ 569 III Nr. 1  BGB), jedoch nur um einen Cent (vgl.
+MüKoBGB/Häublein, 8. Aufl., BGB § 569 Rn. 42; BeckOGK/Geib, 1.10.2021, BGB § 569
+Rn. 59), oder ob aus Gründen der Rechtsklarheit und -sicherheit auch ein solch
+geringfügiger Betrag als für den Kündigungstatbestand des § 543 II 1 Nr. 3 Buchst. a
+Alt. 2 BGB ausreichend anzusehen ist, ohne dass es noch einer Abwägung zwischen
+den Mieter- und den Vermieterinteressen bedürfte (vgl. Schmidt-Futterer/Streyl BGB § 543 Rn. 171;
+Lützenkirchen MietR/Lützenkirchen BGB § 569 Rn. 97; jurisPK-BGB/Tiedemann,
+25.5.2021, BGB § 569 Rn. 149 mwN).
+31d) Die außerordentliche, fristlose Kündigung des Mietverhältnisses vom 9.2.2018 ist,
+worüber vorliegend kein Streit besteht, nicht nachträglich unwirksam geworden. Das
+BerGer. hat auf die erstinstanzlichen Feststellungen Bezug genommen, wonach
+Tatbestände, nach denen eine aufgrund von Zahlungsverzug wirksam erklärte
+außerordentliche fristlose Kündigung des Mieters nachträglich unwirksam wird (vgl.
+32III. Nach alledem kann das Berufungsurteil keinen Bestand haben; es ist aufzuheben
+(§ 562 I ZPO). Der Senat entscheidet in der Sache selbst, weil weitere Feststellungen
+nicht zu treffen sind und der Rechtsstreit zur Endentscheidung reif ist (§ 563 III ZPO).
+Dies führt zur Zurückweisung der Berufung der Bekl. und zur Wiederherstellung des
+Urteils des AG.
+33Die Entscheidung über die Räumungsfrist, die auch im Revisionsurteil noch
+1307), beruht auf § 721 I 1 Alt. 1 ZPO.
+Anmerkung der Redaktion
+Kritisch zur Vorinstanz s. Ramm IMR 2020, 2264. Die in Rn. 31 zitierte Entscheidung
+(zum „Kündigungsdoppel“ aus fristloser und hilfsweise fristgemäßer Kündigung) des
+zum Kündigungsdoppel, die bisherige Linie des Senats bestätigend, solange der
+Gesetzgeber nichts anderes bestimmt, BGH NJW-RR 2022, 80.

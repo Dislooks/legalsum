@@ -1,0 +1,234 @@
+Fahrzeugs
+* Nutzungsentschädigung bei Entzug der Gebrauchsmöglichkeit eines
+Fahrzeugs
+BGB §§ 249, 280, 634 Nr. 4
+1. Lassen sich bei dem vorübergehenden Entzug der Gebrauchsmöglichkeit eines
+ausschließlich gewerblich genutzten Fahrzeugs die materiellen Auswirkungen des
+Ausfalls des Fahrzeugs quantifizieren, kann eine (abstrakte)
+Nutzungsausfallentschädigung nicht verlangt werden. Das gilt unabhängig davon, ob
+das ausgefallene Fahrzeug unmittelbar der Gewinnerzielung dient, weil der Ertrag
+allein mit Transportleistungen erzielt wird, oder nur mittelbar, nämlich zur
+Unterstützung einer anderen gewerblichen Tätigkeit eingesetzt wird.
+2. Der Betriebsbereitschaft eines ausschließlich gewerblich genutzten Fahrzeugs,
+also seiner ständigen Verfügbarkeit und Einsatzfähigkeit, kommt kein eigenständiger
+Vermögenswert zu, weshalb der vorübergehende Entzug der Gebrauchsmöglichkeit
+als solcher kein Schaden ist. Der Geschädigte kann für die Gebrauchsentbehrung –
+unabhängig vom Eintritt eines Erwerbsschadens oder darüber hinaus – keine
+(abstrakte oder an den Vorhaltekosten orientierte) Nutzungsausfallentschädigung
+verlangen.
+3. Die Rechtsprechung, wonach die infolge eines zum Schadensersatz
+verpflichtenden Ereignisses entfallende Möglichkeit des Geschädigten, private,
+eigenwirtschaftlich genutzte Sachen oder Güter plangemäß verwenden oder nutzen
+zu können, einen ersatzfähigen Vermögensschaden darstellen kann, ohne dass
+hierdurch zusätzliche Kosten entstanden oder Einnahmen entgangen sind (vgl. BGHZ
+ausschließlich erwerbswirtschaftlich genutzt werden, nicht übertragbar.
+BGH, Urteil vom 6.12.2018 – VII ZR 285/17
+BGH: * Nutzungsentschädigung bei Entzug der Gebrauchsmöglichkeit
+Zum Sachverhalt
+Der Kl., welcher ein Beton- und Natursteinwerk betreibt, begehrt von der Bekl., einer
+Nutzfahrzeugwerkstatt, aufgrund eines Werkvertrags Schadensersatz für die Folgen
+eines Motorschadens an seinem Kipplader mit Kran. Infolge des Motorschadens, der
+durch eine von der Bekl. mangelhaft durchgeführte Reparatur hervorgerufen wurde,
+konnte der Kl. das Fahrzeug in der Zeit vom 22.12.2011-21.2.2013 nicht nutzen. Ab
+dem 9.8.2012 stand ihm ein mit einem Kran nachgerüsteter Ersatzlastkraftwagen zur
+Verfügung. Der Kl. hat – soweit für die Revision noch von Bedeutung – unter anderem
+Schadensersatz für den zeitweiligen Verlust der Gebrauchsmöglichkeit des Kippladers
+mit Kran verlangt. Er hat einen Mehraufwand für Montagearbeiten iHv 1500 Euro
+geltend gemacht, der dadurch entstanden sei, dass normalerweise durch den Kran
+erbrachte Be- und Entladungen von Material sowie Haltearbeiten händisch hätten
+erfolgen müssen. Einzelne Transporte habe er durch eine Drittfirma durchführen
+lassen, wofür er 3600 Euro netto gezahlt habe. Außerdem hat der Kl. eine
+Nutzungsausfallentschädigung iHv 735 Euro monatlich begehrt (14 x 735 Euro =
+10.290 Euro).
+Das LG Baden-Baden (Urt. v. 12.6.2015 – 3 O 285/14) hat dem Kl. Schadensersatz für
+die Kosten der fremdvergebenen Transportarbeiten abzüglich eines Eigenanteils,
+insgesamt 3000 Euro netto, zugesprochen und die Klage hinsichtlich der beiden
+übrigen Forderungen abgewiesen. Der Mehraufwand für Montagearbeiten sei nicht
+schlüssig dargelegt. Die Berufung des Kl. ist vor dem OLG Karlsruhe (Urt. v. 14.11.2017
+– 8 U 103/15) erfolglos geblieben. Die Revision des Kl. blieb ebenfalls ohne Erfolg.
+Aus den Gründen
+8II. (…) Im Ergebnis zu Recht hat das BerGer. einen Anspruch des Kl. auf Zahlung einer
+Nutzungsausfallentschädigung iHv 5512,50 Euro nebst Zinsen für den Ausfall seines
+Fahrzeugs in der Zeit vom 22.12.2011 – 8.8.2012 verneint.
+91. Nach den nicht angegriffenen Feststellungen des BerGer. steht für das
+Revisionsverfahren fest, dass dem Kl. gegen die Bekl. gem. §§ 634 Nr. 4, 280 I 1, 249 ff.
+BGB dem Grunde nach ein Anspruch auf Schadensersatz wegen der mangelhaft
+durchgeführten Fahrzeugreparatur zusteht.
+102. Ebenso steht nach den Feststellungen des BerGer. fest, dass der durch den
+Mangel hervorgerufene, zeitweilige Entzug der Gebrauchsmöglichkeit des Kippladers
+mit Kran im fraglichen Zeitraum mit einer fühlbaren wirtschaftlichen Beeinträchtigung
+einherging, die durch die einzelnen, fremdvergebenen Transporte nicht beseitigt wurde.
+Der Kl. konnte den Kipplader mit Kran weder für Be- und Entladevorgänge noch als
+Arbeitsgerät nutzen, sein Ausfall musste durch zusätzliche körperliche Arbeiten der
+Mitarbeiter kompensiert werden.
+113. Anerkannt ist, dass der vorübergehende Entzug der Gebrauchsmöglichkeit eines
+ausschließlich gewerblich genutzten Fahrzeugs – als Rechtsfolge sowohl eines
+deliktischen als auch eines vertraglichen Schadensersatzanspruchs – einen Schaden
+darstellen kann, wenn der Ausfall mit einer fühlbaren wirtschaftlichen Beeinträchtigung
+124. Der Schaden bemisst sich regelmäßig nach den Mietkosten eines
+Ersatzfahrzeugs, den Vorhaltekosten eines Reservefahrzeugs oder dem entgangenen
+Gewinn.
+13a) Dem Geschädigten, der trotz Nutzungswillens und hypothetischer
+Nutzungsmöglichkeit sein Fahrzeug nicht erwerbswirtschaftlich einsetzen kann, wird
+deshalb zugestanden, zulasten des Schädigers ein Ersatzfahrzeug anzumieten, um den
+Ausfall zu kompensieren und Erwerbsschäden zu vermeiden, § 249 II 1 BGB (vgl. BGH,
+14b) Macht der Geschädigte von dieser Möglichkeit keinen Gebrauch, kann er nach § 251 I BGB eine Entschädigung in Geld für die wirtschaftliche Beeinträchtigung
+verlangen, die er durch den Entzug der Nutzungsmöglichkeit erlitten hat (vgl. BGH, r+s
+Staudinger/Schiemann, BGB, Neubearb. 2017, § 251 Rn. 73; Böhme/Biela/Tomson,
+Kraftverkehrs-Haftpflicht-Schäden, 26. Aufl., 4. Kapitel, Rn. 97).
+15aa) Verfügt der Geschädigte über ein Reservefahrzeug und kann er den Verlust durch
+Rückgriff auf diese Betriebsreserve auffangen, kann er in der Regel die Vorhaltekosten
+des Reservefahrzeugs als Schadensersatz ersetzt verlangen (BGHZ 32, 280 = NJW
+Böhme/Biela/Tomson, Kap. 4 Rn. 98; vgl. Palandt/Grüneberg, § 249 Rn. 47, 62).
+16bb) Anderenfalls hat der Geschädigte Anspruch auf Ersatz des ihm durch den Verlust
+der Gebrauchsmöglichkeit entstehenden Schadens einschließlich des entgangenen
+Gewinns, § 252  BGB.
+17Zur Bemessung dieses Anspruchs hat der Geschädigte grundsätzlich im Wege einer
+Vermögensbilanz das Vermögen, welches er hypothetisch ohne den mangelbedingten
+Ausfall gehabt hätte, mit dem Vermögensstand zu vergleichen, welchen er nach
+Wiederherstellung der Nutzungsmöglichkeit tatsächlich hat (BGHZ 99, 182 = NJW
+1987, 831 Rn. 46). Die Differenz stellt den Vermögensschaden dar, also den Betrag, um
+den das Vermögen durch das Schadensereignis vermindert ist oder um den sich ein
+bestehender Verlust erhöht hat (vgl. Staudinger/Schiemann, vor § 249 Rn. 35; OLG
+Hamm, NJW-RR 2004, 1094 Rn. 25).
+185. a) Es entspricht ständiger Rechtsprechung, dass in Fällen, in denen das
+ausgefallene Fahrzeug unmittelbar der Erbringung gewerblicher Transportleistungen
+dient, wie etwa ein Taxi oder ein Lastkraftwagen eines Fuhrunternehmens, der
+Geschädigte den durch den Ausfall entgangenen Gewinn konkret darlegen muss (vgl.
+Palandt/Grüneberg, § 249 Rn. 47).
+19Im Streitfall diente der Kipplader mit Kran nicht in vergleichbarer Weise unmittelbar
+der Erbringung gewerblicher Transportleistungen. Der Kl. setzte ihn zum einen als
+Transportfahrzeug und zum anderen als Arbeitsmittel (Kran) ein. Er diente danach
+zumindest mittelbar der Gewinnerzielung durch den Vertrieb und die Montage von
+Beton- und Natursteinen.
+20b) Ob die Notwendigkeit, den entgangenen Gewinn konkret darzulegen, auch dann
+besteht, wenn das nicht zur Verfügung stehende Fahrzeug lediglich unterstützend bei
+der Gewinnerzielung aus anderen als ausschließlichen Transportleistungen zum
+Einsatz kommt (vgl. BGH, r+s 2014, 153 = DAR 2014, 144 Rn. 3; MüKoBGB/Oetker, 7.
+Aufl., § 249 Rn. 67) oder ob stattdessen als Schadensersatz eine (abstrakte)
+Nutzungsausfallentschädigung verlangt werden kann, ist bislang nicht ausdrücklich
+entschieden.
+BGH: * Nutzungsentschädigung bei Entzug der Gebrauchsmöglichkeit
+21Eine Differenzierung, ob das ausgefallene Fahrzeug unmittelbar der Gewinnerzielung
+dient, weil der Ertrag allein mit Transportleistungen erzielt wird, oder nur mittelbar,
+nämlich zur Unterstützung einer anderen gewerblichen Tätigkeit eingesetzt wird, ist
+jedenfalls dann nicht geboten, wenn die materiellen Auswirkungen des Ausfalls des
+Fahrzeugs quantifiziert werden können. Der Geschädigte ist gehalten, die
+wirtschaftlichen Auswirkungen der Gebrauchsentbehrung konkret darzulegen und den
+dadurch hervorgerufenen Erwerbsschaden konkret zu bemessen.
+22c) Entgegen der Revision war es dem Kl. möglich, die wirtschaftliche
+Beeinträchtigung zu beziffern, die durch den zeitweiligen Verlust der
+Gebrauchsmöglichkeit seines Fahrzeugs entstanden ist, auch wenn sie sich nicht
+unmittelbar in einer Minderung des Gewerbeertrags niedergeschlagen hat. Das
+Fahrzeug wurde im Gewerbebetrieb nutzbringend auf eine Weise eingesetzt, dass
+aufgezeigt werden kann, ob und wie sich sein vorübergehender Ausfall schädigend
+ausgewirkt hat, weil Vermögensminderungen entstanden oder Vermögensmehrungen
+ausgeblieben sind. So kann sich der Ertrag verringert haben, weil es aufgrund des
+zeitweiligen Ausfalls des Fahrzeugs im Vergleich zur Kalkulation zu Störungen und
+Verzögerungen in den Arbeitsläufen gekommen ist, die nicht kompensiert werden
+konnten. Der Geschädigte kann in einem solchen Fall darlegen, dass sein Vermögen
+dadurch geschmälert worden ist, dass er zum Beispiel Leistungen durch Dritte hat
+ausführen lassen müssen, die er günstiger mithilfe des nicht zur Verfügung stehenden
+Fahrzeugs selbst hätte erbringen können, oder er Arbeitsgeräte oder Arbeitskräfte zur
+Kompensation des Ausfalls einsetzen musste, die sonst anderweitig gewinnbringend
+hätten eingesetzt werden können. Ihm können Gewinne aus Aufträgen entgangen sein,
+die er in Ermangelung des zu ihrer Ausführung benötigten Fahrzeugs nicht annehmen
+oder ausführen konnte.
+23Dem hat der Kl. im Streitfall Rechnung getragen und dargestellt, dass sich der Entzug
+der Gebrauchsmöglichkeit gewinnmindernd ausgewirkt hat. Er hat als Schaden zum
+einen die Mehrkosten durch die Fremdvergabe von Transportleistungen und zum
+anderen – wenn auch, wie die Vorinstanzen angenommen haben, unschlüssig – die
+Kosten des Einsatzes der Arbeitskräfte zur Kompensation der fehlenden
+Kranunterstützung quantifiziert.
+24d) Ein Bedürfnis, bei dieser Sachlage den Schaden stattdessen durch eine
+pauschalierte Nutzungsausfallentschädigung abzugelten, besteht nicht. Entgegen der
+Revision erfordern es Darlegungs- oder Beweisschwierigkeiten nicht, eine abstrakte,
+pauschalierte Schadensberechnung zuzulassen. Dem Geschädigten kommen die
+Erleichterungen des § 252  BGB zu Gute, im Übrigen kann bei der Höhe der
+Schadensermittlung auf § 287 I 1 Alt. 2 ZPO zurückgegriffen werden.
+25e) Ob beim Ausfall gewerblich genutzter Fahrzeuge eine
+Nutzungsausfallentschädigung überhaupt in Betracht kommt oder sich in diesen
+Fällen der Schaden nur nach dem entgangenen Gewinn, den Vorhaltekosten eines
+Reservefahrzeugs oder den Mietkosten für ein Ersatzfahrzeug bemisst, hat der BGH
+9 f. mwN). Der VI. Zivilsenat hat die Zubilligung einer Nutzungsausfallentschädigung in
+Fällen erwogen, in denen ein Verdienstentgang nicht konkret beziffert werden konnte,
+etwa weil es infolge persönlicher Anstrengungen und Verzichte des Geschädigten nicht
+zu einem Niederschlag im Gewerbeertrag gekommen war (vgl. BGHZ 70, 199 = NJW
+1978, 812 Rn. 18 f.). Er hat die Frage aufgeworfen, ob eine Entschädigung für zeitweise
+entzogene Gebrauchsvorteile bei gewerblich genutzten Fahrzeugen,
+Behördenfahrzeugen oder Fahrzeugen gemeinnütziger Einrichtungen in Betracht
+komme, falls sich deren Gebrauchsentbehrung nicht unmittelbar in einer Minderung
+des Gewerbeertrags niederschlage. Wenn kein konkret bezifferbarer Verdienstentgang
+vorliege, sei es dem Geschädigten grundsätzlich nicht verwehrt, anstelle des
+Verdienstentgangs eine Nutzungsentschädigung zu verlangen, wenn deren
+Voraussetzungen vorlägen, also insbesondere ein fühlbarer wirtschaftlicher Nachteil
+1985, 2471 Rn. 8).
+26Eine solche Fallgestaltung liegt hier nicht vor. Der Kl. war in der Lage, die
+Auswirkungen des vorübergehenden Entzugs der Gebrauchsmöglichkeit auf den
+Gewerbebetrieb aufzuzeigen und hiernach den Schaden darzulegen. Die Frage, ob
+anstelle des Gewinnentgangs dem Geschädigten zum Ausgleich der
+Gebrauchsentbehrung eine (abstrakte) Nutzungsausfallentschädigung zugebilligt
+werden kann, wenn die wirtschaftlichen Auswirkungen nicht konkret bezifferbar sind,
+kann deshalb auch hier offen bleiben.
+276. Der Kl. hat durch die Gebrauchsentbehrung seines ausschließlich gewerblich
+genutzten Fahrzeugs keinen weitergehenden Schaden erlitten, der – unabhängig vom
+Eintritt eines Erwerbsschadens oder darüber hinaus – durch Zubilligung einer
+abstrakten Nutzungsausfallentschädigung auszugleichen wäre.
+28a) Zwar konnte der Kl. mangelbedingt den Kipplader mit Kran zeitweilig nicht nutzen.
+Der Betriebsbereitschaft eines ausschließlich gewerblich genutzten Fahrzeugs, also
+seiner ständigen Verfügbarkeit und Einsatzfähigkeit, kommt aber kein eigenständiger
+Entzug der Gebrauchsmöglichkeit als solcher kein Schaden ist. Ein solcher wird erst
+messbar, wenn sich die Gebrauchsentbehrung konkret ausgewirkt hat, weil die
+unterbundene Sachnutzung im Ausfallzeitraum zu einem Erwerbsschaden geführt hat.
+29b) Entgegen der Revision besteht kein Anlass, die Gebrauchsentbehrung eines
+ausschließlich gewerblich genutzten Fahrzeugs genauso zu behandeln wie die eines
+eigenwirtschaftlich genutzten Fahrzeugs.
+30Zwar kann nach der spätestens seit dem Beschluss des Großen Senats des BGH
+eines zum Schadensersatz verpflichtenden Ereignisses entfallende Möglichkeit eines
+Geschädigten, eine Sache plangemäß verwenden oder nutzen zu können, ohne dass
+ihm hierdurch zusätzliche Kosten entstehen oder Einnahmen entgehen, als
+Diese Rechtsprechung, nach der zum Ausgleich der Gebrauchsentbehrung eine
+Nutzungsausfallentschädigung zugesprochen werden kann, bezieht sich ausdrücklich
+nur auf Sachen und Güter des privaten, eigenwirtschaftlichen Gebrauchs mit zentraler
+allgemeiner Bedeutung, deren Ausfall sich typischerweise signifikant auf die
+BGH: * Nutzungsentschädigung bei Entzug der Gebrauchsmöglichkeit
+31Auf die Nutzung von Sachen oder Gütern, die ausschließlich erwerbswirtschaftlich
+genutzt werden, kann diese Rechtsprechung nicht übertragen werden (vgl.
+Staudinger/Schiemann, § 251 BGB Rn. 81, 85). Bei erwerbswirtschaftlichem,
+produktivem Einsatz einer Sache wird die Verkürzung des Nutzungswerts im
+Wesentlichen durch einen Gewinnentgang ausgewiesen, dessen Ersatz § 252  BGB
+ausdrücklich anordnet. Die Vorschrift unterstreicht die schadensrechtliche Bedeutung,
+die der Gesetzgeber Ausfällen im erwerbswirtschaftlichen, vermögensmehrenden
+Einsatz von Wirtschaftsgütern beigemessen hat. Das Erfordernis, den Ausfall von
+Gütern mit zentraler allgemeiner Bedeutung für die Lebenshaltung, auf deren ständige
+Verfügbarkeit die eigenwirtschaftliche Lebenshaltung typischerweise angewiesen ist,
+durch einen Geldersatz auszugleichen, ist vor allem damit begründet worden, dass für
+den privaten Gebrauch eine § 252 BGB entsprechende Vorschrift fehlt (BGHZ 98, 212
+des Rechts“ schon mangels Regelungslücke kein Raum (MüKoBGB/Oetker, 7. Aufl., § 249 Rn. 66).
+32c) Der Kl. kann seine Forderung nach einer Nutzungsausfallentschädigung nicht mit
+den Vorhaltekosten des Kippladers mit Kran begründen, die er bezogen auf die
+Ausfallzeit vergeblich aufgewendet habe. Die Vorhaltekosten sind unabhängig vom
+haftungsbegründenden Schadensereignis angefallen und zu diesem nicht kausal.
+33Eine Erweiterung der Zurechnung auf nutzlos gewordene Aufwendungen ist nicht
+angezeigt (vgl. MüKoBGB/Oetker, § 249 Rn. 47). Soweit die Revision meint, aus der
+Rentabilitätsvermutung folge, dass dem Kl. in der Ausfallzeit ein Schaden entstanden
+sei, der zumindest den Aufwendungen entspreche, welche er getätigt habe, um das
+Fahrzeug in dieser Zeit gebrauchen zu können, ist dem nicht zu folgen. Diese auf
+Schadensersatzansprüche wegen Nichterfüllung anwendbare Beweisregel, wonach
+das Erfüllungsinteresse eines Gläubigers im Zweifel mindestens so hoch ist wie der für
+47; Palandt/Grüneberg, § 281 Rn. 23; Staudinger/Schiemann, § 249 Rn. 126), betrifft
+das Austauschverhältnis von Leistung und Gegenleistung und lässt sich auf die
+hiesige, einen Mangelfolgeschaden betreffende Schadensersatzforderung nicht
+übertragen, weil nicht der Wert des Fahrzeugs oder seiner Reparatur, sondern seine
+Nutzungsmöglichkeit bemessen werden soll.
+34Eine Vermutung, dass über das Jahr gesehen sich die Vorhaltekosten des Fahrzeugs
+gleichmäßig kalendertäglich amortisieren, besteht für den Kipplader mit Kran schon
+deshalb nicht, weil der Vertrieb saisonalen Schwankungen ausgesetzt und die
+Verlegung von Beton- und Natursteinen im Außenbereich witterungsabhängig ist. Ob
+sich die mit der Anschaffung und Unterhaltung des Kippladers mit Kran verbundenen
+Kosten im täglichen Einsatz amortisieren, hängt außerdem von der Auftragslage und
+Auslastung des Gewerbebetriebs sowie davon ab, ob die Ausführung der konkreten
+Aufträge im Ausfallzeitraum den Einsatz dieses Fahrzeugs nach seiner
+Zweckbestimmung erfordert hätten.
+Anmerkung der Redaktion
+Nutzungsausfallentschädigung befasst sich Fielenbach, NZV 2015, 272.

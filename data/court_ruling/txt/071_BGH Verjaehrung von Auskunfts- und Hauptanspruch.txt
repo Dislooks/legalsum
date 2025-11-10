@@ -1,0 +1,255 @@
+Verjährung von Auskunfts- und Hauptanspruch
+BGB §§ 195, 242, 372, 816; NRWHintG §§ 4, 22 III
+Der Auskunftsanspruch aus § 242 BGB kann grundsätzlich nicht vor dem
+Hauptanspruch, dem er dient, verjähren.
+BGH, Urteil vom 25.7.2017 – VI ZR 222/16
+Zum Sachverhalt
+Die Parteien streiten um Auskunftsansprüche im Zusammenhang mit einem
+Hinterlegungsverfahren. Im Jahr 2004 wurden in einem vor dem LG K. geführten
+Strafverfahren H und S (im Folgenden „Angeklagte“), die unter zahlreichen
+Firmenbezeichnungen Pensionsversicherungen und andere Kapitalanlagen vertrieben
+hatten, unter anderem wegen Betrugs und Untreue verurteilt. Die Angeklagten
+verzichteten auf die Rückzahlung von im Rahmen des vorangegangenen
+Ermittlungsverfahrens aufgefundenen Geldern und überließen sie der
+Staatsanwaltschaft zur Auskehrung an die Geschädigten. Die Staatsanwaltschaft
+hinterlegte daraufhin noch im Jahr 2004 insgesamt 1.266.854,64 Euro bei der
+Hinterlegungsstelle des AG K., die die Annahme des zu hinterlegenden Betrags zwar
+zunächst abgelehnt hatte, auf die Beschwerde der Staatsanwaltschaft dann aber vom
+Präsidenten des AG K. unter Verweis auf § 372  Alt. 2 BGB zur Annahme
+angewiesen worden war. Beigefügt wurde der Hinterlegung eine von der
+Staatsanwaltschaft erstellte Liste (im Folgenden „Hinterlegungsliste“) mit mehr als
+900 Personen und Firmen, die die Staatsanwaltschaft auf der Grundlage der im
+Strafverfahren gewonnenen Erkenntnisse als mögliche Geschädigte ansah. Ob und in
+welcher Höhe den dort Genannten tatsächlich Ansprüche gegen
+die Angeklagten zustehen, hat die Staatsanwaltschaft nicht geprüft. Auf der
+Hinterlegungsliste befinden sich auch die Namen der Parteien, der Name des Bekl.
+sogar zweimal, einmal mit der Ortsangabe „Bergisch Gladbach“, einmal mit der
+Ortsangabe „Leverkusen“. Der Bekl. meldete mit Schreiben vom 20.8.2005 einen
+Auszahlungsanspruch von 27.147,05 Euro bei der Hinterlegungsstelle an. Die Kl., die
+über einen rechtskräftigen Titel gegen die Angeklagten über 14.333,98 DM zuzüglich
+Zinsen verfügt, begehrt mit ihrer Klage vom Bekl. in der Hauptsache noch, ihr darüber
+Auskunft zu geben, „welche Forderung seiner Eintragung als Beteiligter im Sinne der
+HinterlegungsO […] in der Hinterlegungssache Dr. H […]/S […] zugrunde liegt,
+insbesondere mitzuteilen und Auskunft darüber zu geben, ob ihm eine durch
+rechtskräftiges Urteil festgestellte Forderung gegen die Herren Dr. H […] und / oder S
+[…] zusteht“. Darüber hinaus verlangt sie den Ersatz außergerichtlicher
+Rechtsverfolgungskosten.
+Klage wegen Verjährung abgewiesen. Das LG Köln (Urt. v. 12.5.2016 – 6 S 146/15,
+vom BerGer. zugelassene Revision der Kl. hatte Erfolg und führte zur Aufhebung und
+Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+8II. 1. a) Nach gefestigter höchstrichterlicher Rechtsprechung unterliegt der im
+Streitfall alleine in Betracht kommende Auskunftsanspruch aus § 242 BGB
+grundsätzlich selbstständig und unabhängig vom Hauptanspruch der allgemeinen
+Verjährungsfrist (vgl. BGH, GRUR 2012, 1248 = AfP 2012, 571 Rn. 22 – Fluch der Karibik;
+[2101] mwN zu Ansprüchen aus § 87 c HGB; Palandt/Grüneberg, BGB, 76. Aufl., § 259
+GRUR 1972, 558 [560] – Teerspritzmaschinen; Staudinger/Peters/Jacoby, BGB,
+Neubearb. 2014, Anh. zu § 217 Rn. 8). Hieraus wurde geschlossen, dass ein solcher
+Auskunftsanspruch nicht schon deshalb verjährt ist, weil der Hauptanspruch verjährt
+ist, mag er nach der Verjährung des Hauptanspruchs auch regelmäßig, allerdings nicht
+fehlenden Informationsbedürfnis des die Auskunft Verlangenden scheitern (vgl. BGH,
+vom Hauptanspruch unabhängigen, selbstständigen Verjährung des
+Auskunftsanspruchs in der höchstrichterlichen Rechtsprechung bislang nicht der
+Schluss gezogen, dies könne dazu führen, dass der Auskunftsanspruch vor dem
+Hauptanspruch verjährt. Im Gegenteil hat der X. Zivilsenat (Urt. v. 28.4.1992 – X ZR
+Auskunftsanspruchs richte sich schon grundsätzlich nach derjenigen des
+Hauptanspruchs, zum Ausdruck gebracht, der Auskunftsanspruch könne nicht vor dem
+Anspruch, dem er diene, verjähren. Im Ergebnis trifft dies zu.
+9b) Die Verjährung beruht auf den Gedanken des Schuldnerschutzes, des
+NJW-RR 1993, 1269, jew. mwN) und der Rechtssicherheit (MüKoBGB/Grothe, 7. Aufl.,
+vor § 194 Rn. 7; zum Aspekt der Rechtssicherheit vgl. ferner Staudinger/Peters/Jacoby,
+Vorbem. zu §§ 194–225). Diese Zwecke stehen der Annahme entgegen, der
+Hilfsanspruch auf Auskunft könne vor dem Hauptanspruch verjähren, zu dessen
+Geltendmachung die Auskunft benötigt wird.
+10Für die Aspekte des Rechtsfriedens und der Rechtssicherheit liegt dies auf der Hand.
+Zwar führte die Verjährung nur des Auskunftsanspruchs dazu, dass der Streit über das
+Bestehen dieses Anspruchs nicht mehr (fort)geführt zu werden braucht. Kern des
+zwischen den Beteiligten bestehenden Streits ist in solchen Fällen aber regelmäßig
+nicht der Hilfs-, sondern der Hauptanspruch. Der Streit über ihn würde durch die
+Verjährung nur des Hilfsanspruchs nicht gelöst. Im Gegenteil würde die Lösung des
+eigentlichen Streits über Bestehen und/oder Umfang des Hauptanspruchs mit der
+Annahme der Verjährung nur des Hilfsanspruchs erschwert, weil dem Gläubiger mit
+dem Auskunftsanspruch ein Mittel aus der Hand genommen würde, mit dessen Hilfe
+er zur Klärung des Hauptanspruchs hätte beitragen können. Dass ein Ausschluss des
+Hilfsanspruchs den Streit um das Bestehen des noch nicht verjährten Hauptanspruchs
+im Einzelfall deshalb beenden kann, weil dessen Geltendmachung ohne die vom
+verjährten Hilfsanspruch umfasste Auskunft tatsächlich unmöglich ist, führt zu keinem
+anderen Ergebnis. Denn der Wegfall der Durchsetzbarkeit des Hauptanspruchs allein
+infolge Zeitablaufs ist nach dem Willen des Gesetzgebers erst nach Eintritt der für ihn
+bestimmten Verjährung und nicht bereits nach Eintritt der für den Auskunftsanspruch
+bestimmten Verjährung gerechtfertigt.
+11Entsprechendes gilt für den Gedanken des Schuldnerschutzes. Das vom Institut der
+Verjährung geschützte Interesse des Schuldners, nicht wegen länger zurückliegender
+Vorgänge, die er nicht mehr aufklären kann, weil ihm die Beweismittel für etwa
+begründete Einwendungen abhandengekommen oder Zeugen nicht mehr auffindbar
+sind, in Anspruch genommen zu werden (vgl. BGHZ 122, 241 [244] = NJW-RR 1993,
+1269), bezieht sich erkennbar auf den Hauptanspruch und nicht auf bloße
+Hilfsansprüche, die allein den Zweck haben, dem Gläubiger die Durchsetzung des –
+noch nicht verjährten – Hauptanspruchs zu ermöglichen. Denn auch insoweit ist zu
+berücksichtigen, dass die Annahme einer Verjährung des Hilfsanspruchs die
+Durchsetzung des Hauptanspruchs allein wegen Zeitablaufs erschwerte oder sogar
+ganz unmöglich machte, obwohl die für den Hauptanspruch bestimmte
+Verjährungsfrist gerade noch nicht eingetreten ist. Nach dem Willen des Gesetzgebers
+überwiegt das dargestellte Interesse des Schuldners dasjenige des Gläubigers an der
+Durchsetzung seines (Haupt-)Anspruchs aber erst nach Eintritt der für diesen Anspruch
+bestimmten Verjährung.
+122. Das Berufungsurteil stellt sich auch nicht aus anderen Gründen als richtig dar (§ 561 ZPO). Auf der Grundlage des für die rechtliche Prüfung maßgeblichen Sachverhalts
+kann nicht ausgeschlossen werden, dass der Kl. der geltend gemachte
+Auskunftsanspruch aus § 242 BGB durchsetzbar zusteht.
+13a) Nach dem Grundsatz von Treu und Glauben besteht eine Auskunftspflicht bei
+jedem Rechtsverhältnis, dessen Wesen es mit sich bringt, dass der Berechtigte in
+entschuldbarer Weise über Bestehen oder Umfang seines Rechts im Ungewissen ist,
+er sich die zur Vorbereitung und Durchsetzung seines Anspruchs notwendigen
+Auskünfte nicht in zumutbarer Weise selbst beschaffen kann und der Verpflichtete
+unschwer, das heißt ohne unbillig belastet zu sein, die zur Beseitigung dieser
+Ungewissheit erforderlichen Auskünfte zu geben vermag. Unter diesen
+Voraussetzungen ist ein Anspruch auf Auskunftserteilung auch dann gegeben, wenn
+nicht der Inanspruchgenommene, sondern ein Dritter Schuldner des Hauptanspruchs
+ist, dessen Durchsetzung der Hilfsanspruch auf Auskunftserteilung ermöglichen soll.
+Allerdings begründet allein die Tatsache noch keine Auskunftspflicht, dass jemand
+über Sachverhalte informiert ist oder sein könnte, die für einen anderen von Bedeutung
+sind
+dem Berechtigten und dem Verpflichteten eine besondere rechtliche Beziehung
+besteht, wobei ein gesetzliches Schuldverhältnis, beispielsweise aus unerlaubter
+1296; Palandt/Grüneberg, § 260 Rn. 5).
+14b) Ein solcher Auskunftsanspruch könnte im Streitfall bestehen. Die Kl. macht
+geltend, sie benötige die von ihr verlangte Auskunft, weil sie über das Bestehen und
+den Umfang ihres sich aus ungerechtfertigter Bereicherung (§§ 812 ff. BGB)
+ergebenden Rechts, die anderen Hinterlegungsbeteiligten, mithin auch den Bekl., auf
+Bewilligung der Herausgabe des zu ihren Gunsten titulierten Betrags in Anspruch
+nehmen zu können, im Unklaren sei.
+15aa) Nach § 22 I des nordrhein-westfälischen Hinterlegungsgesetzes (NRWHintG)
+ergeht auf Antrag eine Herausgabeanordnung, wenn die Berechtigung des Empfängers
+nachgewiesen ist. Nach § 22 III NRWHintG ist der Nachweis namentlich dann als
+geführt anzusehen, wenn die Beteiligten entweder die Herausgabe an den Empfänger
+schriftlich oder zur Niederschrift der Hinterlegungsstelle, eines Gerichts oder eines
+Urkundsbeamten der Geschäftsstelle bewilligt oder seine Empfangsberechtigung in
+gleicher Weise anerkannt haben oder die Berechtigung des Empfängers durch
+rechtskräftige Entscheidung mit Wirkung gegen die Beteiligten oder gegen das Land
+festgestellt ist. Verweigert ein Prätendent – wie hier der Bekl. – mithin die Abgabe der
+Herausgabebewilligung, kann derjenige, der die Herausgabe des hinterlegten
+Gegenstands an sich verlangt, seine Berechtigung diesem Prätendenten gegenüber
+rechtskräftig feststellen lassen. Dies geschieht dadurch, dass er den Prätendenten im
+Klageweg auf Bewilligung der Herausgabe in Anspruch nimmt (vgl. nur BGH, NJW
+2015, 1678 Rn. 8; Bülow/Schmidt, HinterlegungsO, 4. Aufl., § 13 Rn. 30).
+1678 Rn. 8).
+16bb) Diese Grundsätze gelten auch dann, wenn – wie hier – die
+Hinterlegungsvoraussetzungen nicht vorgelegen haben, die Hinterlegung von der
+Hinterlegungsstelle mithin nicht hätte angenommen werden dürfen.
+17(1) Der Präsident des AG K. hat die Anweisung der Hinterlegungsstelle, die
+betreffenden Gelder zur Hinterlegung anzunehmen, auf den Hinterlegungsgrund des § 372  Alt. 2 BGB gestützt. Zur Begründung hat er im Wesentlichen ausgeführt, die
+Staatsanwaltschaft K. sei über die Person der Gläubiger im Ungewissen, ohne dass
+dies auf Fahrlässigkeit beruhen würde. Er hat dabei verkannt, dass eine Hinterlegung
+nach § 372  Alt. 2 BGB nur dann in Betracht kommt, wenn sich der von der Vorschrift
+verlangte Zweifel ausschließlich auf die Person des Gläubigers bezieht. § 372  Alt.
+2 BGB ist hingegen nicht einschlägig, wenn mehrere Verbindlichkeiten infrage stehen,
+deren Erfüllung mehrere Gläubiger aus verschiedenen Rechtsgründen vom Schuldner
+Rn. 11, jew. mwN). Letzteres ist vorliegend aber der Fall; Gegenstand der Ungewissheit
+ist nicht, welchem der Hinterlegungsbeteiligten ein einziger konkreter Anspruch
+zusteht, sondern vielmehr die Frage, welchen Hinterlegungsbeteiligten infolge ihnen
+gegenüber begangener Schädigungshandlungen Schadensersatzansprüche in welcher
+Höhe zustehen.
+18(2) Trotzdem gelten für die Hinterlegung und die Geltendmachung der Herausgabe
+durch einen Hinterlegungsbeteiligten die oben dargestellten Grundsätze. Insbesondere
+kann der besser Berechtigte die Abgabe der Bewilligungserklärung gem. § 812 I 1 Alt.
+2 BGB von den übrigen Prätendenten auch dann verlangen, wenn die Voraussetzungen
+für eine Hinterlegung nicht vorlagen, die Hinterlegung von der Hinterlegungsstelle aber
+durch die auch zu ihren Gunsten erfolgte Hinterlegung schon deshalb eine günstige
+Rechtsposition auf Kosten des besser Berechtigten erlangt, weil es zur Auszahlung des
+hinterlegten Betrags an den besser Berechtigten ihrer Einwilligung bedarf (BGH, Urt. v.
+19cc) Sofern – was im weiteren Verfahren aufzuklären sein wird – der Kl. gegen den
+Bekl. ein Anspruch aus § 812 I 1 Alt. 2 BGB dem Grunde nach zusteht und sie über den
+Umfang ihrer gegenüber dem Bekl. und den anderen Beteiligten bestehenden
+Berechtigung in entschuldbarer Weise im Unklaren ist, kann sie den Bekl. auf die von
+ihr benötigte Auskunft in Anspruch nehmen. Das Bestehen eines
+Bereicherungsanspruchs dem Grunde nach erscheint schon deshalb nicht von
+vornherein ausgeschlossen, weil der von dem Bekl. für sich beanspruchte Betrag iHv
+27.147,05 Euro zusammen mit dem zugunsten der Kl. titulierten die hinterlegte Summe
+bei weitem nicht erreicht.
+20Dabei ist der Inhalt des zuzubilligenden Auskunftsanspruchs, wie stets bei der
+Anwendung des § 242 BGB, unter Berücksichtigung der jeweiligen Umstände des
+Einzelfalls und unter Wahrung des Grundsatzes der Verhältnismäßigkeit des
+verlangten Mittels zu dem angestrebten Erfolg und unter Berücksichtigung der
+beiderseitigen Interessen der Parteien zu bestimmen (vgl. BGHZ 125, 322 [331] = NJW
+1994, 1958).
+21In Anwendung dieser Grundsätze stünde einem Auskunftsanspruch unter den
+besonderen Umständen des Streitfalls auch nicht entgegen, dass die Kl. den Bekl.
+unmittelbar auf Abgabe der Erklärung in Anspruch nehmen könnte, in die Herausgabe
+des hinterlegten Betrags einzuwilligen, soweit der zu ihren Gunsten titulierte Betrag
+betroffen ist. Denn vorliegend ist zu Unrecht zugunsten von mehr als 900
+Hinterlegungsprätendenten hinterlegt worden. Eine Auszahlung des hinterlegten
+Betrags kann von der über einen Titel verfügenden Kl. nach den obigen Ausführungen
+nur dann erreicht werden, wenn sie sämtliche Hinterlegungsbeteiligten auf Abgabe der
+Erklärung, in die – teilweise – Herausgabe des hinterlegten Betrags einzuwilligen, in
+Anspruch nimmt, widrigenfalls der hinterlegte Betrag absehbar nach § 30 NRWHintG
+an das Land verfällt. Eine solche unmittelbare Inanspruchnahme aller
+Hinterlegungsbeteiligten ist der Kl. indes schon allein aufgrund des damit verbundenen
+Kostenrisikos nicht zuzumuten. Dagegen kann der Bekl. die verlangte Auskunft
+unschwer geben. Erhält die Kl. die begehrten Auskünfte von allen oder zumindest von
+einer größeren Anzahl der Hinterlegungsbeteiligten, kann sie auf dieser Grundlage
+entscheiden, ob und in welcher Höhe sie die Hinterlegungsbeteiligten auf Abgabe einer
+Bewilligungserklärung in Anspruch nehmen will.
+22III. Das Berufungsurteil kann daher keinen Bestand haben, sondern ist aufzuheben
+und mangels Entscheidungsreife zur neuen Verhandlung und Entscheidung an das
+BerGer. zurückzuverweisen (§§ 562 I, 563 I 1 ZPO).
+23Für das weitere Verfahren wird darauf hingewiesen, dass der Auskunftsanspruch der
+Kl. gegen den Bekl. jedenfalls dann nicht (mehr) besteht, wenn die Kl. im vorliegenden
+Verfahren an die von ihr benötigten Informationen gelangt wäre oder der Bekl. die
+entsprechende Auskunft – wie von ihm behauptet – der Hinterlegungsstelle gegenüber
+erteilt hätte und es der Kl. dadurch möglich geworden wäre, über eine ihr nach § 4
+NRWHintG zustehende Einsicht in die Hinterlegungsakten an die Informationen zu
+gelangen.
+Anmerkung
+Auskunftsansprüche sollen dem Gläubiger helfen, seinen Hauptanspruch
+durchzusetzen. Aus diesem einfachen Satz leitet der BGH Wichtiges zur Verjährung
+von unselbstständigen Auskunftsansprüchen ab. Hierbei argumentiert er nicht
+begrifflich mit „Haupt- und Hilfsanspruch“, sondern belegt, dass eine vorzeitige
+Verjährung des Auskunftsanspruchs weder Rechtsfrieden und Rechtssicherheit
+schaffen kann noch legitimem Belangen des Schuldners widerspricht. Konsequent
+wird das denkbare Gegenargument verworfen, Schuldnerschutz und Rechtssicherheit
+würden auch erreicht, wenn die Verfolgung des Hauptanspruchs faktisch unmöglich
+wird, weil der Anspruch auf die nötigen Informationen nicht mehr durchgesetzt werden
+kann: Gewährt die Rechtsordnung Auskunftsansprüche, um die Position des
+Gläubigers zu stärken, läge ein eklatanter Wertungswiderspruch vor, einen Vorteil darin
+zu sehen, dass ein Verlust dieses Instruments die Verfolgung des Hauptanspruchs vor
+dem vorgesehenen Eintritt der Verjährung erschwert.
+Der VI. Senat folgt dabei nicht dem Ansatz, die Verjährung des Auskunftsanspruchs sei
+kongruent mit der des Hauptanspruchs. Erstgenannter kann auch (denkbar bei „kurzen“
+oder „taggenauen“ Verjährungsfristeten) erst später verjähren; dem Umstand, dass die
+Geltendmachung dann rechtsmissbräuchlich oder schikanös erscheinen wird, ist
+dadurch Rechnung zu tragen, dass der Anspruchsteller ein schützenswertes Interesse
+dartun muss. Im Ergebnis bedeutet dies eine Ablaufhemmung.
+Auskunftsansprüche sind grundsätzlich ein effizientes Mittel, dem Anspruchsteller zu
+ermöglichen, sein Prozessrisiko einzuschätzen, und so gegebenenfalls Klagen zu
+vermeiden. Basis eines solchen Anspruchs kann jede bestehende rechtliche
+Sonderbeziehung (vorliegend ein Anspruch aus Nichtleistungskondiktion) sein. Ob
+Auskunftsansprüche tatsächlich die Zahl gerichtlicher Verfahren reduzieren, erscheint
+aber ungewiss. Zwar entspricht es der normativen Vorstellung, dass derjenige, der eine
+für ihn ungünstige, aber plausible Auskunft erhält, von einer Klage absieht. In
+Deutschland besteht aber – konform mit dem Grundsatz, dass weder das materielle
+Recht noch das Prozessrecht verpflichten, Informationen preiszugeben, die der andere
+zur Rechtsverfolgung benötigt – keine allzu große Bereitschaft, Auskünfte zu erteilen.
+Zu stark dürfte die Befürchtung sein, dass der andere auch nach wahrheitsgemäßer
+Auskunft seinen vermeintlichen Anspruch verfolgt und/oder einzelne Elemente für sich
+„herauspickt“. Aufseiten des Anspruchstellers überwiegt oft das Misstrauen
+hinsichtlich der Richtigkeit der Auskunft. Es kommt dann doch zum Prozess (um den
+Hilfs- oder den Hauptanspruch, gegebenenfalls beides im Wege der Stufenklage).
+Überdies gibt es zahlreiche Gründe, die einen Auskunftsanspruch im Einzelfall
+ausschließen können. Die Tatbestandsvoraussetzungen „Unzumutbarkeit
+anderweitiger Informationserlangung“ und „fehlende unbillige Belastung“ sind eher
+wenig konturiert; auch im vorliegenden Urteil scheinen mit dem Fehlen eines
+Informationsbedürfnisses nach Verjährung des Hauptanspruchs (Rn. 8), der
+Möglichkeit zur Akteneinsicht (Rn. 23) und dem Verhältnismäßigkeitsgrundsatz (Rn.
+20) solche Aspekte auf.
+Rechtssicherheit hinsichtlich des Bestehens von Auskunftsansprüchen muss
+allerdings nicht allein dem Gläubiger nützen. An eine weitere Wechselwirkung
+zwischen Haupt- und Auskunftsanspruch ist zu denken, wenn (wie vorliegend) der
+Hauptanspruch der regelmäßigen Verjährung unterliegt; dann läuft die von subjektiven
+Momenten abhängige Frist mangels Zumutbarkeit der Klageerhebung nicht an,
+solange tatsächliche Unsicherheiten bestehen (§ 199 I Nr. 1 BGB). Ist jedoch ein
+Auskunftsanspruch erkennbar gegeben, spricht vieles dafür, dass der Gläubiger sich
+nicht unbegrenzt lange Zeit auf solche Ungewissheiten berufen kann, da er in der Lage
+ist, sich die benötigten Kenntnisse zu verschaffen. Ist das Unterlassen eines
+Auskunftsbegehrens als grob fahrlässig zu bewerten, beginnt die Drei-Jahres-Frist für
+den Hauptanspruch zu laufen.
+Richter am LG Privatdozent Dr. Thomas Regenfus, Nürnberg-Fürth

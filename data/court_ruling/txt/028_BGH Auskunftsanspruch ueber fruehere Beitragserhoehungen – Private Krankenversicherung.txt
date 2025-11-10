@@ -1,0 +1,487 @@
+Krankenversicherung
+Auskunftsanspruch über frühere Beitragserhöhungen – Private
+Krankenversicherung
+VO (EU) 2016/679 Art. 15 I, III; BGB § 242
+1.Dem Versicherungsnehmer kann aus Treu und Glauben ein Auskunftsanspruch
+über zurückliegende Prämienanpassungen in der privaten Krankenversicherung
+zustehen, wenn er in entschuldbarer Weise über Bestehen und Umfang seines Rechts
+im Ungewissen ist.
+2.Aus Art. 15 I und III DS-GVO folgt grundsätzlich kein Anspruch auf Abschriften der
+Begründungsschreiben zu den Prämienanpassungen samt Anlagen.
+BGH Urteil vom 27.9.2023 – IV ZR 177/22
+NJW-Übersicht
+Rn.
+Auskunftsanspruch über frühere Beitragsanpassungen aus § 242 BGB
+
+Erforderliche Klarheit der Mitteilung
+
+Umdeutung des Auskunftsanspruchs
+
+– Voraussetzung der Umdeutung
+
+– Anspruch aus Treu und Glauben
+
+– Umdeutung unwirksamer Prämienanpassung
+
+Kein Anspruch aus § 3 I VVG
+
+Kein Anspruch aus Art. 15 I, III DS-GVO
+
+– Keine personenbezogenen Daten gem. Art. 4 Nr. 1 DS-GVO
+
+– Zurückverweisung an BerGer.
+
+Zum Sachverhalt
+Die Parteien streiten über die Wirksamkeit von Beitragserhöhungen und über
+Auskunftsansprüche in der privaten Krankenversicherung des Kl. Der Kl. unterhält in
+der Krankheitskostenversicherung bei der Bekl. unter anderem für sich die Tarife S und
+K sowie für seine Ehefrau die Tarife A und S. Die Bekl. informierte den Kl. mit Schreiben
+vom 22.11.2018 nebst Anlagen über eine Beitragserhöhung zum 1.1.2019 betreffend
+die für den Kl. unterhaltenen Tarife S (Erhöhung um 0,98 EUR monatlich) und K
+(Erhöhung um 0,42 EUR monatlich) sowie den für die Ehefrau unterhaltenen Tarif S
+(Erhöhung um 0,81 EUR monatlich). Das Mitteilungsschreiben hatte auszugsweise
+folgenden Inhalt:
+„Sie haben uns Ihren persönlichen Gesundheitsschutz anvertraut. Das ist auch gut so,
+denn wir garantieren Ihnen die vertraglich vereinbarten Leistungen ein Leben lang.
+Damit dieses Versprechen dauerhaft gehalten werden kann, prüfen wir jährlich, ob die
+zugesagten Leistungen mit den kalkulierten Beiträgen finanziert werden können.
+Hierzu vergleichen wir für jeden Tarif (…) die für alle Versicherten erbrachten und für
+die Zukunft erwarteten Versicherungsleistungen mit den zuvor kalkulierten Werten.
+Hierbei haben wir deutliche Abweichungen festgestellt, so dass die Beiträge der
+betroffenen Tarife entsprechend dem veränderten Bedarf angepasst werden müssen.
+Ihr monatlicher Gesamtbeitrag verändert sich von derzeit 379,78 EUR um 1,13 EUR auf
+380,91 EUR. (…) Beachten Sie bitte auch die Hinweise auf den folgenden Seiten und die
+Informationen im Versicherungsschein.“
+Die von der Beitragserhöhung betroffenen Tarifbezeichnungen waren im beigefügten
+Versicherungsschein fett gedruckt. Eine Gegenüberstellung von altem und neuem
+Beitrag bezogen auf die einzelnen Tarife enthielt der Versicherungsschein nicht.
+Mit Schreiben vom 21.11.2019 nebst Anlagen informierte die Bekl. den Kl. über eine
+Beitragserhöhung zum 1.1.2020 betreffend die für die Ehefrau unterhaltenen Tarife S
+(Erhöhung um 1,02 EUR monatlich) sowie A (Erhöhung um 30,03 EUR monatlich).
+Der Kl. begehrte sinngemäß die Rückzahlung geleisteter Prämienanteile sowie die
+Feststellung der Unwirksamkeit der Erhöhung zum 1.1.2019, außerdem Auskunft über
+alle Beitragsanpassungen in den Jahren 2013–2016 sowie die Feststellung der
+Unwirksamkeit der noch zu bezeichnenden Erhöhungen, außerdem die Herausgabe
+von Nutzungen der Bekl. sowie Ersatz von Rechtsanwaltskosten.
+abgewiesen. Auf die Berufung des Kl. hat das OLG Frankfurt a. M. (Urt. v. 7.4.2022 – 3
+U 266/21) das Urteil dahingehend abgeändert, dass die Bekl. zur Zahlung von 48,92
+EUR nebst Zinsen verurteilt wurde. Es hat die Unwirksamkeit der Beitragserhöhung zum
+1.1.2019 und das Nichtbestehen einer Pflicht zur Zahlung des jeweiligen
+Erhöhungsbetrags festgestellt sowie die Bekl. gemäß dem Klageantrag zur
+Auskunftserteilung verurteilt. Des Weiteren hat es festgestellt, dass die Bekl. zur
+Herausgabe von Nutzungen verpflichtet ist, die sie bis zum 6.1.2021 aus dem
+Prämienanteil gezogen hat, den der Kl. auf die Beitragserhöhung zum 1.1.2019 gezahlt
+hat. Die weitergehende Klage hat es abgewiesen. Die Revision der Bekl. hatte teilweise
+Erfolg und führte zur Aufhebung und zur Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+10Die Revision hat zum Teil Erfolg.
+11I. Nach Ansicht des BerGer. sind die Beitragserhöhungen zum 1.1.2020 in den
+Tarifen der Ehefrau des Kl. A und S formell wirksam. Die Beitragsanpassungen zum
+1.1.2019 seien allerdings – bis zur Heilung ex nunc zu Beginn des zweiten Monats nach
+Zustellung der Klageerwiderung von März 2021 in den Tarifen K und S für den Kl.
+beziehungsweise bis zum Wirksamwerden der Prämienerhöhung im Tarif S für die
+Ehefrau des Kl. zum 1.1.2020 – zunächst formell unwirksam gewesen, weil sich aus
+den Unterlagen nicht ausreichend deutlich ergebe, dass gerade auch bezogen auf den
+streitgegenständlichen Tarif die erhöhten Leistungsausgaben die Prämienanpassung
+ausgelöst hätten. Allein der Fettdruck ohne Erläuterung der Bedeutung dieser
+Hervorhebung genüge dazu nicht. Der Kl. habe einen Anspruch auf Rückzahlung
+geleisteter Erhöhungsbeträge von insgesamt 48,92 EUR. Zudem könne er die
+Herausgabe der aus den überhöhten Prämienzahlungen gezogenen Nutzungen
+verlangen, allerdings beschränkt auf die Zeit vor Eintritt der Verzinsungspflicht für die
+Hauptforderung.
+12Schließlich stehe dem Kl. hinsichtlich der Beitragserhöhungen aus den Jahren 2013-
+2016 ein Auskunftsanspruch zu. Die erhobene Stufenklage auf Auskunft und Leistung
+sei zwar unzulässig, denn es gehe dem Kl. nicht um die Bezifferung eines sich aus einer
+Rechnungslegung ohne weiteres ergebenden Anspruchs. Der noch nicht auf
+bestimmte Beitragsanpassungen konkretisierte Feststellungsantrag und der
+unbezifferte Zahlungsantrag seien unzulässig, denn es fehle insoweit an einem
+bestimmten Klageantrag gem. § 253 II Nr. 2 ZPO. Das verfolgte Auskunftsbegehren sei
+dennoch zulässig. Die unzulässige Stufenklage sei in eine zulässige Klagehäufung
+gem. § 260 ZPO umzudeuten. Dem Kl. sei ein zumindest für die
+Rechtsschutzgewährung ausreichendes berechtigtes Interesse an den begehrten
+Auskünften nicht abzusprechen. Der Auskunftsantrag sei auch begründet, denn dem
+Kl. stehe jedenfalls aus § 242 BGB ein Auskunftsanspruch zu. Dabei könne
+dahinstehen, ob der Kl. hinsichtlich etwaiger Beitragsanpassungen in den Jahren 2013-
+2016 bereits Mitteilungsschreiben erhalten habe. Denn der Versicherer sei zur
+Auskunft auch dann verpflichtet, wenn der Kunde nur glaubhaft erkläre, die Unterlagen
+ständen ihm jedenfalls nicht mehr zur Verfügung. Das Fehlen der Unterlagen sei
+entschuldbar, selbst wenn die Bekl. dem Kl. Änderungsmitteilungen habe zukommen
+lassen. Es bestehe weiterhin ein Informationsbedürfnis, denn der Durchsetzbarkeit
+etwaiger Rückzahlungsansprüche wegen dieser Beitragsanpassungen stehe für die ab
+Anfang 2017 gezahlten Beiträge nicht die Einrede der Verjährung entgegen.
+13II. Die hiergegen gerichtete Revision ist zulässig, insbesondere gem. § 543 I Nr. 1
+ZPO aufgrund der Zulassung durch das BerGer. insgesamt statthaft. Eine
+Beschränkung der Revisionszulassung lässt sich dem Berufungsurteil nicht
+entnehmen. Soweit das BerGer. in den Entscheidungsgründen ausgeführt hat, zu der
+Frage, ob aus § 242 BGB ein Anspruch auf Auskunft über frühere Beitragserhöhungen
+bestehe, gebe es widerstreitende obergerichtliche Entscheidungen, liegt darin lediglich
+14III. Die Revision hat nur in geringem Umfang Erfolg, soweit sie sich gegen die
+Entscheidung des BerGer., die von der Bekl. mitgeteilten Gründe für die
+Prämienanpassungen zum 1.1.2019 erfüllten die Voraussetzungen einer nach § 203 V
+VVG erforderlichen Mitteilung, und hieraus resultierende Ansprüche richtet (hierzu
+unter 1). Hinsichtlich des Auskunftsantrags hat die Revision Erfolg und führt zur
+Aufhebung des Berufungsurteils und Zurückverweisung der Sache an das BerGer.
+(hierzu unter 2); dies gilt auch für den Antrag auf Ersatz der Rechtsanwaltskosten
+(hierzu unter 3).
+151. Das BerGer. hat rechtsfehlerfrei entschieden, dass die von der Bekl. mitgeteilten
+Gründe für die Prämienanpassungen zum 1.1.2019 die Voraussetzungen einer nach § 378) nicht erfüllten. Ob die Mitteilung einer Prämienanpassung den gesetzlichen
+Anforderungen des § 203 V VVG genügt, hat der Tatrichter im jeweiligen Einzelfall zu
+relevante Fehler sind hier nicht zu erkennen.
+16a) Nach der aus Rechtsgründen nicht zu beanstandenden Beurteilung des BerGer.
+konnte ein Versicherungsnehmer dem Mitteilungsschreiben samt Anlagen nicht mit
+der gebotenen Klarheit entnehmen, dass gerade bezogen auf die Tarife K für den Kl.
+und S für den Kl. und seine Ehefrau erhöhte Leistungsausgaben die
+Prämienerhöhungen ausgelöst haben. Der Versicherungsnehmer muss den
+Mitteilungen aber entnehmen können, dass das Ergebnis der aktuellen Überprüfung
+gerade für seinen konkreten Tarif eine Veränderung der maßgeblichen
+Rechnungsgrundlage ergeben hat und damit die Prämienanpassung ausgelöst hat (vgl.
+Senat NJOZ 2022, 1167 Rn. 23 (insoweit nicht abgedruckt in r+s 2022, 462); BGHZ 232,
+rechtlich nicht zu beanstandender Weise zu dem Ergebnis gekommen, dass weder die
+Bezugnahme im Mitteilungsschreiben auf die „betroffenen Tarife“ noch allein der
+Fettdruck der Tarifbezeichnung der von der Erhöhung betroffenen Tarife in dem als
+Anlage übersandten Versicherungsschein, ohne dass alter und neuer Beitrag auf die
+einzelnen Tarife bezogen einander gegenübergestellt würden, dem
+Versicherungsnehmer ausreichend deutlich machen, in welchen Tarifen die erhöhten
+Leistungsausgaben die Prämienanpassung ausgelöst haben. Der Verweis der Revision
+auf die in der Senatsrechtsprechung geltenden Grundsätze, dass der Begriff des
+„durchschnittlichen Versicherungsnehmers“ sich auf solche Versicherungsnehmer
+beziehe, die typischerweise die konkrete Versicherung – hier die private
+Krankenversicherung – abschlössen, und dass vom Versicherungsnehmer eine
+aufmerksame Durchsicht der Versicherungsbedingungen erwartet werde, geht bereits
+deshalb fehl, weil es hier nicht um die Auslegung Allgemeiner
+Versicherungsbedingungen geht.
+17b) Das BerGer. hat auch nicht das rechtliche Gehör der Bekl. verletzt, indem es keinen
+Hinweis erteilt hat, dass es beabsichtigt, in diesem Punkt von der Rechtsauffassung
+des LG abzuweichen. Die in diesem Zusammenhang von der Revision erhobene
+Verfahrensrüge hat der Senat geprüft und für nicht durchgreifend erachtet. Von einer
+weiteren Begründung wird gem. § 564  ZPO abgesehen.
+18c) Ebenfalls zu Recht hat das BerGer. angenommen, dass die in der im März 2021
+zugestellten Klageerwiderung nachgeholten Angaben zu den Gründen der
+Prämienanpassung nur zu einer Heilung ex nunc führen (vgl. Senat BGHZ 228, 57 =
+zunächst unwirksamen Prämienerhöhungen erst ab dem 1.5.2021 wirksam wurden.
+Allerdings hat das BerGer. diese zeitliche Begrenzung der Unwirksamkeit zu Unrecht
+nicht beim Feststellungsausspruch zur Unwirksamkeit der Erhöhungen und –
+bezüglich der Tarife des Kl. S und K – zum Nichtbestehen einer Pflicht zur Zahlung des
+Erhöhungsbetrags berücksichtigt. Dies führt insoweit zur Aufhebung des
+Feststellungsausspruchs und zur Zurückweisung der Berufung des Kl.
+19d) Ebenfalls zutreffend ist das BerGer. davon ausgegangen, dass ab der nächsten
+wirksamen Prämienanpassung im Tarif S für die Ehefrau des Kl. zum 1.1.2020 ein
+Anspruch der Bekl. auf Zahlung der Prämie in der durch diese letzte Anpassung
+festgesetzten neuen Gesamthöhe besteht (vgl. Senat BGHZ 228, 57 Rn. 55 = NJW
+2021, 378). Der Erhöhungsbetrag aus der Prämienanpassung in diesem Tarif war daher
+nur bis zum 31.12.2019 nicht zu zahlen. Diese zeitliche Begrenzung hat das BerGer.
+allerdings zu Unrecht nicht beim Feststellungsausspruch zum Nichtbestehen einer
+Pflicht zur Zahlung des Erhöhungsbetrags berücksichtigt, was ebenfalls insoweit zur
+Aufhebung des Feststellungsausspruchs und zur Zurückweisung der Berufung des Kl.
+führt.
+20e) Den vom BerGer. auf dieser Grundlage berechneten Rückzahlungsbetrag von
+48,92 EUR und dessen Verzinsung (§ 291 BGB) greift die Revision zu Recht nicht an.
+21f) Wie die Revision zu Recht beanstandet, ist die Feststellung der Pflicht zur
+Herausgabe gezogener Nutzungen (§ 818 I BGB) für die Tarife des Kl. K und S auf die
+Nutzungen aus den bis zum 30.4.2021 gezahlten Erhöhungsbeträgen und hinsichtlich
+des Tarifs S für die Ehefrau des Kl. auf die Nutzungen aus den bis zum 31.12.2019
+gezahlten Erhöhungsbeträgen zu beschränken.
+222. Hinsichtlich des Auskunftsantrags hat die Revision Erfolg und führt zur Aufhebung
+des Berufungsurteils und Zurückverweisung der Sache an das BerGer.
+23a) Zu Recht ist das BerGer. allerdings entgegen der Ansicht der Revision von der
+Zulässigkeit der Klage auch für den Auskunftsantrag ausgegangen. Zwar ist das
+Rechtsschutzbegehren des Kl. insoweit als Stufenklage iSd § 254 ZPO unzulässig.
+Beanstandungsfrei hat das BerGer. aber
+eine Umdeutung in eine von der Stufung unabhängige objektive Klagehäufung
+vorgenommen und das Auskunftsbegehren auf dieser Grundlage für zulässig gehalten.
+24aa) Nach § 254 ZPO kann die bestimmte Angabe der Leistungen, die der Kl.
+beansprucht, vorbehalten werden, wenn mit der Klage auf Rechnungslegung oder auf
+Vorlegung eines Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen
+Versicherung die Klage auf Herausgabe desjenigen verbunden wird, was der Bekl. aus
+dem zugrundeliegenden Rechtsverhältnis schuldet. Die im Rahmen der Stufenklage
+verfolgte Auskunft ist lediglich ein Hilfsmittel, um die (noch) fehlende Bestimmtheit
+des Leistungsanspruchs herbeizuführen. Die der Stufenklage eigentümliche
+Verknüpfung von unbestimmtem Leistungsanspruch und vorbereitendem
+Auskunftsanspruch steht dagegen nicht zur Verfügung, wenn die Auskunft nicht dem
+Zwecke einer Bestimmbarkeit des Leistungsanspruchs dient, sondern dem Kl. sonstige
+mit der Bestimmbarkeit als solcher nicht in Zusammenhang stehende Informationen
+kommt vorliegend eine Stufenklage nicht in Betracht, denn wie das BerGer. zutreffend
+erkannt hat, geht es dem Kl. nicht um die Bezifferung eines sich aus einer
+Rechnungslegung ohne Weiteres ergebenden Anspruchs, sondern um eine Prüfung, ob
+überhaupt ein Anspruch besteht (vgl. OLG Celle VersR 2023, 429 Rn. 120–122 = NJOZ
+2023, 875; OLG Karlsruhe NJW-RR 2023, 180 = VersR 2023, 99 Rn. 35 f.; OLG Koblenz
+r+s 2023, 62 Rn. 8 = NJOZ 2023, 117; OLG Naumburg VersR 2023, 436 Rn. 4 = BeckRS
+2022, 417134; OLG Dresden r+s 2023, 66 Rn. 5–7; OLG Hamm r+s 2022, 93 Rn. 5 =
+69–71 (insow. nicht abgedr. in r+s 2022, 94); aA im Hinblick auf den dort zu
+entscheidenden Einzelfall OLG Schleswig VersR 2022, 1489 Rn. 68–70 = NJOZ 2022,
+1303).
+25bb) Die Umdeutung in eine von der Stufung unabhängige objektive Klagehäufung
+begegnet keinen Bedenken. Sie hat zur Folge, dass – wie das BerGer. zutreffend
+angenommen hat – der nicht auf bestimmte Beitragsanpassungen konkretisierte
+Feststellungsantrag und der unbezifferte Zahlungsantrag wegen Verstoßes gegen § 253 II Nr. 2 ZPO unzulässig sind, indessen der Auskunftsantrag zulässig erhoben ist.
+26(1) Die Umdeutung setzt voraus, dass dem Kl. ein – zumindest für die
+Rechtsschutzgewährung ausreichendes – berechtigtes Interesse an der begehrten
+die Auskunft, um zu prüfen, ob vergangene Beitragserhöhungen wirksam waren und ob
+ihm auf dieser Grundlage Rückzahlungsansprüche zustehen oder er seine laufende
+Beitragszahlung kürzen darf.
+27(2) Entgegen der Ansicht der Revision kommt es insoweit nicht darauf an, ob alle
+Hauptansprüche, deren Geltendmachung mit den begehrten Auskünften ermöglicht
+werden soll, wegen Verjährung nicht durchsetzbar wären. Dies betrifft vielmehr erst die
+Frage, ob dem Kl. ein Auskunftsanspruch tatsächlich zusteht, mithin die Begründetheit
+28(3) Der Umdeutung steht entgegen der Auffassung der Revision auch nicht entgegen,
+dass nach dem Rechtsschutzziel des Kl. die Verbindung von Auskunfts- und
+Leistungsantrag derartig eng sein sollte, dass die gesamte Rechtsverfolgung mit dieser
+Rn. 23). Eine solche enge Verbindung lässt sich hier nicht feststellen. Im Gegenteil ist
+nach dem Rechtsschutzziel des Kl. davon auszugehen, dass dieser das
+Auskunftsbegehren auch unabhängig von der Zulässigkeit der hiermit im Wege der
+Stufenklage verbundenen Feststellungs- und Leistungsanträge verfolgen möchte. Das
+von der Revision in Bezug genommene klägerische Vorbringen, wonach der
+Auskunftsantrag „als bloßes Hilfsmittel (…) allein dem Zweck der Konkretisierung des
+Leistungsanspruchs (…) und des Feststellungsanspruchs (…)“ diene, steht dem nicht
+entgegen. Nach seinem Zusammenhang dient dieses Vorbringen allein zur
+Begründung der – hier allerdings nicht gegebenen – Zulässigkeit der Stufenklage.
+Nach der interessengerechten Auslegung des Rechtsschutzbegehrens verbleibt auch
+bei Unzulässigkeit der Feststellungs- und Leistungsanträge ein sinnvolles
+Rechtsschutzbegehren im Hinblick auf den Auskunftsanspruch, denn dieser dient
+weiterhin der Vorbereitung von Zahlungsansprüchen beziehungsweise einer
+Absenkung der aktuell zu zahlenden Prämie. Weitere Anhaltspunkte dafür, dass der Kl.
+die Auskunftsklage auch isoliert erhoben hätte, sind entgegen der Auffassung der
+Revision nicht erforderlich (vgl. auch OLG Celle VersR 2023, 429 Rn. 123 = NJOZ 2023,
+875; OLG Dresden r+s 2023, 66 Rn. 13; OLG Hamm r+s 2022, 93 Rn. 6 = NJOZ 2022,
+1487; OLG Koblenz r+s 2023, 62 Rn. 10 = NJOZ 2023, 117; OLG Karlsruhe VersR 2023,
+41713).
+29b) Die Annahme des BerGer., dass dem Kl. hinsichtlich möglicher
+Beitragserhöhungen aus den Jahren 2013–2016 ein Auskunftsanspruch aus dem
+Gesichtspunkt von Treu und Glauben nach § 242 BGB zustehe, ist jedoch nicht frei von
+Rechtsfehlern.
+30aa) Nach § 242 BGB trifft den Schuldner im Rahmen einer Rechtsbeziehung
+ausnahmsweise eine Auskunftspflicht, wenn der Berechtigte in entschuldbarer Weise
+über Bestehen und Umfang seines Rechts im Ungewissen ist und der Verpflichtete die
+zur Beseitigung der Ungewissheit erforderliche Auskunft unschwer geben kann. Die
+Zubilligung des Auskunftsanspruchs hat unter Berücksichtigung der jeweiligen
+Umstände des Einzelfalls und unter Wahrung des Grundsatzes der Verhältnismäßigkeit
+31Ob der Versicherungsnehmer in der privaten Krankenversicherung nach diesen
+Grundsätzen vom Versicherer Auskunft über vergangene Beitragserhöhungen
+verlangen kann, wird in der obergerichtlichen Rechtsprechung – teils anknüpfend an
+besondere Umstände im Einzelfall – unterschiedlich beurteilt (bejahend OLG
+Karlsruhe NJW-RR 2023, 180 = VersR 2023, 99 Rn. 43 ff.; OLG Stuttgart NJOZ 2022,
+943 Rn. 80 ff. (insoweit n. abgedr. in MDR 2022, 370); verneinend OLG Dresden r+s
+2023, 66 Rn. 17-20; OLG Hamm r+s 2022, 93 Rn. 13–15 = NJOZ 2022, 1487; OLG
+Koblenz NJOZ 2023, 117 Rn. 20 (insow. nicht abgedr. in r+s 2023, 62); OLG Köln
+Rn. 44 f.; vgl. auch OLG Schleswig VersR 2022, 1489 Rn. 50 ff. = NJOZ 2022, 1303). Ein
+solcher Anspruch kommt aber grundsätzlich in Betracht.
+32bb) Innerhalb vertraglicher Beziehungen – wie hier – kann der Auskunftsanspruch
+auch die Funktion haben, dem Berechtigten Informationen über das Bestehen des
+Anspruchs dem Grunde nach zu verschaffen (vgl. MüKoBGB/Krüger, 9. Aufl., BGB § 260 Rn. 16; Haeffs Der Auskunftsanspruch im Zivilrecht, 2010, ). Es müssen dann
+ausreichende Anhaltspunkte für das Bestehen eines Hauptanspruchs gegeben sein,
+33Soweit die Revision indessen meint, es handele sich bei dem streitgegenständlichen
+Kondiktionsanspruch um einen gesetzlichen Anspruch, so dass nach den in der
+Rechtsprechung entwickelten allgemeinen Regeln erforderlich sei, dass ein
+Rn. 10 mwN; Grüneberg/Grüneberg BGB, 82. Aufl., BGB § 260 Rn. 6; MüKoBGB/Krüger,
+9. Aufl., BGB § 260 Rn. 15 f.), überzeugt dies nicht. Diese Sichtweise lässt außer Acht,
+dass zwischen den Parteien ein Versicherungsvertragsverhältnis besteht, das in
+besonderer Weise von Treu und Glauben beherrscht wird (vgl. Senat NJW-RR 2019,
+1369 = VersR 2019, 1412 Rn. 23 mwN), und dass der geltend gemachte Anspruch aus
+Leistungskondiktion das Spiegelbild zur vertraglichen Beitragszahlungspflicht des
+Versicherungsnehmers bildet.
+34cc) Dem Kl. können Rückzahlungsansprüche aufgrund unwirksamer
+Prämienerhöhungen aus den Jahren 2013–2016 als Grundlage eines
+Auskunftsanspruchs zustehen. Zwar hätte entgegen der Auffassung des BerGer. die
+hiesige Klage die Verjährung dieser Ansprüche nicht gem. § 204 I Nr. 1 BGB gehemmt,
+weil die Voraussetzungen einer Stufenklage iSv § 254 ZPO wie ausgeführt nicht
+vorlagen und die im Wege der Umdeutung verbliebenen Feststellungs- und
+Leistungsanträge entgegen § 253 II Nr. 2 ZPO den Streitgegenstand nicht hinreichend
+individualisierten (vgl. BGH NJW-RR 2013, 992 Rn. 30 mwN = WM 2013, 574). Daraus
+folgt aber nicht, dass keine unverjährten Rückforderungsansprüche mehr in Betracht
+kommen, denn in den für den Kl. gehaltenen Tarifen S und K bestand ein Anspruch der
+Bekl. auf Zahlung der Prämie in der durch die Anpassung vom 22.11.2018
+festgesetzten neuen Gesamthöhe erst ab 1.5.2021. Zudem bezieht sich der
+Auskunftsanspruch auch auf Tarife im Versicherungsvertrag des Kl., die im Übrigen –
+nämlich hinsichtlich der Zahlungs- und Feststellungsanträge – nicht in den Rechtsstreit
+eingeführt sind. Da folgende wirksame Beitragserhöhungen in diesen Tarifen nicht
+festgestellt sind, ist nicht ausgeschlossen, dass sich Prämienerhöhungen aus den
+Jahren 2013-2016 hier bis zum jetzigen Zeitpunkt auswirken und neu entstehende
+Rückzahlungsansprüche auslösen.
+35dd) Im Streitfall durfte das BerGer. aufgrund der getroffenen Feststellungen nicht
+annehmen, dem Kl. stehe nach den oben genannten Grundsätzen gem. § 242 BGB ein
+Auskunftsanspruch hinsichtlich möglicher Beitragserhöhungen in den Jahren 2013–
+2016 zu. Die Annahme des BerGer., der Kl. befinde sich in entschuldbarer Weise über
+Bestehen und Umfang seines Rechts – hier von möglichen Rückforderungsansprüchen
+aufgrund von unwirksamen Beitragserhöhungen im vorgenannten Zeitraum – im
+Ungewissen, ist nicht frei von Rechtsfehlern.
+36(1) Das BerGer. hätte seiner Entscheidung nicht unter Bezugnahme auf ein Urteil des
+BGH vom 14.4.1988 (NJW-RR 1988, 1072 Rn. 13) zugrunde legen dürfen, nach § 242
+BGB sei ein Versicherer zur Auskunft über den Inhalt der bereits übersandten
+Mitteilungen auch dann verpflichtet, wenn der Versicherungsnehmer nur glaubhaft
+erkläre, die betreffenden Unterlagen ständen ihm jedenfalls nicht mehr zur Verfügung.
+Diese Verpflichtung beschränke sich nicht auf Fälle, in denen dem
+Versicherungsnehmer die Unterlagen ohne sein Verschulden abhandengekommen
+seien. Wenn das Verlangen des Versicherungsnehmers nicht aus besonderen Gründen
+mutwillig oder missbräuchlich erscheine, komme es überhaupt nicht entscheidend
+darauf an, wie und warum der Versicherungsnehmer in die Lage geraten sei, den
+Versicherer um Hilfe bei der Ergänzung seiner Unterlagen zu bitten.
+37Die genannte Entscheidung bezieht sich – ebenso wie die weiteren Urteile des BGH
+Verhältnis zwischen Bankkunden und Kreditinstitut und hier auf die Frage, inwieweit
+der Kunde, dem im Grundsatz ein Anspruch auf Auskunft und Rechenschaft nach §§ 675, 666 BGB zusteht, die Zusendung einzelner Unterlagen erneut verlangen kann. Ein
+weiteres Urteil des BGH vom 28.4.1992 (NJW-RR 1992, 1072 Rn. 12 f.) behandelt den
+Anspruch nach § 810 BGB auf Einsicht in das (Kredit-)Vertragsexemplar des
+Verpflichteten. Entgegen der Ansicht des BerGer. und einzelner weiterer Obergerichte
+2022, 943 Rn. 83 (insow. nicht abgedr. in MDR 2022, 370)) lassen sich die dort
+aufgestellten Grundsätze auf das Verlangen des Versicherungsnehmers gegenüber
+dem Versicherer, ihm Mitteilungsschreiben bezüglich vergangener
+Prämienerhöhungen in der privaten Krankenversicherung erneut zu übersenden, nicht
+übertragen. Denn eine aus Auftrag oder Geschäftsbesorgung folgende
+Rechenschaftspflicht besteht im Verhältnis zwischen Versicherer und
+Versicherungsnehmer nicht. Auch daraus, dass das Versicherungsverhältnis nach der
+Senatsrechtsprechung (vgl. Senat NJW-RR 2019, 1369 = VersR 2019, 1412 Rn. 23
+mwN) besonders von Treu und Glauben geprägt ist, folgt nicht, dass der Versicherer
+dem Versicherungsnehmer gleichsam voraussetzungslos in seinem Besitz befindliche
+Dokumente erneut zur Verfügung stellen müsste, damit dieser Ansprüche gegen ihn
+38(2) Vielmehr hätte das BerGer. zunächst Feststellungen dazu treffen müssen, dass
+der Kl. nicht mehr über die im Auskunftsantrag bezeichneten Unterlagen verfügt.
+Nur dann kann feststehen, dass er über Bestehen und Umfang seines Rechts im
+Ungewissen ist und sich die notwendigen Informationen nicht selbst auf zumutbare
+Weise beschaffen kann (vgl. MüKoBGB/Krüger BGB § 260 Rn. 18). Treu und Glauben
+erfordern es nicht, dem Auskunftssuchenden Mühe auf Kosten des
+Auskunftsverpflichteten zu ersparen (vgl. OLG Köln 13.5.2022 – 20 U 198/21, BeckRS
+2022, 12216 Rn. 68).
+39Hiermit hat sich das BerGer. nicht ausreichend befasst. Soweit seine Ausführungen
+so zu verstehen sein sollten, dass es den Nichtbesitz als unstreitig zugrunde legt, rügt
+die Bekl. mit Erfolg eine Verletzung ihres rechtlichen Gehörs (Art. 103 I GG). Denn das
+BerGer. hat nicht berücksichtigt, dass die Bekl. die Behauptung des Kl., ihm lägen die
+Unterlagen nicht mehr vor, in der Klageerwiderung sowie in ihrem Schriftsatz vom
+3.1.2022 mit Nichtwissen bestritten hat. Hierzu wird das BerGer. Feststellungen treffen
+müssen.
+40(3) Darüber hinaus fehlt es – den Nichtbesitz unterstellt – an Feststellungen zu den
+Gründen des Verlusts. Der Versicherungsnehmer ist nicht schon dann entschuldbar
+über seine Rechte im Ungewissen, wenn er die Unterlagen über die
+Beitragsanpassungen nicht mehr besitzt und zu den Gründen des Verlusts nicht weiter
+vorträgt (vgl. OLG Dresden r+s 2023, 66 Rn. 19 f.; OLG Hamm r+s 2022, 93 Rn. 15 =
+NJOZ 2022, 1487; OLG Koblenz NJOZ 2023, 117 Rn. 20 (insow. nicht abgedr. in r+s
+2023, 62); OLG München r+s 2022, 94 Rn. 46; Boetius r+s 2023, 193 (201)). Hierbei mag
+derzeit dahinstehen, ob – wie die Revision meint – die Aufbewahrung der Beitragsanpassungsschreiben vergangener Jahre durch den Versicherungsnehmer üblich ist
+(vgl. OLG München r+s 2022, 94 Rn. 48; aA OLG Karlsruhe r+s 2023, 68 Rn. 36 = NJW-
+RR 2023, 180; BeckOGK/Kähler, 1.7.2023, BGB § 242 Rn. 716). Erst die Darlegung der
+Gründe des Verlusts durch den Versicherungsnehmer ermöglicht die Beurteilung, ob
+dem Versicherungsnehmer unter Berücksichtigung der jeweiligen Umstände des
+Einzelfalls und unter Wahrung des Grundsatzes der Verhältnismäßigkeit (vgl. Senat
+ausnahmsweise ein Auskunftsanspruch nach § 242 BGB zusteht.
+41c) Die Entscheidung über den Auskunftsantrag erweist sich auch nicht aus anderen
+Gründen als richtig (§ 561 ZPO).
+42aa) Ein Auskunftsanspruch ergibt sich nicht aus § 3 III VVG. Nach dieser Vorschrift
+kann der Versicherungsnehmer vom Versicherer die Ausstellung eines neuen
+Versicherungsscheins verlangen, wenn ein Versicherungsschein abhandengekommen
+oder vernichtet ist. Die mit dem Auskunftsbegehren herausverlangten Anschreiben,
+Begründungen und Beiblätter werden davon ohnehin nicht erfasst (vgl. OLG
+die Nachträge zum Versicherungsschein aus den Jahren 2013-2016 zur Verfügung zu
+stellen, kann dies nicht auf § 3 III VVG gestützt werden. Der Versicherungsschein hat
+eine Informations-, Legitimierungs- und Beweisfunktion (vgl. BT-Drs. 16/3945, 57;
+MüKoVVG/Armbrüster, 3. Aufl., VVG § 3 Rn. 2; Bruck/Möller/Knops VVG, 10. Aufl., VVG
+§ 3 Rn. 3). Damit sich der Versicherungsnehmer über die Rechte und Pflichten aus dem
+Vertrag informieren und diese nachweisen kann, gibt ihm § 3 III VVG einen Anspruch
+auf Ersatzausstellung des Versicherungsscheins. Dieser erfasst daher nur den
+Versicherungsschein einschließlich solcher Nachträge, die den derzeit geltenden
+Vertragsinhalt wiedergeben, nicht dagegen bereits überholte Nachträge (vgl. OLG
+Dresden r+s 2023, 66 Rn. 21; aA OLG Schleswig VersR 2022, 1489 Rn. 31 = NJOZ 2022,
+1303; Boetius r+s 2023, 193 (201)).
+43bb) § 3 IV 1 VVG bezieht sich nur auf eigene Erklärungen des Versicherungsnehmers,
+nicht solche des Versicherers, und scheidet deshalb ebenfalls als Anspruchsgrundlage
+aus (vgl. OLG Koblenz r+s 2023, 62 Rn. 13 = NJOZ 2023, 117; MüKoVVG/Armbrüster,
+3. Aufl., VVG § 3 Rn. 51).
+44cc) Auch auf § 810 BGB kann der Anspruch nicht gestützt werden, da er lediglich die
+Gestattung der Einsichtnahme in eine in fremdem Besitz befindliche Urkunde
+ermöglicht (vgl. OLG Hamm r+s 2022, 93 Rn. 17 = NJOZ 2022, 1487; OLG Koblenz NJOZ
+2023, 117 Rn. 18 (insoweit n. abgedr. in r+s 2023, 62); OLG München 24.11.2011 – 14
+U 6205/21 Rn. 62 f. (insoweit n. abgedr. in r+s 2022, 94); OLG Schleswig VersR 2022,
+1489 Rn. 39 f. = NJOZ 2022, 1303; Boetius r+s 2023, 193 (201)).
+45dd) Schließlich lässt sich der Anspruch auch nicht aus Art. 15 I, III VO (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27.4.2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr
+und zur Aufhebung RL 95/46/EG (im Folgenden DS-GVO) herleiten.
+46(1) Ein Anspruch auf eine Abschrift der gesamten Begründungsschreiben samt
+Anlagen – worauf der klägerische Antrag abzielt – folgt nicht aus Art. 15 I DS-GVO.
+Weder bei den Anschreiben selbst noch bei den beigefügten Anlagen (Beiblätter,
+Nachträge zum Versicherungsschein) handelt es sich jeweils in ihrer Gesamtheit um
+personenbezogene Daten des Versicherungsnehmers.
+47(a) Gemäß Art. 4 Nr. 1 DS-GVO sind personenbezogene Daten alle Informationen, die
+sich auf eine identifizierte oder identifizierbare natürliche Person („betroffene Person“)
+beziehen. Nach der Rechtsprechung des EuGH ist der Begriff weit zu verstehen. Er ist
+nicht auf sensible oder private Informationen beschränkt, sondern umfasst potenziell
+alle Arten von Informationen sowohl objektiver als auch subjektiver Natur, unter der
+Voraussetzung, dass es sich um Informationen über die in Rede stehende Person
+handelt. Die letztgenannte Voraussetzung ist erfüllt, wenn die Information aufgrund
+ihres Inhalts, ihres Zwecks oder ihrer Auswirkungen mit einer bestimmten Person
+48(b) Nach diesen Grundsätzen sind nach der Rechtsprechung des VI. Zivilsenats des
+BGH Schreiben der betroffenen Person an den Verantwortlichen ihrem gesamten Inhalt
+nach als personenbezogene Daten einzustufen, da die personenbezogene Information
+bereits darin besteht, dass die betroffene Person sich dem Schreiben gemäß geäußert
+hat, umgekehrt aber – wie hier maßgeblich – Schreiben des Verantwortlichen an die
+betroffene Person nur insoweit, als sie Informationen über die betroffene Person nach
+25). Dementsprechend sind auch nur die personenbezogenen Daten eines
+Versicherungsscheins nicht kategorisch vom Anwendungsbereich des Art. 15 I DS-
+Rechtsprechung des EuGH, soweit dieser zur Vorgängerregelung des Art. 4 Nr. 1 DS-
+GVO (Art. 2 Buchst. a RL 95/46/EG des Europäischen Parlaments und des Rates vom
+24.10.1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten und zum freien Datenverkehr) entschieden hat, dass es sich bei den in der
+Entwurfsschrift wiedergegebenen Daten über denjenigen, der einen Aufenthaltstitel
+beantragt, und den Daten, die gegebenenfalls in dieser – in der Entwurfsschrift
+enthaltenen – rechtlichen Analyse wiedergegeben sind, um personenbezogene Daten
+handelt, nicht aber bei der Analyse als solcher (vgl. EuGH ECLI:EU:C:2014:2081 Rn. 48
+= ZD 2014, 515).
+49(c) Daraus folgt, dass es sich keinesfalls bei den gesamten Begründungsschreiben
+samt Anlagen um personenbezogene Daten des Versicherungsnehmers handelt.
+Vielmehr enthalten die einzelnen Teile (Anschreiben, Beiblatt, Nachtrag zum
+Versicherungsschein) jeweils einzelne personenbezogene Daten sowohl des
+Versicherungsnehmers als auch von dessen Ehefrau. Eine dahingehende
+Beschränkung seines geltend gemachten Anspruchs und seines Antrags hat der Kl.
+indessen nicht vorgenommen.
+50(d) Der Begriff der personenbezogenen Daten ist – soweit hier erforderlich – durch
+die Rechtsprechung des EuGH geklärt. Daher bedarf es diesbezüglich weder eines
+Vorabentscheidungsersuchens gem. Art. 267 III AEUV noch einer Aussetzung des
+Verfahrens entsprechend § 148 ZPO (vgl. BGH 21.2.2023 – VI ZR 330/21, BeckRS
+2023, 3159 Rn. 10 (insow. nicht abgedr. in ZD 2023, 352); 10.5.2022 – VIII ZR 149/21,
+51(2) Auch auf Art. 15 I, III DS-GVO lässt sich der klägerische Anspruch nicht stützen.
+52(a) Nach Art. 15 III DS-GVO stellt der Verantwortliche eine
+solches, sondern auf die personenbezogenen Daten, die es enthalte. Die
+ob der Kl. sich in entschuldbarer Weise über Bestehen und Umfang seines Rechts im
+Ungewissen befindet.
+Anmerkung
+Klagen gegen Prämienerhöhungen in der privaten Krankenversicherung haben in den
+vergangenen Jahren massiv zugenommen. Wegen einer Anpassung um kaum mehr
+als 2 EUR monatlich wäre früher wohl kaum jemand bis zum BGH gezogen. Immerhin
+eröffnen die Verfahren der Rechtsprechung die Möglichkeit, die materiellen und
+formellen Anforderungen des § 203 II, V VVG kontinuierlich zu präzisieren. Drei Aspekte
+seien herausgegriffen:
+1. Der Versicherer hat dem Versicherungsnehmer neben der neu festgesetzten Prämie
+(dem Beitrag) die „hierfür maßgeblichen Gründe“ mitzuteilen (§ 203 V VVG). Der Senat
+bestätigt, dass der Versicherungsnehmer der Mitteilung entnehmen können muss,
+dass das Ergebnis der aktuellen Überprüfung gerade für seinen konkreten Tarif eine
+Veränderung der maßgeblichen Rechnungsgrundlage ergeben und damit die
+Prämienanpassung ausgelöst hat. Dies war beiläufig schon früher zum Ausdruck
+23), konnte jetzt aber noch einmal präzisiert werden. Hier muss der Versicherer seine
+Kunden sorgfältig und transparent informieren.
+2. Bestätigt wird ferner, dass eine mangels ausreichender Begründung ursprünglich
+unwirksame Prämienanpassung später nachgebessert werden kann. Bemerkt der
+Versicherer, dass seine Mitteilung die gesetzlichen Voraussetzungen nicht erfüllt hat,
+kann er dies korrigieren. Da die Neufestsetzung allerdings erst zu Beginn des zweiten
+Monats nach ordnungsgemäßer Mitteilung
+wirksam wird, hat sie lediglich ex-nunc-Wirkung. Für den Versicherer vielleicht noch
+wichtiger ist, dass sich ein etwaiger Begründungsmangel nicht über den Zeitpunkt der
+nächsten (wirksamen) Prämienanpassung hinaus perpetuiert. Die Neufestsetzung
+bildet die Rechtsgrundlage für den Prämienanspruch in seiner Gesamthöhe. Es wird
+nicht nur der Erhöhungsbetrag, sondern die gesamte Prämie für den neu kalkulierten
+Zeitraum festgesetzt. Ob eine frühere Prämienerhöhung fehlerhaft war, ist daher von
+378 Rn. 41 f., 55 f.).
+3. Neben dem (Rück-)Zahlungsanspruch hatte der Kläger im Wege einer Stufenklage
+(§ 254 ZPO), die als solche unzulässig war, aber in eine objektive Klagehäufung
+umgedeutet werden konnte, Auskunft über Prämienerhöhungen und deren
+Begründungen in der Vergangenheit (Jahre 2013–2016) begehrt. Insoweit waren
+mehrere Oberlandesgerichte davon ausgegangen, dass dieser Anspruch nahezu
+voraussetzungslos aus Art. 15 I, III DS-GVO resultiere. Dem tritt der BGH entgegen, weil
+datenschutzrechtlich lediglich Auskunft über bzw. eine Kopie der personenbezogenen
+Daten (Name und Anschrift des Klägers etc.), nicht aber bezüglich des gesamten
+Inhalts der Anpassungsschreiben verlangt werden könne. Einschlägig sei allein § 242
+BGB, der im Rahmen eines Vertragsverhältnisses – wie hier – indes voraussetze, dass
+der Gläubiger in entschuldbarer Weise über Bestehen und Umfang seines Rechts im
+Ungewissen ist und der Verpflichtete die zur Beseitigung der Ungewissheit
+erforderliche Auskunft unschwer erteilen kann. Der Versicherungsnehmer muss daher
+detailliert vortragen und – wenn der Versicherer es, was zulässig ist, mit Nichtwissen
+bestreitet (§ 138 IV ZPO) – unter Beweis stellen, dass er über die entsprechenden
+Schreiben nicht mehr verfügt, und die Gründe für den Verlust darlegen. Erst sie
+ermöglichen dem Gericht die Beurteilung der Entschuldbarkeit.
+Prof. Dr. Christian Rolfs, Köln

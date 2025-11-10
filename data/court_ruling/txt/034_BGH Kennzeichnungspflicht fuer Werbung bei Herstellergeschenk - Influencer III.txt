@@ -1,0 +1,705 @@
+Kennzeichnungspflicht für Werbung bei Herstellergeschenk - Influencer III
+RL 2000/31/EG Art. 2 Buchst. f, 6 Buchst. a; RL 2010/13/EU Art. 11; UWG §§ 2 I Nr. 1,
+3 I, IV, 5a VI, 8 I 1, III Nr. 2; TMG §§ 1 I 1, 2  Nr. 1 u. 5, 6 I Nr. 1; RStV §§ 2 II Nr. 7,
+58 I 1; MStV §§ 2 II Nr. 7, 22 I 1
+Fördert eine Influencerin durch einen Bericht über Waren oder Dienstleistungen in
+sozialen Medien (hier: Instagram) den Absatz eines fremden Unternehmens, so
+handelt es sich um kommerzielle Kommunikation im Sinne des § 2  Nr. 5
+Buchst. b TMG und Werbung im Sinne von § 2 II Nr. 7 RStV und § 2 II Nr. 7 MStV,
+wenn ihr die Waren oder Dienstleistungen von dem durch den Bericht begünstigten
+Unternehmen kostenlos zur Verfügung gestellt wurden (Fortführung von BGHZ 231,
+231, 87 = GRUR 2021, 1414 = WRP 2021, 1429 – Influencer II).
+BGH Urteil vom 13.1.2022 – I ZR 35/21
+NJW-Übersicht
+Rn.
+Kein Erfolg der Revision
+
+Zulässigkeit der Klage
+18 – 25
+Klagebefugnis hinsichtlich des Unterlassungsantrags
+19 – 24
+Prozessführungsbefugnis hinsichtlich der Vertragsstrafe
+
+Begründetheit des Unterlassungsanspruchs
+26 – 88
+Geschäftliche Handlung
+27 – 38
+– Grundsätze der geschäftlichen Handlung
+
+– Geschäftliche Handlung zugunsten des eigenen Unternehmens
+29 – 34
+– Geschäftliche Handlung zugunsten fremder Unternehmen
+35 – 38
+Unzulässige geschäftliche Handlung nach § 5 a VI UWG
+39 – 88
+– Regelung des § 5 a VI UWG
+
+– Unzulässigkeit in Bezug auf Anlage K10
+41 – 78
+– Unzulässigkeit in Bezug auf Anlage K11
+79 – 83
+– Unzulässigkeit in Bezug auf Anlage K12
+84 – 87
+– Kein Entfallen der Wiederholungsgefahr
+
+Anspruch auf Zahlung der Vertragsstrafe
+89 – 93
+Ergebnis und Kostenentscheidung
+
+Zum Sachverhalt
+Der Kl. ist der Verband Sozialer Wettbewerb e. V. Die Bekl. ist Bloggerin, die
+überwiegend im Bereich Mode und Lebensstil tätig ist, in jüngerer Zeit aber auch zu
+politischen und gesellschaftlichen Themen Beiträge verbreitet. Sie hat ein eigenes
+Profilkonto auf den Social-Media-Plattformen Instagram und YouTube mit jeweils einer
+hohen sechsstelligen Anzahl von Abonnenten und Seitenaufrufen. Die Bekl. beschäftigt
+sich hauptberuflich mit Blogs, hat einen Manager beauftragt und erzielt jährlich
+sechsstellige Umsätze.
+Die Bekl. veröffentlichte auf ihrem Instagram-Profil im Juli 2018 Fotos von sich, die
+Modeartikel und -accessoires zeigten und mit elektronischen Markierungen („Tap
+Tags“) versehen waren, aus denen der Name der Hersteller von Bekleidung oder der
+Erbringer von Dienstleistungen wie Fotoshootings oder Körperstyling hervorging. Beim
+Anklicken der „Tap Tags“ wurde der Nutzer auf die jeweiligen Profilseiten dieser
+Unternehmen geführt.
+Nach Abmahnung durch den Kl. verpflichtete sich die Bekl. im August 2018 gegenüber
+dem Kl., es zu unterlassen, auf Instagram Posts zu veröffentlichen, auf denen Produkte
+zu kommerziellen Zwecken im Bild des Posts getagged (dh mit entsprechenden Links
+versehen) sind, ohne den kommerziellen Zweck des jeweiligen Posts, soweit sich
+dieser nicht unmittelbar aus den Umständen des Posts ergibt, beispielsweise durch die
+Verwendung des Hinweises „Werbung“ oder ähnlicher Hinweise, zu verdeutlichen. Für
+den Fall der Zuwiderhandlung versprach die Bekl. die Zahlung einer durch den Kl.
+festzusetzenden, gerichtlich überprüfbaren Vertragsstrafe und erklärte, die
+Unterlassungsverpflichtungserklärung beziehe sich auch auf kerngleiche Handlungen.
+Der Kl. nahm die Erklärung der Bekl. an.
+Im vorliegenden Rechtsstreit beanstandete der Kl. drei Veröffentlichungen als unlauter,
+die am 2.10.2019 auf dem Instagram-Profil der Bekl. abrufbar waren. Der Kl. forderte
+die Bekl. mit Schreiben vom 9.10.2019 zur Zahlung einer Vertragsstrafe iHv 10.200 EUR
+und zur Abgabe einer neuen Unterlassungsverpflichtungserklärung mit einem
+Vertragsstrafeversprechen von mindestens 6.000 EUR für einen künftigen Verstoß auf.
+Die Bekl. verpflichtete sich lediglich hinsichtlich der dritten Veröffentlichung „im
+Hinblick auf den vorzitierten Begleittext“ zur Unterlassung. Der Kl. hat beantragt, die
+Bekl. unter Androhung von Ordnungsmitteln zu verurteilen, es zu unterlassen, im
+geschäftlichen Verkehr in sozialen Medien, beispielsweise in dem sozialen Medium „Instagram“, unter Abbildung einer Person (zB unter der
+Bezeichnung „dianazurloewen“) kommerzielle Inhalte vorzustellen, ohne den
+kommerziellen Zweck der Veröffentlichung zu verdeutlichen, sofern er sich nicht
+unmittelbar aus den Umständen ergibt, indem dies geschieht durch Veröffentlichung
+von Beiträgen wie folgt:
+–mit der Abbildung einer Person (zB unter Bezeichnung „dianazurloewen“) = 1.
+Ansicht,
+–nach Aufruf der 1. Ansicht durch einen Klick des Anzeigens des Namens von
+einem oder mehreren Unternehmen (oder Marken) auf der gleichen Seite = 2.
+Ansicht und
+–durch einen weiteren Klick auf die eingeblendeten Namen der Unternehmen
+(oder Marken), deren Namen bei der 2. Ansicht ins Bild gekommen sind,
+Weiterleitung auf den jeweiligen Accounts der Unternehmen/des Unternehmens
+= 3. Ansicht,
+ohne die 1. oder 2. Ansicht als kommerzielle Veröffentlichung zu kennzeichnen,
+insbesondere zu werben:
+a)mit der Abbildung der Bekl. in kurzer schwarzer Hose und rosafarbener Jacke
+mit Umhängetasche in einem lichten Waldstück stehend, offensichtlich
+Herbstlandschaft = 1. Abbildung (Anl. K 10.1),
+–Klick – gleiche Abbildung mit den Namen „six_accessoires“, „clockhouse“,
+„furla“, „subdued“ = 2. Abbildung (Anl. K 10.2),
+–2. Klick – direkte Weiterleitung auf die jeweiligen Internetseiten der genannten
+Firmen „SIX“, „CLOCKHOUSE“, „FURLA“ und „Subdued“ = 3. Abbildung (Anl. K
+10.3);
+b)mit der Abbildung der Bekl. im weiten grauen Pullover und weißen Rock = 1.
+Abbildung (Anl. K 11.1),
+–Klick auf die gleiche Abbildung zeigt diese mit den Namen „nevilalemawat“,
+„givenchybeauty“, „tomwagnerphoto“, „iconistbyicon“ = 2. Abbildung (Anl. K
+11.2),
+–der 2. Klick führt direkt zu den Internetseiten der benannten Unternehmen =
+3. Abbildung (Anl. K 11.3);
+c)mit der Abbildung der Bekl. im Dirndl, ersichtlich auf dem Münchener
+Oktoberfest = 1. Abbildung (Anl. K 12.1),
+–nach dem Klick gleiche Abbildung mit den Namen „six_accessoires“,
+„giacomellitrachten“, „weat“ = 2. Abbildung (Anl. K 12.2),
+–ein weiterer Klick führt zu den Internetseiten dieser Unternehmen = 3.
+Abbildung (Anl. K 12.3),
+wenn dies geschieht wie in den nachfolgenden Anl. K 10.1 bis K 12.3 wiedergegeben:
+(…) (Die Abbildungen sind abrufbar unter GRUR-RS 2022, 2105).
+Der Kl. hat weiter die Verurteilung zur Zahlung einer Vertragsstrafe iHv 10.200 EUR
+nebst Zinsen iHv fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem
+19.10.2019 beantragt.
+Das LG Köln (AfP 2020, 433) hat der Klage stattgegeben. Das OLG Köln (GRUR-RR 2021,
+167 = WRP 2021, 523) hat die Berufung der Bekl. zurückgewiesen. Die Revision der
+Bekl. hatte ebenfalls keinen Erfolg.
+Aus den Gründen
+17B. (…) Die Klage ist zulässig (dazu nachfolgend B I). Das BerGer. hat den
+Unterlassungsanspruch im Ergebnis zu Recht zuerkannt (dazu nachfolgend B II). Auch
+die Verurteilung zur Zahlung der Vertragsstrafe hält der revisionsrechtlichen
+Nachprüfung stand (dazu nachfolgend B III).
+18I. Die Klage ist zulässig. Insbesondere ist der Kl. zur Geltendmachung der mit der
+Klage verfolgten Ansprüche befugt.
+191. Hinsichtlich des Unterlassungsanspruchs folgt die Klagebefugnis des Kl. aus § 8
+III Nr. 2 UWG in der bis zum 1.12.2020 geltenden Fassung (aF).
+20a) Nach § 8 III Nr. 2 UWG aF stehen die Ansprüche aus § 8 I UWG rechtsfähigen
+Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen zu,
+soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren oder
+Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, wenn
+sie insbesondere nach ihrer personellen, sachlichen und finanziellen Ausstattung
+imstande sind, ihre satzungsmäßigen Aufgaben der Verfolgung gewerblicher oder
+selbstständiger beruflicher Interessen tatsächlich wahrzunehmen und soweit die
+Zuwiderhandlung die Interessen ihrer Mitglieder berührt. Diese Vorschrift regelt nicht
+nur die sachlich-rechtliche Anspruchsberechtigung, sondern auch die prozessuale
+Klagebefugnis, die als Sachurteilsvoraussetzung nicht nur im Zeitpunkt der
+beanstandeten Wettbewerbshandlung bestanden haben, sondern auch im
+Revisionsverfahren noch fortbestehen muss. Bei der Prüfung, ob dies der Fall ist, ist
+der Senat auch als RevGer. nicht an die tatsächlichen Feststellungen des BerGer.
+gebunden. Das RevGer. hat vielmehr selbstständig festzustellen, ob die
+Voraussetzungen für die Klagebefugnis erfüllt sind; es kann sich hierbei des
+Freibeweises bedienen. Die Tatsachen, aus denen sich die Klagebefugnis ergibt,
+müssen spätestens im Zeitpunkt der letzten mündlichen Verhandlung in der
+Tatsacheninstanz vorgelegen haben und im Revisionsverfahren fortbestehen (stRspr;
+– Influencer I; BGHZ 231, 87 = GRUR 2021, 1414 = WRP 2021, 1429 Rn. 11 – Influencer
+II, jew. mwN).
+21 § 15 a I UWG bestimmt, dass § 8 III Nr. 2 UWG idF des Gesetzes zur Stärkung des
+fairen Wettbewerbs (BGBl. 2020 I 2568), der nach Art. 9 II 2 Nr. 1 dieses Gesetzes am
+1.12.2021 in Kraft getreten ist, nicht auf Verfahren anzuwenden ist, die am 1.9.2021
+bereits rechtshängig sind. Im Streitfall, der an diesem Stichtag bereits rechtshängig
+war, verbleibt es daher bei der Anwendung des § 8 III Nr. 2 UWG aF.
+22b) Da der Kl. die Beiträge der Bekl. sowohl unter dem Gesichtspunkt angreift, dass
+es sich um geschäftliche Handlungen zugunsten der Bekl. selbst handele, als auch
+unter dem Gesichtspunkt, dass sie damit den Absatz der über die „Tap Tags“ verlinkten
+Unternehmen fördere, muss der Kl. sowohl über eine erhebliche Zahl an Mitgliedern
+verfügen, die in einem Wettbewerbsverhältnis iSd § 8 III Nr. 2 UWG aF zu der Bekl.
+stehen, als auch über solche, die in einem entsprechenden Wettbewerbsverhältnis zu
+GRUR 2021, 1400 Rn. 16 f. – Influencer I; BGH GRUR 2021, 1414 Rn. 14 f. – Influencer
+II, jew. mwN).
+23aa) Hinsichtlich geschäftlicher Handlungen der Bekl. zugunsten des eigenen
+Unternehmens hat das BerGer. die Voraussetzungen des § 8 III Nr. 2 UWG aF mit Recht
+und von der Revision unangegriffen bejaht.
+24bb) Hinsichtlich geschäftlicher Handlungen der Bekl. zugunsten fremder, in den
+Warenbereichen Bekleidung, Accessoires und Kosmetik sowie im Verlagsbereich
+tätiger Unternehmen liegen die Voraussetzungen des § 8 III Nr. 2
+UWG aF ebenfalls vor, weil der Kl. nachgewiesen hat, dass ihm eine erhebliche Zahl von
+Unternehmen angehört, die Waren auf demselben Markt vertreiben. Auch insoweit ist
+der Kl. imstande, seine satzungsmäßigen Aufgaben der Verfolgung gewerblicher
+Interessen tatsächlich wahrzunehmen und berühren die beanstandeten
+Zuwiderhandlungen die Interessen der Mitglieder des Kl.
+252. Hinsichtlich der Geltendmachung des Anspruchs auf Zahlung einer Vertragsstrafe
+ist der Kl. nach allgemeinen Grundsätzen prozessführungsbefugt, weil er geltend
+3065 = GRUR 2019, 970 = WRP 2019, 1304 Rn. 12 – Erfolgshonorar für
+Versicherungsberater; Zöller/Althammer ZPO, 34. Aufl., ZPO vor § 50 Rn. 16).
+26II. Das BerGer. hat den geltend gemachten Unterlassungsanspruch gem. §§ 8 I 1, 3
+I, 5a VI UWG im Ergebnis zu Recht zuerkannt. Die Bekl. hat zugunsten des eigenen
+Unternehmens und fremder Unternehmen geschäftlich gehandelt (dazu nachfolgend B
+II 1). Die mit den Anl. K 10, K 11 und K 12 dokumentierten Handlungen sind iSd § 5a VI
+UWG unlauter (dazu nachfolgend B II 2).
+271. Die Bekl. hat iSd § 2 I Nr. 1 UWG zugunsten des eigenen Unternehmens und
+fremder Unternehmen geschäftlich gehandelt.
+28 a) Gemäß § 2 I Nr. 1 UWG ist eine geschäftliche Handlung jedes Verhalten einer
+Person zugunsten des eigenen oder eines fremden Unternehmens vor, bei oder nach
+einem Geschäftsabschluss, das mit der Förderung des Absatzes oder des Bezugs von
+Waren oder Dienstleistungen oder mit dem Abschluss oder der Durchführung eines
+Vertrags über Waren oder Dienstleistungen objektiv zusammenhängt.
+29b) Die Revision wendet sich ohne Erfolg gegen die Annahme des BerGer., die Bekl.
+habe zugunsten ihres eigenen Unternehmens geschäftlich gehandelt.
+30aa) Dass die Bekl. ein Unternehmen betreibt, stellt die Revision zu Recht nicht in
+Abrede. Influencer, die selbst Waren oder Dienstleistungen vertreiben oder – wie im
+Streitfall – das eigene Image vermarkten und durch Werbeeinnahmen
+GRUR 2021, 1400 Rn. 34–36 – Influencer I, mwN).
+31bb) Die Revision macht ohne Erfolg geltend, es fehle angesichts des redaktionellen
+Gehalts der beanstandeten Veröffentlichungen am nach § 2 I Nr. 1 UWG für die
+Annahme einer geschäftlichen Handlung erforderlichen objektiven Zusammenhang
+mit der Förderung des Absatzes oder des Bezugs von Waren oder Dienstleistungen.
+32Nach der Rechtsprechung des BGH ist der Betrieb eines Instagram-Profils, in dessen
+Rahmen Beiträge der auch vorliegend beanstandeten Art veröffentlicht werden,
+objektiv geeignet, das Unternehmen eines Influencers zu fördern, sofern hierdurch die
+Bekanntheit und der Werbewert des Influencers gesteigert und das Interesse von
+Drittunternehmen an einer Kooperation mit dem Influencer geweckt werden (BGHZ
+die Veröffentlichung eines Instagram-Beitrags auch dann als Geschäftspraxis und
+geschäftliche Handlung einzustufen sein, wenn mangels Gegenleistung keine
+kommerzielle Kommunikation vorliegt, weil der Begriff der kommerziellen Mitteilung
+iSd Art. 2 Buchst. d RL 2005/29/EG über unlautere Geschäftspraktiken von
+Unternehmen gegenüber Verbrauchern im Binnenmarkt, dessen Umsetzung § 2 I Nr. 1
+UWG dient, weiter ist als derjenige der kommerziellen Kommunikation iSv Art. 2
+Buchst. f RL 2000/31/EG über bestimmte rechtliche Aspekte der Dienste der
+Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs im
+49 – Influencer I).
+33Im Streitfall fördert die Bekl. nach den revisionsrechtlich unbedenklichen
+Feststellungen des BerGer. ihr eigenes Unternehmen, weil durch den Betrieb des
+Instagram-Profils ihre Bekanntheit und ihr Werbewert gesteigert und das Interesse von
+Drittunternehmen an einer Kooperation geweckt werden.
+34Der Betrieb eines solchen Instagram-Profils ist ferner unabhängig davon eine
+geschäftliche Handlung zur Förderung des eigenen Unternehmens, dass darin
+redaktionelle Beiträge veröffentlicht werden. In dieser Konstellation dient die
+Veröffentlichung redaktioneller Beiträge vorrangig dem Ziel, geschäftliche
+Entscheidungen von Verbrauchern oder sonstigen Marktteilnehmern in Bezug auf
+Produkte des eigenen Unternehmens zu beeinflussen. Deshalb steht entgegen der
+Ansicht der Revision auch im Streitfall der Annahme einer geschäftlichen Handlung die
+lauterkeitsrechtliche Privilegierung vorrangig redaktionellen Zwecken dienender
+44–46 – Influencer I).
+35c) Die Revision wendet sich ebenfalls ohne Erfolg gegen die Annahme des BerGer.,
+die beanstandeten Handlungen seien unabhängig davon als geschäftliche Handlungen
+zugunsten fremder Unternehmen anzusehen, ob eine Gegenleistung für sie erbracht
+worden sei.
+36Nach der Rechtsprechung des BGH kann bei der Prüfung, ob Beiträge von
+Influencern in sozialen Medien, die sich mit Waren oder Dienstleistungen fremder
+Unternehmen befassen, geschäftliche Handlungen zugunsten fremder Unternehmen
+sind, auf die Kriterien zurückgegriffen werden, die für die Einordnung scheinbar
+redaktioneller Presseartikel als werblich entwickelt worden sind. Danach kann es sich
+auch dann, wenn für eine scheinbar redaktionelle Veröffentlichung keine Gegenleistung
+von einem fremden Unternehmen erfolgt ist, um eine geschäftliche Handlung
+zugunsten dieses Unternehmens handeln, wenn der Beitrag nach seinem
+Gesamteindruck übertrieben werblich ist, also einen werblichen Überschuss enthält, so
+dass die Förderung fremden Wettbewerbs eine größere als nur eine notwendigerweise
+begleitende Rolle spielt. Im Falle der Influencer besteht ein solcher werblicher
+Überschuss mit Blick darauf, dass die Beiträge auch einem Informationsbedürfnis der
+Follower dienen, zwar nicht bereits durch das Setzen von „Tap Tags“, die
+Herstellerinformationen beinhalten, sehr wohl aber regelmäßig durch die in einem „Tap
+Tag“ vorgesehene Verlinkung auf die Internetseite des Herstellers (vgl. BGHZ 231, 38
+den revisionsrechtlich unbedenklichen Feststellungen des BerGer. liegen diese
+Voraussetzungen im Streitfall vor.
+37Ohne Erfolg hält die Revision dem entgegen, Verlinkungen auf andere Internetseiten
+kämen in der redaktionellen Berichterstattung von Nachrichtenmedien und auch in
+sozialen Medien vielfach vor und dienten dem unkomplizierten Auffinden von
+Informationen, so dass die Bereitstellung dieser technischen Möglichkeit nicht zur
+Einordnung als geschäftliche Handlung führen dürfe. Ob ein Beitrag übertrieben
+werblich ist, ist aufgrund einer Gesamtbetrachtung zu prüfen, in die sämtliche
+Merkmale des Beitrags einschließlich einer etwaig bereitgestellten Verlinkung
+I). Die Annahme, dass die Bereitstellung eines Links auf das Instagram-Profil des
+Herstellers über einen „Tap Tag“ im Beitrag eines Influencers regelmäßig übertrieben
+werblich wirkt, gründet darauf, dass der Leser durch die Verlinkung direkt in den
+werblichen Einflussbereich des Herstellerunternehmens gebracht und der Zugang der
+Verbraucher zu den Produkten des Drittunternehmens erleichtert und beschleunigt
+38Soweit die Revision geltend macht, redaktioneller Anlass des Beitrags gemäß Anl. K
+11 sei die Verleihung eines Preises des Magazins Icon an die Bekl. und ein damit
+verbundenes „Fotoshooting“ gewesen, ist mit dem BerGer. festzuhalten, dass dieser
+redaktionelle Gehalt im Beitrag nicht mitgeteilt wird, so dass er bei der Würdigung des
+Beitrags nach dem Horizont eines durchschnittlich informierten, situationsadäquat
+aufmerksamen und verständigen Verbrauchers außer Betracht zu bleiben hat.
+392. Das BerGer. hat im Ergebnis zu Recht die mit den Anl. K 10, K 11 und K 12
+dokumentierten Handlungen als nach § 5a VI UWG unlautere geschäftliche
+Handlungen angesehen (zu Anl. K 10 unter Rn. 41–78 (B II 2 b), zu Anl. K 11 unter Rn.
+79–83 (B II 2 c), zu Anl. K 12 unter Rn. 84–87 (B II 2 d)).
+40 a) Nach § 5a VI UWG handelt unlauter, wer den kommerziellen Zweck einer
+geschäftlichen Handlung nicht kenntlich macht, sofern sich dieser nicht unmittelbar
+aus den Umständen ergibt, und das Nichtkenntlichmachen geeignet ist, den
+Verbraucher zu einer geschäftlichen Entscheidung zu veranlassen, die er andernfalls
+nicht getroffen hätte.
+41b) Das Verbot der mit der Anl. K 10 dokumentierten Handlung ist nach § 5a VI UWG
+zwar nur begründet, soweit die Bekl. zugunsten des Unternehmens Six gehandelt hat,
+nicht jedoch hinsichtlich des Handelns der Bekl. zugunsten der Unternehmen
+Clockhouse, Furla und Subdued und zugunsten ihres eigenen Unternehmens. Die
+unlautere Handlung zugunsten des Unternehmens Six rechtfertigt das auf die konkrete
+1400 Rn. 22 u. 130 – Influencer I).
+42aa) Das BerGer. hat im Ergebnis zu Recht angenommen, dass die mit der Anl. K 10
+dokumentierte Handlung kommerziellen Zwecken iSd § 5 a VI UWG diente. Der
+kommerzielle Zweck ist, wie der BGH nach dem Urteil des BerGer. entschieden hat, im
+Rahmen der Einzelfallwürdigung anhand derjenigen objektiven Indizien zu bestimmen,
+die auch für die Beurteilung geschäftlicher Handlungen iSd § 2 I Nr. 1 UWG gelten (vgl.
+2021, 1414 Rn. 27–31 – Influencer II, jew. mwN).
+43Im Streitfall liegen der mit der Anl. K 10 dokumentierten Handlung daher aus den
+Gründen, die zur Annahme einer geschäftlichen Handlung führen (dazu oben Rn. 27–
+38 (B II 1)), kommerzielle Zwecke iSd § 5a VI UWG zugrunde. Entgegen der Auffassung
+der Revision scheidet die Annahme einer geschäftlichen Handlung und eines
+kommerziellen Zwecks nicht aus, wenn für sie keine Gegenleistung erbracht wird (vgl.
+2021, 1400 Rn. 47–49 – Influencer I).
+44bb) Die Annahme des BerGer., die Bekl. habe die kommerziellen Zwecke der
+geschäftlichen Handlung nicht hinreichend kenntlich gemacht und diese
+Kennzeichnung sei auch nicht entbehrlich, hält der rechtlichen Nachprüfung nur mit
+Blick auf das geschäftliche Handeln der Bekl. zugunsten der fremden Unternehmen
+stand, nicht jedoch mit Blick auf das geschäftliche Handeln der Bekl. zugunsten ihres
+eigenen Unternehmens.
+45(1) Nach der Rechtsprechung des BGH ist eine Kennzeichnung des kommerziellen
+Zwecks dann nicht erforderlich, wenn das äußere Erscheinungsbild der geschäftlichen
+Handlung so gestaltet wird, dass die durchschnittlich informierten, situationsadäquat
+aufmerksamen und verständigen Verbraucher, die zur angesprochenen Gruppe
+gehören, den kommerziellen Zweck klar und eindeutig auf den ersten Blick – und nicht
+erst nach einem analysierenden Studium – erkennen können. Nicht ausreichend ist
+daher, wenn sich der werbliche Charakter eines Beitrags dem Verbraucher erst
+erschließt, wenn er ihn bereits zur Kenntnis genommen hat, denn dann ist er der
+Anlockwirkung bereits erlegen, die das Kennzeichnungsgebot gerade unterbinden soll,
+und war er der Werbebotschaft unvorbereitet ausgesetzt. Die Kennzeichnung soll dem
+Verbraucher gerade die Möglichkeit verschaffen, sich auf den kommerziellen Charakter
+der Handlung einzustellen, damit er sie von vornherein kritisch beurteilen oder sich ihr
+89 – Influencer I; BGH GRUR 2021, 1414 Rn. 34–36 – Influencer II, jew. mwN).
+46Der Annahme, der kommerzielle Zweck einzelner Beiträge, fremde Unternehmen zu
+fördern, ergebe sich aus den Umständen, kann die häufig anzutreffende Vermischung
+nicht-werblicher und werblicher Beiträge entgegenstehen. Bei einer solchen
+Vermischung der Beiträge ergibt sich dieser kommerzielle Zweck nicht bereits aus
+einer etwaigen Verifizierung des Profils (also der Kennzeichnung als „echtes Profil“ des
+namentlich benannten Inhabers, die nur bei Personen mit einer bestimmten
+öffentlichen Bekanntheit bzw. ab einer gewissen Anzahl an Followern erfolgt), einer
+besonders hohen Anzahl der Follower oder aus einer generellen Bekanntheit des
+Influencer I mwN). Hinsichtlich der Erkennbarkeit der eigennützigen Tätigkeit des
+Influencers kann diesen Umständen hingegen durchaus Bedeutung zukommen (vgl.
+BGHZ 231, 87 = GRUR 2021, 1414 Rn. 37-44 – Influencer II; BGH GRUR-RS 2021, 26632
+= ZUM-RD 2021, 693 Rn. 73–74; OLG Hamburg K & R 2020, 630 (632 f.) Rn. 55 ff.; OLG
+München GRUR 2020, 1096 (1098) Rn. 48).
+47(2) Das BerGer. hat ausgeführt, eine Kennzeichnung sei erforderlich. Das allgemeine
+Wissen von Nutzern darüber, dass Blogger auf Instagram häufig durch
+Werbekooperationen finanziert würden, stehe einer Pflicht zur Kennzeichnung
+einzelner Beiträge als Werbung für Drittunternehmen nicht entgegen. Selbst
+followerstarke Profile auf Instagram seien nicht stets kommerziell motiviert. Die Bekl.
+gestehe zu, dass ihre Follower Wert auf Authentizität legten. Gerade der Eindruck, dass
+Follower einen Einblick in die durch Werbeeinflüsse und Entgeltfinanzierung
+unbeeinflusste private Lebensführung erhielten, führe dazu, dass die Follower eine
+Haltung entwickelten, die sie gegenüber werbefinanzierten und daher gerade
+typischerweise wegen der Bezahlung geäußerten Vorlieben nicht entwickelten.
+Follower erwarteten zu Recht, dass auch ein etwaiges politisches Engagement nicht
+kommerziell beeinflusst sei.
+48(3) Diese Feststellungen des BerGer. tragen seine Beurteilung, der kommerzielle
+Zweck der geschäftlichen Handlung zugunsten der in der Anl. K 10 bezeichneten
+Drittunternehmen ergebe sich nicht unmittelbar aus den Umständen. Für die Annahme,
+der kommerzielle Zweck zugunsten des eigenen Unternehmens der Bekl. sei nicht
+unmittelbar erkennbar, reichen diese Feststellungen hingegen nicht aus (vgl.
+vorstehend Rn. 41 (B II 2 b aE)).
+49cc) Die Nichtkenntlichmachung des kommerziellen Zwecks der geschäftlichen
+Handlung zugunsten der in der Anl. K 10 bezeichneten Drittunternehmen war – wie das
+BerGer. zu Recht angenommen hat – auch geeignet, den Verbraucher zu einer
+geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen hätte.
+50(1) Eine geschäftliche Entscheidung, zu deren Veranlassung die
+Nichtkenntlichmachung iSd § 5a VI UWG geeignet sein muss, ist gem. § 2 I Nr. 9 UWG
+jede Entscheidung eines Verbrauchers oder sonstigen Marktteilnehmers darüber, ob,
+wie und unter welchen Bedingungen er ein Geschäft abschließen, eine Zahlung leisten,
+eine Ware oder Dienstleistung behalten oder abgeben oder ein vertragliches Recht im
+Zusammenhang mit einer Ware oder Dienstleistung ausüben will, unabhängig davon,
+ob der Verbraucher oder sonstige Marktteilnehmer sich entschließt, tätig zu werden.
+Der Begriff „geschäftliche Entscheidung“ erfasst außer der Entscheidung über den
+Erwerb oder Nichterwerb auch damit unmittelbar zusammenhängende
+Entscheidungen wie insbesondere das Betreten eines Geschäfts oder den Aufruf der
+Internetseite eines Unternehmens, um sich näher mit dessen Angebot und Produkten
+zu befassen. Dagegen stellt die Entscheidung des Verbrauchers, sich mit einem
+beworbenen Angebot in einer Werbeanzeige näher zu befassen, für sich gesehen
+mangels eines unmittelbaren Zusammenhangs mit einem Erwerbsvorgang noch keine
+1400 Rn. 95 – Influencer I mwN).
+51Die Entscheidung des Verbrauchers, sich näher mit dem Instagram-Beitrag mit
+Bezug zu den genannten Drittunternehmen zu befassen und sich durch einen ersten
+Klick (auf die Abbildung des Produkts) den „Tap Tag“ anzeigen zu lassen, stellt noch
+keine geschäftliche Entscheidung dar. Hingegen stellt der zweite Klick (auf den „Tap
+Tag“), mit dem sich der Verbraucher das Instagram-Profil des verlinkten Unternehmens
+anzeigen lässt, eine geschäftliche Entscheidung dar. Dabei kommt es nicht darauf an,
+dass die Verlinkungen nicht unmittelbar auf die Produktangebote dieser Unternehmen
+gesetzt wurden. Es reicht aus, dass der Verbraucher sich über das Instagram-Profil des
+Unternehmens näher mit dem jeweiligen Unternehmen und seinen Produkten
+auseinandersetzen konnte, insbesondere da dort ein weiterführender Link auf dessen
+1400 Rn. 96 – Influencer I mwN).
+52(2) Das Nichtkenntlichmachen des kommerziellen Zwecks der geschäftlichen
+Handlung ist dazu geeignet, Nutzer des Instagram-Beitrags der Bekl. zum Klick auf den
+„Tap Tag“ zu veranlassen.
+53 Ebenso wie für die Informationspflichtverletzung nach § 5 a II UWG gilt für die
+Informationspflichtverletzung nach § 5a VI UWG die Annahme, dass die
+Nichtkenntlichmachung des kommerziellen Zwecks im Regelfall geeignet ist, eine
+geschäftliche Entscheidung des Verbrauchers zu veranlassen. Denn der Verbraucher
+steht einer geschäftlichen Handlung im Falle des Erkennens des kommerziellen
+Zwecks von vornherein kritischer gegenüber. Den Unternehmer trifft daher auch im
+Rahmen von § 5a VI UWG die sekundäre Darlegungslast für Umstände, die gegen die
+3450 = GRUR 2021, 1400 Rn. 98 – Influencer I mwN). Die Revision hat nicht auf vom
+BerGer. übergangenen Vortrag der Bekl. zu Umständen verwiesen, die gegen die
+Relevanz der Nichtkenntlichmachung des kommerziellen Zwecks der geschäftlichen
+Handlung sprechen.
+54dd) Nach der Rechtsprechung des BGH ist eine geschäftliche Handlung, die die
+Voraussetzungen des § 5a VI UWG erfüllt, nicht als unlauter anzusehen, wenn sie den
+Erfordernissen des § 6 I Nr. 1 TMG sowie des § 58 I 1 RStV und § 22 I 1 MStV genügt,
+weil es sich dabei um vorrangige Spezialvorschriften handelt, deren Wertungen durch
+das Lauterkeitsrecht nicht unterlaufen werden dürfen (vgl. dazu BGHZ 231, 87 = GRUR
+2021, 1414 Rn. 58–61 und 71 – Influencer II). Dies führt im Streitfall dazu, dass die in
+der Anl. K 10 dokumentierte geschäftliche Handlung nur unter dem Gesichtspunkt der
+Förderung des Unternehmens Six, nicht aber wegen der Förderung der Unternehmen
+Clockhouse, Furla und Subdued wegen Verstoßes gegen § 6 I Nr. 1 TMG (dazu Rn. 55–
+68 (B II 2 b dd (1))) sowie § 58 I 1 RStV und § 22 I 1 MStV (dazu Rn. 69–78 (B II 2 b dd
+(2))) als nach § 5 a VI UWG unlauter anzusehen ist.
+55(1) Die in der Anl. K 10 dokumentierte geschäftliche Handlung verstößt unter dem
+Gesichtspunkt der Förderung fremden Wettbewerbs nur hinsichtlich des
+Unternehmens Six, nicht jedoch der Unternehmen Clockhouse, Furla und Subdued
+gegen § 6 I Nr. 1 TMG, weil es sich nur insoweit um kommerzielle Kommunikation im
+Sinne dieser Vorschrift handelt, die nicht hinreichend als solche erkennbar ist.
+56(a) Nach § 6 I Nr. 1 TMG haben Diensteanbieter bei kommerziellen
+Kommunikationen, die Telemedien oder Bestandteile von Telemedien sind, zu
+beachten, dass die kommerziellen Kommunikationen klar als solche zu erkennen sein
+müssen.
+57(b) Influencer, die ein eigenständiges Profil auf der Social-Media-Plattform
+Instagram, einem Telemedium iSd
+§ 1 I 1 TMG, betreiben, sind Diensteanbieter iSd § 2  Nr. 1 TMG (dazu im Einzelnen
+2021, 1414 Rn. 49–52 – Influencer II).
+58(c) Kommerzielle Kommunikation ist gem. § 2  Nr. 5 TMG jede Form der
+Kommunikation, die der unmittelbaren oder mittelbaren Förderung des Absatzes von
+Waren, Dienstleistungen oder des Erscheinungsbilds eines Unternehmens, einer
+sonstigen Organisation oder einer natürlichen Person dient, die eine Tätigkeit im
+Handel, Gewerbe oder Handwerk oder einen freien Beruf ausübt. Keine kommerzielle
+Kommunikation stellt nach § 2  Nr. 5 Buchst. b TMG die Übermittlung von Angaben
+in Bezug auf Waren und Dienstleistungen oder das Erscheinungsbild eines
+Unternehmens, einer Organisation oder Person dar, die unabhängig und insbesondere
+ohne finanzielle Gegenleistung gemacht werden. Gemäß einer Ergänzung in § 2 
+Nr. 5 Buchst. b TMG durch das Gesetz zur Änderung des Telemediengesetzes und
+weiterer Gesetze vom 19.11.2020 (BGBl. 2020 I 2456) umfasst dies auch solche
+unabhängig und insbesondere ohne finanzielle Gegenleistung oder sonstige Vorteile
+von natürlichen Personen gemachten Angaben, die eine unmittelbare Verbindung zu
+einem Nutzerkonto von weiteren natürlichen Personen bei Diensteanbietern
+ermöglichen.
+59Danach liegt sowohl nach der alten als auch nach der neuen Fassung des § 2 
+Nr. 5 Buchst. b TMG kommerzielle Kommunikation zugunsten fremder Unternehmen
+nicht vor, wenn die Angaben unabhängig und insbesondere ohne finanzielle
+Gegenleistung gemacht werden. Für die Eigenwerbung gilt die Ausnahmeregelung des
+§ 2  Nr. 5 Buchst. b TMG hingegen nicht, so dass es für die Beurteilung als
+kommerzielle Kommunikation nicht auf die Unabhängigkeit einer Angabe,
+insbesondere das Fehlen einer Gegenleistung, ankommt (BGHZ 231, 87 = GRUR 2021,
+1414 Rn. 75 f. – Influencer II).
+60(d) Die in der Anl. K 10 dokumentierte Handlung dient zwar der Förderung des
+Absatzes von Waren der dort bezeichneten Unternehmen Six, Clockhouse, Furla und
+Subdued (dazu bereits oben Rn. 35-38 (B II 1 b c)). Nur das geschäftliche Handeln
+zugunsten des Unternehmens Six stellt jedoch kommerzielle Kommunikation iSv § 2  Nr. 5 TMG dar. Angaben, die durch die Gewährung geldwerter Vorteile veranlasst
+worden sind, erfolgen nicht unabhängig iSd § 2  Nr. 5 Buchst. b TMG.
+61Die Vorschriften des § 2  Nr. 5 TMG und des § 6 I Nr. 1 TMG dienen der
+Umsetzung von Art. 2 Buchst. f und Art. 6 Buchst. a RL 2000/31/EG und sind daher
+richtlinienkonform auszulegen (zu den Vorgängernormen § 3 I Nr. 5 und § 7 Nr. 1 TDG
+vgl. RegE eines Gesetzes über rechtliche Rahmenbedingungen für den elektronischen
+Geschäftsverkehr, BT-Drs. 14/6098, 11, 16 und 22; zu § 2 und 6 TMG vgl. RegE eines
+Gesetzes zur Vereinheitlichung von Vorschriften über bestimmte elektronische
+Informations- und Kommunikationsdienste, BR-Drs. 556/06, 13, 19 und 20).
+62Dem in Art. 6 Buchst. a RL 2000/31/EG geregelten Gebot der klaren Erkennbarkeit
+kommerzieller Kommunikationen liegt die Erwägung zugrunde, dass die verschiedenen
+Formen kommerzieller Kommunikation im Interesse des Verbraucherschutzes und der
+Lauterkeit des Geschäftsverkehrs bestimmten Transparenzanforderungen genügen
+müssen ( des Erwägungsgrunds 29 RL 2000/31/EG. Die Empfänger kommerzieller
+Kommunikation sollen durch die Pflicht zur Kennzeichnung vor der Gefahr geschützt
+werden, dass ein Diensteanbieter sie über den kommerziellen Zweck einer Mitteilung
+im Unklaren lässt (BeckOK InfoMedienR/Martini, 34. Ed. 1.2.2021, TMG § 2 Rn. 25).
+Ausgenommen vom Begriff der kommerziellen Kommunikation sind nach Art. 2
+Buchst. f 2. Spiegelstrich RL 2000/31/EG Angaben in Bezug auf Waren oder
+Dienstleistungen oder das Erscheinungsbild eines Unternehmens, einer Organisation
+oder Person, die unabhängig und insbesondere ohne finanzielle Gegenleistung
+gemacht werden. Unabhängig, insbesondere ohne Gegenleistung erfolgende
+Informationen zu Produkten, etwa auch Testberichte, sind damit nicht als Werbung
+kennzeichnungspflichtig (zu § 3 I Nr. 5 TDG aF vgl. BT-Drs. 14/6098, 11). Das
+Erfordernis der Unabhängigkeit stellt sicher, dass Verbraucher nicht durch die
+vermeintlich wirtschaftlich unbeeinflusste Authentizität einer Darstellung, etwa einer
+Produktempfehlung, in die Irre geführt werden (vgl. BeckOK InfoMedienR/Martini TMG
+§ 2 Rn. 29 c). Nach dem klaren Wortlaut der Vorschrift, in dem der vorgenannte
+Schutzzweck zum Ausdruck gelangt, handelt es sich bei dem Erfordernis der
+Unabhängigkeit um den Oberbegriff, der „insbesondere“, also beispielhaft, im Falle
+einer Gegenleistung nicht erfüllt ist (vgl. auch den entsprechenden englischen,
+französischen und spanischen Wortlaut von Art. 2 Buchst. f 2. Spiegelstrich RL
+2000/31/EG: „…in an independent manner, particularly when this is without financial
+consideration“/„…d’une manière indépendante, en particulier lorsqu’elles sont fournies
+sans contrepartie financière“/„…de forma independiente de ella, en particular cuando
+estos se realizan sin contrapartida económica“).
+63Der Schutzzweck dieser Regelung gleicht damit dem Schutzzweck der in Nr. 11 
+des Anhangs zur RL 2005/29/EG vorgesehenen Regelung. Danach liegt eine unter allen
+Umständen als unlauter geltende irreführende Geschäftspraktik vor, wenn
+redaktionelle Inhalte in Medien zu Zwecken der Verkaufsförderung eingesetzt werden
+und der Gewerbetreibende diese Verkaufsförderung bezahlt hat, ohne dass dies aus
+dem Inhalt oder aus für den Verbraucher klar erkennbaren Bildern und Tönen eindeutig
+hervorgehen würde. Auch hiermit wird bezweckt, das Vertrauen von Verbrauchern in
+die Neutralität redaktioneller Inhalte zu schützen und versteckte Werbung im Interesse
+der Verbraucher und Wettbewerber zu verhindern (vgl. EuGH ECLI:EU:C:2021:674 =
+GRUR 2021, 1312 = WRP 2021, 1411 Rn. 29 – Peek & Cloppenburg; BGH GRUR 2020,
+997 = WRP 2020, 1295 Rn. 29 – GRAZIA StyleNights). Dieser Zweck kann nur erreicht
+werden, wenn unter Bezahlung iSd Nr. 11  des Anhangs I zur RL 2005/29/EG nicht
+nur die Zahlung eines Geldbetrags, sondern jeder geldwerte Vorteil – auch in Form von
+Gegenständen oder Dienstleistungen – verstanden wird, sofern ein eindeutiger
+Zusammenhang zwischen der in dieser Weise vom Gewerbetreibenden geleisteten
+Bezahlung und der Veröffentlichung besteht (vgl. EuGH GRUR 2021, 1312 Rn. 44 u. 49
+– Peek & Cloppenburg).
+64 Die in Art. 6 Buchst. a iVm Art. 2 Buchst. f RL 2000/31/EG niedergelegten
+Transparenzanforderungen gebieten es in gleicher Weise, der Förderung des Absatzes
+von Waren oder Dienstleistungen dienende Angaben einer Influencerin
+mangels Unabhängigkeit als kommerzielle Kommunikation iSd § 2  Nr. 5 TMG
+anzusehen, wenn der hierdurch begünstigte Unternehmer zwar keine Geldzahlung
+geleistet, jedoch das dargestellte Produkt der Influencerin zur Verfügung gestellt hat
+(vgl. Köhler/Bornkamm/Feddersen/Köhler, UWG, 40. Aufl., UWG § 5 a Rn. 7.80 j;
+Hoeren/Sieber/Holznagel/MultimediaR-HdB/Holznagel/Hartmann, 52. EL April 2020,
+Teil 3 Rn. 215; Lehmann WRP 2017, 772 Rn. 6; Rauer/Kempf WRP 2022, 16 Rn. 22). Der
+Bezug zwischen Bericht und geldwertem Vorteil wird hier durch die naheliegende und
+daher regelhaft anzunehmende Erwartung des durch den Bericht begünstigten
+Unternehmens hergestellt, dass die Influencerin über das Produkt berichten werde (vgl.
+Henning-Bodewig WRP 2017, 1415 Rn. 22). Ein solcher Bericht ist durch die
+Produktbereitstellung initiiert und daher nicht unabhängig, so dass er als kommerzielle
+Kommunikation nach § 6 I TMG erkennbar sein muss.
+65Ohne Erfolg macht die Revision geltend, es bedürfe eines synallagmatischen
+Zusammenhangs zwischen Beitrag und Gegenleistung. Abgesehen davon, dass das
+Bewirken einer Gegenleistung nur einen Unterfall fehlender Unabhängigkeit iSd § 2  Nr. 5 Buchst. b TMG darstellt, verlangt der Schutzzweck der Regelung die Erfassung
+auch solcher Gewährungen geldwerter Vorteile, mit denen Beiträge gerade erst
+veranlasst werden sollen, ohne dass zuvor eine Vereinbarung getroffen wurde.
+66Eine für geldwerte Vorteile geltende Geringfügigkeitsschwelle sieht § 2  Nr. 5
+TMG nicht vor. Demgegenüber ist nach § 2 II Nr. 11 RStV und § 2 II Nr. 12 MStV die
+kostenlose Bereitstellung von Waren oder Dienstleistungen nur als Produktplatzierung
+in Sendungen oder nutzergenerierten Videos anzusehen, sofern die betreffende Ware
+oder Dienstleistung von bedeutendem Wert ist. Für die analoge Anwendung dieser für
+Produktplatzierung geltenden Geringfügigkeitsschwelle ist im Rahmen des § 6 I TMG
+jedoch mangels planwidriger Regelungslücke kein Raum.
+67Im Streitfall erfolgte allein die das Unternehmen Six betreffende Darstellung nicht
+unabhängig iSd § 2  Nr. 5 Buchst. b TMG, weil die Bekl. nach den Feststellungen
+des BerGer. die mit dem „Tap Tag“ versehenen Ohrringe von diesem Unternehmen zur
+Verfügung gestellt bekommen hat. Hingegen hatte die Bekl. die übrigen mit „Tap Tag“
+versehenen Bekleidungsstücke und Accessoires der anderen Unternehmen mit
+eigenen Mitteln erworben, so dass es sich um unabhängige Darstellungen handelt.
+68(e) Die in der Anl. K 10 enthaltene kommerzielle Kommunikation zugunsten des
+Unternehmens Six ist entgegen § 6 I TMG nicht als solche erkennbar. Hier kann auf die
+Ausführungen zur Erkennbarkeit der Werbung nach § 5 a VI UWG verwiesen werden,
+die entsprechend gelten (dazu Rn. 44–48 (B II 2 b bb)).
+69(2) Die in der Anl. K 10 dokumentierte geschäftliche Handlung verstößt hinsichtlich
+der Förderung des Unternehmens Six, nicht jedoch hinsichtlich der Unternehmen
+Clockhouse, Furla und Subdued auch gegen § 58 I 1 RStV und § 22 I 1 des während
+des Rechtsstreits mit Wirkung vom 7.11.2020 an die Stelle des
+Rundfunkstaatsvertrags getretenen Medienstaatsvertrags (MStV) vom 14.9.2020 (GV.
+Nordrhein-Westfalen 2020, 524).
+70(a) Nach § 58 I 1 RStV muss Werbung als solche klar erkennbar und vom übrigen
+Inhalt der Angebote eindeutig getrennt sein. Dieser Regelung entspricht diejenige in § 22 I 1 MStV.
+71(b) Beide Vorschriften sind auf Werbung in Telemedien anwendbar, da sie im VI.
+Abschnitt des Rundfunkstaatsvertrags bzw. im 2. Unterabschnitt des
+Medienstaatsvertrags enthalten sind, die jeweils den Titel „Telemedien“ tragen.
+72(c) Gemäß § 2 II Nr. 7 RStV ist Werbung jede Äußerung bei der Ausübung eines
+Handels, Gewerbes, Handwerks oder freien Berufs, die im Rundfunk von einem
+öffentlich-rechtlichen oder einem privaten Veranstalter oder einer natürlichen Person
+entweder gegen Entgelt oder eine ähnliche Gegenleistung oder als Eigenwerbung
+gesendet wird, mit dem Ziel, den Absatz von Waren oder die Erbringung von
+Dienstleistungen, einschließlich unbeweglicher Sachen, Rechte und Verpflichtungen,
+gegen Entgelt zu fördern. Diese Definition ist auch auf den Begriff der Werbung in
+Telemedien gem. § 58 I RStV anzuwenden. § 2 II Nr. 7 MStV enthält nunmehr eine auch
+ausdrücklich auf Telemedien bezogene, im Übrigen übereinstimmende Definition (vgl.
+GRUR 2021, 1414 Rn. 65–67 – Influencer II, jew. mwN).
+73Danach stellt eine Äußerung mit dem Ziel, den Absatz von Waren oder die Erbringung
+von Dienstleistungen eines fremden Unternehmens zu fördern, nur dann eine Werbung
+im Sinne dieser Vorschrift dar, wenn sie gegen Entgelt oder eine ähnliche
+Gegenleistung gemacht wird. Für die Eigenwerbung setzen § 2 II Nr. 7 RStV und § 2 II
+Nr. 7 MStV hingegen nicht voraus, dass für diese ein Entgelt oder eine ähnliche
+Gegenleistung erbracht wird (BGHZ 231, 87 = GRUR 2021, 1414 Rn. 77 – Influencer II).
+74 (d) Unionsrechtlicher Hintergrund dieser Regelungen ist, soweit – wie im Streitfall –
+Telemedien betroffen sind, die keinen audiovisuellen Mediendienst iSd Art. 1 I
+Buchst. a RL 2010/13/EU zur Koordinierung bestimmter Rechts- und
+Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller
+Mediendienste darstellen, ebenfalls Art. 2 Buchst. f und Art. 6 Buchst. a RL 2000/31/EG
+(vgl. BeckOK InfoMedienR/Fiedler MStV § 22 Rn. 1). Bei der Auslegung der
+Tatbestandsmerkmale des Entgelts oder einer ähnlichen Gegenleistung ist somit –
+ebenso wie im Falle von § 2  Nr. 5 Buchst. b und § 6 I Nr. 1 TMG – der in Art. 2
+Buchst. f 2. Spiegelstrich RL 2000/31/EG genannte Oberbegriff der Unabhängigkeit
+maßgeblich (dazu vorstehend Rn. 60–67 (B II 2 b dd (1) (d))). Diese Vorschriften dienen
+mithin gleichfalls dem Zweck, einer Irreführung des Empfängers über Motivation,
+Zweck und Zustandekommen einer Mitteilung vorzubeugen (vgl. BeckOK
+InfoMedienR/Fiedler MStV § 22 Rn. 2; Beck RundfunkR/Ladeur, 4. Aufl., RStV § 58 Rn.
+4; Spindler/Schuster/Smid Recht der elektronischen Medien, 4. Aufl., RStV § 58 Rn. 1).
+75Diesem Schutzzweck entsprechend ist unter einem Entgelt oder einer ähnlichen
+Gegenleistung iSd § 2 II Nr. 7 RStV und § 2 II Nr. 7 MStV neben Geld- oder
+Sachleistungen jede geldwerte Gegenleistung zu verstehen (vgl. Beck
+RundfunkR/Schulz, MStV § 2 Rn. 91; Hoeren/Sieber MultimediaR-
+HdB/Holznagel/Hartmann Teil 3 Rn. 215; BeckOK InfoMedienR/Martini MStV § 2 Rn.
+52). Der Förderung des Absatzes von Waren oder Dienstleistungen dienende Angaben
+einer Influencerin sind daher als Werbung iSv § 2 II Nr. 7 RStV und § 2 II Nr. 7 MStV
+anzusehen, wenn der hierdurch begünstigte Unternehmer zwar keine Geldzahlung
+geleistet, jedoch das dargestellte Produkt zur Verfügung gestellt hat (vgl.
+Hoeren/Sieber MultimediaR-HdB/Holznagel/Hartmann Teil 3 Rn. 215; Gerecke GRUR
+2018, 153 (154); Suwelack MMR 2017, 661 (663)). Stellt der durch die Angabe
+begünstigte Unternehmer das Produkt kostenlos und in der naheliegenden und daher
+regelhaft anzunehmenden Erwartung bereit, dass die Influencerin über das Produkt
+berichten werde, wird die Angabe gegen eine Gegenleistung gemacht.
+76Eine für geldwerte Vorteile geltende Geringfügigkeitsschwelle sehen weder § 2 II Nr.
+7 RStV noch § 2 II Nr. 7 MStV vor. Eine analoge Anwendung der
+Geringfügigkeitsschwelle für Produktplatzierung in Sendungen oder nutzergenerierten
+Videos (§ 2 II Nr. 11 RStV und § 2 II Nr. 12 MStV), die zwar nicht in Art. 11 RL
+2010/13/EU, sehr wohl aber in Erwägungsgrund 91  dieser Richtlinie erwähnt ist,
+auf Beiträge in – im Streitfall betroffenen – Telemedien, die keinen audiovisuellen
+Mediendienst iSd Art. 1 I Buchst. a RL 2010/13/EU darstellen, scheidet mangels
+planwidriger Regelungslücke aus.
+77Im Streitfall stellen Werbung im Sinne dieser Vorschriften nur die auf das
+Unternehmen Six bezogenen Angaben dar, weil die Bekl. die mit einem „Tap Tag“
+versehenen Ohrringe von diesem Unternehmen zur Verfügung gestellt bekommen hat.
+Die übrigen, von fremden Unternehmen stammenden Waren, die im Beitrag gezeigt
+werden, hat sie hingegen selbst erworben.
+78(e) Die Werbung zugunsten des Unternehmens Six ist entgegen § 58 I 1 RStV und § 22 I 1 MStV nicht als solche klar erkennbar; die Ausführungen zur Erkennbarkeit nach
+§ 5 a VI UWG (dazu Rn. 44-48 (B II 2 b bb)) gelten auch hier entsprechend.
+79c) Hinsichtlich der mit der Anl. K 11 dokumentierten Handlung ist das Verbot nach § 5 a VI UWG mit Blick auf das Handeln der Bekl. zugunsten des Presseunternehmens,
+das das Magazin Icon verlegt, begründet, nicht jedoch mit Blick auf das Handeln der
+Bekl. zugunsten des Stylisten Alem-Awat, des Fotografen Wagner und des
+Kosmetikunternehmens Givenchy Beauty. Dies rechtfertigt das auf die konkrete
+1400 Rn. 22 u. 130 – Influencer I).
+80aa) Das BerGer. hat festgestellt, äußerer Anlass des Beitrags sei die Verleihung eines
+Preises an die Bekl. gewesen, ohne dass dies mitgeteilt und die Herkunft des Fotos aus
+einer anderen Zeitschrift offensichtlich werde. Es folgten mehrere Hinweise auf
+Ausstatter und Dienstleister, die an der Gestaltung des Fotos mitgewirkt hätten. Die
+Bekl. habe angegeben, dass sämtliche Dienstleistungen ohne Gegenleistung zur
+Verfügung gestellt worden seien. Diese Feststellungen sind allerdings nicht dahin zu
+verstehen, dass die Bekl. die Dienstleistungen des Stylisten, der die im Beitrag ebenfalls
+bezeichneten Kosmetikprodukte verwandte, und des Fotografen von diesen kostenlos
+zugewandt erhalten hätte. Vielmehr sind sie mit Blick auf die Feststellungen des LG,
+die das BerGer. in Bezug genommen hat, und vor dem Hintergrund des Vortrags der
+Bekl., dem der Kl. insoweit nicht entgegengetreten ist, dahin zu verstehen, dass die
+Beauftragung der Dienstleister vom den Preis verleihenden und gleichfalls im
+angegriffenen Beitrag bezeichneten Presseunternehmen ausging, das das Magazin
+Icon verlegt und der Bekl. ein „Fotoshooting“ einschließlich der vorgelagerten Styling-
+Dienstleistung zukommen ließ.
+81bb) Die in § 5 a VI UWG vorgesehenen Tatbestandsmerkmale des kommerziellen
+Zwecks, seiner fehlenden unmittelbaren Erkennbarkeit und der geschäftlichen
+Relevanz sind hinsichtlich des Handelns der Bekl. zugunsten fremder Unternehmen in
+gleicher Weise erfüllt wie hinsichtlich der mit der Anl. K 10 dokumentierten Handlung.
+Die Feststellungen des BerGer. tragen allerdings auch hier nicht die Annahme, das
+Handeln der Bekl. zugunsten ihres eigenen Unternehmens ergebe sich nicht
+unmittelbar aus den Umständen. Die vorstehenden Ausführungen (Rn. 42–53 (II 2 b aa,
+bb und cc)) gelten entsprechend.
+82cc) Die mit der Anl. K 11 dokumentierte Handlung verstößt auch gegen § 6 I Nr. 1
+TMG sowie § 58 I 1 RStV und § 22 I 1 MStV, soweit darin ein Handeln zugunsten des
+Presseunternehmens, das das Magazin Icon verlegt, liegt, nicht jedoch hinsichtlich der
+Angaben zugunsten des Stylisten Alem-Awat, des Fotografen Wagner und des
+Kosmetikherstellers Givenchy Beauty.
+83Die Bekl. hat vom Presseunternehmen die geldwerten Leistungen des
+„Fotoshootings“ einschließlich der Styling-Dienstleistungen zugewandt bekommen.
+Der redaktionelle Zusammenhang mit der Preisverleihung wird im Beitrag nicht
+kommuniziert, so dass er bei der Beurteilung seines Aussagegehalts außer Betracht zu
+bleiben hat. Mit Blick auf die naheliegende Erwartung, dass die Bekl. über das
+„Fotoshooting“ berichten werde, besteht auch der erforderliche Zusammenhang
+zwischen Gewährung der geldwerten Vorteile und dem werblichen Beitrag. Nach den
+vorstehenden Ausführungen zur mit der Anl. K 10 dokumentierten Handlung (Rn. 54–
+78 (B II 2 b dd)), die hier entsprechend gelten, handelt es sich daher insoweit um
+kennzeichnungspflichtige kommerzielle Kommunikation iSd § 6 I Nr. 1 TMG und
+kennzeichnungspflichtige Werbung iSd § 58 I 1 RStV und § 22 I 1 MStV. Anders verhält
+es sich hinsichtlich der Angaben zugunsten des Stylisten, des Fotografen und des
+Kosmetikherstellers, denen keine von diesen Unternehmern ausgehenden geldwerten
+Leistungen an die Bekl. zugrunde liegen.
+84d) Das Verbot der mit der Anl. K 12 dokumentierten Handlung ist nach § 5 a VI UWG
+nur begründet, soweit die Bekl. hiermit zugunsten der Unternehmen Giacomelli und
+Weat gehandelt hat. Ob dies auch hinsichtlich des Handelns der Bekl. zugunsten ihres
+eigenen Unternehmens und des Unternehmens Six gilt, kann offenbleiben, weil das auf
+die konkrete Verletzungsform bezogene Verbot unabhängig davon begründet ist (vgl.
+85aa) Die in § 5 a VI UWG vorgesehenen Tatbestandsmerkmale des kommerziellen
+Zwecks, seiner fehlenden unmittelbaren Erkennbarkeit und der geschäftlichen
+Relevanz
+sind hinsichtlich des Handelns der Bekl. zugunsten fremder Unternehmen in gleicher
+Weise erfüllt wie hinsichtlich der mit der Anl. K 10 dokumentierten Handlung. Die
+Feststellungen des BerGer. tragen allerdings auch hier nicht die Annahme, das Handeln
+der Bekl. zugunsten ihres eigenen Unternehmens ergebe sich nicht unmittelbar aus den
+Umständen. Die vorstehenden Ausführungen (Rn. 42–53 (II 2 b aa, bb und cc)) gelten
+entsprechend.
+86bb) Die mit der Anl. K 12 dokumentierte Handlung verletzt hinsichtlich der Angaben
+zugunsten der Unternehmen Giacomelli und Weat die medienrechtlichen
+Spezialvorschriften des § 6 I Nr. 1 TMG sowie des § 58 I 1 RStV und § 22 I 1 MStV.
+87Nach den Feststellungen des BerGer. hat die Bekl. in der Darstellung gezeigte
+Kleidungsstücke und Accessoires von diesen Unternehmen zur Verfügung gestellt
+bekommen. Nach den vorstehenden Ausführungen zur mit der Anl. K 10
+dokumentierten Handlung (Rn. 54–78 (B II 2 b dd)), die hier entsprechend gelten,
+handelt es sich daher insoweit um kennzeichnungspflichtige kommerzielle
+Kommunikation iSd § 6 I Nr. 1 TMG und kennzeichnungspflichtige Werbung iSd § 58 I
+1 RStV und § 22 I 1 MStV.
+88 e) Soweit sich die Bekl. auf die erneute Abmahnung hinsichtlich der mit der Anl. K
+12 dokumentierten Handlung strafbewehrt unterworfen hat, ist die
+Wiederholungsgefahr nicht entfallen. Angesichts der in der Erklärung der Bekl.
+vorgenommenen Einschränkung auf den Begleittext der Abbildungen erfasst sie nicht
+die mit dem gerichtlich verfolgten Unterlassungsanspruch beanstandeten
+Verhaltensweisen.
+89III. Die Verurteilung zur Zahlung der Vertragsstrafe hält der revisionsrechtlichen
+Nachprüfung ebenfalls stand.
+901. Gegen die Beurteilung des BerGer., dass die als Verletzung der vertraglichen
+Unterlassungsverpflichtung beanstandeten Handlungen kerngleich mit dem
+Gegenstand des strafbewehrten Unterlassungsversprechens sind, wendet sich die
+Revision ebenso wenig wie gegen die Höhe der zugesprochenen Vertragsstrafe.
+Rechtliche Bedenken bestehen insoweit auch nicht.
+912. Der Einwand der Revision, der Unterlassungsvertrag stehe unter der auflösenden
+Bedingung einer höchstrichterlichen Klärung des beanstandeten Verhaltens als
+rechtmäßig, bringt den Anspruch auf Zahlung der Vertragsstrafe nicht zu Fall.
+92a) Der Eintritt einer auf die Änderung oder endgültige Klärung der Rechtslage
+bezogenen auflösenden Bedingung einer vertraglichen Unterlassungsverpflichtung
+wirkt gem. § 158 II BGB lediglich ex nunc, so dass er nicht zu einem Wegfall der
+Unterlassungsverpflichtung für die Vergangenheit führt (vgl. BGHZ 133, 331 (333 f.) =
+93b) Im Zeitpunkt der Vornahme der im Streitfall beanstandeten Handlungen im
+Oktober 2019 stand eine höchstrichterliche Klärung der mit Blick auf § 5 a VI UWG an
+Beiträge von Influencern in sozialen Medien zu stellenden Anforderungen noch aus.
+Diese ist frühestens mit den Urteilen des BGH vom 9.9.2021 eingetreten (BGHZ 231,
+14 f. – Influencer II). Die nachfolgende Klärung dieser Fragen lässt daher den Bestand
+der vertraglichen Unterlassungspflicht im Handlungszeitpunkt unberührt.
+94C. Danach ist die Revision mit der Kostenfolge des § 97 I ZPO zurückzuweisen.
+Anmerkung der Redaktion
+S. hierzu den Praxishinweis von Brtka/Witzmann GRUR-Prax 2022, 183. Zu den
+zu dieser Entscheidung; in diesem Heft). – Mit den lauterkeitsrechtlichen Schranken
+für Influencer in sozialen Medien unter Berücksichtigung der Influencer-
+Transparenzregeln im UWG wie etwa zu Bewertungen, Rankings und Influencer
+beschreibt Peifer GRUR 2021, 1453.

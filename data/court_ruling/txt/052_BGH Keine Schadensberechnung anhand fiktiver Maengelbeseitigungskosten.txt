@@ -1,0 +1,104 @@
+Keine Schadensberechnung anhand fiktiver Mängelbeseitigungskosten
+HOAI (2002) § 15; BGB §§ 631 I, 634 Nr. 4, 636
+Ein Schaden aus Planungs- oder Überwachungsfehlern, die sich im Bauwerk bereits
+verwirklicht haben, kann nicht anhand der „fiktiven Mängelbeseitigungskosten“
+(Leitsatz der Redaktion)
+BGH, Urteil vom 24.9.2020 – VII ZR 91/18
+Zum Sachverhalt
+Die Kl., eine Bauträgerin, begehrt von dem beklagten Architekten Schadensersatz
+wegen mangelhafter Planung. Die Kl. beauftragte den Bekl. am 9.8.2007 mit
+Planungsleistungen der Leistungsphasen 1-5 gem. § 15 HOAI (2002) betreffend die
+Errichtung eines Mehrfamilienhauses mit Tiefgarage auf dem Grundstück (...) in B.
+sowie mit der Erstellung eines Entwässerungsgesuchs. Der Bekl. erbrachte die
+vereinbarten Planungsleistungen, die auch die Planung der Flachdächer des Objekts
+umfasste. Die Kl. bezahlte die vom Bekl. erbrachten und mit Schlussrechnung vom
+3.7.2009 abgerechneten Leistungen. Am 4.8.2010 wurde das Objekt fertiggestellt und
+durch die Wohnungseigentümergemeinschaft (...) gegenüber der Kl. abgenommen. Im
+Jahr 2013 leitete die Wohnungseigentümergemeinschaft ein selbstständiges
+Beweisverfahren gegen die Kl. ein, in welchem sie unter anderem die Mangelhaftigkeit
+der Flachdächer rügte.
+Die Kl. begehrt von dem Bekl. Schadensersatz mit der Begründung, die
+Mangelhaftigkeit der Flachdächer beruhe auf von ihm zu verantwortenden
+Planungsfehlern. Den Schadensersatz bemisst sie nach den voraussichtlich
+erforderlichen – noch nicht aufgewendeten – „fiktiven“ Mängelbeseitigungskosten.
+Das LG Bochum (Urt. v. 13.7.2016 – 2 O 356/15) hat die Klage auf Zahlung von 172.067,
+74 Euro nebst Zinsen und außergerichtlichen Rechtsanwaltskosten sowie auf
+Feststellung der Ersatzpflicht für weitere Schäden abgewiesen. Auf die Berufung der
+Kl. hat das BerGer. das
+Mängelbeseitigungskosten(NJW-RR 2020, 1471)
+erstinstanzliche Urteil – unter Zurückweisung des Rechtsmittels im Übrigen – teilweise
+abgeändert und den Bekl. verurteilt, an die Kl. 151.778, 02 Euro nebst Zinsen zu zahlen.
+Darüber hinaus hat es festgestellt, dass der Bekl. verpflichtet ist, der Kl. alle weiteren
+Schäden aufgrund der mangelhaften Planung der Flachdächer zu ersetzen. Auf die
+Beschwerde des Bekl. gegen die Nichtzulassung der Revision hat der Senat unter
+Zurückweisung der weiteren Beschwerde die Revision zugelassen (OLG Hamm Urt. v.
+2.3.2018 – I-12 U 113/16). Die Revision des Bekl. und die Anschlussrevision der Kl.
+hatten Erfolg.
+Aus den Gründen
+9I. Das BerGer. hat – soweit für das Revisionsverfahren von Interesse – ausgeführt:
+10Die Kl. habe gegen den Bekl. einen Anspruch auf Schadensersatz gem. §§ 631 I, 634
+Nr. 4, 636, 280 I BGB. Der Bekl. habe die Flachdächer in mehrfacher Hinsicht
+mangelhaft geplant. Der geplante Dachaufbau entspreche nicht den anerkannten
+Regeln der Technik, was zu Wassereinlagerungen in der Dachkonstruktion und zu
+Schimmelschäden geführt habe. Ferner habe der Bekl. bei der Planung die
+Brandschutzvorgaben nicht berücksichtigt.
+11Der Kl. sei hierdurch ein Schaden in der ausgeurteilten Höhe entstanden. Sie könne
+ihren Schadensersatzanspruch nach den Kosten berechnen, die für eine
+ordnungsgemäße Mängelbeseitigung erforderlich seien. Der Sache nach handele es
+sich um einen Regressanspruch. Der Bekl. habe seine Werkleistungen im
+Vertragsverhältnis zur Kl. erbracht, was grundsätzlich unabhängig vom
+Vertragsverhältnis zu den Erwerbern zu betrachten sei. Der von dem Bekl. in seinem
+Vertragsverhältnis zur Kl. schuldhaft verursachte Mangel selbst sei bereits der bei der
+Kl. eingetretene Schaden. Abweichend von § 249  BGB werde dieser Schaden durch
+den zur Mängelbeseitigung erforderlichen Betrag abgegolten. Die Schadenshöhe
+hinsichtlich der Mängelbeseitigungskosten sei mit 172.067, 74 Euro netto nicht streitig.
+Abzüglich der Sowieso-Kosten iHv 20.289, 72 Euro ergebe sich der ausgeurteilte
+Betrag.
+II. Revision des Bekl.
+12Die Revision des Bekl. hat Erfolg.
+131. Aufgrund der beschränkten Zulassung der Revision und der Zurückweisung der
+weitergehenden Nichtzulassungsbeschwerde des Bekl. durch den Senat steht
+rechtskräftig fest, dass der Kl. gegen den Bekl. dem Grunde nach ein
+Schadensersatzanspruch wegen mangelhafter Planung der Flachdächer zusteht.
+142. Keinen Bestand haben die Feststellungen des BerGer. zur Höhe dieses Anspruchs.
+15Die Ermittlung der Höhe des Vermögensschadens der Kl. durch das BerGer. beruht
+auf der Annahme, der Schaden lasse sich nach den erforderlichen, tatsächlich jedoch
+(noch) nicht angefallenen – „fiktiven“ – (Netto) Mängelbeseitigungskosten betreffend
+die Flachdächer bemessen. Diese im Einklang mit der früheren Rechtsprechung des
+Senats stehende Auffassung trifft nicht zu. Der Senat hat mit nach Erlass der
+angefochtenen Entscheidung veröffentlichtem Urteil vom 22.2.2018 (BGHZ 218, 1 =
+entschieden, dass im Verhältnis zum Architekten hinsichtlich der von ihm zu
+vertretenden Planungs- oder Überwachungsfehler, die sich im Bauwerk bereits
+verwirklicht haben, ein Zahlungsanspruch in Höhe der „fiktiven
+Mängelbeseitigungskosten“ betreffend das Bauwerk ausscheidet. Mit der vom BerGer.
+gegebenen Begründung kann deshalb ein Schaden des Bekl. in der vom BerGer.
+angenommenen Höhe nicht festgestellt werden.
+163. Das angefochtene Urteil war danach – beschränkt auf die Anspruchshöhe –
+insoweit aufzuheben, als der Bekl. zur Zahlung von Schadensersatz iHv 151.778, 02
+Euro nebst Zinsen verurteilt worden ist.
+III. Anschlussrevision der Kl.
+17Die zulässige – zur Höhe des Schadensersatzanspruchs eingelegte –
+Anschlussrevision der Kl. hat ebenfalls Erfolg.
+181. Die Feststellungen zur Höhe des Schadensersatzanspruchs haben auch insoweit
+keinen Bestand, als das BerGer. den nach fiktiven Mängelbeseitigungskosten
+bemessenen Schadensersatzanspruch der Kl. im Rahmen der Vorteilsausgleichung
+um Sowieso-Kosten iHv 20.289, 72 Euro gekürzt hat. Da der Senat – wie ausgeführt –
+entschieden hat, dass im Verhältnis zum Architekten hinsichtlich der von ihm zu
+vertretenden Planungs- oder Überwachungsfehler, die sich im Bauwerk bereits
+verwirklicht haben, ein Zahlungsanspruch in Höhe der „fiktiven“
+Mängelbeseitigungskosten betreffend das Bauwerk ausscheidet, kommt auch eine auf
+dieser Schadensbemessung beruhende Kürzung unter dem Gesichtspunkt von
+Sowieso-Kosten nicht in Betracht.
+192. Das Urteil war danach – im angefochtenen Umfang – auch insoweit aufzuheben,
+als die Berufung der Kl. gegen die Abweisung der Klage iHv 20.289, 72 Euro nebst
+Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit dem 19.11.2015
+zurückgewiesen worden ist.
+20IV. Der Senat kann in der Sache nicht selbst entscheiden, § 563 III ZPO. Die Sache
+ist zur neuen Verhandlung und Entscheidung an das BerGer. zurückzuverweisen, um
+die Höhe des von der Kl. geltend gemachten Schadensersatzanspruchs wegen der
+Mängel der Flachdächer neu festzustellen und zu bemessen. Hierzu muss die Kl.
+zunächst auf der Grundlage der Rechtsauffassung des Senats Gelegenheit bekommen,
+ihren Schaden anderweitig darzulegen und zu beziffern. Sodann wird das BerGer. nach
+Anhörung der Parteien Feststellungen zur Schadenshöhe neu zu treffen haben.
+Anmerkung der Redaktion
+Die Rechtsprechungsänderung zu den fiktiven Mängelbeseitigungskosten

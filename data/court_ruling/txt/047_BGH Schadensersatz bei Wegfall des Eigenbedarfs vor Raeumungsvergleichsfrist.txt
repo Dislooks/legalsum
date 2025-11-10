@@ -1,0 +1,240 @@
+Schadensersatz bei Wegfall des Eigenbedarfs vor Räumungsvergleichsfrist
+GG Art. 14; BGB §§ 573, 542, 280, 249, 242
+1.Hat der Vermieter das Mietverhältnis wegen Eigenbedarfs (§ 573 II Nr. 2 BGB)
+gekündigt, hat er – zur Vermeidung eines rechtsmissbräuchlichen Verhaltens – den
+Mieter auf einen späteren Wegfall des Eigenbedarfs bis zum Ablauf der
+28; NJW-RR 2017, 75 = WuM 2016, 743 Rn. 2, 9). Dieser Zeitpunkt ist für das
+Bestehen einer Hinweispflicht grundsätzlich auch dann maßgebend, wenn die
+Parteien in einem (gerichtlichen) Räumungsvergleich einen späteren Auszugstermin
+des Mieters vereinbaren.
+2. Der ersatzfähige (Kündigungsfolge-)Schaden eines Mieters nach einer
+unberechtigten Eigenbedarfskündigung durch den Vermieter umfasst nicht die zum
+Zweck des Eigentumserwerbs einer Wohnung angefallenen Maklerkosten (im
+Anschluss an Senat NZM 2020, 1038).
+BGH, Urteil vom 9.12.2020 – VIII ZR 238/18
+Zum Sachverhalt
+Der Kl., vormals Mieter einer Wohnung der bekl. GbR in Berlin, nimmt diese auf
+Schadensersatz wegen einer aus seiner Sicht unberechtigten, auf vorgetäuschten
+Eigenbedarf gestützten Kündigung in Anspruch. Die Bekl. kündigte das Mietverhältnis
+mit Schreiben vom 2.12.2011 zum 31.8.2012 und machte geltend, die Wohnung werde
+für die Tochter eines ihrer Gesellschafter benötigt. Der nachfolgenden Räumungsklage
+gab das AG im Januar 2013 statt. Während des laufenden Berufungsverfahrens erwarb
+der Kl. unter Einschaltung eines Maklers eine Eigentumswohnung in Berlin. Hierfür
+wurden ihm seitens des Maklers 29.543,42 Euro in Rechnung gestellt. In der
+Berufungsinstanz schlossen die Parteien einen Vergleich, wonach sich der Kl. zur
+Räumung der Wohnung bis Ende Februar 2016 verpflichtete. Da sich die
+Bezugsfertigstellung der Eigentumswohnung verzögerte, gab der Kl. die Mietwohnung
+erst im Juni 2016 heraus. Die Bedarfsperson zog nicht in die Wohnung ein.
+Der Kl. hat geltend gemacht, der Eigenbedarf sei von Anfang an nur vorgetäuscht
+gewesen; zudem habe es die Bekl. jedenfalls versäumt, ihn darauf hinzuweisen, dass
+der Eigenbedarf vor Ablauf der Kündigungsfrist entfallen sei. Deshalb hat er sie auf
+Zahlung von Schadensersatz in Anspruch genommen.
+Seiner – einschließlich der Maklerkosten – auf Zahlung von insgesamt 32.626,23 Euro
+nebst Zinsen gerichteten Klage hat das AG Berlin-Charlottenburg (Urt. v. 20.12.2017 –
+Euro) sowie
+der Kosten für einen neuen Telefonanschluss (58,78 Euro) stattgegeben. Die 64.
+Zivilkammer des LG Berlin (Urt. v. 18.6.2018 – 64 S 24/18) hat ihm auch die
+Maklerkosten zugesprochen. Die vom Senat zugelassene Revision hatte Erfolg und
+führte zur Zurückweisung der Berufung.
+Aus den Gründen
+11II. Dem Kl. steht ein Anspruch auf Ersatz der für den Erwerb der Eigentumswohnung
+gezahlten Maklerkosten aus § 280 I BGB nicht zu. Das BerGer. ist bereits zu Unrecht
+von einer Pflichtverletzung der Bekl. ausgegangen, die es in deren fehlendem Hinweis
+auf den nachträglichen Wegfall des Eigenbedarfs gesehen hat. Eine solche
+Hinweispflicht des Vermieters besteht – auch bei einem abgeschlossenen
+Räumungsvergleich – jedoch nur bis zum Ablauf der Kündigungsfrist, nicht hingegen
+bis zum Ablauf der im Vergleich vereinbarten Räumungsfrist. Zudem sind die
+Maklerkosten für den Eigentumserwerb kein ersatzfähiger Schaden, da sie vom
+Schutzzweck der – unterstellt – verletzten Vertragspflicht nicht erfasst sind.
+121. Der Prüfung des Vorliegens einer Pflichtverletzung ist der Senat nicht durch die
+Rechtskraftwirkung (§ 322 I ZPO) des erstinstanzlichen Urteils enthoben, das die Bekl.
+zur Leistung eines Teils des eingeklagten Schadensersatzes verpflichtete und gegen
+welches sie Berufung nicht eingelegt hat. Denn die Ausführungen zum Vorliegen einer
+Pflichtverletzung erwachsen als Tatbestandsvoraussetzung des § 280 I BGB nicht in
+132. Im Ausgangspunkt zutreffend geht das BerGer. davon aus, dass der Vermieter
+seine vertraglichen Pflichten verletzt und dem Mieter gem. § 280 I BGB zum
+Schadensersatz verpflichtet ist, wenn er eine Kündigung des Mietvertrags schuldhaft
+auf einen in Wahrheit nicht bestehenden Eigenbedarf (§ 573 II Nr. 2 BGB) stützt oder
+er den Mieter nicht über einen späteren Wegfall des geltend gemachten Eigenbedarfs
+143. Entgegen der Ansicht des BerGer. besteht diese Hinweispflicht jedoch nur bis zum
+Ablauf der Kündigungsfrist. Lediglich über einen vor diesem Zeitpunkt eingetretenen
+Wegfall des Eigenbedarfs – auf den sich auch die Bekl. als teilrechtsfähige (Außen-
+Vermieter den Mieter zu unterrichten. Dies gilt grundsätzlich auch dann, wenn die
+Parteien – wie hier – in dem der Kündigung nachfolgenden Räumungsrechtsstreit
+einen Vergleich schließen, wonach sich der Mieter bis zu einem bestimmten Termin
+zum Auszug aus der Wohnung verpflichtet.
+15a) Der Wegfall des ursprünglich gegebenen Kündigungsgrundes des Eigenbedarfs
+(§ 573 II Nr. 2 BGB) löst dann eine Hinweispflicht des Vermieters aus, wenn er bis zum
+Ablauf der Kündigungsfrist eingetreten ist. Nur in einem solchen Fall ist der Vermieter
+mit Rücksicht auf das Verbot rechtsmissbräuchlichen Verhaltens (§ 242 BGB)
+gehindert, sich angesichts des bei Wegfall des Kündigungsgrundes noch bestehenden
+220; NJW-RR 2019, 972 Rn. 28). Diese zeitliche Eingrenzung bringt – in
+2033 Rn. 5) – die berechtigten Interessen von Mieter und Vermieter in einen
+angemessenen Ausgleich und sorgt für Rechtssicherheit (vgl. Senat, BGHZ 165, 75 [79]
+2017, 547 Rn. 62; NJW-RR 2019, 972).
+16 Der Senat hat entschieden, dass es eine nachvertragliche Hinweispflicht des
+Vermieters nicht gibt, sondern eine solche nur bis zum Ablauf der Kündigungsfrist
+besteht. Dies hat er maßgebend darauf gestützt, dass eine zeitliche Ausdehnung der
+Hinweispflicht über das Ende des Mietverhältnisses hinaus mit den Grundsätzen der
+Rechtssicherheit und eines effektiven Rechtsschutzes nicht zu vereinbaren wäre (vgl.
+17b) Nach diesen Maßstäben musste die Bekl. den Kl. nur bis zum Ablauf der
+Kündigungsfrist (31.8.2012) und nicht, wie vom BerGer. angenommen, bis zum Ablauf
+der vergleichsweise vereinbarten Räumungsfrist (29.2.2016) über einen Wegfall des
+Eigenbedarfs unterrichten.
+18aa) Die vorgenannten Aspekte der Rechtssicherheit und des effektiven
+Rechtsschutzes greifen auch in dem Fall ein, in welchem über die Räumungsklage des
+Vermieters nicht gerichtlich entschieden wurde, sondern die Parteien sich im Wege
+eines Vergleichs über den Zeitpunkt des Auszugs des Mieters verständigen (vgl. Senat
+NJW-RR 2017, 75 = WuM 2016, 743 Rn. 2, 9).
+19bb) Entgegen der Ansicht des BerGer., das insoweit auf die Ausführungen im
+erstinstanzlichen Urteil Bezug nimmt, ist es nicht „sachgerecht“, deshalb auf den im
+Vergleich festgelegten Auszugszeitpunkt abzustellen, weil die Parteien diesen an die
+Stelle des Ablaufs der Kündigungsfrist gesetzt haben. Allein die Vereinbarung eines
+Auszugszeitpunkts hat grundsätzlich keine Auswirkungen auf die mit dem Ablauf der
+Kündigungsfrist eingetretene Beendigung des Mietverhältnisses (§ 542 BGB). Zwar
+kann die durch eine wirksam erklärte Kündigung bewirkte Umgestaltung des
+Mietverhältnisses grundsätzlich durch ein rechtsgeschäftliches Zusammenwirken der
+Parteien – nicht einseitig – rückgängig gemacht werden (vgl. Senat, BGHZ 220, 1 =
+Räumungsvergleich mit hinreichender Klarheit entnehmen lassen.
+20Dies ist vorliegend nicht der Fall. Es fehlt – entgegen der in der mündlichen
+Verhandlung vor dem Senat geäußerten Sicht der Revisionserwiderung – an
+Anhaltspunkten dafür, dass die Parteien hierdurch die Rechtswirkungen der Kündigung
+einvernehmlich rückgängig machen und damit zugleich die Hinweispflichten des
+Vermieters zeitlich ausdehnen wollten. Insbesondere ist für einen Willen der Bekl., die
+von der Wirksamkeit ihrer bereits einige Jahre zuvor ausgesprochenen
+Eigenbedarfskündigung ausging, das Ende des Mietverhältnisses hinauszuschieben,
+nichts ersichtlich. Im Gegenteil spricht, worauf auch die Revision in der mündlichen
+Verhandlung zutreffend abgestellt hat, der Umstand, dass der Kl. die
+Eigentumswohnung zum Zeitpunkt des Räumungsvergleichs bereits gekauft hatte,
+schon gegen die Annahme, dass er Interesse an einem solchen Hinweis hatte.
+214. Ebenso rechtsfehlerhaft ist die Ansicht des BerGer., die zum Erwerb der
+Eigentumswohnung aufgewandten Maklerkosten seien ein ersatzfähiger Schaden des
+Kl. (§ 249 I BGB). Diese wären zwar – unterstellt, der Eigenbedarf habe schon im
+Kündigungszeitpunkt nicht vorgelegen – noch adäquat kausal, unterfallen jedoch nicht
+dem Schutzzweck der – für das Revisionsverfahren zugunsten des Kl. zu
+unterstellenden – Vertragspflichtverletzung der Bekl., und zwar unabhängig davon, ob
+diese darin besteht, dass der Eigenbedarf von Anfang an nicht bestand und somit
+bereits der Ausspruch der Kündigung eine Pflichtverletzung dargestellt hat oder ob der
+Eigenbedarf später – bis zum Ablauf der Kündigungsfrist – weggefallen ist und die
+Pflichtverletzung im fehlenden Hinweis der Bekl. hierauf gelegen hat.
+22a) Der Schaden des Kl. in Form der Maklerkosten ist zwar noch adäquat kausal auf
+die – unterstellte – Pflichtverletzung der Bekl. zurückzuführen.
+23aa) Adäquat ist eine Bedingung dann, wenn das Ereignis im Allgemeinen und nicht
+nur unter besonders eigenartigen, unwahrscheinlichen und nach dem gewöhnlichen
+Verlauf der Dinge außer Betracht zu lassenden Umständen geeignet ist, einen Erfolg
+der fraglichen Art herbeizuführen. Die Adäquanz kann fehlen, wenn der Geschädigte
+selbst in völlig ungewöhnlicher oder unsachgemäßer Weise in den schadensträchtigen
+Geschehensablauf eingreift und eine weitere Ursache setzt, die den Schaden endgültig
+944 Rn. 16).
+24bb) Bei Anwendung dieses Maßstabs liegt es noch nicht außerhalb des zu
+erwartenden Verlaufs der Dinge, dass ein Mieter die ihm gegenüber ausgesprochene
+Eigenbedarfskündigung zum Anlass nimmt, seinen künftigen Wohnbedarf nicht wie
+bisher in angemieteten Räumlichkeiten, sondern in einer Eigentumswohnung zu
+verwirklichen, und zu dessen Erwerb einen Makler einschaltet.
+25b) Die Maklerkosten für den Erwerb der Eigentumswohnung unterfallen jedoch nicht
+mehr dem Schutzzweck der vertraglichen Pflicht, welche die Bekl. – unterstellt – durch
+den Ausspruch der Kündigung bzw. durch ihren fehlenden Hinweis auf den Wegfall des
+Eigenbedarfs verletzt hat. Denn eine vertragliche Haftung besteht nur für diejenigen
+äquivalenten und adäquaten Schadensfolgen, zu deren Abwendung die verletzte
+Vertragspflicht übernommen wurde, was vorliegend bezüglich der Maklerkosten und
+der mietvertraglichen Pflicht zur Gebrauchserhaltung nicht der Fall ist.
+26aa) In der Rechtsprechung des BGH ist es anerkannt, dass die Schadensersatzpflicht
+durch den Schutzzweck der Norm begrenzt wird. Dies gilt unabhängig davon, auf
+welche Bestimmung die Haftung gestützt wird. Eine Schadensersatzpflicht besteht
+nur, wenn die Tatfolgen, für die Ersatz begehrt wird, aus dem Bereich der Gefahren
+stammen, zu deren Abwendung die verletzte Norm erlassen oder die verletzte
+vertragliche oder vorvertragliche Pflicht übernommen worden ist (vgl. BGHZ 27, 137
+einen davon ab, ob die verletzte Bestimmung überhaupt den Schutz Einzelner bezweckt
+und der Verletzte ggf. zu dem geschützten Personenkreis gehört. Zum anderen muss
+geprüft werden, ob die Bestimmung das verletzte Rechtsgut schützen soll. Darüber
+hinaus muss die Norm den Schutz des Rechtsguts gerade gegen die vorliegende
+Schädigungsart bezwecken; die geltend gemachte Rechtsgutsverletzung bzw. – wie
+vorliegend – der geltend gemachte Schaden müssen also auch nach Art und
+Entstehungsweise unter den Schutzzweck der verletzten Norm fallen. Der Schaden
+muss in einem inneren Zusammenhang mit der durch den Schädiger geschaffenen
+Gefahrenlage stehen; ein „äußerlicher“, gleichsam „zufälliger“ Zusammenhang genügt
+nicht. Insoweit ist eine wertende Betrachtung geboten (vgl. BGH NJW-RR 2006, 965;
+2019, 1741 Rn. 30).
+27Bei der Verletzung vertraglicher Pflichten hängt die Ersatzpflicht des Schädigers –
+vorliegend der Vermieterin – davon ab, dass die verletzte Vertragspflicht das Entstehen
+von Schäden der eingetretenen Art verhindern sollte. Der Schädiger hat nur für die
+Einbußen einzustehen, die die durch den Vertrag geschützten Interessen betreffen (vgl.
+Lange/Schiemann, Schadensersatz, 3. Aufl., 104). Maßgebend ist somit die
+vertragliche Interessenlage der Parteien und der damit korrespondierende
+Vertragszweck. Denn in gleicher Weise, wie der Vertragszweck Entstehen, Entwicklung
+und Untergang der primären Pflichten festlegt, werden hierdurch auch die ihrer
+Sanktion dienenden sekundären Schadensersatzverbindlichkeiten ihrem Umfang nach
+bestimmt (vgl. Lange/Schiemann, 101).
+28bb) Hiernach stammen die Kosten des Maklers, welcher vom Kl. mit der Suche nach
+einer Eigentumswohnung beauftragt war, anders als bei einer Anmietung (vgl. Senat
+verletzte Vertragspflicht besteht. Denn der Kl. ist aus seiner bisherigen Stellung als
+Mieter unter Einschaltung des Maklers in diejenige eines Eigentümers gewechselt.
+29(1) Die – unterstellte – Pflichtverletzung der Bekl. läge in der Beeinträchtigung des
+vertraglich geschützten Gebrauchserhaltungsinteresses des Kl.
+30Dabei kann vorliegend offen bleiben, ob die Eigenbedarfskündigung im Zeitpunkt
+ihres Ausspruchs berechtigt war. Zwar tritt die Gestaltungswirkung einer Kündigung
+nicht ein, wenn ein Kündigungsgrund fehlt; das Mietverhältnis besteht vielmehr fort.
+Jedoch macht der Vermieter mit der wegen fehlender materieller Gründe unwirksamen
+Kündigung dem Mieter den Gebrauch der Mietsache streitig und stellt dessen
+Besitzrecht infrage. Damit verletzt er zugleich seine eigene vertragliche
+der zunächst bestehende Eigenbedarf bis zum Ablauf der Kündigungsfrist entfällt und
+der Vermieter den Mieter hierauf nicht hinweist, sondern vielmehr –
+rechtsmissbräuchlich – an der Kündigung festhält.
+31(2) Danach ist der Vermieter zum Ersatz solcher Schäden verpflichtet, die auf der
+Verletzung seiner Pflicht zur Wahrung des Besitzrechts des Mieters beruhen. Infolge
+des gerichtlichen Räumungsvergleichs im Anschluss an die unberechtigte
+Eigenbedarfskündigung büßt der Mieter sein vertragliches Recht zum Gebrauch der
+Mietsache ein, so dass
+der Vermieter dann verpflichtet ist, dem Mieter den Schaden zu ersetzen, der in einem
+inneren Zusammenhang mit dessen Gebrauchserhaltungsinteresse steht (vgl. BGH
+32(3) Dieser gebotene Zusammenhang zur Besitzbeeinträchtigung fehlt bei den
+Maklerkosten, die im Zuge des Erwerbs der Eigentumswohnung angefallen sind.
+Entgegen der – nicht näher begründeten – Ansicht des BerGer. stellen diese keinen
+ersatzfähigen Schaden dar. Denn durch den Eigentumserwerb, der Gegenstand des
+Maklerauftrags war, hat der Kl. nicht (lediglich) seinen Besitzverlust ausgeglichen,
+sondern im Vergleich zu seiner bisherigen Stellung als Mieter eine hiervon zu
+unterscheidende Stellung als Eigentümer eingenommen.
+33Darauf, dass das Besitzrecht des Mieters auch den Eigentumsschutz des Art. 14 I 1
+GG genießt, kann sich der Kl. insoweit nicht mit Erfolg berufen. Hiernach ist das
+Bestandsinteresse des Mieters geschützt; der Eigentumsschutz dient daher der
+Abwehr solcher Regelungen, die dieses Bestandsinteresse des Mieters gänzlich
+2035). Vorliegend beruft sich der Kl. jedoch nicht auf Abwehrrechte, sondern macht
+Schäden infolge des Besitzverlusts geltend.
+34(4) Mit dem Wechsel des Kl. von der – vertraglich geschützten – Stellung eines
+Besitzers in diejenige eines Eigentümers geht auch eine andere Rechts- und
+Pflichtenstellung einher, die sich von derjenigen einer Mietvertragspartei signifikant
+unterscheidet.
+35Anders als in der Position des Mieters unterliegt der Kl. nunmehr – hinsichtlich der
+Wohnungsnutzung – keinen vertraglichen Bindungen. Sein Besitzrecht an der
+Wohnung ist nicht mehr, wie zuvor, ein abgeleitetes (vgl. BVerfGE 89, 1 [7 f.] = NJW
+zustehendes Recht. Ihm steht eine grundsätzlich uneingeschränkte und
+eigenverantwortliche Nutzungs- und Verfügungsbefugnis zu (§ 903  BGB).
+36Zudem ist das (Nutzungs-)Recht des Kl. an der ihm gehörenden Eigentumswohnung
+nicht zeitlich begrenzt. Demgegenüber ist es das Wesen des Mietvertrags, dass dem
+Mieter (lediglich) ein Anspruch auf Gebrauchsüberlassung auf Zeit zusteht (vgl. BGHZ
+Ls.). Dieser zeitlichen Begrenzung ist bei der Bestimmung der Ersatzfähigkeit von
+Schäden des Mieters Rechnung zu tragen.
+37Gemessen daran fehlt es bei den vorliegend geltend gemachten Maklerkosten an
+dem gebotenen inneren Zusammenhang mit dem vertraglich geschützten Interesse
+des Mieters. Denn durch den Vertragsabschluss zeigt dieser – dem Wesen des
+Mietvertrags entsprechend – sein Interesse an der Erlangung eines zeitlich begrenzten
+Gebrauchsrechts. Somit ist auch (nur) dieses Interesse geschützt. Erwirbt er eine
+Wohnung zu Eigentum, verfolgt er jedoch bezüglich der Deckung seines Wohnbedarfs
+andere Interessen als bisher. Daher fallen Vermögenseinbußen, mittels derer sich der
+Mieter in die Lage versetzen will, (auf Dauer angelegtes) Eigentum zu erwerben, bei
+wertender Betrachtung nicht mehr unter den Schutzzweck der Vertragspflicht des
+Vermieters zur (vorübergehenden) Gebrauchserhaltung.
+38III. Nach alledem kann das Urteil des BerGer. keinen Bestand haben; es ist daher
+aufzuheben (§ 562 I ZPO). Der Senat entscheidet in der Sache selbst, da es weiterer
+Feststellungen nicht bedarf und die Sache zur Endentscheidung reif ist (§ 563 III ZPO).
+Die Berufung des Kl. ist zurückzuweisen. Zwar fehlt es an Feststellungen zu einer
+Pflichtverletzung der Bekl., insbesondere dazu, ob bei ihr zum für das Bestehen einer
+Hinweispflicht maßgebenden Zeitpunkt des Ablaufs der Kündigungsfrist noch ein
+Eigenbedarf bestand. Darauf kommt es jedoch im Ergebnis nicht an, da dem Kl. – wie
+ausgeführt – ein Anspruch auf Ersatz der Maklerkosten für den Erwerb der
+Eigentumswohnung selbst bei Vorliegen einer Pflichtverletzung nicht zusteht.
+Anmerkung der Redaktion
+Die in Rn. 20 zitierte – zur fristlosen, hilfsweise fristgemäßen
+Zahlungsverzugskündigung ergangene – Entscheidung Senat BGHZ 220, 1 = NJW
+Zum „Kündigungsstreuschuss“ aus Eigenbedarf, Nichtleistung der Kaution und
+erwerbenden Vermieters sowie zum Härtefallgrund Ersatzwohnraum (bei kinderreicher

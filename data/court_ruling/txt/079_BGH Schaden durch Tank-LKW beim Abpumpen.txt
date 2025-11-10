@@ -1,0 +1,472 @@
+Schaden durch Tank-LKW beim Abpumpen
+VVG § 115 Abs. 1 Nr. 1; StVG § 7 Abs. 1, § 18 Abs. 1; PflVG § 1; WHG § 89 Abs. 2
+Satz 1; BGB § 254, § 823 Abs. 1, Abs. 2, § 831
+1. Der Entladevorgang gehört zum "Gebrauch" des Fahrzeugs im Sinne des § 1 PflVG,
+solange das Kraftfahrzeug oder seine an und auf ihm befindlichen Vorrichtungen
+daran beteiligt sind. Der Schaden, der beim Hantieren mit Ladegut eintritt, ist dann
+"durch den Gebrauch" des Kraftfahrzeugs entstanden, wenn es für die
+schadensstiftende Verrichtung aktuell, unmittelbar, zeitlich und örtlich nahe
+eingesetzt worden ist. Das Entladen eines Tanklastzugs mittels einer auf ihm
+befindlichen Pumpe ist danach dem Gebrauch des Kraftfahrzeugs zuzuordnen,
+solange der Druck der Pumpe noch auf das abzufüllende Öl einwirkt und die
+Flüssigkeit durch den Schlauch heraustreibt. (amtl. Leits.)
+2. Zum Begriff der Anlage im Sinne des § 89 Abs. 2 Satz 1 WHG. (amtl. Leits.)
+BGH, Urt. v. 16.1.2024 – VI ZR 385/22 (OLG Köln)
+Übersicht
+Übersicht
+Rn.
+Erwägungen des Berufungsgerichts
+
+Keine Haftung „beim Betrieb“ iSd StVG
+
+Verschuldenshaftung von Fahrer und Spediteur
+
+Voraussetzungen des Direktanspruchs: Gebrauch
+
+Kein Mitverschulden durch Öl-„Anlage“ des Geschädigten
+
+Zum Sachverhalt:
+1Die Parteien streiten noch um einen von der Bekl. mit der Wider- und Drittwiderklage
+geltend gemachten Schadensersatzanspruch aufgrund einer Heizöllieferung.
+2 Die Bekl. ist Miteigentümerin eines Hausgrundstücks. Sie bestellte bei der Kl. Heizöl.
+Diese beauftragte mit der Lieferung den Streithelfer der Drittwiderbeklagten, einen
+Spediteur, dessen Kfz-Haftpflichtversicherer die Drittwiderbeklagte ist. Als Fahrer der
+Spedition lieferte der Drittwiderbeklagte der Bekl. das Heizöl am 1.7.2019. Das
+Hausgrundstück der Bekl. verfügt über einen Erdtank. Der Zugang zum Erdtank führt
+über einen Domschacht, in dem sich neben dem Füllstutzen für den Erdtank ein
+weiterer, „blinder“ Füllstutzen befindet, der zu einem im Jahr 2007 entfernten Tank im
+Haus führte. Die Bekl. wies den Fahrer bei Anlieferung des Öls darauf hin, dass von den
+zwei im Domschacht vorhandenen Einfüllstutzen einer „blind“ ist. Der Fahrer schloss
+den Ölschlauch des Tankwagens anstatt an den zum Erdtank gehörenden an den über
+ein Stück Rohrleitung in den Keller führenden Einfüllstutzen an und pumpte mit der
+Pumpe des Tanklastwagens 2.926l Heizöl in den Keller. Es kam zu Verunreinigungen
+des Erdreichs und am Gebäude.
+3Mit ihrer Wider- und Drittwiderklage verlangt die Bekl. von der Kl., dem Kfz-
+Haftpflichtversicherer und dem Fahrer als Gesamtschuldner Zahlung von
+Schadensersatz iHv 25.60,01 EUR nebst Prozesszinsen (Antrag 1), Feststellung der
+Ersatzpflicht für weitere Schäden aus dem Ölunfall (Antrag 2) und Freistellung von
+außergerichtlichen Rechtsanwaltskosten (Antrag 3).
+4 Das LG hat durch Grund- und Teilurteil die Wider- und Drittwiderklageanträge 1 und 3
+dem Grunde nach für gerechtfertigt erklärt, soweit sie sich gegen die Kl. und den Fahrer
+richten, und die begehrte Feststellung (Antrag 2) gegen die Kl. und den Fahrer
+ausgesprochen. Die gegen den KfzHaftpflichtversicherer gerichteten Anträge hat es
+abgewiesen. Auf die Berufung der Kl. und des Fahrers hat das OLG das Grund- und
+Teilurteil des LG teilweise abgeändert und die Anträge 1 bis 3 gegen die Kl. und den
+Fahrer abgewiesen, soweit die Bekl. mit ihnen Schadensersatzansprüche auf der
+Grundlage einer Haftungsquote von mehr als 50 % geltend macht. Die Berufung der
+Bekl., mit der sie ihre Anträge gegen den KfzHaftpflichtversicherer weiterverfolgt, hat
+das Berufungsgericht zurückgewiesen und insoweit die Revision zugelassen.
+5Mit der teilweise vom Berufungsgericht und im Übrigen vom Senat zugunsten der
+Bekl. zugelassenen Revision verfolgt die Bekl. ihre Wider- und Drittwiderklageanträge
+gegen die Kl., den Kfz-Haftpflichtversicherer und den Fahrer weiter.
+Aus den Gründen:
+Erwägungen des Berufungsgerichts*
+6I. Das Berufungsgericht hat zur Begründung seiner Entscheidung, soweit für das
+Revisionsverfahren von Interesse, im Wesentlichen ausgeführt:
+7Die Bekl., die aufgrund der Ermächtigung der weiteren Miteigentümer des
+Hausgrundstücks aktivlegitimiert sei, habe gegen die Kl. einen Anspruch auf
+Schadensersatz aus § 280 Abs. 1 BGB. Im Rahmen des zwischen der Bekl. und der Kl.
+geschlossenen Kaufvertrags über die Lieferung von Heizöl sei es zu einer
+Pflichtverletzung gekommen. Der Fahrer des Tanklastwagens habe als
+Erfüllungsgehilfe der Kl. bei der Lieferung des Heizöls nicht überprüft, ob der von ihm
+für den Anschluss des Ölschlauchs des Tankfahrzeugs gewählte Stutzen tatsächlich
+in den Erdtank führe. Die Bekl. habe bei der Lieferung des Öls gegenüber dem Fahrer
+erklärt, es seien in dem Domschacht zwei Einfüllstutzen vorhanden, einer davon sei
+„blind“; er solle sichergehen, dass er den Richtigen wähle. Die Bekl. müsse sich als
+Anlagenbetreiberin allerdings nach § 89 Abs. 2 WHG eine Mithaftung von 50 %
+anrechnen lassen. Sie sei für den Zustand der Anlage und die Einhaltung der
+Verkehrssicherheit verantwortlich. Der Einstufung des „blinden“ Einfüllstutzens als
+Anlage im Sinne des § 89 Abs. 2 WHG stehe nicht entgegen, dass von der ursprünglich
+vorhandenen Heizungsanlage nach Entfernen des Kellertanks nur noch ein Stück der
+Rohrleitung mit dem im Domschacht befindlichen Stutzen vorhanden sei. Der
+Anlagenbegriff des § 89 Abs. 2 WHG sei im Hinblick auf den Gewässerschutz weit
+gefasst und erfasse auch stillgelegte Anlagen, wenn sie weiterhin für ihre Umgebung
+gefährlich seien. Diese Gefahr für den Gewässerschutz gehe auch von der Restanlage
+der Bekl. aus, da aufgrund der nicht gesicherten Öffnung des Stutzens ein
+versehentliches Einfüllen von Heizöl und damit auch eine Gefährdung möglich sei. Bei
+der Bemessung der beiderseitigen Schadensbeiträge sei von zwei Anlagenbetreibern
+auszugehen, auch wenn die Kl. nicht selbst Inhaberin des Tanklastwagens sei. Es sei
+eine hälftige Schadensteilung vorzunehmen.
+8Die gleichen Erwägungen zur Mithaftung würden auch für die Ansprüche der Bekl.
+gegen den Fahrer gelten. Dieser hafte aus § 823 Abs. 1 BGB, da er das Eigentum der
+Bekl. verletzt und dabei fahrlässig gehandelt habe. Er habe trotz Hinweises auf zwei
+Stutzen und Bitte der Bekl., deren Zugehörigkeit zum Erdtank zu prüfen, ihren Verlauf
+nicht kontrolliert.
+9 Ein Anspruch der Bekl. gegen den Kfz-Haftpflichtversicherer auf Ersatz der Schäden
+aus dem Ölunfall nach § 115 Abs. 1 Satz 1 Nr. 1 VVG bestehe hingegen nicht. Das LG
+habe eine Haftung des von der Kl. mit der Öllieferung beauftragten Streithelfers des
+Kfz-Haftpflichtversicherers, eines Spediteurs, aus § 7 Abs. 1 StVG, und dessen Fahrers
+aus § 18 StVG zutreffend verneint. Es scheide auch eine Haftung des Streithelfers nach
+§ 2 Abs. 1 HPflG aus. Zwar hafte der Streithelfer nach § 831 BGB, weil sein Fahrer mit
+dem Anschluss des Ölschlauchs des Tanklastwagens an den falschen Einfüllstutzen
+im Domschacht schuldhaft das Eigentum der Bekl. verletzt habe. Voraussetzung eines
+Anspruchs gegen den Kfz-Haftpflichtversicherer sei jedoch, dass der
+Schadensersatzanspruch im Rahmen der Kfz-Haftpflichtversicherung gedeckt sei.
+Diese umfasse zwar nicht nur Schäden aufgrund des Betriebs eines Kraftfahrzeugs im
+Sinne des § 7 Abs. 1 StVG, sondern auch aufgrund dessen Gebrauchs. Zum Gebrauch
+gehöre auch der Entladevorgang, solange das Kraftfahrzeug oder seine an und auf ihm
+befindlichen Vorrichtungen beteiligt seien. Unabhängig davon, ob der Tanklastzug mit
+seinen speziellen Vorrichtungen eingesetzt worden sei, habe sich hier jedoch keine
+vom Fahrzeug selbst ausgehende Gefahr verwirklicht. Der Schaden sei nicht durch eine
+Fehlfunktion oder Fehlbedienung des Fahrzeugs oder einer seiner
+Betriebseinrichtungen verursacht worden, sondern allein auf eine fahrzeugfremde
+Ursache zurückzuführen.
+10II. Die Revision der Bekl. hat Erfolg. Rechtsfehlerhaft hat das Berufungsgericht einen
+Anspruch gegen den Kfz-Haftpflichtversicherer nach § 115 Abs. 1 Satz 1 Nr. 1, Satz 2
+VVG, § 1 PflVG verneint (unter 1.). Außerdem rechtfertigen die vom Berufungsgericht
+getroffenen Feststellungen seine Annahme, die gegen die Kl. und den Fahrer geltend
+gemachten Schadensersatzansprüche seien aufgrund mitwirkender Gefahr der Anlage nach § 254 BGB iVm § 89 Abs. 2 Satz 1 WHG nur zur Hälfte
+berechtigt, nicht (unter 2.).
+111. Mit der Begründung des Berufungsgerichts kann ein Anspruch gegen den Kfz-
+Haftpflichtversicherer nach § 115 Abs. 1 Satz 1 Nr. 1, Satz 2 VVG, § 1 PflVG nicht
+verneint werden. Die gegen den Fahrer nach § 823 Abs. 1 BGB und den Streithelfer des
+Kfz-Haftpflichtversicherers nach § 831 Abs. 1 BGB bestehenden Ansprüche sind von
+der Leistungspflicht des Kfz-Haftpflichtversicherers umfasst.
+Keine Haftung „beim Betrieb“ iSd StVG*
+12a) Ohne Rechtsfehler hat das Berufungsgericht allerdings einen Anspruch der Bekl.
+gegen den Kfz-Haftpflichtversicherer aus § 115 Abs. 1 Satz 1 Nr. 1, Satz 2 VVG, § 1
+PflVG iVm § 7 Abs. 1, § 18 Abs. 1 StVG mit der Begründung verneint, dass der Schaden
+nicht „bei dem Betrieb“ des Fahrzeugs entstanden sei. Das wird von der Revision auch
+nicht angegriffen.
+13aa) Ein Schaden ist dann „bei dem Betrieb“ eines Kraftfahrzeugs iSv § 7 Abs. 1 StVG
+entstanden, wenn sich in ihm die von dem Kraftfahrzeug ausgehenden Gefahren
+ausgewirkt haben, d. h. wenn bei der insoweit gebotenen wertenden Betrachtung das
+Schadensgeschehen durch das Kraftfahrzeug (mit) geprägt worden ist. Erforderlich ist
+dabei stets, dass es sich bei dem Schaden, für den Ersatz verlangt wird, um eine
+Auswirkung derjenigen Gefahren handelt, hinsichtlich derer der Verkehr nach dem Sinn
+der Haftungsvorschrift schadlos gehalten werden soll, d. h. die Schadensfolge muss in
+den Bereich der Gefahren fallen, um derentwillen die Rechtsnorm erlassen worden ist.
+Für die Zurechnung der Betriebsgefahr kommt es damit grundsätzlich maßgeblich
+darauf an, dass die Schadensursache in einem nahen örtlichen und zeitlichen
+Zusammenhang mit einem bestimmten Betriebsvorgang oder einer bestimmten
+Betriebseinrichtung des Kraftfahrzeugs steht (vgl. Senatsurt. v. 7.2.2023 – VI ZR 87/22,
+Rn. 6 = r+s 2021, 710 jeweils mwN). Bei Kraftfahrzeugen mit Arbeitsfunktionen ist es
+erforderlich, dass ein Zusammenhang mit der Bestimmung des Kraftfahrzeugs als eine
+der Fortbewegung und dem Transport dienende Maschine (vgl. § 1 Abs. 2 StVG)
+besteht. Eine Haftung nach § 7 Abs. 1 StVG entfällt daher, wenn die Fortbewegungsund Transportfunktion des Kraftfahrzeuges keine Rolle mehr spielt und das Fahrzeug
+nur noch als Arbeitsmaschine eingesetzt wird (vgl. Senatsurt. v. 18.7.2023 – VI ZR
+r+s 1995, 135; jeweils mwN).
+14 bb) Ursache des Schadens war nach den nicht angegriffenen Feststellungen des
+Berufungsgerichts, dass der Fahrer des Tanklastwagens den Schlauch des Fahrzeuges
+im Domschacht an den „blinden“ Einfüllstutzen anschloss, der in den Keller des Hauses
+führte. Die Fortbewegungs- und Transportfunktion des Tanklastwagens spielte in
+dieser Situation für das Schadensgeschehen keine Rolle mehr. Das Fahrzeug wurde
+hierbei nur als Arbeitsmaschine eingesetzt (zu einer vergleichbaren Situation
+1582).
+Verschuldenshaftung von Fahrer und Spediteur*
+15b) Auf der Grundlage des festgestellten Sachverhalts hat das Berufungsgericht eine
+Haftung des Fahrers des Tanklastwagens nach § 823 Abs. 1 BGB und des Spediteurs,
+bei dem der Fahrer beschäftigt ist, nach § 831 Abs. 1 BGB rechtsfehlerfrei bejaht. Dies
+wird von der Revisionserwiderung auch nicht angegriffen. Entgegen der Ansicht des
+Berufungsgerichts kann die Bekl. diese Schadensersatzansprüche auch gegen die
+Drittwiderbeklagte als Kfz-Haftpflichtversicherer nach § 115 Abs. 1 Satz 1 Nr. 1, Satz 2
+VVG, § 1 PflVG geltend machen.
+Voraussetzungen des Direktanspruchs: Gebrauch*
+16 aa) Nach § 115 Abs. 1 Satz 1 Nr. 1, Satz 2 VVG kann ein Dritter, der einen Anspruch
+auf Schadensersatz hat, seinen Anspruch auch gegen den VR geltend machen
+(Direktanspruch), wenn es sich um eine Haftpflichtversicherung zur Erfüllung einer
+nach dem Pflichtversicherungsgesetz bestehenden Versicherungspflicht handelt und
+für den Anspruch eine Leistungspflicht des VR aus dem Versicherungsverhältnis
+besteht. § 1 PflVG regelt die Versicherungspflicht des Halters eines Kraftfahrzeugs und
+damit den Mindeststandard des zu gewährleistenden
+Haftpflichtversicherungsschutzes; an diese Vorschrift knüpft die Regelung des
+Direktanspruchs an (vgl. Senatsurt. v. 8.12.2015 – VI ZR 139/15, BGHZ 208, 140 Rn. 21
+= r+s 2016, 143). Nach § 1 PflVG ist der Halter eines Kraftfahrzeugs verpflichtet, für
+sich, den Eigentümer und den Fahrer eine Haftpflichtversicherung zur Deckung der
+durch den Gebrauch des Fahrzeugs verursachten Personen-, Sach- und sonstigen
+Vermögensschäden abzuschließen und aufrechtzuerhalten, wenn das Fahrzeug auf
+öffentlichen Wegen oder Plätzen verwendet wird. Der Begriff „Gebrauch des
+Fahrzeugs“ in § 1 PflVG (vgl. auch § 2 Abs. 1 KfzPflVV) schließt den „Betrieb eines
+Kraftfahrzeugs“ iSv § 7 Abs. 1 StVG ein, geht aber noch darüber hinaus (vgl. Senatsurt.
+v. 8.12.2015 – VI ZR 139/15, BGHZ 208, 140 Rn. 23 = r+s 2016, 143; v. 26.6.1979 – VI
+17Bei der Kraftfahrzeughaftpflichtversicherung ist das Interesse versichert, das der
+Versicherte daran hat, durch den Gebrauch des Fahrzeugs nicht mit
+Haftpflichtansprüchen belastet zu werden, gleich ob diese auf §§ 7 ff. StVG, §§ 823 ff.
+BGB oder anderen Haftungsnormen beruhen. Von der
+Kraftfahrzeughaftpflichtversicherung soll die typische, vom Gebrauch des Fahrzeugs
+selbst und unmittelbar ausgehende Gefahr gedeckt sein (vgl. Senatsurt. v. 8.12.2015
+– VI ZR 139/15, BGHZ 208, 140 Rn. 22 = r+s 2016, 143; BGH, Urt. v. 27.10.1993 – IV ZR
+243/92, NJW-RR 1994, 218, 219, juris Rn. 16 = r+s 1994, 2; v. 19.7.2023 – VI ZR 384/22,
+VersR 2023, 1226 Rn. 21 = r+s 2023, 946). „Gebraucht“ wird ein Kraftfahrzeug auch
+dann, wenn es nur als Arbeitsmaschine eingesetzt wird. Der Entladevorgang gehört
+danach zu seinem Gebrauch, solange das Kraftfahrzeug oder seine an und auf ihm
+befindlichen Vorrichtungen daran beteiligt sind. Der Schaden, der beim Hantieren mit
+Ladegut eintritt, ist dann „durch den Gebrauch“ des Kraftfahrzeugs entstanden, wenn
+es für die schadensstiftende Verrichtung aktuell, unmittelbar, zeitlich und örtlich nahe
+eingesetzt worden ist. Nach diesen Grundsätzen ist das Entladen eines Tanklastzugs
+mittels einer auf ihm befindlichen Pumpe dem Gebrauch des Kraftfahrzeugs
+zuzuordnen, solange der Druck der Pumpe noch auf das abzufüllende Öl einwirkt und
+die Flüssigkeit durch den Schlauch heraustreibt. Damit wird der Tanklastzug mit seinen
+speziellen Vorrichtungen unmittelbar eingesetzt. Kommt es hierbei zu einer
+Schädigung, so verwirklicht sich eine Gefahr, die von dem Fahrzeug selbst ausgeht (vgl.
+Senatsurt. v. 8.12.2015 – VI ZR 139/15, BGHZ 208, 140 Rn. 22 = r+s 2016, 143; v.
+Prölss/Martin,
+VVG, 31. Aufl., AKB 2015 A.1.1 Rn. 19 ff.; Maier in Stiefel/Maier, Kraftfahrtversicherung,
+19. Aufl., A.1 AKB Rn. 49).
+18 Diesem Verständnis steht die RL 2009/103/EG des Europäischen Parlaments und
+des Rates vom 16.9.2009 über die Kraftfahrzeug-Haftpflichtversicherung und die
+Kontrolle der entsprechenden Versicherungspflicht (im Folgenden: 6. KH-Richtlinie)
+nicht entgegen. § 1 PflVG dient heute der Umsetzung von Art. 3 der 6. KH-Richtlinie.
+Art. 3 der 6. KH-Richtlinie ist im Wesentlichen inhaltsgleich mit Art. 3 der RL
+72/166/EWG des Rates vom 24.4.1972 betreffend die Angleichung der
+Rechtsvorschriften der Mitgliedstaaten bezüglich der Kraftfahrzeug-
+Haftpflichtversicherung und der Kontrolle der entsprechenden Versicherungspflicht
+(im Folgenden 1. KH-Richtlinie; vgl. zu Art. 3 der 1. KH-Richtlinie Senatsurt. v. 8.12.2015
+– VI ZR 139/15, BGHZ 208, 140 Rn. 24 ff. = r+s 2016, 143). Ein Fahrzeug, das zum
+Zeitpunkt des Unfalls in erster Linie als Arbeitsmaschine und nicht als Transportmittel
+verwendet wird, fällt nach der Rspr. des Unionsgerichtshofs nicht unter Art. 3 der 1.
+bzw. 6. KHRichtlinie (vgl. EuGH, VersR 2018, 156 Rn. 38, 40 f.; EuGH, VersR 2019, 1008
+Rn. 35 f.). Demgegenüber fällt der Einsatz als Arbeitsmaschine nach den oben
+angeführten Grundsätzen unter den „Gebrauch des Fahrzeugs“ nach § 1 PflVG. Der
+Gesetzgeber sieht mit § 1 PflVG eine für den Geschädigten günstigere Bestimmung
+vor, als sie zur Umsetzung der 6. KH-Richtlinie erforderlich wäre. Die Besserstellung
+des Geschädigten ist den Mitgliedstaaten nach Art. 28 der 6. KHRichtlinie erlaubt.
+19bb) In folgenden Fällen hat der Senat Schäden, die beim Entladen von
+Tankfahrzeugen entstanden sind, als „durch den Gebrauch“ des Fahrzeugs entstanden
+angesehen: Beim Entladen von Heizöl trat wegen einer Undichtigkeit des zur
+Schlauchtrommel des Tanklastwagens führenden Verbindungsschlauchs Öl aus (vgl.
+Senatsurt. v. 8.12.2015 – VI ZR 139/15, BGHZ 208, 140 = r+s 2016, 143); während des
+Befüllens einer aus drei Tankbehältern bestehenden Tankanlage mittels einer mit der
+Motorkraft des Tanklastzugs betriebenen, auf diesem befindlichen Pumpe trat Heizöl
+über eine Entlüftungsleitung an der Hauswand aus (Senatsbeschl. v. 8.4.2008 – VI ZR
+a. M., ZfSch 2008, 377 = r+s 2008, 437); beim Entladen von Chemikalien aus einem
+Tankwagen durch Einsatz eines auf diesem befindlichen und durch den Motor des
+Fahrzeugs angetriebenen Kompressors war der Umfüllschlauch zu hohem Druck
+ausgesetzt und glitt aus der Öffnung des Tanks (vgl. Senatsurt. v. 19.9.1989 – VI ZR
+mittels einer auf ihm befindlichen Pumpe sprang beim Befüllen des Tanks der Schlauch
+aus der Öffnung und verspritzte Öl (Senatsurt. v. 26.6.1979 – VI ZR 122/78, BGHZ 75,
+in einem Fall, in dem ein vom Motor des zu entladenden Kraftfahrzeugs betriebener
+Kompressor Futter in ein Silo blies und dieses die Wand des Silos durchschlug, der
+Schaden beim Gebrauch eines Fahrzeugs entstanden ist (vgl. Senatsurt. v. 27.5.1975
+20cc) Soweit das Berufungsgericht – der Argumentation des OLG Hamburg in seinem
+Beschl. v. 26.6.2008 (OLG Hamburg, OLGR 2008, 895) folgend – die Ansicht vertreten
+hat, es habe sich im Streitfall keine vom Fahrzeug selbst ausgehende Gefahr
+verwirklicht, vielmehr habe sich das menschliche Versagen des Fahrers ausgewirkt,
+weshalb der Schaden nicht dem Gebrauch des Fahrzeugs zuzuordnen sei, kann dem
+nicht gefolgt werden. Nach den unter aa) dargelegten Maßstäben und der unter bb)
+wiedergegebenen Senatsrechtsprechung ist im Streitfall der Schaden „durch den
+Gebrauch“ des Tanklastwagens verursacht worden.
+21Der Schaden am Hausgrundstück der Bekl. ist nach den Feststellungen des
+Berufungsgerichts beim Entladen des Tanklastwagens mithilfe der Pumpe des
+Tanklastzugs entstanden, die über den Ölschlauch des Fahrzeugs, der an den „blinden“
+Einfüllstutzen im Domschacht angeschlossen war, Öl in den Keller der Bekl. pumpte.
+An der schadensstiftenden Verrichtung waren der Tanklastwagen und seine speziellen
+Vorrichtungen aktuell und unmittelbar beteiligt. Ein Schaden wird – entgegen der
+Ansicht des Berufungsgerichts – nicht nur dann „durch den Gebrauch des Fahrzeugs“
+verursacht, wenn der Schaden aufgrund einer fehlerhaften Funktion des Fahrzeugs
+oder einer seiner Vorrichtungen entsteht. Fahrlässiges Verhalten des Fahrers beim
+Entladen des Fahrzeugs – wie im Streitfall – hindert die Annahme, dass der
+Schadenseintritt „durch den Gebrauch des Fahrzeugs“ verursacht wurde, nicht. Selbst
+wenn die Gefahr nicht unmittelbar vom Fahrzeug ausgegangen ist, sondern von einer
+Person, die eine typische Fahrerhandlung vorgenommen hat, wird angenommen, dass
+der Schaden „durch den Gebrauch des Fahrzeugs“ verursacht wurde (vgl. BGH, Urt. v.
+Entgegen der Ansicht der Revisionserwiderung führt ein solches Verständnis auch
+nicht zu einer grenzenlosen Einstandspflicht des Kfz-Haftpflichtversicherers nach § 1
+PflVG. Diese wird bereits dadurch begrenzt, dass ein Direktanspruch gegen den Kfz-
+Haftpflichtversicherer nicht schon dann besteht, wenn ein Schaden „durch den
+Gebrauch des Fahrzeugs“ verursacht wurde; weitere Voraussetzung ist, dass dem
+Geschädigten ein Anspruch gegen den Eigentümer, den Fahrer oder den Halter des
+Kraftfahrzeugs aus einer Haftungsnorm zusteht.
+Kein Mitverschulden durch Öl-„Anlage“ des Geschädigten*
+222. Das Berufungsgericht hat auf der Grundlage der von ihm getroffenen
+Feststellungen rechtsfehlerhaft eine mitwirkende Gefahr der Anlage nach § 254 BGB
+iVm § 89 Abs. 2 Satz 1 WHG bejaht. Eine solche Gefahr ist im Rahmen des § 254 BGB
+anspruchsmindernd zu berücksichtigen, wenn der Geschädigte auch aus
+Gefährdungshaftung in Anspruch genommen werden könnte, wäre nicht ihm, sondern
+einem Dritten der Schaden entstanden (vgl. Senatsurt. v. 11.6.2013 – VI ZR 150/12,
+Rn. 5, 12). Die Bekl. wäre einem Dritten für den Schaden nach § 89 Abs. 2 Satz 1 WHG
+aber schon deshalb nicht ersatzpflichtig, weil keine Anlage im Sinne dieser Norm
+vorliegt.
+23a) Gemäß § 89 Abs. 2 Satz 1 WHG ist der Betreiber einer Anlage, die bestimmt ist,
+Stoffe herzustellen, zu verarbeiten, zu lagern, abzulagern, zu befördern oder
+wegzuleiten, einem Dritten zum Schadensersatz verpflichtet, wenn diese Stoffe aus der
+Anlage in ein Gewässer gelangen, ohne in dieses eingebracht oder eingeleitet zu sein,
+und dadurch die Wasserbeschaffenheit nachteilig verändert wird. Der Begriff der
+Anlage ist weit gefasst. Darunter fallen alle ortsfesten oder ortsveränderlichen
+Einrichtungen, mit denen im Allgemeinen für eine gewisse Dauer bestimmte, in § 89
+Abs. 2 Satz 1 WHG im Einzelnen aufgeführte Zwecke mit technischen Mitteln verfolgt
+10247; v. 22.11.1971 – III ZR 112/69, BGHZ 57, 257,
+24 Nach der Rspr. des BGH zu § 22 Abs. 2 WHG aF, der Vorgängervorschrift des § 89
+Abs. 2 Satz 1 WHG, haftet der Anlagenbetreiber auch für eine funktionslose, also nicht
+mehr betriebene Öltankanlage, die noch Öl enthält und damit für ihre Umwelt gefährlich
+bleibt (vgl. BGH, Urt. v. 22.7.1999 – III ZR 198/98, BGHZ 142, 227, 232, juris Rn. 10 =
+Satz 1 WHG müsse die Anlage nicht mehr in Betrieb sein (vgl. BeckOGK/Gude, WHG,
+Stand: 1.7.2023, § 89 Rn. 36; Kümper in Schink/Fellenberg, GK-WHG, 2021, § 89 Rn. 47;
+Breuer/Gärditz, Öffentliches und privates Wasserrecht, 4. Aufl., Rn. 1498 mwN). § 89
+Abs. 2 Satz 1 WHG erfasst seinem Sinn und Zweck nach aber nur „gefährliche Anlagen“,
+also solche, deren bestimmungsgemäße Verwendung typischerweise die Gefahr einer
+Gewässerverunreinigung mit sich bringt (Kümper in Schink/Fellenberg, GK-WHG, 2021,
+§ 89 Rn. 48; Petersen in Landmann/Rohmer, Umweltrecht, Stand: 102. EL9.2023, § 89
+WHG Rn. 64; Reiff in Berendes/Frenz/Müggenborg, WHG, 2. Aufl., § 89 Rn. 71; vgl. zur
+Vorgängervorschrift BGH, Urt. v. 29.11.1979 – III ZR 101/77, BGHZ 76, 35, 42, juris Rn.
+daher in jedem Einzelfall zu prüfen, ob diese aufgrund ihrer weiter bestehenden oder
+weggefallenen bzw. erneuerten Bestimmung in diesem Sinn noch gefährlich sind, etwa
+weil sie weiterhin wassergefährdende Stoffe enthalten.
+25Maßgeblich für die Beurteilung der Bestimmung einer Anlage ist, für welche
+Vorgänge sie von ihrem Inhaber bzw. (früheren) Betreiber (noch) vorgesehen ist. Die
+Bestimmung der Anlage ist nicht objektiv und unveränderlich festgelegt, sondern vom
+Willen des Betreibers abhängig (vgl. Petersen in Landmann/Rohmer, Umweltrecht,
+Stand: 102. EL9.2023, § 89 WHG Rn. 66; Reiff in Berendes/Frenz/Müggenborg, WHG,
+2. Aufl., § 89 Rn. 70).
+26 b) Im Streitfall dienten bis zum Entfernen des Öltanks im Keller dieser und die zu
+ihm führende Rohrleitung nebst Einfüllstutzen als Anlage zum Transport und zur
+Lagerung von Heizöl als wassergefährdendem Stoff (vgl. hierzu auch BGH, Urt. v.
+1.7.2023, § 89 Rn. 33). Nach den nicht angegriffenen Feststellungen des
+Berufungsgerichts wurde im Jahr 2007 der Öltank im Keller entfernt, übrig blieben der
+Einfüllstutzen im Domschacht und ein mit ihm verbundenes Rohrstück, das in den
+Keller führt. Die verbliebenen Teile dienen seit dem Entfernen des Tanks objektiv und
+nach dem Willen der Bekl. als Betreiberin nicht mehr dem Befüllen eines Heizöltanks
+und sind daher nicht mehr zum Transport von Heizöl bestimmt. Eine Gefahr für ein
+Gewässer durch die Restanlage entstand nur dadurch, dass der Einfüllstutzen und das
+mit ihm verbundene Rohrstück mit einer aktiven Anlage verwechselt und Öl eingefüllt
+wurde. Diese Nutzung des „blinden“ Einfüllstutzens ist mit der bestimmungswidrigen
+bzw. missbräuchlichen Nutzung einer noch aktiven, aber zu anderen Zwecken
+bestimmten Anlage vergleichbar. Die bestimmungswidrige Nutzung einer Anlage ist
+von der Haftung nach § 89 Abs. 2 Satz 1 WGH nicht erfasst (vgl. BGH, Urt. v. 12.9.2002
+BeckOGK/Gude, WHG, Stand: 1.7.2023, § 89 Rn. 37; Kümper in Schink/Fellenberg, GK-
+WHG, 2021, § 89 Rn. 50; Reiff in Berendes/Frenz/Müggenborg, WHG, 2. Aufl., § 89 Rn.
+70; Kotulla, WHG, 2. Aufl., § 89 Rn. 42). Dies gilt auch für die hier vorliegende
+Restanlage.
+27Diese Überlegungen gelten entsprechend für die Anlagenhaftung nach § 2 Abs. 1
+Satz 1 HaftPflG. Dieser Haftung unterfallen Anlagen, die zur Leitung oder Abgabe von
+juris Rn. 31 f.; Kayser in Filthaut/Piontek/Kayser, Haftpflichtgesetz, 10. Aufl., § 2 Rn. 9).
+Um eine solche Anlage handelt es sich im Streitfall nach der Demontage des
+Heizöltanks nicht mehr.
+28III. Das Urteil des Berufungsgerichts ist in vorbezeichnetem Umfang aufzuheben (§ 562 Abs. 1 ZPO). Die Sache ist noch nicht zur Entscheidung reif. Mit der Frage, ob ein
+mitwirkendes Verschulden aus anderen als den unter II. 2. dargelegten Gründen in
+Betracht kommt, hat sich das Berufungsgericht nicht befasst. Es ist nicht
+auszuschließen, dass zu dieser Frage noch weitere Feststellungen getroffen werden
+können. Deshalb ist die Sache im Umfang der Aufhebung an das Berufungsgericht
+zurückzuweisen (§ 563 Abs. 1 Satz 1 ZPO).
+Anmerkung:
+Missglückte Öllieferungen (im Fall des BGH hatte der Fahrer trotz eines Hinweises des
+Hauseigentümers die Einfüllstutzen verwechselt) sorgen immer wieder für haftungs –
+und versicherungsrechtliche Probleme. Haftungsrechtlich stellt sich die Frage, ob der
+Tanklaster im Betrieb gem. § 7 StVG ist. Deckungsrechtlich hängt die Eintrittspflicht
+von dessen Kfz – Haftpflichtversicherung davon ab, ob sich der LKW in Gebrauch gem.
+§ 1 PflVG bzw. A. 1.1 AKB befunden hat. Die Begriffe Betrieb (§ 7 StVG) und Gebrauch
+(§ 1 PflVG bzw. A. 1.1 AKB) hängen eng miteinander zusammen, haben aber doch nicht
+denselben Bedeutungsgehalt. Dafür ist die vorliegende Entscheidung des BGH ein
+gutes Beispiel. Anders nämlich, als man im ersten Moment annehmen möchte sind die
+beiden Begriffe inhaltlich nicht identisch. Auch wenn – wie vorliegend vom BGH –
+Betrieb des Fahrzeugs verneint wird, kann dennoch von einem Gebrauch des Kfz
+auszugehen sein. Das ist – wie im Urteil des BGH – dann wichtig, wenn der Schädiger
+zwar nicht aus § 7 StVG, aber aus anderen Vorschriften, etwa aus § 823 oder § 280
+BGB haftet. Bedeutsam für die Praxis ist schließlich der Grundsatz, dass (weil
+Gebrauch der weitere Begriff ist) immer dann, wenn Betrieb vorliegt, auf jeden Fall auch
+von Gebrauch und damit von einer Eintrittspflicht des Kfz – Haftpflichtversicherers
+auszugehen ist. Daher ist die Frage, ob sich ein Kfz im Betrieb nach § 7 StVG befunden
+hat, nicht nur für die Halterhaftung, sondern auch für die Eintrittspflicht des Kfz-
+Haftpflichtversicherers von entscheidender Bedeutung.
+Im Fall des BGH hatte ein Tanklastwagen entgegen den Weisungen des
+Hauseigentümers das Öl nicht in den richtigen, sondern in einen still gelegten, blinden
+Einfüllstutzen gefüllt.
+Der BGH prüft zunächst eine Haftung aus § 7 StVG und verneint diese. Die relativ
+kurzen Ausführungen des BGH, die im Wesentlichen auf früheren Argumentationslinien
+zum Betriebsbegriff beruhen, lassen sich im Kern wie folgt nachzeichnen:
+Grundsätzlich kommt es für die Zurechnung der Betriebsgefahr darauf an, ob die
+Schadensursache in einem nahen örtlichen und zeitlichen Zusammenhang mit einem
+bestimmten Betriebsvorgang oder einer bestimmten Betriebseinrichtung eines
+Kraftfahrzeugs steht (bejaht etwa für einen von einem anderen Kfz angefahrenen
+Anhänger, der seinerseits eine Hauswand beschädigt, Urt. v. 7.2.2023 – VI ZR 87/22 =
+r+s 2023, 325 m. Anm. Stenger/Schlereth). Bei Kraftfahrzeugen mit Arbeitsfunktion ist
+dabei erforderlich, dass ein Zusammenhang mit der Bestimmung des Kraftfahrzeugs
+als eine der Fortbewegung und dem Transport dienenden Maschine besteht. Eine
+Haftung nach § 7 StVG entfällt daher, wenn die Fortbewegungs- und Transportfunktion
+des Kraftfahrzeugs keine Rolle mehr spielt und das Fahrzeug nur noch als
+Arbeitsmaschine eingesetzt wird (zuletzt BGH, Urt. v. 18.7.2023 – VI ZR 16/23 = r+s
+2023, 969:
+Traubenvollernter verschmutzt Ernte). Wird das Fahrzeug im Zeitpunkt des
+Schadenseintritts bewegt, kann dies für einen Betrieb des Fahrzeugs sprechen (etwa
+BGH, Urt, v. 18.1.2005 – VI ZR 115/04 = r+s 2005, 303: Mähfahrzeug wirbelt
+Gegenstand auf; ebenso BGH, Urt. v. 13-12-1990 – III ZR 14/90: langsam fahrendes
+Auto sichert Mähfahrzeug; BGH, Urt. v. 5.7.1988 – VI ZR 346/87 = r+s 1988, 361:
+Auswerfen von Streugut aus einem Streufahrzeug). Letztlich kommt es nach dem BGH
+aber nicht entscheidend auf das Stehen oder Fahren während der Arbeitsfunktion,
+sondern darauf an, ob haftungsrechtlich nur noch die Funktion als Arbeitsmaschine
+infrage steht. Daher kann auch bei einer fahrenden Arbeitsmaschine Betrieb zu
+verneinen sein (BGH Urt. v. 21.9.2021 – VI ZR 726/20 = r+s 2021, 710:
+Schadensverursachung durch einen von einem Traktor angetriebenen Kreiselmäher
+beim Mähen einer Wiese) und kann bei einer stehenden Arbeitsmaschine Betrieb
+vorliegen (BGH, Urt. v. 8.12.2015 – VI ZR 139/15 = r+s 2015: Einfüllen von Öl bei
+defektem Schlauch). Wann die Funktionen des Fahrzeugs nur noch denen einer
+Arbeitsmaschine entsprechen, lässt sich nur im Einzelfall unter Berücksichtigung aller
+Umstände entscheiden (hierzu BGH Urt. v. 21.9.2021 – VI ZR 726/20 = r+s 2021, 716).
+Eine entscheidende Rolle spielt dabei die Frage, ob sich das Unfallgeschehen auf einer
+öffentlichen oder jedenfalls öffentlich zugänglichen Verkehrsfläche ereignete oder sich
+nur als Bewirtschaftung einer privat genutzten Ackerfläche darstellt. Auch die
+Bedeutung dieses Kriteriums wird vom BGH immer wieder hervorgehoben (BGH Urt. v.
+21.9.2021 – VI ZR 726/20 = r+s 2021, 716; BGH, Urt. v. 18.7.2023 – VI ZR 16/23 = r+s
+2023, 969).
+Gerade im hier in Rede stehenden Fall einer misslungenen Ölanlieferung kann es auf
+diesen Punkt entscheidend ankommen. Das zeigt sich an einer ganzen Reihe in
+früheren Jahren vom BGH entschiedener Fälle zu Schäden im Rahmen von
+Öllieferungen. In den meisten Entscheidungen hat der BGH – ebenso wie in dem hier
+besprochenen Urteil – Betrieb verneint. So im Urt. v. 23.5.1978 – VI ZR 150/76 (Öl trat
+durch das Entlüftungsrohr des Tanks aus); ebenso Urt. v. 13.12.1994 – VI ZR 283/93 =
+r+s 1993, 135 (Fontäne wegen beim Tanken entstandenen Überdrucks), im Urt. v.
+19.9.1989 – VI ZR 301/88 (Fahrer steckt den Einfüllschlauch in den Lagertank,
+Schlauch gleitet aus zugeklapptem Deckel); und ebenso schon im Urt. v. 6.6.1978 – VI
+ZR 156/76 (Tank läuft über). Zumindest auf den ersten Blick schien der BGH (Urt. v.
+8.12.2015 – VI ZR 139/15 = r+s 2016, 143: Fontäne aus schadhaftem Schlauch) hier
+einen Paradigmenwechsel vorgenommen zu haben. Betrieb liegt nach dieser
+Entscheidung (schon) dann vor, wenn „das Kraftfahrzeug in innerem Zusammenhang
+mit seiner Funktion als Verkehrs- und Transportmittel entladen wird, und zwar auch
+dann, wenn das Entladen mit Hilfe einer speziellen Entladevorrichtung des
+Kraftfahrzeuges erfolgt….Hierunter fällt nicht nur die Gefahr durch das entladende
+Kraftfahrzeug als solches, sondern auch diejenige, die von den Entladevorrichtungen
+und dem Ladegut ausgeht.“ Zwar hebt der BGH in seiner Entscheidung weiter darauf
+ab, dass sich der Schaden auf öffentlichem Verkehrsgelände ereignet habe und dass
+es vom Zufall abhängig gewesen sei, ob auch unbeteiligte Passanten betroffen
+gewesen sein könnten. Dennoch konnte man die Formulierung des BGH so verstehen,
+als ob die reine Entladetätigkeit – die ja immerhin mit Hilfe einer Betriebseinrichtung
+des Fahrzeugs (Pumpe) erfolgte – bereits als solche den Betriebsbegriff erfüllte. Diese
+Erwägungen finden sich in der hier in Rede stehenden Entscheidung nicht (mehr). Der
+BGH hebt ausschließlich darauf ab, dass die Fortbewegungs- und Transportfunktion
+des Tanklastwagens in der konkreten Situation (Verwechseln der Einfüllstutzen) für
+das Schadensgeschehen keine Rolle mehr gespielt habe. Das Fahrzeug sei insoweit
+nur als Arbeitsmaschine eingesetzt worden. Das nach dem Urteil v. 8.12.2015 – VI ZR
+139/15 = r+s 2016, 143 (Fontäne aus schadhaftem Schlauch) zu erwartende und
+eigentlich auch erforderliche Kriterium der öffentlichen Verkehrsfläche wird vom BGH
+erstaunlicherweise nicht herangezogen. Als (bis hierhin) zu ziehendes Fazit lässt sich
+also festhalten, dass der BGH zur „alten“ Linie zurückkehrt und bei Ölentladefällen
+grundsätzlich nicht von Betrieb ausgehen will. Anders kann das allenfalls dann sein,
+wenn sich der Schaden auf öffentlichem Gelände zugetragen hat.
+Ganz auf seiner bisherigen Linie liegt der BGH dagegen im zweiten Teil des Urteils, in
+dem er der Frage nachgeht, ob (da der Fahrer nach 823 BGB und der Ölhändler nach § 280 BGB haften), von einem Gebrauch des Lkw auszugehen ist. Dann (und nur dann)
+bestünde eine Eintrittspflicht des Kfz – Haftpflichtversicherers und stünde dem
+Geschädigten ein Direktanspruch gem. § 115 Abs. 1 VVG zu. Das wiederum ist nur
+dann der Fall, wenn sich der Abladevorgang als Gebrauch des Fahrzeugs einordnen
+lässt. Der Begriff des Gebrauchs hat nicht denselben Bedeutungsgehalt wie der des
+Betriebs, vielmehr schließt er diesen mit ein, geht aber noch darüber hinaus. D. h.
+konkret, dass immer dann, wenn Betrieb im Sinne des § 7 StVG bejaht wird,
+notwendigerweise auch ein Gebrauch des Kfz vorliegt. Liegt dagegen – wie vom BGH
+entschieden – das Merkmal des Betriebs nicht vor, so kann dennoch Gebrauch
+gegeben sein. Gebrauch verlangt nach der Rspr. – und hierin liegt der entscheidende
+Unterschied zum Betriebsbegriff – gerade nicht, dass das Fahrzeug in seiner Transport
+– und Beförderungsfunktion verwendet wird. Bei Fahrzeugen, die gleichzeitig als
+Arbeitsmaschine eingesetzt werden, fallen nicht nur die mit der Beförderung, sondern
+auch die mit der Arbeitsleistung verbundenen Gefahren unter das besondere Kfz-
+Risiko. Gebrauch eines Fahrzeugs liegt also auch dann vor, wenn die für das Fahrzeug
+typischen Funktionen in Tätigkeit gesetzt werden. Dabei kommt es nicht darauf an, ob
+das Fahrzeug im Moment des Schadenseintritts bewegt wurde oder ob es stand. Der
+Entladevorgang von Öl gehört zum Gebrauch, weil das Kfz an der Schadensentstehung
+aktuell, unmittelbar, zeitlich und örtlich nahe eingesetzt worden ist. Das ist jedenfalls
+so lange der Fall, wie der Druck der Pumpe des Lkw noch auf das einzufüllende Öl
+einwirkt. Damit wird der Tanklastzug mit seinen speziellen Vorrichtungen unmittelbar
+eingesetzt. Mit dem vorliegenden Urteil des BGH dürften die Entscheidungen des OLG
+Hamburg (OLGR 2008, 895) und des OLG München (Urt. v. 24.4.2015 – 25 U 4874/14
+= r+s 2016, 290), die in ähnlich gelagerten Verwechslungsfällen Gebrauch verneint
+hatten (näher Stiefel/Maier A. 1.1 AKB Rn. 49), überholt sein.
+Von besonderer Bedeutung sind schließlich die Ausführungen des BGH zur Frage einer
+mitwirkenden Gefahr der Ölanlage nach § 254 BGB iVm § 89 Abs. 2 WHG. Im konkreten
+Fall verneint der BGH das Vorhandensein einer Anlage im Sinne dieser Vorschrift, denn
+der Öltank war stillgelegt, so dass sich die typischerweise von einem Öltank (Anlage)
+ausgehende Gefahr nicht verwirklicht hat. Das ändert aber nichts daran, dass in dieser
+Vorschrift für betroffene Hauseigentümer durchaus ein Risiko liegen kann.
+Prof. Dr. Karl Maier, TH Köln
+* Bei diesem Text handelt es sich um eine redaktionelle Ergänzung.
+* Bei diesem Text handelt es sich um eine redaktionelle Ergänzung.
+* Bei diesem Text handelt es sich um eine redaktionelle Ergänzung.
+* Bei diesem Text handelt es sich um eine redaktionelle Ergänzung.
+* Bei diesem Text handelt es sich um eine redaktionelle Ergänzung.

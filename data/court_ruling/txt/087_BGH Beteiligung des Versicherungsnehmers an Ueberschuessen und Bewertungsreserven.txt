@@ -1,0 +1,291 @@
+Bewertungsreserven
+* Beteiligung des Versicherungsnehmers an Überschüssen und
+Bewertungsreserven
+VVG § 153 I, II, III; VAG §§ 56 a, b; EGVVG Art. 4 I
+1. Aus den vom Versicherer zu bildenden Rückstellungen für
+Beitragsrückerstattung (§§ 56 a, 56 b VAG) sind sowohl die Beteiligung an dem
+Überschuss gem. § 153 II VVG als auch die Bewertungsreserven gem. § 153 III
+VVG zu bilden. Hat der Versicherer die Bewertungsreserven nach einem
+verursachungsorientierten Verfahren ermittelt, sind diese aus der Rückstellung für
+Beitragsrückerstattung auszuzahlen.
+2. § 315 BGB findet im Rahmen der Regelung der Überschussbeteiligung gem. § 153 VVG keine Anwendung.
+BGH, Urteil vom 11.2.2015 – IV ZR 213/14
+Zum Sachverhalt
+Der Kl. begehrt von der Bekl. eine höhere Beteiligung an Überschüssen und
+Bewertungsreserven einer Lebensversicherung. Der frühere Arbeitgeber des Kl.
+schloss für diesen bei der Rechtsvorgängerin der Bekl. eine kapitalbildende
+Lebensversicherung ab. Versicherungsbeginn war der 1.12.1987, Ablauf der
+Versicherung der 1.12.2008. Dem Vertrag liegen „Allgemeine Bedingungen für die
+kapitalbildende Lebensversicherung“ zu Grunde. In § 16 heißt es unter der
+Überschrift „Wie sind Sie an unseren Überschüssen beteiligt?“ unter anderem: „An
+dem erwirtschafteten Überschuß sind unsere Versicherungsnehmer entsprechend
+unserem jeweiligen von der Aufsichtsbehörde genehmigten Geschäftsplan
+beteiligt.“ Die Bekl. legte hierzu einen Auszug aus ihrem Geschäftsplan betreffend
+die Beteiligung an Bewertungsreserven sowie einen Erläuterungsvermerk vor.
+Nach Ausscheiden des Kl. bei seinem Arbeitgeber führte er die Versicherung selbst
+als Versicherungsnehmer fort. Mit Schreiben vom 22.10.2008 rechnete die Bekl.
+den Vertrag ab und zahlte dem Kl. 28.025,81 Euro aus, wovon auf das
+Garantiekapital 18.902 Euro sowie auf die garantierte Überschussbeteiligung
+9123,81 Euro entfallen. Ferner gab sie an, dass in der garantierten
+Überschussbeteiligung ein Schlussüberschuss von 1581,60 Euro sowie die auf den
+Vertrag entfallende Bewertungsreserve von 678,21 Euro enthalten ist. Am 15.1.2009
+erläuterte die Bekl. die Beteiligung an den Bewertungsreserven dahingehend, dass
+sich diese aus einem Sockelbetrag von 656,88 Euro sowie einem volatilen Anteil von
+21,33 Euro zusammensetzt. Der Kl. ist der Ansicht, ihm stehe ein Anspruch auf
+Zahlung von 656,88 Euro entsprechend dem Sockelbetrag für die
+Bewertungsreserve zu, den die Bekl. unzulässigerweise mit seinem Anspruch auf
+die Schlussüberschussbeteiligung verrechnet habe.
+Mit der Klage verlangte der Kl. Zahlung dieser 656,88 Euro. Hilfsweise begehrte er
+im Wege der Stufenklage Feststellung der Unbilligkeit der von der Bekl.
+vorgenommenen Berechnung der Überschussbeteiligung, deren gerichtliche
+Neufestsetzung und sodann Auszahlung des sich hieraus ergebenden Betrags,
+weiter hilfsweise die Verurteilung der Bekl., ihm Auskunft über die mathematische
+Berechnung des Anteils der Beteiligung an Überschuss und Bewertungsreserven
+einschließlich ihrer Berechnungsgrundlage zu erteilen und anschließend Zahlung
+des sich aus dieser Auskunft ergebenden Betrags.
+BGH: * Beteiligung des Versicherungsnehmers an Überschüssen und
+Die Klage ist in den Vorinstanzen (AG Fritzlar, Urt. v. 20.8.2013 – 8 C 236/12 [15],
+geblieben. Mit seiner Revision verfolgte der Kl. sein Begehren weiter; sie blieb ohne
+Erfolg.
+Aus den Gründen
+6– 8I. Das BerGer. (…) hat ausgeführt, dem Kl. stehe kein Anspruch auf Zahlung
+weiterer 656,88 Euro zu. Der Anspruch auf Beteiligung an den Bewertungsreserven
+sei durch die Bekl. durch die Auszahlung der Beteiligung an den stillen Reserven iHv
+678,21 Euro in Form eines Sockelbetrags iHv 656,88 Euro und eines volatilen Anteils
+von 21,33 Euro erfüllt worden. (Die weitere Zusammenfassung der Ausführungen
+9II. Das hält rechtlicher Nachprüfung stand.
+101. Dem Kl. steht kein Anspruch auf Zahlung weiterer 656,88 Euro nebst Zinsen zu.
+11a) Gemäß § 153 I VVG in der seit dem 1.1.2008 geltenden Fassung steht dem
+Versicherungsnehmer eine Beteiligung an dem Überschuss und an den
+Bewertungsreserven (Überschussbeteiligung) zu, es sei denn, die
+Überschussbeteiligung ist – wie hier nicht – durch ausdrückliche Vereinbarung
+ausgeschlossen. Nach § 153 II 1 Hs. 1 VVG hat der Versicherer die Beteiligung an
+dem Überschuss nach einem verursachungsorientierten Verfahren durchzuführen.
+Bezüglich der Bewertungsreserve bestimmt § 153 III 1 VVG, dass der Versicherer
+diese jährlich neu zu ermitteln und nach einem verursachungsorientierten Verfahren
+rechnerisch zuzuordnen hat. Bei der Beendigung des Vertrags wird der für diesen
+Zeitpunkt zu ermittelnde Betrag zur Hälfte zugeteilt und an den
+Versicherungsnehmer ausgezahlt (§ 153 III 2 Hs. 1 VVG). § 153 VVG findet gem.
+Art. 4 I 2 Hs. 1 EGVVG ab dem 1.1.2008 auch auf den hier geschlossenen Altvertrag
+Anwendung. Zwar gelten nach Art. 4 I 2 Hs. 2 EGVVG vereinbarte
+Verteilungsgrundsätze als angemessen. Diese Regelung hat für
+Bewertungsreserven indessen keine Bedeutung, weil bei Altverträgen keine
+Vereinbarungen über deren Verteilung getroffen wurden (vgl. Langheid in
+Römer/Langheid, VVG, 4. Aufl., § 153 Rn. 44).
+12b) Unter einem verursachungsorientierten Verfahren gem. § 153 II und III VVG ist
+zu verstehen, dass der Versicherer die Versichertengemeinschaft in
+Abrechnungsverbände einteilen kann (vgl. BT-Drs. 16/3945, 96; MüKoVVG/Heiss, § 153 Rn. 42; Langheid in Römer/Langheid, § 153 Rn. 27; Krause in
+Looschelders/Pohlmann, VVG, 2. Aufl., § 153 Rn. 37). Ein solches
+verursachungsorientiertes Verfahren hat die Bekl. angewendet, wie sich aus dem
+für die Überschussbeteiligung nach § 16 AVB maßgeblichen Geschäftsplan ergibt.
+Aus diesem sowie den ergänzenden Erläuterungen der Bekl. lässt sich entnehmen,
+dass die Bekl. zunächst nach Sicherstellung ihrer Solvabilität eine Zuordnung der
+Bewertungsreserven auf den anspruchsberechtigten Bestand der
+Versicherungsnehmer vornimmt. Dem schließt sich eine Zuordnung auf die
+einzelnen anspruchsberechtigten Verträge an. Der Anteil des einzelnen Vertrags an
+den Bewertungsreserven wird mithin in der Weise ermittelt, dass die Verteilung der
+gesamten anzusetzenden Bewertungsreserven im Verhältnis des Deckungskapitals
+des einzelnen Vertrags bei Vertragsablauf zur Summe des Deckungskapitals aller
+anspruchsberechtigten Verträge erfolgt. Dieser Betrag wird von der Bekl. nicht in
+einem Einmalbetrag errechnet, sondern teilt sich in einen Sockelbetrag und einen
+volatilen Anteil auf. Der Sockelbetrag, der Schwankungen am Kapitalmarkt
+ausgleichen soll, ist dem Versicherungsnehmer garantiert. Er wird in jedem Fall
+ausgezahlt, es sei denn, dass sich nach den allgemeinen Grundsätzen ein höherer
+Betrag ergibt.
+Auf dieser Grundlage hat die Bekl. dem Kl. in ihrem Abrechnungsschreiben vom
+22.10.2008 eine Bewertungsreserve von 678,21 Euro zugeteilt, die ausweislich ihres
+Erläuterungsschreibens vom 15.1.2009 aus dem Sockelbetrag von 656,88 Euro
+sowie einem volatilen Anteil von 21,33 Euro besteht.
+13c) Der Kl. behauptet – jedenfalls seit dem Berufungsverfahren – auch nicht mehr,
+dass diese Berechnung der Bewertungsreserven unzutreffend ist. So heißt es in der
+Berufungsbegründung ausdrücklich, er nehme an, dass sein Anteil an den
+Bewertungsreserven iHv 678,21 Euro möglicherweise richtig von der Bekl. ermittelt
+worden sei. In der Sache geht es dem Kl. nicht um eine Neuberechnung der
+Bewertungsreserven, sondern er wendet sich gegen die nach seiner Auffassung
+unzulässige Verrechnung der Bewertungsreserven mit dem
+Schlussüberschussanteil.
+14Insoweit unterscheidet der Kl. indessen nicht hinreichend zwischen der
+Berechnung und der Zuteilung der Bewertungsreserve einerseits sowie deren
+Auszahlung andererseits. Bewertungsreserven, auch „stille Reserven“ genannt, sind
+zunächst rein rechnerische Posten, die sich aus der Differenz zwischen dem
+Buchwert und dem Zeitwert von Kapitalanlagen ergeben (vgl. Langheid in
+Römer/Langheid, § 153 Rn. 37). Diese Bewertungsreserven können vom
+Versicherer durch Veräußerung der entsprechenden Wirtschaftsgüter realisiert
+werden. Die Bekl. hat hierzu vorgetragen, sie habe die Überschussbeteiligung bis
+zum 31.12.2007 in der Weise vorgenommen, dass sie die Bewertungsreserven
+realisiert und die so erzeugten Gewinne an die Versicherungsnehmer mit der
+Schlussüberschusszahlung geleistet habe. Lediglich eine gesonderte Ausweisung
+sei wegen Fehlens einer entsprechenden gesetzlichen Vorschrift nicht erfolgt. Seit
+dem 1.1.2008 würden Bewertungsreserven nicht mehr realisiert, um sie mit dem
+Schlussüberschuss an die Versicherungsnehmer auszuzahlen.
+15Die Bekl. ist im Rahmen von § 153 III VVG bei unterlassener Realisierung der
+stillen Reserven zunächst gehalten, deren Höhe rechnerisch zu ermitteln, wie dies
+hier ihrem vorgelegten Auszug aus dem Geschäftsplan entspricht. Ist dieser Betrag
+berechnet, so hat die Bekl. ihn an ihre Versicherungsnehmer auszuzahlen, wobei
+dies rechnerisch gesondert von der Überschussbeteiligung im Übrigen zu erfolgen
+hat (§ 153 II und III VVG). Die Ermittlung der Bewertungsreserve richtet sich hierbei
+nach §§ 54 ff. der Verordnung über die Rechnungslegung von
+Versicherungsunternehmen (RechVersV; vgl. BT-Drs. 16/3945, 96).
+16Eine hiervon zu trennende Frage ist, wie die an den einzelnen
+Versicherungsnehmer auszuzahlende Bewertungsreserve vom Versicherer
+finanziert wird. Hierzu regelte der für dieses Vertragsverhältnis anwendbare § 56 a II
+VAG in der bis zum 6.8.2014 geltenden Fassung (vgl. jetzt § 56 a I VAG nF), dass
+die für die Überschussbeteiligung der Versicherten bestimmten Beträge, soweit sie
+den Versicherten nicht unmittelbar zugeteilt wurden, in eine Rückstellung für
+Beitragsrückerstattung einzustellen waren. Nach § 56 a III 1 VAG (vgl. jetzt § 56 b I 1 VAG nF) durften die in der bis zum 8.4.2013 geltenden Fassung der
+Rückstellung für Beitragsrückerstattung zugewiesenen Beträge nur für die
+Überschussbeteiligung der Versicherten einschließlich der durch § 153 VVG
+vorgeschriebenen Beteiligung an den Bewertungsreserven verwendet werden. Die
+Beteiligung an dem Überschuss und an den Bewertungsreserven sind Bestandteil
+des umfassenden Begriffs der Überschussbeteiligung iSv § 153 VVG und werden
+daher in gleicher Weise finanziert. Da es sich um eine Finanzierung der gesamten
+Überschussbeteiligung iSv § 153 I VVG handelt, die sowohl die Beteiligung an dem
+Überschuss (im engeren
+BGH: * Beteiligung des Versicherungsnehmers an Überschüssen und
+Sinne) als auch an den Bewertungsreserven umfasst, hat ein höherer Anteil der
+Bewertungsreserven bei den Rückstellungen für Beitragsrückerstattung zugleich
+ein Absinken des Schlussüberschusses zur Folge. Die Auffassung des Kl. läuft
+demgegenüber darauf hinaus, dass der Versicherer mit der Rückstellung für
+Beitragsrückerstattung ausschließlich den Schlussüberschussanteil des
+Versicherungsnehmers finanziert und auf diesen zusätzlich die Bewertungsreserve
+aufzuschlagen wäre. Dies hätte bei stillen Reserven zur Folge, dass der Versicherer
+diese verwerten müsste, um den Anspruch des Versicherungsnehmers auf die
+Bewertungsreserve bedienen zu können. Das ist nicht der Fall. Tatsächlich kann der
+Versicherer die Bewertungsreserve aus den nach §§ 56 a, b VAG gebildeten
+Rückstellungen für Beitragsrückerstattung bedienen, soweit dort genügend liquide
+Mittel vorhanden sind, was sich der Höhe nach dann auf den verbleibenden
+Überschussanteil des Versicherungsnehmers auswirken kann. Erst wenn die
+Rückstellungen für Beitragsrückerstattung nicht ausreichen, um den zuvor
+rechnerisch ermittelten Anspruch des Versicherungsnehmers für die
+Bewertungsreserven zu erfüllen, ist der Versicherer gehalten, stille Reserven
+aufzulösen, um hieraus liquide Mittel zu erzielen.
+17d) Da der nach Berücksichtigung der Bewertungsreserven verbleibende
+Schlussüberschussanteil des Versicherungsnehmers nicht garantiert ist, kann der
+Kl. auch nichts daraus herleiten, dass der Versicherungsvertreter der Bekl. ihm mit
+Schreiben vom 3.9.2007 noch eine Schlussüberschussbeteiligung von 2477,60 Euro
+mitgeteilt hat, während sich aus dem Abrechnungsschreiben der Bekl. vom
+22.10.2008 lediglich ein Schlussüberschuss von 1581,60 Euro (sowie zusätzlich
+Bewertungsreserven von 678,21 Euro) ergibt. Der Kl. übersieht ferner, dass in dem
+Schreiben des Versicherungsvertreters zwischen Überschussbeteiligung und
+Bewertungsreserven nicht differenziert wird und Letztere nicht einmal gesondert
+aufgeführt werden.
+182. Unbegründet ist ferner der erste Hilfsantrag des Kl., mit dem er die Feststellung
+begehrt, dass die Höhe der Beteiligung an dem Überschuss und an den
+Bewertungsreserven für den zwischen den Parteien geschlossenen
+Lebensversicherungsvertrag unbillig ist; ferner die Feststellung, dass stattdessen
+die vom Gericht zu ermittelnde billige und angemessene Beteiligungshöhe gilt,
+woraus sich anschließend ein entsprechender Zahlungsbetrag ergeben soll.
+19a) Zum Rechtszustand vor dem 1.1.2008 entsprach es gefestigter
+Rechtsprechung des Senats, dass der Versicherungsnehmer keinen aus § 315 III 2
+BGB herzuleitenden Anspruch auf Ermittlung des Überschusses sowie des
+auszuzahlenden Gewinns einer Lebensversicherung hatte (BGHZ 128, 54 [57 f.] =
+wird zum neuen Recht ab 1.1.2008 demgegenüber teilweise die Auffassung
+vertreten, der Versicherer bestimme die Überschussbeteiligung und die Beteiligung
+an den Bewertungsreserven nach billigem Ermessen iSv § 315 BGB (vgl. Winter in
+Bruck/Möller, VVG, 9. Aufl., § 153 Rn. 208; PK-VersR/Ortmann, 2. Aufl., § 153 Rn. 32;
+MüKoVVG/Heiss, § 153 Rn. 38). Eine derartige Anwendung von § 315 BGB hätte zur
+Folge, dass den Versicherer die Darlegungs- und Beweislast für die Billigkeit der
+20b) Dem ist nicht zu folgen. § 315 BGB findet auch im Rahmen der Regelung der
+Überschussbeteiligung gem. § 153 VVG keine Anwendung. Die Vorschrift setzt eine
+ausdrückliche oder konkludente rechtsgeschäftliche Vereinbarung voraus, dass
+eine Partei durch einseitige Willenserklärung den Inhalt einer Vertragsleistung
+2013, 1381 Rn. 27; NZA-RR 2013, 327 = VersR 2013, 219 Rn. 21). Ein rein faktisches
+Bestimmungsrecht reicht nicht aus. Eine vertragliche Bestimmung der Leistung
+geht vor und schließt die Anwendung des § 315 BGB aus, wenn die Vertragspartner
+objektive Maßstäbe vereinbaren, die es ermöglichen, die vertraglichen
+Leistungspflichten zu bestimmen.
+So liegt es hier. In § 16 der AVB wird bezüglich der Beteiligung des
+Versicherungsnehmers am Überschuss auf den von der Aufsichtsbehörde
+genehmigten Geschäftsplan der Bekl. verwiesen. Aus diesem von der Bekl.
+auszugsweise vorgelegten Geschäftsplan einschließlich der Erläuterungen ergibt
+sich, wie die Bewertungsreserve abstrakt zu berechnen ist. Es handelt sich um eine
+detaillierte Beschreibung, die einer gerichtlichen Nachprüfung, gegebenenfalls
+durch ein Sachverständigengutachten, unterliegt. Ein billiges Ermessen ist der Bekl.
+nicht eingeräumt worden.
+21§ 315 BGB kann zwar auch dann Anwendung finden, wenn dies ausdrücklich
+durch Gesetz bestimmt wird (vgl. MüKoBGB/Würdinger, 6. Aufl., § 315 Rn. 1). Auch
+dies ist hier aber nicht geschehen. Aus dem Wortlaut von § 153 VVG lässt sich die
+Einräumung eines billigen Ermessens nicht entnehmen. Auch die
+Entstehungsgeschichte gibt hierfür nichts her. Dort heißt es zu § 153 II und III VVG,
+für die rechnerische Zuordnung sei ein verursachungsorientiertes Verfahren
+anzuwenden (BT-Drs. 16/3945, 96). Der Versicherer erfülle diese Verpflichtung
+schon dann, wenn er ein Verteilungssystem entwickle und widerspruchsfrei
+praktiziere, das die Verträge unter dem Gesichtspunkt der Überschussbeteiligung
+sachgerecht zu Gruppen zusammenfasse, den zur Verteilung bestimmten Betrag
+nach den Kriterien der Überschussverursachung einer Gruppe zuordne und dem
+einzelnen Vertrag dessen rechnerischen Anteil an dem Betrag der Gruppe
+zuschreibe.
+22Anhaltspunkte dafür, dass der Gesetzgeber dem Versicherer ein billiges
+Ermessen iSv § 315 BGB einräumen wollte, ergeben sich hieraus mithin nicht (gegen
+eine Anwendung von § 315 BGB auch Langheid in Römer/Langheid, § 153 Rn. 58;
+Krause in Looschelders/Pohlmann, § 153 Rn. 32; Brömmelmeyer in
+Beckmann/Matusche-Beckmann, Versicherungsrechts-HdB, 2. Aufl., § 42 Rn. 299).
+Auch der Senat hat bereits in einem Rechtsstreit über die Berechnung des
+Rückkaufswerts und die Verrechnung der Abschlusskosten in einer
+kapitalbildenden Lebensversicherung entschieden, dass § 315 BGB in derartigen
+233. Unbegründet ist auch der zweite Hilfsantrag des Kl., die Bekl. zu verurteilen,
+ihm Auskunft zu erteilen über die mathematische Berechnung des Anteils der auf
+ihn zum Zeitpunkt des Ablaufs des Lebensversicherungsvertrags zum 1.12.2008
+entfallenden Beteiligung am Überschuss und an den Bewertungsreserven
+einschließlich ihrer Berechnungsgrundlagen sowie anschließend den sich aus der
+Auskunft ergebenden Betrag auszuzahlen.
+24a) Ein Auskunftsanspruch des Versicherungsnehmers kann sich allerdings dem
+Grunde nach aus dem Gesichtspunkt von Treu und Glauben nach § 242 BGB
+ergeben. Der Senat hat sich mit einem derartigen Auskunftsanspruch im Rahmen
+der Lebensversicherung bei der Ermittlung des Rückkaufswerts bereits befasst.
+Hiernach trifft den Schuldner nach Treu und Glauben ausnahmsweise eine
+Auskunftspflicht, wenn der Berechtigte in entschuldbarer Weise über Bestehen und
+Umfang seines Rechts im Ungewissen ist und der Verpflichtete die zur Beseitigung
+der Ungewissheit erfor
+BGH: * Beteiligung des Versicherungsnehmers an Überschüssen und
+1381 Rn. 24; NJOZ 2014, 1613 = VersR 2014, 822 Rn. 10). So liegt es grundsätzlich
+auch bei § 153 VVG (vgl. LG Dortmund, NJOZ 2012, 1311; Winter in Bruck/Möller, § 153 Rn. 208; Langheid in Römer/Langheid, § 153 Rn. 53–57; anders Grote in
+Marlow/Spuhl, Das Neue VVG kompakt, 4. Aufl., Rn. 1008 f.). Umfang und Inhalt der
+zu erteilenden Auskunft richten sich danach, welche Informationen der Berechtigte
+benötigt, um seinen Anspruch geltend machen zu können, soweit dem nicht
+Zumutbarkeitsgesichtspunkte oder andere Grenzen entgegenstehen. Der
+Auskunftsanspruch umfasst hierbei grundsätzlich nicht die Verpflichtung zur
+Vorlage der fiktiven versicherungstechnischen Bilanzen oder anderer
+Geschäftsunterlagen und auch kein Einsichtsrecht. Die Zubilligung des
+Auskunftsanspruchs hat unter Berücksichtigung der jeweiligen Umstände des
+Einzelfalls und unter Wahrung des Grundsatzes der Verhältnismäßigkeit zu
+erfolgen. Dabei sind sowohl die Art und Schwere der Rechtsverletzung als auch die
+beiderseitigen Interessen des Berechtigten und des Verpflichteten angemessen zu
+berücksichtigen.
+25Der Senat hat in seiner neueren Rechtsprechung mehrfach Auskunftsansprüche
+im Zusammenhang mit der Berechnung des Rückkaufswerts abgelehnt. Im Urteil
+vom 26.6.2013 hat er wesentlich darauf abgestellt, dass der Kl. Auskunft in Form
+zahlreicher Einzelangaben verlangte, die inhaltlich weitgehend auf eine vom
+Versicherer nicht geschuldete Rechnungslegung nach § 259 I BGB hinausliefen.
+Ferner hat er auf das berechtigte Geheimhaltungsinteresse des Versicherers
+Beschluss vom 7.1.2014 war entscheidend, dass ein Auskunftsanspruch, der
+zwecks Berechnung des Rückkaufswerts unter anderem die Überlassung des
+Algorithmus und der zu Grunde liegenden Einsatzwerte an einen zur
+Verschwiegenheit verpflichteten Dritten zum Inhalt habe, nicht in Betracht komme
+(Senat, NJOZ 2014, 1613 = VersR 2014, 822 Rn. 19).
+26b) Ob und inwieweit dem Kl. auf dieser Grundlage und des Inhalts seines Antrags
+ein Auskunftsanspruch gegen die Bekl. zustehen oder ob diese sich – ganz oder
+teilweise – auf ein berechtigtes Geheimhaltungsinteresse berufen könnte, kann
+offen bleiben. Auskunft kann nur verlangt werden, wenn und soweit vom Bestehen
+eines Zahlungsanspruchs ausgegangen werden kann, zu dessen Durchsetzung die
+in seinem Urteil vom 26.6.2013 für das Bestehen eines Auskunftsanspruchs gem. § 242 BGB darauf abgestellt, es ergäben sich ausreichende Anhaltspunkte dafür, dass
+Nachzahlungsansprüche, die der Kl. mit Hilfe der Auskunft geltend machen wolle,
+Daran fehlt es hier, weil der Kl. die Berechnung der Höhe der Bewertungsreserve
+durch die Bekl. als solche nicht angreift und sich ausschließlich dagegen wendet,
+die Bekl. habe die Bewertungsreserve unzulässig mit seinem
+Schlussüberschussanteil verrechnet, weshalb ihm ein Anspruch auf Zahlung
+weiterer 656,88 Euro zustehe. Das trifft indessen, wie oben im Einzelnen ausgeführt,
+nicht zu. Das BerGer. hat zutreffend darauf hingewiesen, es sei weder vorgetragen
+noch ersichtlich, dass die erfolgte Auszahlung nicht den Vorgaben des von der
+Aufsichtsbehörde genehmigten Geschäftsplans der Bekl. entsprochen habe.
+Vielmehr handelt es sich nach den Feststellungen des BerGer. insoweit sogar um
+den Höchstbetrag, den der Kl. verlangen kann. Das greift die Revision nicht an.
+Jedenfalls in einem solchen Fall, in dem der Versicherungsnehmer lediglich zu
+Unrecht die Verrechnung der ermittelten Bewertungsreserve mit dem
+Schlussüberschussanteil angreift, die Berechnung der Höhe der Bewertungsreserve
+im Übrigen indessen nicht in Abrede stellt, steht ihm kein weitergehender
+Auskunftsanspruch gegen den Versicherer zu.
+Anmerkung der Redaktion
+S. hierzu die Anm. Grams, FD-VersR 2015, 367396. – Zu der im Sommer 2014 in
+Kraft getretenen Neuregelung der Beteiligung von Versicherungsnehmern an den
+Bewertungsreserven in der Lebensversicherung (Lebensversicherungsreformgesetz) s. Krause/Menning, NJOZ 2013, 289 sowie Reiff, ZRP 2014, 198.

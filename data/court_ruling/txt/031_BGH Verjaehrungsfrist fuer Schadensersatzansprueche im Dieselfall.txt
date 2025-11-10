@@ -1,0 +1,294 @@
+Verjährungsfrist für Schadensersatzansprüche im Dieselfall
+BGB §§ 195, 199 I Nr. 2, 826, 852 
+1.Zur Verjährung des Schadensersatzanspruchs nach § 826 BGB in einem
+sogenannten Dieselfall (hier: EA 189).
+2.In der Konstellation des Erwerbs eines von einer Tochtergesellschaft des
+Motorherstellers hergestellten und in den Verkehr gebrachten Fahrzeugs, das mit
+einem vom Motorhersteller hergestellten und mit einer unzulässigen
+Abschalteinrichtung versehenen Motor ausgestattet ist, scheidet ein Anspruch des
+Geschädigten nach § 852  BGB gegen den Motorhersteller regelmäßig auch dann
+aus, wenn der Geschädigte das Fahrzeug als Neuwagen erworben hat (im Anschluss
+BGH Urteil vom 14.7.2022 – VII ZR 422/21
+Zum Sachverhalt
+Die Kl. nahm die Bekl. wegen der Verwendung einer unzulässigen Abschalteinrichtung
+in ihrem Fahrzeug Audi Q5 2.0 TDI, das im Dezember 2011 bei einem Autohändler als
+Neuwagen zum Preis von 54.000 EUR erworben wurde, auf Schadensersatz in
+Anspruch. Das Fahrzeug ist mit einem von der Bekl. hergestellten Dieselmotor des
+Typs EA 189 ausgestattet. Der Motor enthielt eine Steuerungssoftware, durch welche
+auf dem Prüfstand beim Durchfahren des Neuen Europäischen Fahrzyklus geringere
+Stickoxidwerte erzielt wurden als im realen Fahrbetrieb („Umschaltlogik“). Am
+22.9.2015 veröffentlichte die Bekl. eine Ad-hoc-Mitteilung, wonach Fahrzeuge mit
+Dieselmotoren des Typs EA 189 im Gesamtvolumen von weltweit elf Mio. Stück
+auffällig seien. In der Folge wurde über die Thematik in Presse, Funk und Fernsehen
+umfangreich berichtet und diese allgemein als „Abgasskandal“ beziehungsweise
+„Dieselskandal“ bezeichnet. Auch über die Betroffenheit anderer Konzernmarken wie
+Audi, Skoda und Seat wurde von Anfang an berichtet. Am 25.9.2015 gab die Bekl.
+öffentlich bekannt, dass an einer technischen Lösung gearbeitet werde. Am 29.9.2015
+informierte die Bekl. darüber, dass sie einen Aktionsplan erarbeitet habe, nach dem den
+Behörden Maßnahmen vorgeschlagen, Kunden informiert und eine Webseite zur
+individuellen Überprüfung erstellt würden. Anfang Oktober 2015 schaltete die Bekl.
+eine Webseite frei, auf der jedermann unter Eingabe der Fahrzeug-
+Identifizierungsnummer (FIN) ermitteln konnte, ob das Fahrzeug mit einem vom
+sogenannten Dieselskandal betroffenen Motor ausgestattet war. Hierüber informierte
+die Bekl. mit Pressemittelung vom 2.10.2015, worüber in den Medien berichtet wurde.
+Daneben bestand die Möglichkeit, sich telefonisch oder schriftlich bei der Bekl. zu
+informieren, ob in einem konkreten Pkw die Software verbaut ist. Im Dezember 2015
+gab die Bekl. das Ziel aus, die Erfüllung der Abgasnormen ohne Beeinträchtigung der
+Motorleistung, des Verbrauchs und der Fahrleistungen zu erreichen. Kunden wurden
+gebeten, vor aktiver Kontaktaufnahme zu einem Volkswagen-Partnerbetrieb weitere
+schriftliche Informationen abzuwarten.
+Mit ihrer im Jahr 2020 eingereichten Klage hat die Kl. die Erstattung des Kaufpreises
+abzüglich einer Nutzungsentschädigung nebst Zahlung von Prozesszinsen Zug um
+Zug gegen Übereignung und Herausgabe des Fahrzeugs, die Feststellung des
+Annahmeverzugs der Bekl.
+2022, 3284)
+sowie die Zahlung vorgerichtlicher Rechtsverfolgungskosten verlangt. Sie behauptet,
+erst durch ein Schreiben der AUDI AG im Januar 2017 von der Betroffenheit ihres
+Fahrzeugs vom sogenannten Abgasskandal erfahren zu haben. Die Bekl. hat die
+Einrede der Verjährung erhoben.
+überwiegend stattgegeben. Die hiergegen gerichtete Berufung der Bekl. blieb vor dem
+Erfolg. Mit ihrer vom BerGer. zugelassenen Revision verfolgte die Bekl. ihr auf
+vollständige Abweisung der Klage gerichtetes Begehren weiter. Die Revision hatte
+Erfolg.
+Aus den Gründen
+9II. (…) Rechtsfehlerhaft ist das BerGer. davon ausgegangen, dass den von der Kl.
+geltend gemachten Ansprüchen die von der Bekl. erhobene Verjährungseinrede nicht
+entgegen steht.
+101. Gemäß § 195 BGB beträgt die regelmäßige Verjährungsfrist für den
+Schadensersatzanspruch nach §§ 826, 31 BGB drei Jahre. Sie beginnt gem. § 199 I
+BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist (§ 199 I Nr. 1
+BGB) und der Gläubiger von den anspruchsbegründenden Umständen und der Person
+des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste (§ 199 I Nr. 2 BGB).
+11Darauf, ob die Kl. – wie die Revision geltend macht – bereits im Jahr 2015 positive
+Kenntnis von der Betroffenheit ihres Fahrzeugs hatte und ob das BerGer. einen
+diesbezüglichen Beweisantritt der Bekl. fehlerhaft übergangen hat, kommt es nicht
+entscheidungserheblich an. Denn jedenfalls hat das BerGer. zu Unrecht angenommen,
+die Kl. habe die für den Verjährungsbeginn erforderliche Kenntnis ohne grobe
+Fahrlässigkeit iSv § 199 I Nr. 2 Fall 2 BGB erst im Jahr 2017 erlangt. Grob fahrlässige
+Unkenntnis der Kl. von der Betroffenheit ihres Fahrzeugs lag vielmehr schon bis Ende
+2016 vor. Ausgehend hiervon ist die Klageforderung verjährt.
+12a) Wie der BGH bereits wiederholt entschieden hat, genügt es in Fällen der
+vorliegenden Art für den Beginn der Verjährung gem. § 199 I BGB, dass der geschädigte
+Fahrzeugkäufer Kenntnis vom sogenannten Dieselskandal im Allgemeinen, von der
+konkreten Betroffenheit seines Fahrzeugs und von der Relevanz dieser Betroffenheit
+für seine Kaufentscheidung hat, wobei letztere Kenntnis nicht gesondert festgestellt
+werden muss, sondern naturgemäß beim Geschädigten vorhanden ist (vgl. BGH NJW
+2022, 1311 Rn. 17 mwN).
+13b) Dass die Kl. – spätestens im Jahr 2016 – allgemeine Kenntnis vom sogenannten
+Dieselskandal hatte, steht nach den nicht angegriffenen Feststellungen des BerGer.,
+die durch entsprechende Bezugnahme auch den Tatbestand des landgerichtlichen
+Urteils und das dort wiederum in Bezug genommene Protokoll der erstinstanzlichen
+mündlichen Verhandlung umfassen, außer Streit. Die Kl. hat im Rahmen ihrer
+informatischen Anhörung durch das LG erklärt, bereits vor dem Jahr 2017 vom
+„Abgasskandal“ gehört zu haben, wobei ihr lediglich nicht klar gewesen sei, dass ihr
+Auto davon betroffen sei.
+14c) Das BerGer. ist indes zu Unrecht nicht von einer – gem. § 199 I Nr. 2 BGB der
+positiven Kenntnis gleichstehenden – grob fahrlässigen Unkenntnis der Kl. von der
+konkreten Betroffenheit ihres Fahrzeugs im Jahr 2016 ausgegangen.
+15aa) Die tatrichterliche Beurteilung, ob einer Partei der Vorwurf grob fahrlässiger
+Unkenntnis zu machen ist, unterliegt der Nachprüfung durch das RevGer. nur dahin, ob
+der Streitstoff umfassend, widerspruchsfrei und ohne Verstoß gegen Denk- und
+Erfahrungssätze gewürdigt worden ist und ob der Tatrichter den Begriff der groben
+Fahrlässigkeit verkannt oder bei der Beurteilung des Grades der Fahrlässigkeit
+wesentliche Umstände außer Betracht gelassen hat (vgl. BGH MDR 2022, 558 = BeckRS
+2022, 4175 Rn. 22 mwN). Unter Berücksichtigung dieses Prüfungsmaßstabs ist die
+Würdigung des BerGer., der Lauf der Verjährungsfrist sei erst durch positive Kenntnis
+der Kl. im Jahr 2017 in Gang gesetzt worden, rechtsfehlerhaft. Das BerGer. hat nicht in
+Bedacht genommen, dass die Kl. der den Verjährungsbeginn auslösende Vorwurf grob
+fahrlässiger Unkenntnis iSv § 199 I Nr. 2 Fall 2 BGB bereits im Jahr 2016 trifft.
+16bb) Grobe Fahrlässigkeit setzt einen objektiv schweren und subjektiv nicht
+entschuldbaren Verstoß gegen die Anforderungen der im Verkehr erforderlichen
+Sorgfalt voraus. Grob fahrlässige Unkenntnis iSd § 199 I Nr. 2 Fall 2 BGB liegt dann vor,
+wenn dem Gläubiger die Kenntnis fehlt, weil er die im Verkehr erforderliche Sorgfalt in
+besonders schwerem Maße verletzt und auch ganz naheliegende Überlegungen nicht
+angestellt oder dasjenige nicht beachtet hat, was jedem hätte einleuchten müssen. Ihm
+muss persönlich ein schwerer Obliegenheitsverstoß in seiner eigenen Angelegenheit
+der Anspruchsverfolgung vorgeworfen werden können (BGH MDR 2022, 558 = BeckRS
+2022, 4175 Rn. 23 mwN).
+17Dabei bezieht sich die grob fahrlässige Unkenntnis ebenso wie die Kenntnis auf
+Tatsachen, auf alle Merkmale der Anspruchsgrundlage und bei der
+Verschuldenshaftung auf das Vertretenmüssen des Schuldners. Dagegen ist
+grundsätzlich nicht vorausgesetzt, dass der Gläubiger hieraus die zutreffenden
+rechtlichen Schlüsse zieht. Ausreichend ist, wenn dem Gläubiger aufgrund der ihm
+grob fahrlässig unbekannt gebliebenen Tatsachen hätte zugemutet werden können,
+zur Durchsetzung seiner Ansprüche gegen eine bestimmte Person aussichtsreich,
+wenn auch nicht risikolos Klage – sei es auch nur in Form einer Feststellungsklage –
+18Den Geschädigten trifft dabei im Allgemeinen weder eine Informationspflicht noch
+besteht für ihn eine generelle Obliegenheit, im Interesse des Schädigers an einem
+möglichst frühzeitigen Beginn der Verjährungsfrist Initiative zur Klärung von
+Schadenshergang oder Person des Schädigers zu entfalten. Inwieweit der Gläubiger
+zur Vermeidung der groben Fahrlässigkeit zu einer aktiven Ermittlung gehalten ist,
+hängt von den Umständen des Einzelfalls ab. Das Unterlassen einer solchen Ermittlung
+ist nur dann als grob fahrlässig einzustufen, wenn weitere Umstände hinzutreten, die
+das Unterlassen aus der Sicht eines verständigen und auf seine Interessen bedachten
+Gläubigers als unverständlich erscheinen lassen. Für den Gläubiger müssen konkrete
+Anhaltspunkte für das Bestehen eines Anspruchs ersichtlich sein, so dass er aus
+verständiger Sicht gehalten ist, die Voraussetzungen des Anspruchs aufzuklären,
+Rn. 25 mwN).
+2022, 3284)
+19cc) Nach diesen Grundsätzen ist von einer grob fahrlässigen Unkenntnis der Kl. von
+den anspruchsbegründenden Umständen und der Person des Schuldners iSv § 199 I
+Nr. 2 Fall 2 BGB jedenfalls bis Ende 2016 auszugehen. Ausgehend von ihrer
+allgemeinen Kenntnis vom sogenannten Dieselskandal hatte sie spätestens bis Ende
+2016 Veranlassung, die Betroffenheit ihres eigenen Fahrzeugs zu ermitteln. Nach den
+unangegriffenen Feststellungen des BerGer. wurde über die Betroffenheit anderer
+Konzernmarken wie Audi, Skoda und Seat vom sogenannten Dieselskandal von Anfang
+an berichtet. Über die freigeschaltete Online-Plattform bestand seit Oktober 2015 ohne
+Weiteres die Möglichkeit, die tatsächliche Betroffenheit eines Fahrzeugs leicht in
+Erfahrung zu bringen. Daneben bestand die Möglichkeit, sich in direktem (schriftlichem
+oder telefonischem) Kontakt mit der Bekl. zu informieren, ob in einem konkreten Pkw
+die Software verbaut ist. Weitergehender Feststellungen des BerGer. – etwa zu der
+Frage, ob die Kl. von der Möglichkeit, auf der Internetplattform die Betroffenheit ihres
+Fahrzeugs vom sogenannten Dieselskandal festzustellen, in den Jahren 2015 und
+2016 Kenntnis hatte – bedurfte es nicht. Sie wäre bei den gebotenen Nachforschungen
+ohne Weiteres auf die Internetseite gestoßen. Darüber hinaus hätte sie sich ohne
+Weiteres telefonisch oder schriftlich mit der Bekl. in Verbindung setzen können. Sie
+hätte sich dadurch Gewissheit über die Betroffenheit ihres Fahrzeugs durch
+Inanspruchnahme öffentlich verfügbarer Informationsquellen verschaffen können. Die
+Kl. hat damit auf der Hand liegende Erkenntnismöglichkeiten, die weder besondere
+Kosten noch nennenswerte Mühe verursacht hätten, nicht ausgenutzt (vgl. BGH BB
+20Auch der Umstand, dass die Kl. nach einer allgemeinen Ankündigung der Bekl., die
+Kunden zu informieren, kein Anschreiben im Jahr 2016 bekommen haben will, und
+Kunden Ende 2015 noch gebeten wurden, weitere schriftliche Informationen
+abzuwarten, bevor sie aktiv Kontakt zu einem Volkswagen-Partnerbetrieb aufnehmen,
+begründete kein zeitlich unbegrenztes berechtigtes Vertrauen der Kl. darauf, dass ihr
+Länge des seit Bekanntwerden des sogenannten Dieselskandals verstrichenen
+Zeitraums bestand für die Kl. spätestens bis Ende 2016 Anlass, diese Betroffenheit
+nicht getan zu haben, war grob fahrlässig.
+212. Der Kl., die Kenntnis vom sogenannten Dieselskandal im Allgemeinen hatte und
+der hinsichtlich der konkreten Betroffenheit ihres Fahrzeugs grob fahrlässige
+Unkenntnis anzulasten ist, war es im Jahr 2016 auch zumutbar, Klage zu erheben und
+ihren Anspruch gegen die Bekl. aus §§ 826, 31 BGB gerichtlich geltend zu machen (vgl.
+22a) Die Zumutbarkeit der Klageerhebung als übergreifender Voraussetzung für den
+Verjährungsbeginn ist gegeben, wenn die Klage bei verständiger Würdigung
+hinreichende Erfolgsaussichten hat; es ist nicht erforderlich, dass die Rechtsverfolgung
+918 Rn. 11). Die Frage, wann eine unsichere und zweifelhafte Rechtslage vorliegt, die
+zur Unzumutbarkeit der Klageerhebung führt, unterliegt der uneingeschränkten
+23b) Die Rechtslage für die Haftung wegen manipulierter Dieselfahrzeuge war auf der
+Grundlage der vom BerGer. getroffenen Feststellungen im Jahre 2016 nicht mehr in
+einem die Unzumutbarkeit der Klageerhebung begründenden Maße zweifelhaft.
+Namentlich bedurfte es keiner näheren Kenntnis darüber, welche iSd § 31 BGB
+maßgeblichen Personen im Einzelnen für den Abgasskandal verantwortlich sind (vgl.
+ob die Kl. bereits im Jahr 2016 aus den ihr bekannten sowie grob fahrlässig unbekannt
+gebliebenen Tatsachen die zutreffenden rechtlichen Schlüsse hätte ziehen,
+insbesondere aus ihnen einen Anspruch aus § 826 BGB hätte herleiten müssen, kommt
+26 ff.). Dass noch nicht alle Fragen aus dem sogenannten Dieselskandal durch die
+höchstrichterliche Rechtsprechung geklärt waren, kann die Unzumutbarkeit der
+Klageerhebung bei gesicherter Tatsachengrundlage ebenfalls nicht begründen (vgl.
+243. Die dreijährige Verjährungsfrist für den mit der Klage geltend gemachten
+Schadensersatzanspruch begann folglich mit dem Schluss des Jahres 2016 zu laufen
+und endete mit Ablauf des Jahres 2019. Bei Klageerhebung im Jahre 2020 war daher
+bereits Verjährung eingetreten.
+254. Soweit die Revision in der mündlichen Verhandlung vor dem erkennenden Senat
+geltend gemacht hat, die Erhebung der Verjährungseinrede durch die Bekl. sei
+treuwidrig beziehungsweise rechtsmissbräuchlich, kann sie hiermit nicht gehört
+werden.
+26a) Nach ständiger Rechtsprechung des BGH ist die Erhebung der Verjährungseinrede
+gem. § 242 BGB treuwidrig und unwirksam, wenn der Gläubiger aus dem gesamten
+Verhalten des Schuldners für diesen erkennbar das Vertrauen schöpfte und auch
+schöpfen durfte, dass der Schuldner die Verjährungseinrede nicht erheben, sondern
+sich auf sachliche Einwände beschränken werde. Dieser Vertrauensschutz reicht aber
+nur so weit und gilt nur so lange, wie die den Einwand der unzulässigen
+Rechtsausübung begründenden Umstände fortdauern und den Gläubiger von der
+27 b) Gemessen daran vermag die Kl. den Einwand rechtsmissbräuchlichen Verhaltens
+nicht mit Erfolg auf eine ihres Erachtens zum Abwarten auffordernde Mitteilungspraxis
+der Bekl. im Zeitraum seit 2015 zu stützen. Damit zeigt die Revision keinen konkreten
+Umstand auf, an den sich die berechtigte Erwartung der Kl. knüpfen ließe, die Bekl.
+werde die Verjährungseinrede dauerhaft nicht erheben (vgl. BGH MDR 2022, 559 =
+28III. Das Berufungsurteil erweist sich auch nicht aus anderen Gründen als richtig (§ 561 ZPO).
+2022, 3284)
+29Soweit die Revisionserwiderung in der mündlichen Verhandlung auf hilfsweises
+Vorbringen der Kl. betreffend einen Anspruch auf Restschadensersatz nach § 852 
+BGB Bezug genommen hat, folgt auch hieraus keine Haftung der Bekl.
+301. Nach § 852  BGB ist der Ersatzpflichtige, der durch eine unerlaubte Handlung
+auf Kosten des Verletzten etwas erlangt hat, auch nach Eintritt der Verjährung des
+Anspruchs auf Ersatz des aus der unerlaubten Handlung entstandenen Schadens zur
+Herausgabe nach den Vorschriften über die Herausgabe einer ungerechtfertigten
+Bereicherung verpflichtet. Nach Sinn und Zweck der Vorschrift sollen demjenigen, der
+einen anderen durch unerlaubte Handlung schädigt und dadurch sein Vermögen mehrt,
+auch bei Verjährung des Schadensersatzanspruchs nicht die auf diese Weise erlangten
+1311 Rn. 26, jew. mwN).
+31 Das Erfordernis, dass der Ersatzpflichtige etwas auf Kosten des Verletzten erlangt
+hat, bedeutet nicht, dass sich die Vermögensverschiebung – wie bei der
+Eingriffskondiktion – unmittelbar zwischen dem Schädiger und dem Geschädigten
+vollzogen haben muss. Denn die Vorschrift enthält nur eine Rechtsfolgenverweisung
+auf das Bereicherungsrecht. Deshalb kann die Vermögensverschiebung auch durch
+einen oder mehrere Dritte vermittelt werden, solange sie in einem ursächlichen
+Zusammenhang mit der unerlaubten Handlung steht. Wenn ein Vermögensverlust
+beim Geschädigten einen entsprechenden Vermögenszuwachs beim Schädiger zur
+Folge gehabt hat, ist er daher nach § 852  BGB auch dann herauszugeben, wenn
+diese Vermögensverschiebung dem Schädiger durch Dritte vermittelt worden ist (vgl.
+Unberührt bleibt davon die Notwendigkeit, dass der Vermögenszuwachs des
+Schädigers auf dem Vermögensverlust des Geschädigten beruhen muss (BGH NJW
+2022, 1311 Rn. 27).
+32Daher setzt ein Anspruch aus § 852  BGB in Fällen der vorliegenden Art jedenfalls
+voraus, dass die Bekl. im Verhältnis zum Geschädigten etwas aus dem
+918 Rn. 29).
+332. Nach diesen Maßstäben ist eine Vermögensverschiebung iSv § 852  BGB im
+Verhältnis zwischen der Kl. und der Bekl. zu verneinen.
+34a) In der vorliegenden Konstellation des Erwerbs eines von einer Tochtergesellschaft
+der Bekl. hergestellten und in den Verkehr gebrachten Fahrzeugs, das mit einem von
+der Bekl. hergestellten und mit einer unzulässigen Abschalteinrichtung versehenen
+Motor ausgestattet ist, scheidet ein Anspruch des Geschädigten nach § 852  BGB
+gegen die Bekl. regelmäßig auch dann aus, wenn der Geschädigte das Fahrzeug als
+wirtschaftlichen Vorteil allenfalls im Zusammenhang mit der Herstellung und
+Veräußerung des Motors erlangt und nicht durch das spätere Inverkehrbringen des
+nicht von ihr entwickelten und hergestellten Fahrzeugs, in das der Motor eingebaut
+43). Der schadensauslösende Vertragsschluss über den Fahrzeugerwerb zwischen
+Geschädigtem und Fahrzeughändler einerseits sowie ein möglicher Vorteil der Bekl.
+aus der konzerninternen Überlassung des Fahrzeugmotors an den Fahrzeughersteller
+andererseits beruhen gerade nicht auf derselben – auch nicht nur mittelbaren –
+Vermögensverschiebung, wie sie der Anspruch nach § 852  BGB voraussetzt (vgl.
+BGH NJW-RR 2022, 850 = WM 2022, 742 Rn. 14 aE). Dem Motorhersteller, der einen
+Vorteil bereits mit der Herstellung und Veräußerung des Motors realisiert hat, fließt im
+Zusammenhang mit dem Abschluss des ungewollten Kaufvertrags und dem hierauf
+beruhenden Vermögensschaden des geschädigten Fahrzeugerwerbers durch seine
+(des Motorherstellers) unerlaubte Handlung nichts – mehr – zu (ebenso BGH NJW
+2022, 2028 Rn. 16).
+35Entgegen der von der Bekl. in der mündlichen Verhandlung vor dem erkennenden
+Senat vertretenen Einschätzung liegt in den in den Urteilen des Senats vom 10.2.2022
+beziehungsweise „etwaigen“ Verkäufergewinns (s. auch BGH BB 2022, 1170 = BeckRS
+2022, 4167 Rn. 43: „allenfalls“ einen wirtschaftlichen Vorteil) keine Abweichung von der
+Rechtsprechung des VIa. Zivilsenats des BGH zur Anwendung von § 852  BGB auf
+Neuwagenfälle (BGH NJW-RR 2022, 740 = WM 2022, 731 Rn. 51 ff.; WM 2022, 742 Rn.
+11 f.; WM 2022, 745 Rn. 26 ff.), die der erkennende Senat vielmehr inhaltlich teilt. Die
+betreffenden sprachlichen Einschränkungen sind, wie sich bereits aus dem
+Gesamtzusammenhang der jeweiligen Entscheidungsgründe ohne Weiteres erschließt,
+ausschließlich dem Umstand geschuldet, dass das tatsächliche Vorhandensein eines
+„Gewinns“ oder „Vorteils“ mangels Entscheidungserheblichkeit jeweils dahinstehen
+kann beziehungsweise konnte.
+36b) Dass im Ausgangspunkt auch eine deliktische Haftung des Motorherstellers
+gegenüber dem Fahrzeugerwerber in Betracht zu ziehen ist, wenn der Motorhersteller
+den Motor mit einer unzulässigen Abschalteinrichtung ausstattet und in dem
+Bewusstsein in den Verkehr bringt, dass er von seiner Tochtergesellschaft in ein
+Fahrzeug verbaut und dieses an einen arglosen Käufer veräußert werden wird (vgl. BGH
+Rn. 12), steht nicht entgegen. Denn die deliktische Haftung knüpft in diesen Fällen
+daran an, dass der Motorhersteller sich bereits bei der dem Fahrzeugerwerb
+vorgelagerten Herstellung des Motors und der Programmierung der
+Motorsteuerungssoftware die Arglosigkeit und das Vertrauen der Fahrzeugkäufer in
+die Einhaltung der gesetzlichen Vorgaben zunutze gemacht hat (vgl. BGH VersR 2022,
+Schadensersatzhaftung ist jedoch von der Frage zu trennen, ob der Schädiger durch
+die unerlaubte Handlung selbst etwas iSv § 852  BGB auf Kosten des Geschädigten
+erlangt hat (vgl. BeckOGK/Eichelberger, 1.6.2022, BGB § 852 Rn. 22, 24).
+2022, 3284)
+37c) Auch der Umstand, dass die beklagte Motorherstellerin als Konzernmutter der
+Fahrzeugherstellerin mit dieser wirtschaftlich verflochten ist, führt zu keiner anderen
+Beurteilung. Der Umsatzerlös der Tochtergesellschaft aus dem Verkauf eines von ihr
+hergestellten Fahrzeugs begründet weder unmittelbar noch mittelbar einen damit
+deckungsgleichen Wertzuwachs des Geschäftsanteils der Muttergesellschaft (vgl.
+Vortrag der Kl. zwischen der Bekl. und der Fahrzeugherstellerin ein Beherrschungs- und
+Gewinnabführungsvertrag besteht, ist ebenfalls unerheblich. Denn insoweit hat die
+Bekl. allenfalls einen Vorteil im Zusammenhang mit einem etwaigen Gesamtgewinn
+der Fahrzeugherstellerin im Geschäftsjahr 2011 erzielt, nicht jedoch – worauf es im
+Rahmen des § 852  BGB entscheidend ankommt – konkret im Zusammenhang mit
+dem – im Streitfall an den Fahrzeughändler – gezahlten Kaufpreis (vgl. OLG
+38IV. Das angefochtene Urteil hat daher keinen Bestand und ist aufzuheben (§ 562 I
+ZPO). Der Senat kann in der Sache selbst entscheiden, weil die Sache
+entscheidungsreif ist (§ 563 III ZPO). Weitere tatsächliche Feststellungen, die für die
+jedenfalls Ende 2016 vorliegende grob fahrlässige Unkenntnis der Kl. von der
+Betroffenheit ihres Fahrzeugs oder die Voraussetzungen eines Anspruchs nach § 852
+ BGB bedeutsam sein könnten, sind weder erforderlich noch zu erwarten.
+Anmerkung der Redaktion
+Zur zitierten Entscheidung zum deliktischen Herausgabeanspruch nach Eintritt der
+Verjährung von Schadensersatzansprüchen im Dieselskandal s. die Anm. Diehm NJW
+2022, 2029.

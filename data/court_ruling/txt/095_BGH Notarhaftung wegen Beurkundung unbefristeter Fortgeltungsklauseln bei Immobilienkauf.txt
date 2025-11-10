@@ -1,0 +1,398 @@
+Immobilienkauf
+* Notarhaftung wegen Beurkundung unbefristeter Fortgeltungsklauseln bei
+Immobilienkauf
+BNotO §§ 14 I 2, 19; BeurkG § 17 I 1; BGB § 308 I
+1. Ist bei einer sukzessiv erfolgenden Beurkundung von Vertragsangebot und
+Vertragsannahme das Angebot des Käufers einer Eigentumswohnung zum
+Zeitpunkt der Beurkundung der Annahmeerklärung des Verkäufers nach Ablauf der
+vertraglichen Bindungsfrist erloschen, obliegt es dem die Annahmeerklärung
+beurkundenden Notar, in dessen Person nach dem von ihm entworfenen Angebot
+des Käufers mehrere für den Abschluss und die Durchführung des Vertrags
+wesentliche Funktionen gebündelt sind, nach § 17 I 1 BeurkG, § 14 I 2 BNotO
+(„betreuende Belehrung“), den Käufer über die veränderte Sach- und Rechtslage zu
+informieren, um die weitere Vorgehensweise zu klären.
+2. Lässt sich die rechtliche Wirksamkeit einer Vertragsklausel nicht zweifelsfrei
+klären, darf der Notar das Rechtsgeschäft erst dann beurkunden, wenn die
+Vertragsparteien auf der Beurkundung bestehen, obwohl er sie über die offene
+Rechtsfrage und das mit ihr verbundene Risiko belehrt hat (Bestätigung von BGH,
+NJW-RR 1991, 143 = DNotZ 1991, 750).
+3. Eine solche Situation bestand im Dezember 2006 in Bezug auf eine mögliche
+Unwirksamkeit von unbefristeten Fortgeltungsklauseln, nach denen das Angebot
+des Käufers nach Ablauf einer Bindungsfrist (unbefristet) bis zum Widerruf des
+Angebots durch den Käufer fortgilt.
+BGH, Urteil vom 21.1.2016 – III ZR 159/15
+Zum Sachverhalt
+Der Kl. nimmt aus eigenem und abgetretenem Recht den beklagten Notar aus
+Amtshaftung auf Schadensersatz in Anspruch. Die I-mbH und die I-KG planten, einen
+größeren Altbaukomplex in M. zu sanieren und die sanierten Wohnungen als
+Eigentumswohnungen zu verkaufen. In diesem Zusammenhang entwickelte der
+Bekl. den Entwurf eines notariellen Angebots zum Abschluss eines
+Wohnungskaufvertrags. Darin bietet der Käufer den vorgenannten Gesellschaften
+an, mit ihm einen in dem Entwurf wiedergegebenen Kaufvertrag abzuschließen.
+Weiter heißt es in dem Angebotsentwurf:
+„An dieses Angebot hält sich Käufer bis zum … gebunden. Auch danach soll das
+Angebot weiter gelten, bis es von dem Käufer gegenüber dem Notar S in M. [Bekl.],
+nachstehend Vollzugsnotar genannt, widerrufen wird. Der Widerruf muss durch
+eingeschriebenen Brief erfolgen. Der Vollzugsnotar ist vom Verkäufer zur
+Entgegennahme des Widerrufs bevollmächtigt worden. Der Kaufvertrag kommt
+bereits dadurch zu Stande, dass der Verkäufer vor dem Vollzugsnotar eine
+Annahmeerklärung beurkunden lässt. Der Zugang der Annahmeerklärung ist nicht
+erforderlich. Es genügt, wenn diese ‚demnächst‘ dem Käufer zugeht.“
+Am 21.8.2006 beurkundete der Notar H in N. das Angebot des Kl. und von S zum
+Abschluss eines Wohnungskaufvertrags entsprechend dem vorgenannten Entwurf.
+In die Leerstelle wurde eingetragen, dass die Käufer an das Angebot bis zum
+3.9.2006 gebunden sind. Der Kaufpreis betrug 93.774 Euro. Am 19.12.2006
+beurkundete der Bekl. die Annahme des Angebots durch die Verkäufer. Die Käufer
+entrichteten den vorgenannten Preis und wurden Eigentümer der Wohnung. Mit
+Vereinbarung vom 18.12.2013 trat die Ehefrau des Kl. die ihr im Zusammenhang mit
+dem Erwerb der Eigentumswohnung anteilig zustehenden Ansprüche gegen den
+Bekl. an den Kl. ab und ermächtigte ihn zur entsprechenden Prozessführung. Der Kl.
+begehrte die Verurteilung des Bekl. zur Zahlung von 93.774 Euro nebst Zinsen Zug
+um Zug gegen lastenfreie Übertragung der Eigentumswohnung. Er und seine Ehefrau
+hätten den Vertrag nicht geschlossen, wenn der Bekl. sie vor Beurkundung ihrer
+Annahmeerklärung darauf hingewiesen hätte, dass das Kaufangebot bereits
+erloschen sei und die Annahme der Verkäufer ein neues Angebot darstelle, das er
+und seine Ehefrau ihrerseits hätten annehmen müssen, damit ein wirksamer
+Kaufvertrag zustande komme. Bei einem entspre
+BGH: * Notarhaftung wegen Beurkundung unbefristeter
+chenden Hinweis hätten er und seine Ehefrau von einem Vertragsabschluss Abstand
+genommen.
+03362) hat die Berufung des Kl. zurückgewiesen. Hiergegen richtete sich die vom
+BerGer. zugelassene Revision des Kl mit Erfolg; sie führte zur Aufhebung des
+angefochtenen Urteils und zur Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+8 I. Das BerGer. hat ausgeführt, der Bekl. habe nicht gegen seine aus §§ 4, 17 II
+BeurkG, § 14 II BNotO folgenden Belehrungspflichten verstoßen, indem er die
+Annahme des Antrags des Kl. beurkundet sowie den Vertrag vollzogen und den Kl.
+nicht darauf hingewiesen habe, dass dessen Kaufvertragsangebot unwirksam
+gewesen sei.
+11 II. Diese Beurteilung hält der rechtlichen Nachprüfung nicht stand. Zu Recht
+beanstandet die Revision, dass das BerGer. eine schuldhafte Amtspflichtverletzung
+des Bekl. im Zusammenhang mit der am 19.12.2006 erfolgten Beurkundung der
+Annahmeerklärung der Verkäufer verneint hat.
+12 1. Der Bekl. verletzte bei dem vorgenannten Amtsgeschäft eine ihm gegenüber
+dem Kl. und S (im Folgenden zusammenfassend nur noch: Kl.) obliegende Hinweisund Belehrungspflicht (§ 17 I BeurkG, § 14 I 2 BNotO).
+13 a) Nach § 17 I 1 BeurkG hat der Notar den Willen der Beteiligten zu erforschen,
+den Sachverhalt zu klären und über die rechtliche Tragweite des Geschäfts zu
+belehren. Damit soll gewährleistet werden, dass die zu errichtende Urkunde den
+Willen der Parteien vollständig sowie inhaltlich richtig und eindeutig wiedergibt.
+Demzufolge hat der Notar die Beteiligten über die rechtliche Bedeutung ihrer
+Erklärungen sowie die Voraussetzungen für den Eintritt der bezweckten Rechtsfolge
+in dem Umfang zu belehren, wie es zur Errichtung einer dem wahren Willen
+entsprechenden rechtsgültigen Urkunde erforderlich ist (Senat, BGHZ 158, 188 [193]
+wahren Willen der Beteiligten entspricht, sollen die Bedenken mit den Beteiligten
+erörtert werden (§ 17 II 1 BeurkG).
+14 Der Notar hat in allen Phasen seiner Tätigkeit den sichersten Weg zu gehen, das
+heißt den Beteiligten zur sichersten Gestaltung zu raten und dafür zu sorgen, dass
+ihr Wille diejenige Rechtsform erhält, die für die Zukunft Zweifel ausschließt (Senat,
+Armbrüster in Armbrüster/Preuß/Renner, BeurkG DONot, 7. Aufl., § 17 BeurkG Rn. 34
+mwN; Ganter in Ganter/Hertel/Wöstmann, HdB der Notarhaftung, 3. Aufl., Rn. 2166).
+15 b) Die vorgenannten Pflichten beschränken sich allerdings, wenn allein die
+Annahme eines vorgegebenen Vertragsangebots beurkundet werden soll,
+grundsätzlich auf die rechtliche Bedeutung der Annahme; der Inhalt des
+Vertragsangebots gehört nicht zur rechtlichen Tragweite dieses Urkundsgeschäfts
+erwachsende Pflicht zur Rechtsbelehrung obliegt dem Notar gegenüber den formell
+an der Beurkundung Beteiligten (unmittelbar Beteiligte; Senat, BGHZ 158, 188 [194]
+eigenen oder fremden Namen abgegebene Erklärungen beurkundet werden sollen.
+Ausnahmsweise können jedoch auch gegenüber anderen Personen, die nicht formell
+(unmittelbar), wohl aber mittelbar Beteiligte sind, Belehrungspflichten nach § 17 I 1
+BeurkG, § 14 I 2 BNotO bestehen („betreuende Belehrung“: Senat, BGHZ 158, 188 =
+in diesem Sinne ist auch, wer sich aus Anlass der Beurkundung an den Notar
+16 Der Kl. ist aufgrund der besonderen Ausgestaltung des Beurkundungsverfahrens
+der zuletzt genannten Fallgruppe zuzurechnen. In dem vom Bekl. entworfenen
+Angebot des Kl. wurde der Bekl. als Empfänger einer etwaigen Widerrufserklärung
+des Kl., als die Annahmeerklärung der Verkäufer beurkundender Notar und als
+Vollzugsnotar bestimmt. In seiner Person waren damit aus Sicht des Kl. im Hinblick
+auf dessen Angebot mehrere für den Abschluss und die Durchführung des Vertrags
+wesentliche Funktionen gebündelt. Zudem barg das von dem Bekl. mitgestaltete
+Beurkundungsverfahren wegen der sukzessiv erfolgenden Beurkundung von
+Vertragsangebot und -annahme von vornherein die Gefahr, dass zwischenzeitlichen
+Änderungen der Sachlage nicht Rechnung getragen wurde (vgl. Senat, BGHZ 158,
+Kaufangebots des Kl. sollte dieses auch nach Ablauf der bis zum 3.9.2006
+währenden Bindungsfrist unbegrenzt fortgelten. Diese Fortgeltungsklausel war
+indes wegen des nicht limitierten Zeitraums, in dem die Verkäufer das Angebot noch
+annehmen konnten, ungeachtet der Widerrufsmöglichkeit für den Kl. nach § 308 Nr.
+Angebot des Kl. nach Ablauf der Bindungsfrist erloschen und stellte die am
+19.12.2006 beurkundete – verspätete – Annahmeerklärung der Verkäufer nach § 17 Dem Bekl. oblag es, den Kl. über diese veränderte Sachlage zu informieren, um
+die weitere Vorgehensweise – etwa die Beurkundung eines erneuten Angebots des
+Kl. oder eine Abstandnahme vom Vertragsschluss – zu klären (vgl. OLG Celle, Urt. v.
+Belehrung unterlassen.
+18 2. Diese Amtspflichtverletzung war fahrlässig.
+19 a) Der pflichtbewusste und gewissenhafte durchschnittliche Notar muss über die
+für die Ausübung seines Berufs erforderlichen Rechtskenntnisse verfügen. Er hat
+sich über die Rechtsprechung der obersten Gerichte, die in den amtlichen
+Sammlungen und den für seine Amtstätigkeit wesentlichen Zeitschriften
+veröffentlicht ist, unverzüglich zu unterrichten sowie die üblichen
+1021; Ganter in Ganter/Hertel/Wöstmann, Rn. 2154 ff.; Grziwotz in
+Grziwotz/Heinemann, BeurkG, 2012, § 17 Rn. 26 f.). Dagegen würde es die
+Anforderungen an die Sorgfaltspflichten eines Notars überspannen, wollte man von
+ihm verlangen, dass er vereinzelte Stimmen der Literatur zu einem Thema, das mehr
+am Rande notarieller Amtstätigkeit liegt und nicht Gegenstand breiterer
+Erörterungen war, bei künftigen einschlägigen Beurkundungen gegenwärtig haben
+Ganter/Hertel/Wöstmann, Rn. 2155; Grziwotz in Grziwotz/Heinemann, § 17 Rn. 26).
+20 Der Notar hat auch nicht die Pflicht, die künftige Entwicklung der
+höchstrichterlichen Rechtsprechung vorauszuahnen. Erkennbare Tendenzen der
+Rechtsprechung darf er allerdings nicht übersehen (Armbrüster in
+Armbrüster/Preuß/Renner, § 17 BeurkG Rn. 37; Schramm in Schippel/Bracker,
+BNotO, 9. Aufl., § 19 Rn. 59; Haug/Zimmermann, Die Amtshaftung des Notars,
+3. Aufl., Rn. 85, 94; Schlick, ZNotP 2014, 322 [326]). Dies gilt auch im Hinblick auf
+BGH: * Notarhaftung wegen Beurkundung unbefristeter
+künftige Entscheidungen im Bereich der richterlichen Inhaltskontrolle von
+Allgemeinen Geschäftsbedingungen (Schramm in Schippel/Bracker, § 19 Rn. 59). In
+diesem Zusammenhang darf zwar die objektiv unrichtige Verwendung neu
+entwickelter Allgemeiner Geschäftsbedingungen, deren Inhalt zweifelhaft sein kann
+und durch eine höchstrichterliche Rechtsprechung noch nicht klargestellt ist, einem
+Notar nicht als Verschulden angelastet werden, wenn er nach sorgfältiger Prüfung
+zu einer aus seiner Sicht keinen Zweifeln unterliegenden Rechtsauffassung gelangt
+und dies für rechtlich vertretbar gehalten werden kann (vgl. zu neu entwickelten
+Ganter/Hertel/Wöstmann, Rn. 2157). Lässt sich indes die Rechtslage nicht klären,
+darf der Notar das Rechtsgeschäft erst dann beurkunden, wenn die Vertragsparteien
+auf der Beurkundung bestehen, obwohl er sie über die offene Rechtsfrage und das
+mit ihr verbundene Risiko belehrt hat (BGH, NJW-RR 1991, 143 = DNotZ 1991, 750
+2013, 887 [921]). Der Notar hat in solchen Fällen selbst ohne jegliche Vorgaben seine
+Belehrungspflichten zu erkennen und kann sich nicht darauf berufen,
+Rechtsprechung und Literatur seien zu einem Problemkreis nicht vorhanden (vgl.
+21 b) Danach stellt es einen sorgfaltswidrigen Pflichtverstoß dar, dass der Bekl. die
+Annahmeerklärung der Verkäufer am 19.12.2006 beurkundete, ohne den Kl. zuvor
+oder wenigstens bei Übersendung der Erklärung über die Zweifel zu belehren, die im
+Hinblick auf die Wirksamkeit der in dem Kaufangebot des Kl. vom 21.8.2006
+enthaltenen unbefristeten Fortgeltungsklausel bestanden. Aufgrund einer
+sorgfältigen rechtlichen Prüfung hätte der Bekl. erkennen müssen, dass das
+Kaufangebot des Kl. – nach Ablauf der zweiwöchigen Bindungsfrist –
+möglicherweise zwischenzeitlich erloschen war und der Kaufvertrag mithin nicht
+mehr durch die Annahmeerklärung der Verkäufer zu Stande kommen konnte. Infolge
+dessen oblag es dem Bekl. – wie er ebenfalls erkennen musste –, den Kl. über die
+veränderte Sach- und Rechtslage nach § 17 I BeurkG, § 14 I 2 BNotO zu belehren und
+die weitere Vorgehensweise zu klären (s. o. zu 1 b).
+22 aa) Zwar weist das BerGer. zutreffend darauf hin, dass es im Zeitpunkt der
+Beurkundung noch keine höchstrichterliche Rechtsprechung gab, nach der eine
+unbefristete Fortgeltungsklausel gem. § 308 Nr. 1 BGB unwirksam war (so auch
+Herrler, DNotZ 2013, 887 [893, 922]). In der Literatur hatte bis dahin allein Thode
+entsprechende, im Schrifttum vorgeschlagene Vertragsklauseln für nicht vereinbar
+mit der in § 147 II BGB geregelten Rechtsfolge einer verspäteten Annahme und im
+Hinblick auf § 308 I BGB für zweifelhaft erachtet (ZNotP 2005, 162 [164 f.]).
+23 bb) Die rechtliche Problematik unbefristeter Fortgeltungsklauseln und ihre
+Erkennbarkeit dürfen jedoch nicht isoliert betrachtet werden. Ausgangspunkt für die
+Prüfung der Angemessenheit unbefristeter Fortgeltungsklauseln nach § 308 Nr. 1
+BGB ist der in §§ 147 II, 146 BGB bestimmte Zeitraum, in dem ein Antragender
+üblicherweise die Entscheidung des Angebotsempfängers erwarten darf (BGH, NJW
+2013, 3434 Rn. 22). Dass Klauseln in Kaufverträgen, die für die Annahme des
+Angebots des Käufers eine unangemessen lange Annahmefrist des Verkäufers
+vorsehen, nach § 308 Nr. 1 BGB bzw. § 10 Nr. 1 AGBG unwirksam sein konnten, war
+im Zeitpunkt der Beurkundung höchstrichterlich seit Langem geklärt (Senat, NJW
+auch für den Wohnungskauf gelten sollte, waren nicht ersichtlich. Dementsprechend
+wurde in der obergerichtlichen Rechtsprechung darauf erkannt, dass die in einem
+formularmäßigen notariellen Angebot zum Kauf einer Eigentumswohnung
+bestimmte Bindungsfrist von zehn Wochen gegen § 10 Nr. 1 AGBG verstößt und an
+die Stelle der unwirksamen Annahmefristklausel die gesetzliche Regelung des § 147
+BGB tritt (OLG Dresden, MittBayNot 2005, 300 [301 f.]). In den seinerzeitigen
+Erläuterungsbüchern wurde hierauf hingewiesen (vgl. nur Krauß,
+Immobilienkaufverträge in der Praxis, 3. Aufl., Teil C Rn. 1291; Hertel in Würzburger
+Notar-HdB, 2005, Teil 2 Kap. 2 Rn. 797).
+24 Die vorgenannte Rechtsprechung betraf unmittelbar nicht Fortgeltungsklauseln,
+sondern Bindungsfristklauseln, das heißt Klauseln, die die anbietende Vertragspartei
+für einen bestimmten Zeitraum an ihren Antrag binden und dem Vertragspartner eine
+entsprechend lange Annahmefrist einräumen. Alternativ wurde in der Literatur
+vorgeschlagen, statt einer langen eine kurze Bindungsfrist und für den Zeitraum nach
+ihrem Ablauf die Fortgeltung des Angebots bis zu dessen Widerruf durch den Käufer
+vorzusehen (Brambring in BeckNotar-HdB, 4. Aufl., Kap. A I Rn. 382, 386, 389;
+Brambring/Hertel in Hagen/Brambring/Krüger/Hertel, Der Grundstückskauf, 8. Aufl.,
+Rn. 912; Hertel in Würzburger Notar-HdB, Rn. 797 f.; Krauß, Rn. 1292 unter Hinweis
+auf die abw. Meinung von Thode in Fn. 1751; Basty, Formularbuch und Praxis der
+Freiwilligen Gerichtsbarkeit, 21. Aufl., § 36 Rn. 239 M ff.; Cremer/Wagner, NotBZ
+2004, 331 [336 f.], wie es auch in dem vom Bekl. entworfenen Kaufangebot
+vorgesehen war. Von Teilen der Literatur wurde aber empfohlen, auch hierfür einen
+Endtermin zu setzen, das heißt vertraglich vorzusehen, dass das nach Ablauf der
+Bindungsfrist fortgeltende Angebot zu einem bestimmten Zeitpunkt ohne Widerruf
+erlischt (Brambring/Hertel in Hagen/Brambring/Krüger/Hertel, Rn. 912; Hertel in
+Würzburger Notar-HdB, Rn. 798). Teilweise wurde auch vertreten,
+Fortgeltungsklauseln verstießen gegen § 308 Nr. 1 BGB (bejahend Thode, ZNotP
+2005, 162 [165]; verneinend Cremer/Wagner, NotBZ 2004, 331 [335].
+25 In einer solchen Situation, in der die Rechtslage in Bezug auf die Wirksamkeit
+eines bestimmten Typs von Allgemeinen Geschäftsbedingungen – hier: von
+Fortgeltungsklauseln – durch höchstrichterliche Rechtsprechung noch nicht geklärt
+ist und in der Literatur mit einem breiten Meinungsspektrum – von der
+Unwirksamkeit der Klausel über die Empfehlung einer befristeten
+Fortgeltungsklausel bis hin zum Vorschlag einer unbefristeten Fortgeltungsklausel –
+erörtert wird, obliegt dem Notar die eigenständige sorgfältige Prüfung der
+Wirksamkeit der betreffenden Klausel. Lässt sich auch danach die Rechtslage nicht
+klären, darf der Notar das Rechtsgeschäft nach den vorstehend (unter II 2 a)
+wiedergegebenen Grundsätzen erst beurkunden, wenn die Vertragsparteien auf der
+Beurkundung bestehen, obwohl er sie über die offene Rechtsfrage und das mit ihr
+verbundene Risiko belehrt hat.
+26 cc) So lag der Fall hier. Bei sorgfältiger Prüfung der Rechtslage war für den Bekl.
+erkennbar, dass hinsichtlich der Fortgeltungsklausel eine Prüfung ihrer Wirksamkeit
+anhand des Maßstabs des § 308 Nr. 1 BGB in Betracht kam. Zwar wird die
+Fortgeltungsklausel von dem Wortlaut der Vorschrift nicht unmittelbar erfasst, weil
+sie keine Frist für die Annahme des Angebots nach § 148 BGB bestimmt, sondern
+dem Verwender eine zeitlich unbegrenzte Möglichkeit zur Annahme des Angebots
+Anbieter in seiner Dispositionsfreiheit und vor Nachteilen übermäßig lang
+andauernder Schwebezustände zu schützen (vgl. RegE eines Gesetzes zur Regelung
+des Rechts der Allgemeinen Geschäftsbedingungen, BT-Drs. 7/3919, 24 [zu § 8 Nr.
+1 AGBG]; MüKoBGB/Wurmnest, 7. Aufl., § 308 Nr. 1 Rn. 1; BeckOK BGB/Becker, § 308 Nr. 1 [1.8.2015] Rn. 2), lag es indes nahe, dass § 308 Nr. 1 BGB auch auf
+Fortgeltungsklauseln anzuwenden ist, die keine Frist für die Annahme durch den
+Verwender bestimmen, sondern diesem eine zeitlich unbeschränkte Annahme auch
+noch Monate oder Jahre
+BGH: * Notarhaftung wegen Beurkundung unbefristeter
+nach der Abgabe der Angebotserklärung ermöglichen. Denn auch durch eine solche
+Klausel wird der Antragende – ungeachtet der Möglichkeit des Widerrufs des
+Angebots – für eine unter Umständen sehr lange Zeit nach Abgabe seines Angebots
+in der Ungewissheit gehalten, ob der von ihm gewünschte Vertrag zu Stande kommt
+27 Im Rahmen der von ihm am Maßstab des § 308 Nr. 1 BGB auszurichtenden
+sorgfältigen Prüfung der Rechtslage hätte der Bekl. erkennen müssen, dass die
+Wirksamkeit der in den Angebotsentwurf einbezogenen Fortgeltungsklausel
+jedenfalls angesichts ihrer mangelnden Befristung zweifelhaft war.
+28 (1) Ausgangspunkt einer solchen Prüfung hatte ersichtlich der in § 147 II BGB
+bezeichnete Zeitraum zu sein, in welchem der Antragende regelmäßig die
+Entscheidung des Angebotsempfängers über sein Angebot erwarten darf. Der
+inhaltliche Bezug der Fortgeltungsklausel zu § 147 II BGB war unverkennbar. Dies
+gilt erst recht angesichts des Umstands, dass mit der Kombination aus kurzer
+Bindungsfrist und anschließend fortgeltendem, widerruflichem Angebot den AGBrechtlichen, in Rechtsprechung und Literatur erörterten Problemen langer
+Bindungsfristen begegnet werden sollte. Bereits in diesem Zusammenhang wurde § 147 II BGB als Ausgangspunkt der rechtlichen Prüfung hervorgehoben (vgl. nur
+Brambring/Hertel in Hagen/Brambring/Krüger/Hertel, Rn. 911; Krauß, Rn. 1291;
+Thode, ZNotP 2005, 162 [163]; Walchshöfer, WM 1986, 1041 [1043]). Die vertraglich
+vereinbarte unbefristete Fortgeltung eines Kaufangebots wich erkennbar von § 147 II BGB ab. Sie überschritt den dort bestimmten Zeitraum erheblich und
+unbegrenzt.
+29 (2) Nach der höchstrichterlichen Rechtsprechung war, wenn eine
+Bindungsfristklausel den in § 147 II BGB bestimmten Zeitraum erheblich überschritt,
+in einem zweiten Schritt zu prüfen, ob der Verwender daran ein schutzwürdiges
+Interesse hat, hinter dem das Interesse des Kunden am baldigen Wegfall seiner
+303; Krauß, Rn. 1291; Walchshöfer, WM 1986, 1041 [1043]). Zwar konnte vorliegend
+der Kl. nach Ablauf der kurzen Bindungsfrist sein Kaufangebot jederzeit widerrufen.
+Eine Einschränkung seiner Dispositionsfreiheit war daher nicht in gleichem Maße
+gegeben wie im Fall einer noch laufenden Bindungsfrist. Dennoch waren auch mit
+einer unbefristeten Fortgeltungsklausel für den Käufer – erkennbar – Nachteile
+verbunden. Für ihn entstand ein – möglicherweise über Monate oder sogar Jahre
+andauernder – Schwebezustand, in dem er nicht wusste, ob der von ihm angebotene
+Vertrag zu Stande kommen würde. Zudem konnte nach Ablauf längerer Zeiträume
+das von ihm unterbreitete Angebot mangels Reaktion des Verkäufers in
+Vergessenheit geraten mit der Folge, dass er von einer schließlich dann doch noch
+erfolgenden Annahme durch den Verkäufer und einem hierdurch zu Stande
+kommenden, von ihm möglicherweise nicht mehr gewünschten Vertrag überrascht
+3434 Rn. 24).
+30 Diese Zusammenhänge und die daraus folgenden erheblichen Nachteile für den
+Käufer ergeben sich – entgegen der Auffassung des BerGer. – nicht erst im Rahmen
+einer im Nachhinein angestellten (ex post-)Betrachtung, sondern mussten sich dem
+Bekl. bei einer sorgfältigen rechtlichen Prüfung auch seinerzeit schon erschließen.
+Hierbei ist auch zu berücksichtigen, dass die Stimmen in der kautelarjuristischen
+Literatur, die eine unbefristete Fortgeltungsklausel, wie sie hier verwendet wurde,
+befürworteten, letztlich objektiv in die Richtung gingen, die von der Rechtsprechung
+missbilligten Ergebnisse, wenn auch in abgemilderter Form, wieder herbeizuführen.
+Die hiergegen bereits von Thode (ZNotP 2005, 162 [165]) und später vom V.
+bereits 2006 ernsthafte Zweifel an der rechtlichen Tragfähigkeit der unbefristeten
+Fortgeltungsklausel angebracht waren.
+31 Die vorgenannten, mit der Fortgeltungsklausel verbundenen Nachteile des Kl.
+werden ersichtlich nicht durch ein schutzwürdiges Interesse der Verkäufer
+gerechtfertigt. Dies gilt jedenfalls für eine – wie vorliegend – unbefristete
+Fortgeltungsklausel, bei der das nach Ablauf der Bindungsfrist zunächst
+fortgeltende Angebot des Käufers nicht nach Ablauf einer bestimmten (weiteren)
+Frist ohne sein Zutun erlischt, sondern unbegrenzt und möglicherweise über Jahre
+hinweg fortbesteht. Ein schutzwürdiges Interesse der Verkäufer an einer solchen
+unbefristeten Fortgeltung des Kaufangebots ist nicht erkennbar und wird von dem
+Bekl. auch nicht geltend gemacht.
+32 dd) Selbst wenn der Bekl. – entgegen den vorstehenden Ausführungen – eine
+Anwendbarkeit von § 308 Nr. 1 BGB auf die unbefristete Fortgeltungsklausel nicht
+hätte erkennen müssen, begegnete die Klausel im Hinblick auf die in §§ 146–149
+BGB zum Ausdruck gekommenen Grundgedanken der gesetzlichen Regelung
+ernstlichen Wirksamkeitsbedenken (§ 307 II Nr. 1 BGB; zur Prüfung nach Maßgabe
+des § 307 BGB, wenn die betreffende Klausel nicht vom Tatbestand des § 308 BGB
+umfasst wird, vgl. MüKoBGB/Wurmnest, § 308 Rn. 3). § 146 BGB bestimmt, dass ein
+Angebot auf Abschluss eines Vertrags erlischt, wenn es abgelehnt oder nicht nach
+Maßgabe der §§ 147–149 BGB angenommen wird. Die Fortgeltung eines Angebots
+nach dem Ende der Bindung des Erklärenden (§ 145 BGB) sieht das Gesetz hingegen
+nicht vor. Der Gesetzgeber hat sich vielmehr ausdrücklich dagegen entschieden,
+dass mit Ablauf der Annahmefrist nur die Bindung des Erklärenden entfällt, der
+Antrag aber bis zu einem Widerruf fortbesteht und noch annahmefähig bleibt (Motive
+I 168; BGH, NJW-RR 1994, 1163 [1164]; MüKoBGB/Busche, § 146 Rn. 4). Dem liegt
+die Erwägung zu Grunde, dass dies weder der Verkehrsanschauung noch der Absicht
+des Antragenden entspräche (Motive I, 168). Vertragsangebote würden mit
+Rücksicht auf die jeweilige, dem Wechsel der Verhältnisse unterworfene Lage nicht
+für potenziell unbegrenzte Dauer gemacht (Motive I, 168; BGH, NJW-RR 1994, 1163
+[1164]). Zudem würde eine ersichtlich nicht gewollte Unsicherheit über die künftigen
+rechtlichen Verhältnisse provoziert.
+33 Auch wenn einem Notar nicht angesonnen werden kann, sich mit den Materialien
+zum BGB zu befassen, mussten sich die vorstehenden, sich auch aus der zitierten
+Rechtsprechung ergebenden Bedenken inhaltlich jedoch ebenso aufdrängen wie die
+daraus folgende Erkenntnis, dass eine unbefristete Fortgeltungsklausel im System
+des Allgemeinen Teils des BGB einen Fremdkörper darstellt. Dementsprechend war
+die Unvereinbarkeit der Klausel mit wesentlichen Grundgedanken der gesetzlichen
+Regelung und ihre – angesichts der mit ihr verbundenen, nicht durch ein
+schutzwürdiges Interesse der Verkäufer gerechtfertigten Nachteile des Kl. (s.
+vorstehend II 2 b cc) – Unangemessenheit (§ 307 II Nr. 1 BGB) auch bereits 2006
+erkennbar ernstlich in Betracht zu ziehen waren.
+34 ee) Nach alledem mussten sich für den Bekl. nach einer sorgfältigen rechtlichen
+Prüfung erhebliche Zweifel an der Wirksamkeit der unbefristeten
+Fortgeltungsklausel ergeben. Über diese Zweifel hätte er den Kl. gem. § 17 I BeurkG,
+§ 14 I 2 BNotO belehren müssen, um die weitere Vorgehensweise – et
+BGH: * Notarhaftung wegen Beurkundung unbefristeter
+wa die Beurkundung eines erneuten Angebots des Kl. oder die Abstandnahme vom
+Vertragsschluss – zu klären. Die Unterlassung einer solchen Belehrung war
+sorgfaltswidrig.
+35 III. Das angefochtene Urteil ist aufzuheben (§ 562 I ZPO) und die Sache zur neuen
+Verhandlung und Entscheidung an das BerGer. zurückzuverweisen (§ 563 I ZPO),
+das die weiteren Feststellungen zu den Voraussetzungen des geltend gemachten
+Schadensersatzanspruchs nachzuholen haben wird.
+Anmerkung
+Nachdem der BGH die Unzulässigkeit unbefristeter Fortgeltungsklauseln beim
+erstmalig eine höchstrichterliche Stellungnahme zur Haftung des Notars bei
+Verwendung derartiger Klauseln in der Vergangenheit vor.
+Der BGH bejaht eine Haftung des Notars, weil er es im Rahmen der ihm obliegenden
+„betreuenden Belehrung“ im Jahr 2006 versäumt habe, auf die mögliche
+Unwirksamkeit derartiger Klauseln hinzuweisen. Zweifelhaft war allein, ob den Notar
+in diesem Zeitpunkt bei der Amtspflichtverletzung auch ein Verschulden traf (§ 19 I
+BNotO). Der BGH hat hier ein Verschulden des Notars bejaht, weil bereits im Jahr
+2006 von einem „durchschnittlichen Notar“ erwartet werden konnte, die mögliche
+Unzulässigkeit derartiger Klauseln (§§ 308 Nr. 1 und 307 II Nr. 1 BGB) zu erkennen.
+Der vom BGH aufgestellte Pflichtenkatalog im Hinblick auf zu erwartende oder auch
+nur denkbare höchstrichterliche Ergebnisse einer AGB-Kontrolle verlangt vom Notar
+aber nicht nur die für die Ausübung seines Berufs „erforderlichen Rechtskenntnisse“,
+sondern wohl auch seherische Fähigkeiten. Der BGH selbst musste einräumen, dass
+nicht nur einschlägige Rechtsprechung fehlte, sondern auch die Literatur die
+unbefristete Fortgeltungsklausel seinerzeit nicht für AGB-widrig hielt (wohl auch
+nicht der vom BGH zitierte Beitrag von Thode [ZNotP 2005, 162], vgl. Herrler, DNotZ
+2013, 887 [893], der die damalige Literatur ausgewertet hat).
+Richtig ist aber der Ansatz des BGH, dass dort, wo sowohl Rechtsprechung als auch
+Literatur schweigen, der Rechtsanwender – hier der Notar – selbstständig die
+Zulässigkeit der gewünschten Klausel prüfen und bei Zweifeln auf diese Zweifel
+entschieden, dass dieser jedenfalls auf den Fortbestand der höchstrichterlichen
+Rechtsprechung auch dann vertrauen darf, wenn in der Literatur Widerspruch
+erhoben wird. Unbefristeten Fortgeltungsklauseln fanden bereits vor dem Jahr 2006
+und nicht nur vereinzelt Anwendung. Dass sie in der Literatur nicht aufgegriffen
+worden sind, hätte bei einem „durchschnittlichen Notar“ aber doch wohl eher zu der
+Erkenntnis geführt, dass die Klausel der AGB-Kontrolle standhalten würde, sind es
+doch die problematischen Fälle, mit denen sich Rechtsprechung und Literatur
+beschäftigen. Konnte man weder in den Entscheidungssammlungen noch in der
+Literatur Hinweise auf den Verstoß der verbreiteten Klausel gegen § 308 Nr. 1 BGB
+finden, weil es einen Meinungsstreit nicht gab, wird vom Notar schon sehr viel
+verlangt, wenn er die zukünftige mögliche Rechtsprechung des BGH in dieser Frage
+hätte vorhersehen müssen, zumal gerade im Recht der AGB
+Prognoseentscheidungen ohnehin kaum möglich sind.
+Nichts anderes gilt im Übrigen für die Annahme des BGH, der Notar hätte erkennen
+müssen, dass die Fortgeltungsklausel gegen den in den §§ 146–149 BGB zum
+Ausdruck kommenden Grundgedanken der gesetzlichen Regelung verstoße, der ein
+Bestehenbleiben des Angebots nach Ablauf der Annahmefrist nicht vorsehe, mit der
+Folge des Verstoßes gegen § 307 II Nr. 1 BGB. Dass notarielle Urkunden mitunter
+und mit gutem Grund vom Grundgedanken gesetzlicher Regelungen abweichen, weil
+die gesetzliche Regelung unbefriedigend oder unpassend ist, ist nichts
+Ungewöhnliches; man denke etwa an Vereinbarungen für Erschließungskosten bei
+Grundstückskaufverträgen, die in den wenigsten Urkunden dem Grundgedanken des
+§ 436 I BGB entsprechen.
+Dass der BGH das Studium der Motive zum BGB vom Notar nicht verlangt, ist dabei
+nur ein schwacher Trost. Die umfangreichen Begründungen des BGH zur
+Unzulässigkeit der Fortgeltungsklauseln machen aber deutlich, dass das – erst
+2013 – vom BGH gefundene Ergebnis damals nicht gerade zum „juristischen
+Einmaleins“ gehörte. Ob diese Problematik seinerzeit von einem durchschnittlichen
+Notar beherrscht werden konnte, wissen damit im Zweifel allein die
+Haftpflichtversicherungen der Notare.
+Jedenfalls ist die Grenze zwischen der Verschuldenshaftung des Notars einerseits
+und der Schaffung von verschuldensunabhängigen Haftungstatbeständen durch die
+nachträgliche Begründung von Aufklärungspflichten andererseits, die im
+maßgeblichen Beurkundungszeitpunkt unbekannt waren, hier fließend. Eine
+Rückwirkung der Rechtsprechung zu bestimmten später aufgestellten
+Aufklärungspflichten – wie sie auch im Kapitalanlagerecht beobachtet werden kann
+(vgl. etwa Loritz/Wagner, NZG 2013, 367) –, ist aber vor dem Hintergrund des § 19 I
+BNotO – der immer noch ein Verschulden des Notars verlangt – mehr als
+problematisch. Tröstlich ist aus notarieller Sicht allein das Vertrauen des BGH in die
+Fähigkeiten der Notare, wenn es um die Vorhersehbarkeit höchstrichterlicher
+Entscheidungen geht.
+Notar Prof. Dr. Maximilian Zimmer, Wernigerode

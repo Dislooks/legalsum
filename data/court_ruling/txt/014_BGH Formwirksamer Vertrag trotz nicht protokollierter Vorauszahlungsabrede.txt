@@ -1,0 +1,184 @@
+Formwirksamer Vertrag trotz nicht protokollierter Vorauszahlungsabrede
+BGB §§ 139, 311b I 1
+1.Die wegen des Formmangels einer Vorauszahlungsabrede zur Gesamtnichtigkeit
+des Kaufvertrags führende Vermutung des § 139 BGB ist bereits dann widerlegt,
+wenn der Käufer die im Voraus geleistete Zahlung auf den Kaufpreis zu beweisen
+2.Die Widerlegung der Vermutung kommt nicht nur dann in Betracht, wenn der
+Verkäufer die Zahlung quittiert hat; entscheidend ist, dass der Käufer aus seiner Sicht
+zweifelsfrei nachweisen kann, vor Vertragsschluss auf die noch nicht bestehende
+Kaufpreisschuld gezahlt zu haben.
+BGH Urteil vom 14.6.2024 – V ZR 8/23
+Zum Sachverhalt
+Der – während des Berufungsverfahrens verstorbene – Vater der Bekl. (im Folgenden
+Erblasser) verkaufte mit notariellem Vertrag (UR-Nr. 975) vom 23.3.2017 einen
+hälftigen Miteigentumsanteil an seinem Grundstück an eine GmbH, deren
+Geschäftsführer der Kl. war, zu einem Kaufpreis von 40.000 EUR. Am 6.4.2017 zahlte
+der Kl. an den Erblasser 70.000 EUR per Überweisung unter Angabe des
+Verwendungszwecks „975/23.3.2017“ sowie am 15.5.2017 weitere 10.000 EUR mit
+dem Verwendungszweck „Restzahlung 975/23.3.2017“. Der Kaufvertrag wurde
+vollzogen.
+Am 8.11.2018 schlossen der Erblasser und der Kl. einen notariellen Kaufvertrag über
+die – weitere – Miteigentumshälfte des Erblassers an dem Grundstück zu einem
+Kaufpreis von ebenfalls 40.000 EUR. Anschließend übertrug die GmbH ihren von dem
+Erblasser erworbenen Miteigentumsanteil auf den Kl.
+Der auf Übertragung des verbliebenen (zweiten) Miteigentumsanteils gerichteten Klage
+hat das LG Bielefeld (Urt. v. 27.1.2022 – 19 O 394/20) stattgegeben. Das OLG Hamm
+Senat zugelassene Revision der Kl. hatte Erfolg und führte zur Aufhebung und
+Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+4II. (…) Mit der von dem BerGer. gegebenen Begründung kann ein Anspruch des Kl. auf
+Übereignung des zweiten Miteigentumsanteils gem. § 433 I 1 BGB nicht verneint
+werden. Ein solcher Anspruch kann sich aus dem zwischen dem Kl. und dem Erblasser
+geschlossenen Kaufvertrag vom 8.11.2018 über den zweiten Miteigentumsanteil
+ergeben; dass dieser Vertrag insgesamt unwirksam ist, ergibt sich aus den bisherigen
+Feststellungen nicht.
+51. Im Ausgangspunkt zutreffend ist allerdings, dass die von dem Kl. behauptete
+Vereinbarung über die Vorauszahlung des Kaufpreises für den zweiten Miteigentumsanteil gem. § 311b I 1 BGB iVm § 125  BGB nichtig wäre, weil sie nicht notariell beurkundet wurde. Eine solche
+Vereinbarung ist beurkundungsbedürftig. Es entspricht der ständigen Rechtsprechung
+des Senats, dass die Einigung über die Anrechnung einer Vorauszahlung auf die
+Kaufpreisforderung dem Beurkundungszwang nach § 311b I 1 BGB unterliegt, weil sie
+insbesondere daraus, dass im Zeitpunkt der Vorauszahlung die Kaufpreisforderung
+noch nicht besteht und die Vorauszahlung daher – ohne eine dahingehende
+Vereinbarung – nicht schon von Rechts wegen zu einer Teilerfüllung der
+Vorauszahlungsvereinbarung beurkundungsbedürftig und – mangels Beurkundung –
+nichtig.
+62. Damit steht aber nicht fest, dass der notarielle Kaufvertrag vom 8.11.2018 gem. § 139 BGB insgesamt nichtig ist. Zwar ist dies nach der Auslegungsregel des § 139 BGB
+zu vermuten; doch kann diese Vermutung gerade im Fall einer Kaufpreisvorauszahlung
+Das kommt, anders als das BerGer. meint, auch hier in Betracht.
+7a) Nach der ständigen Rechtsprechung des Senats, von der auch das BerGer. ausgeht,
+ist die wegen des Formmangels einer Vorauszahlungsabrede zur Gesamtnichtigkeit
+des Kaufvertrags führende Vermutung des § 139 BGB dann widerlegt, wenn der Käufer
+die im Voraus geleistete Zahlung auf den Kaufpreis zu beweisen vermag (vgl. Senat
+untergeordneter Bedeutung sein, ob seine Kaufpreisschuld schon im Zeitpunkt ihrer
+Entstehung erlischt oder ob die Tilgung der Schuld noch von weiteren
+8b) Entscheidend ist danach der Nachweis der Zahlung auf die noch nicht bestehende
+Schuld; dagegen kann, anders als das BerGer. meint, nicht verlangt werden, dass der
+Käufer den Abschluss einer entsprechenden Vorauszahlungsabrede und deren
+Fortbestehen bei Abschluss des notariellen Kaufvertrags beweist.
+9aa) Weist der Käufer seine Zahlung auf die noch nicht bestehende Kaufpreisforderung
+nach, ist die Schlussfolgerung gerechtfertigt, dass sich die Parteien auch ohne die
+Anrechnungsabrede auf den beurkundeten Teil des Rechtsgeschäfts eingelassen
+Das kann insbesondere dann der Fall sein, wenn der Verkäufer eine Quittung über die
+Zahlung erteilt hat. Die Widerlegung der Vermutung kommt nicht nur dann in Betracht,
+wenn der Verkäufer die Zahlung quittiert hat; entscheidend ist, dass der Käufer aus
+seiner Sicht zweifelsfrei nachweisen kann, vor Vertragsschluss auf die noch nicht
+bestehende Kaufpreisschuld gezahlt zu haben.
+10bb) Dagegen steht der von dem BerGer. herangezogene Umstand, dass in dem
+Kaufvertrag kein Hinweis auf die Vorauszahlungsvereinbarung enthalten ist, der
+Widerlegung der Vermutung nicht entgegen. Denn die Nichtigkeit des Kaufvertrags
+folgt gerade daraus, dass die Vorauszahlungsabrede nicht beurkundet wurde. Wäre die
+Vorauszahlungsabrede in dem Kaufvertrag enthalten gewesen, so bedürfte es keines
+Beweises zur Widerlegung der Vermutung nach § 139 BGB. Das Fehlen der
+Beurkundung der Vorauszahlungsabrede kann daher denklogisch nicht dazu führen,
+dass der Käufer seine Leistung nicht zu beweisen vermag.
+11c) Daran gemessen ist es möglich, dass der Kl. die Vermutung der Gesamtnichtigkeit
+des Kaufvertrags vom 8.11.2018 durch einen entsprechenden Zahlungsnachweis
+widerlegen kann.
+12aa) Ein Beleg der Kaufpreiszahlung ergibt sich allerdings nicht aus den von dem Kl.
+vorgelegten Überweisungen. Zwar könnten Überweisungsträger grundsätzlich
+ausreichen. Hier fehlt es aber an einer entsprechenden Tilgungsbestimmung. Die
+Überweisungsnachweise vom 6.4.2017 mit dem Verwendungszweck
+„…975/23.3.2017“ und vom 15.5.2017 mit dem Verwendungszweck „RESTZAHLUNG
+975/23.3.2017“ beziehen sich ausdrücklich auf den Kaufvertrag vom 23.3.2017 über
+den ersten Miteigentumsanteil. Diese Belege enthalten damit auch aus Sicht des Kl.
+keine Tilgungsbestimmung, die sich auf den zu diesem Zeitpunkt noch nicht
+abgeschlossenen Kaufvertrag über den zweiten Miteigentumsanteil bezieht.
+13bb) Entgegen der Ansicht des BerGer. kann aber die als „Immobilien-
+Übergabeprotokoll“ bezeichnete Erklärung der Parteien vom 15.5.2017 aus Sicht des
+Kl. geeignet sein, die Vorauszahlung auf den Kaufpreis für den zweiten
+Miteigentumsanteil nachzuweisen.
+14(1) Das BerGer. hat den klägerischen Vortrag zu dem „Immobilien-
+Übergabeprotokoll“ in verfahrensfehlerhafter Weise nicht berücksichtigt. Die auf die
+Verletzung von § 139 II 1 und § 531 II 1 Nr. 1 ZPO gestützte Verfahrensrüge hat Erfolg.
+15(a) Nach ständiger Rechtsprechung des BGH darf eine in erster Instanz siegreiche
+Partei darauf vertrauen, von dem BerGer. rechtzeitig einen Hinweis gem. § 139 II 1 ZPO
+zu erhalten, wenn dieses – wie hier – in einem entscheidungserheblichen Punkt der
+Beurteilung der Vorinstanz nicht folgen will und aufgrund seiner abweichenden Ansicht
+eine Ergänzung des Vorbringens oder einen Beweisantritt für erforderlich hält (vgl.
+Hinweis gehaltene Vortrag ist gem. § 531 II Nr. 1 ZPO zu berücksichtigen. Die Pflicht,
+auf eine von der ersten Instanz abweichende Beurteilung hinzuweisen, liefe nämlich
+leer, wenn ein von dem Berufungsbeklagten darauf vorgebrachtes
+entscheidungserhebliches Vorbringen bei der Entscheidung über das Rechtsmittel
+unberücksichtigt bliebe (vgl. Senat NJW-RR 2024, 1079 Rn. 10 mwN).
+16(b) Daran gemessen war der in der Berufungsverhandlung erfolgte Vortrag des Kl.
+zu dem „Immobilien-Übergabeprotokoll“ zu berücksichtigen. Das BerGer. ist von der
+rechtlichen Würdigung des LG in einem entscheidungserheblichen Punkt abgewichen.
+Hierauf hat es in der Ladungsverfügung zu der Berufungsverhandlung hingewiesen.
+Der als Reaktion darauf gehaltene Vortrag des Kl. zu dem „Immobilien-Übergabeprotokoll“ musste gem. § 531 II 1 Nr. 1 ZPO zugelassen und berücksichtigt
+werden.
+17(2) Das „Immobilien-Übergabeprotokoll“ vom 15.5.2017 kann aus Sicht des Kl. den
+erforderlichen Nachweis über die Zahlung auf die zu diesem Zeitpunkt noch nicht
+bestehende Kaufpreisforderung aus dem Kaufvertrag vom 8.11.2018 darstellen. Darin
+haben die Parteien gemeinsam erklärt, der Kl. habe 80.000 EUR des Kaufpreises für die
+Immobilie gezahlt, wobei 40.000 EUR als „Vorschuss für den Rest des Gebäudes“
+darstellten, und die Parteien anerkennen, „dass sie keine weiteren Ansprüche haben“.
+Die Echtheit der Urkunde ist mangels gegenteiliger Feststellungen im
+Revisionsverfahren zugunsten des Kl. zu unterstellen.
+18Entgegen der Ansicht des BerGer. folgt nichts anderes aus dem Umstand, dass die
+Vertragsparteien später über die Erhöhung des Kaufpreises für den zweiten
+Miteigentumsanteil verhandelten und der Kl. dem Bekl. eine Eigentumswohnung als
+Gegenstand eines weiteren Vertrags vom 5.9.2018 angeboten haben soll. Denn zum
+einen ist es schon nicht zum Abschluss des Vertrags über die Eigentumswohnung
+gekommen; abgesehen davon kann die Zahlung des Kl. über 40.000 EUR damit ohnehin
+nicht in Zusammenhang stehen, weil es nach den in Bezug genommenen
+Feststellungen des LG der Kl. war, der diese Wohnung an den Erblasser verkaufen
+sollte. Zum anderen ist die Vorauszahlungsabrede mangels Beurkundung ohnehin
+unwirksam. Infolgedessen könnte der Kl. die geleistete Vorauszahlung mangels
+Rechtsgrundes wegen ungerechtfertigter Bereicherung (§ 812 BGB) von dem
+Verkäufer zurückfordern und mit dem Bereicherungsanspruch gegenüber der offenen
+Kaufpreisforderung die Aufrechnung erklären. Dies hat der Kl. nach den Ausführungen
+der Revision in der Berufungsinstanz hilfsweise getan.
+19III. Das Berufungsurteil ist deshalb aufzuheben (§ 562 I ZPO). Der Rechtsstreit ist zur
+neuen Verhandlung und Entscheidung an das BerGer. zurückzuverweisen, da er nicht
+zur Endentscheidung reif ist (§ 563 I 1, III ZPO). Dabei wird das BerGer. die Echtheit des
+„Immobilien-Übergabeprotokolls“ zu klären haben und auf dieser Grundlage würdigen
+müssen, ob der Kl. aus seiner Sicht davon ausgehen konnte, dass er die Zahlung auf
+die noch nicht bestehende Forderung nachweisen kann.
+Anmerkung
+1. Das Problem der nicht beurkundeten Vorauszahlungsabrede war schon seit längerer
+Zeit nicht mehr Gegenstand einer höchstrichterlichen Entscheidung. Die Konstellation
+ist jedoch in der Beurkundungspraxis nach wie vor aktuell: Die Vertragsparteien
+erwähnen eine vor der Beurkundung des Kaufvertrags geleistete Anzahlung nicht.
+Anschließend streiten sie darum, ob der zuvor gezahlte Betrag eine Anzahlung auf den
+beurkundeten Kaufpreis war oder in Wirklichkeit ein höherer Kaufpreis vereinbart war
+und der nicht beurkundete Teil des vereinbarten Kaufpreises – also das „Schwarzgeld“
+Bedarf die Vorauszahlungsabrede im beurkundeten Kaufvertrag einer Erwähnung? Ist
+dies zu bejahen, so ergibt sich das Folgeproblem, ob die Nichtbeurkundung gem. § 139
+BGB zur Gesamtnichtigkeit des Kaufvertrags führt.
+2. Trotz Kritik aus der Literatur (zB Singer JR 1983, 356) hat der BGH zu Recht immer
+daran festgehalten, dass eine Vorauszahlungsabrede der Beurkundungspflicht
+unterliegt. Zum einen habe die Kaufpreisschuld im Zeitpunkt der Vorauszahlung noch
+nicht bestanden und daher die Vorauszahlung nicht schon von Rechts wegen zu einer
+Teilerfüllung führen können. Zugleich betreffe sie die vorgeordnete Frage, in welcher
+Weise der Kaufpreis erbracht werden solle. Die Anrechnungsvereinbarung enthalte
+damit zugleich eine Rechtsgrundabrede für die vor Vertragsschluss erbrachte
+Teilleistung und begründe eine der Vertragserfüllung gedanklich vorausgehende
+3. Die Vermutung der Nichtigkeit gem. § 139 BGB ist nach der Rechtsprechung des
+BGH aber richtigerweise dann widerlegt, wenn der Käufer die Belegung des Kaufpreises
+Vorauszahlung eine Quittung erhält und damit seine Leistung problemlos beweisen
+kann, kann es für ihn nur von untergeordneter Bedeutung sein, ob seine
+Kaufpreisschuld schon zum Zeitpunkt ihrer Entstehung erlischt oder ob die Tilgung der
+führt diese Rechtsprechung in solchen Fällen zu einer Umkehr der Beweislast, die
+normalerweise demjenigen obliegt, der die Unwirksamkeit eines Vertrags geltend
+macht. Fehlt in der Urkunde aber schon die vom Käufer behauptete
+Vorauszahlungsabrede, ist dies ein gewisses Indiz für einen unwirksamen
+Schwarzkauf. De facto muss in solchen Fällen damit der Käufer beweisen, dass der
+Kaufvertrag mit dem beurkundeten Kaufpreis zustande gekommen ist und es sich nicht
+um eine unwirksame Unterverbriefung handelt (Kanzleiter DNotZ 1986, 267 (268)).
+Ohne eine ausdrückliche Tilgungsbestimmung im Zusammenhang mit der
+Überweisung wird der Beweis der Vorauszahlungsabrede für den Käufer schwierig.
+Hier hatte das Berufungsgericht allerdings eine mögliche Beweisbarkeit durch ein
+Übergabeprotokoll nicht ausreichend geprüft.
+4. Ähnlich wie nicht beurkundete Vorauszahlungsabreden behandelt die
+Rechtsprechung auch nicht mitbeurkundete Verrechnungsvereinbarungen: Diese
+unterliegen der Beurkundungspflicht. Die Formunwirksamkeit einer
+Kaufpreisverrechnungsabrede lässt die Wirksamkeit des übrigen Kaufvertrags aber
+ebenfalls unberührt, wenn der Käufer die Belegung des Kaufpreises zu beweisen
+Vereinbarung gem. § 387 BGB durch einseitige Gestaltungserklärung aufrechnen.
+Gefährlich ist es dagegen für den Bestand des Vertrags, wenn sich die
+Gegenforderungen nicht genau bestimmen lassen. Haben sich die Beteiligten nämlich
+tatsächlich noch nicht darüber geeinigt, welche in Betracht kommenden
+Gegenforderungen zur Tilgung verwandt werden sollen, ist der Vertrag zwar korrekt
+beurkundet, da eine Einigung über die Gegenforderungen noch nicht erfolgt ist. In
+diesem Fall besteht aber ein offener Dissens mit der Folge, dass der Vertrag noch gar
+Notar Prof. Dr. Christopher Keim, Ingelheim

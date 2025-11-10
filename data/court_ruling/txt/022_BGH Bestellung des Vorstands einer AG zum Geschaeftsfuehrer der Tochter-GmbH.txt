@@ -1,0 +1,501 @@
+GmbH
+Bestellung des Vorstands einer AG zum Geschäftsführer der Tochter-GmbH
+BGB § 181 Fall 1; AktG § 112
+1. Die Vertretungsmacht des Vorstandsmitglieds einer Aktiengesellschaft ist bei der
+Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesellschaft
+nach § 181 Fall 1 BGB beschränkt.
+2. § 112  AktG ist auf die Bestellung des Vorstandsmitglieds einer
+Aktiengesellschaft zum Geschäftsführer einer Tochtergesellschaft nicht anwendbar.
+BGH Beschluss vom 17.1.2023 – II ZB 6/22
+Zum Sachverhalt
+Die Ast. ist eine GmbH in Gründung. Alleinige Gesellschafterin ist die J AG, deren
+Vorstandsmitglieder D., Dr. E und Dr. T diese entweder jeweils gemeinsam mit einem
+anderen Vorstandsmitglied oder jeweils allein gemeinsam mit einem Prokuristen
+vertreten. Mit notariell beglaubigter Urkunde vom 4.12.2019 bevollmächtigten Dr. E und
+Dr. T, „handelnd als gesamtvertretungsbefugte Geschäftsführer der J AG“, Dr. O, die J
+AG unter anderem bei der Gründung einer oder mehrerer Gesellschaften mit
+beschränkter Haftung und der Bestellung eines oder mehrerer Geschäftsführer zu
+vertreten.
+Am 5.12.2019 errichtete Dr. O in seiner Eigenschaft als Vertreter der J AG in notarieller
+Form die Ast. Der Gesellschaftsvertrag sieht vor, dass die Gesellschaft einen oder
+mehrere Geschäftsführer hat. Ist nur ein Geschäftsführer bestellt, so vertritt er die
+Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft von
+zwei Geschäftsführern gemeinsam oder von einem Geschäftsführer gemeinsam mit
+einem Prokuristen vertreten. In einer zugleich abgehaltenen
+Gesellschafterversammlung bestellte er die drei vorgenannten Vorstandsmitglieder
+der Alleingesellschafterin zu Geschäftsführern der Ast. Im April 2020 meldete der
+verfahrensbevollmächtigte Notar die Gesellschaft und ihre Geschäftsführer zur
+Eintragung in das Handelsregister an.
+Mit Zwischenverfügung vom 29.4./29.5.2020 hat das AG Offenbach – Registergericht
+mitgeteilt und der Ast. aufgegeben, im Hinblick auf den
+Geschäftsführerbestellungsbeschluss vom 5.12.2019 bezüglich der
+Vorstandsmitglieder Dr. E und Dr. T eine Genehmigung durch den Aufsichtsrat der
+Alleingesellschafterin samt zusätzlicher Befreiung der Vorstände von den
+Beschränkungen des § 181 Fall 1 BGB für den konkreten Einzelfall vorzulegen. Auf die
+Beschwerde der Ast. hat das OLG Frankfurt a. M. (NZG 2022, 713) die
+Zwischenverfügung aufgehoben, soweit über die Vorlage einer Genehmigung des
+Aufsichtsrats der Alleingesellschafterin für den Geschäftsführerbestellungsbeschluss
+vom 5.12.2019 hinaus die Vorlage einer Befreiung der Vorstandsmitglieder von den
+Beschränkungen des § 181 Fall 1 BGB für den konkreten Einzelfall verlangt worden war,
+und die Beschwerde im Übrigen zurückgewiesen. Die vom BeschwGer. zugelassene
+Rechtsbeschwerde der Ast. hatte Erfolg.
+Aus den Gründen
+8II. Die Rechtsbeschwerde hat Erfolg. Sie führt zur Aufhebung des angefochtenen
+Beschlusses, soweit das BeschwGer. die Beschwerde zurückgewiesen hat, und der
+Zwischenverfügung des AG.
+91. Das BeschwGer. (OLG Frankfurt a. M. NZG 2022, 713) hat seine Entscheidung im
+Wesentlichen wie folgt begründet: Einer Eintragung der Ast. stehe entgegen, dass die
+durch den bevollmächtigten Vertreter Dr. O erfolgte Stimmabgabe zur Bestellung der
+Vorstandsmitglieder Dr. E und Dr. T zu Geschäftsführern schwebend unwirksam sei.
+Zwar sei § 112 AktG nicht anwendbar, weil es sich bei der Bestellung eines
+Vorstandsmitglieds zum Geschäftsführer einer Tochtergesellschaft um einen
+Organakt der Tochtergesellschaft und nicht der Alleingesellschafterin handle. Bei einer
+Selbstbestellung von Vorständen einer Aktiengesellschaft zu Geschäftsführern einer
+Tochter GmbH bestehe gleichwohl ein Interessenkonflikt, dem mit einer jedenfalls
+entsprechenden Heranziehung von § 181 Fall 1 BGB zu begegnen sei. Daran ändere
+nichts, dass die genannten Vorstandsmitglieder nicht selbst an der Beschlussfassung
+mitgewirkt hätten, sondern von Dr. O vertreten worden seien, weil ein Vertreter nicht
+mehr Rechte auf einen Untervertreter übertragen könne, als ihm selbst zustünden. Die
+Genehmigung sei von dem Aufsichtsrat der Alleingesellschafterin als
+Bestellungsorgan der vertretenen Vorstände zu erteilen. Einem Stimmverbot nach § 47
+IV 2 Fall 1 GmbHG habe der Vertreter hingegen nicht unterlegen.
+102. Die vom BeschwGer. zugelassene Rechtsbeschwerde ist gem. § 70 I FamFG
+statthaft und auch im Übrigen zulässig. Die Rechtsbeschwerdebefugnis der Ast. ergibt
+sich bereits daraus, dass ihre Beschwerde gegen die Zwischenverfügung des
+Registergerichts teilweise zurückgewiesen wurde (vgl. BGHZ 191, 84 = NZG 2011, 1268
+Rn. 5; BGH NZG 2018, 1023 Rn. 7 = ZIP 2018, 1591; ZIP 2020, 1658 Rn. 12). Das gilt
+auch für die Vorgesellschaft, die ihre Ersteintragung in das Handelsregister begehrt
+113. Die Entscheidung des BeschwGer. hält der rechtlichen Prüfung in einem
+entscheidenden Punkt nicht stand. Zwar hat das BeschwGer. zutreffend ein
+behebbares Eintragungshindernis erkannt, weil die auf die Bestellung der
+Vorstandsmitglieder E und T zu Geschäftsführern der Ast. gerichtete
+Beschlussfassung schwebend unwirksam ist. Zur Erteilung der Genehmigung der
+Bestellung der beiden Vorstandsmitglieder E und T zu Geschäftsführern ist hier aber
+nicht der Aufsichtsrat der Alleingesellschafterin berufen.
+12a) Nach § 9c I 1 GmbHG hat das Gericht die Eintragung abzulehnen, wenn die
+Gesellschaft nicht ordnungsgemäß errichtet und angemeldet ist. Zur
+ordnungsgemäßen Errichtung der Gesellschaft zählt auch die vorschriftsgemäße
+Bestellung des Geschäftsführers als notwendigem Organ (§ 10 I GmbHG; Altmeppen
+GmbHG, 10. Aufl., GmbHG § 9c Rn. 4; Gehrlein/Born/Simon/Link GmbHG, 5. Aufl.,
+GmbHG § 9c Rn. 23; Scholz/Veil GmbHG, 12. Aufl., GmbHG § 9c Rn. 24;
+MüKoGmbHG/Wicke, 4. Aufl., GmbHG § 9c Rn. 31).
+13b) Das BeschwGer. hat zutreffend angenommen, dass die Vorstandsmitglieder E
+und T bei der Stimmabgabe bezüglich der auf ihre eigene Bestellung gerichteten
+Beschlussfassung nach § 181 Fall 1 BGB in ihrer Vertretungsmacht beschränkt waren.
+14aa) Allerdings ist umstritten, ob die Selbstbestellung von Vorständen einer
+Aktiengesellschaft zu Geschäftsführern einer Tochter GmbH in den
+Anwendungsbereich des § 181 Fall 1 BGB fällt.
+15Eine Auffassung sieht keinerlei Beschränkungen der Vertretungsmacht des
+Vorstandsmitglieds bei seiner Selbstbestellung zum
+Geschäftsführer einer Tochtergesellschaft (Ziemons/Binnewies/Ziemons HdB
+Aktiengesellschaft, 9.2020 Rn. 8675; Pluskat/Baßler Der Konzern 2006, 403 (405 f.),
+anders aber für die Anstellung; Putz RFamU 2022, 245 (246 f.); Schemmann NZG 2008,
+89 (91 f.)).
+16Die überwiegende Gegenauffassung nimmt hingegen ein Vertretungsverbot nach § 181 BGB an (BayObLGZ 2000, 325 = NZG 2001, 128 = ZIP 2001, 70 für eine
+Genossenschaft; Altmeppen GmbHG § 6 Rn. 67; Noack/Servatius/Haas/Beurskens
+GmbHG, 23. Aufl., GmbHG § 6 Rn. 37; Gehrlein/Born/Simon/Buck-Heeb GmbHG, 5.
+Aufl., GmbHG § 6 Rn. 37; KK-AktG/Cahn/Mertens 4. Aufl., AktG § 112 Rn. 4;
+MüKoGmbHG/Drescher GmbHG § 47 Rn. 227; Rowedder/Pentz/Ganzer GmbHG, 7.
+Aufl., GmbHG § 47 Rn. 107; MünchHdBGesR VII/Gehle, 6. Aufl., GmbHG § 9 Rn. 84;
+Hölters/Weber/Groß-Bölting/Rabe AktG, 4. Aufl., AktG § 112 Rn. 13;
+MüKoAktG/Habersack, 5. Aufl., AktG § 112 Rn. 7; Henssler/Strohn/Henssler GesR, 5.
+Aufl., AktG § 112 Rn. 7; Hopt/Roth Großkomm. AktG, 5. Aufl., AktG § 112 Rn. 69 ff.;
+Lutter/Hommelhoff/Kleindiek GmbHG, 20. Aufl., GmbHG § 6 Rn. 38; Koch AktG, 16.
+Aufl., AktG § 112 Rn. 14; Noack/Servatius/Haas/Noack GmbHG, 23. Aufl., GmbHG § 47 Rn. 60; Rowedder/Pentz/Raff GmbHG, 7. Aufl., GmbHG § 6 Rn. 63; Scholz/K.
+Schmidt GmbHG, 12. Aufl., GmbHG § 47 Rn. 181; MüKoBGB/Schubert, 9. Aufl., BGB § 181 Rn. 53; BeckOGK/Spindler, 1.10.2022, AktG § 112 Rn. 25 ff.;
+Michalski/Heidinger/Leible/J. Schmidt/Tebben GmbHG, 3. Aufl., GmbHG § 6 Rn. 46;
+Wicke GmbHG, 4. Aufl., GmbHG § 6 Rn. 11; Wasserbäch Die Vertretung der
+Aktiengesellschaft durch ihren Aufsichtsrat, 2018,  f.; Bayer/Möller, FS
+Grunewald, 2021, 79 (82); Commichau Rpfleger 1995, 98 (99); Cramer NZG 2012, 765
+(766 ff.); Dicke/Johnen GmbHR 2022, 1117 (1118 f.); Götze GmbHR 2001, 217 (218 f.);
+Gutachten des Deutschen Notarinstituts, DNotI-Report 2012, 189 (190); Hermanns, FS
+E. Vetter, 2019, 233 (237 f.); Maidl DNotZ 2022, 163 (165 f.); Scheller EWiR 2022, 265
+(266); Schemmann NZG 2008, 89 (91 f.); Schiller GWR 2019, 102 (103);
+Theusinger/Guntermann AG 2017, 798 (803 f.); Wachter GmbHR 2022, 476 (478);
+Werner NZG 2022, 702 (703 f.); Wicke DNotZ 2013, 812 (820 f.); vgl. auch OLG
+Düsseldorf RNotZ 2006, 69 zu § 1795 I Nr. 1 BGB; offenlassend: OLG München NZG
+2012, 710; LG Nürnberg-Fürth AG 2001, 152; K. Schmidt/Lutter/Drygala AktG, 4. Aufl.,
+AktG § 112 Rn. 9).
+17bb) Der Senat schließt sich der zuletzt genannten Auffassung an. Die
+Vertretungsmacht des Vorstandsmitglieds einer Aktiengesellschaft ist bei der
+Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesellschaft
+nach § 181 Fall 1 BGB beschränkt.
+18(1) Nach § 181 Fall 1 BGB kann ein Vertreter, soweit ihm nicht ein anderes gestattet
+ist, im Namen des Vertretenen mit sich im eigenen Namen ein Rechtsgeschäft nicht
+vornehmen. Die Beschlussfassung über die Bestellung des Geschäftsführers einer
+GmbH und die Bestellung sind ein einheitliches Rechtsgeschäft, auf das § 181 BGB
+anwendbar ist.
+19Die auf Herbeiführung eines Bestellungsbeschlusses (§§ 6 III 2 Fall 2, 46 Nr. 5, 47 I
+GmbHG) gerichtete Stimmabgabe ist eine empfangsbedürftige Willenserklärung des
+1967, 1963; Möller, Die Beschlussfassung im Recht der Personen- und
+Kapitalgesellschaften, 2021,  f.), auf die § 181 BGB anwendbar ist (vgl. BGHZ 77,
+Aufl., BGB § 181 Rn. 6; Staudinger/Schilken BGB, 2019, BGB § 181 Rn. 13;
+MüKoBGB/Schubert, 9. Aufl., BGB § 181 Rn. 16). Erklärungsempfänger der
+Stimmabgabe ist die Vorgesellschaft (MüKoGmbHG/Drescher, 4. Aufl., BGB § 47 Rn.
+36; Henssler/Strohn/Hillmann GesR, 5. Aufl., GmbHG § 47 Rn. 29;
+Noack/Servatius/Haas/Noack GmbHG, 23. Aufl., GmbHG § 47 Rn. 7). Unmittelbar
+sachlich betroffen ist der zu bestellende Geschäftsführer erst mit der Umsetzung des
+Beschlusses ihm gegenüber. Dies hindert die Anwendung von § 181 BGB aber nicht,
+weil sich eine solch ausschließlich formale Betrachtungsweise vom Sinn und Zweck
+der Norm lösen würde.
+20 Um Außenwirkung zu entfalten, muss der Bestellungsbeschluss dem Bestellten
+bekanntgegeben werden (Bestellungserklärung), der seinerseits die Annahme des
+Amts erklären muss (BGH NZG 2006, 62 Rn. 15 = ZIP 2005, 2255; BGHZ 52, 316 (321 f.)
+Noack/Servatius/Haas/Beurskens GmbHG, § 6 Rn. 48 f.; Gehrlein/Born/Simon/Buck-
+Heeb GmbHG § 6 Rn. 33; MüKoGmbHG/Goette GmbHG, 4. Aufl., GmbHG § 6 Rn. 57 f.;
+Scholz/Uwe H. Schneider/Sven H. Schneider GmbHG, 13. Aufl., GmbHG § 6 Rn. 91;
+Möller Die Beschlussfassung im Recht der Personen- und Kapitalgesellschaften, 2021,
+ mwN; Blath GmbHR 2018, 345 (346 f.)). Die Bestellungserklärung vollzieht
+lediglich die in dem Beschluss zum Ausdruck gekommene innerkörperschaftliche
+Willensbildung nach außen, ihr Erklärungsgehalt erschöpft sich in der Mitteilung des
+Beschlussinhalts (vgl. KK-AktG/Cahn/Mertens § 112 Rn. 4; Götze GmbHR 2001, 217
+(219)). Ist der Bestellte bei der Beschlussfassung zugegen, wird der Beschluss
+regelmäßig zugleich auch mit Außenwirkung umgesetzt (vgl. BGHZ 52, 316 (321) =
+handelt das Vorstandsmitglied im Namen der Mutter-Aktiengesellschaft als für die
+VorGmbH die Bestellungserklärung abgebende Alleingesellschafterin und zugleich bei
+Annahme des Amts im eigenen Namen, weswegen § 181 Fall 1 BGB auf diesen
+Sachverhalt unmittelbar anwendbar ist (Altmeppen, GmbHG, 10. Aufl., § 6 Rn. 67;
+Gutachten des Deutschen Notarinstituts, DNotI-Report 2012, 189 (190))vgl. auch Blath
+GmbHR 2018, 345 (349 f.)).
+21Nach Sinn und Zweck von § 181 Fall 1 BGB ist von einem einheitlichen
+Rechtsgeschäft auszugehen so dass das Verbot des Selbstkontrahierens auch für die
+Stimmabgabe gilt. Das Verbot will verhindern, dass verschiedene und einander
+widersprechende Interessen durch ein und dieselbe Person vertreten werden, weil dies
+die Gefahr eines Interessenkonflikts und damit einer Schädigung des Vertretenen mit
+die eigene Bestellung (bei der Tochter GmbH) gerichteten Stimmabgabe durch das
+Vorstandsmitglied der Aktiengesellschaft, weil diese sich sachlich an ihn als zu
+1577). Dem steht nicht entgegen, dass es sich bei der Bestellung eines
+Geschäftsführers um ein mehraktiges Rechtsgeschäft handelt (vgl. BGHZ 50, 8 (12 f.)
+22 (2) Die Rechtsprechung des BGH, nach der § 181 BGB auf Beschlüsse über
+Maßnahmen der Geschäftsführung oder sonstige gemeinsame
+Gesellschaftsangelegenheiten, bei denen ein Gesellschafter das Stimmrecht für sich
+und zugleich auch für einen anderen Gesellschafter ausübt, nicht anwendbar ist (BGHZ
+mit denen sich ein Vertreter des Alleingesellschafters zum Geschäftsführer bestellt,
+nicht übertragbar. Das persönliche Interesse des Vorstandsmitglieds am Beschlussgegenstand ist wegen seiner
+Selbstbetroffenheit nicht identisch mit den mitgliedschaftlichen Interessen der
+Gesellschaft bürgerlichen Rechts). Der Stimmrechtsvertreter, der nicht Gesellschafter
+ist, nimmt nicht selbst an der verbandsinternen Willensbildung und dem Ringen darum,
+wie das vom Gesellschaftszweck geprägte gleichgerichtete Interesse am besten zu
+verwirklichen ist, teil (aA Pluskat/Baßler Der Konzern 2006, 403 (405)). Vielmehr tritt
+hier die von § 181 BGB abzuwehrende Gefahr eines Interessenwiderstreits hervor, weil
+bei ihm das eigene Interesse am Abstimmungsergebnis nicht durch ein mindestens
+gleichstarkes eigenes Interesse am Gedeihen der Gesellschaft aufgewogen wird (vgl.
+das Vorstandsmitglied als zu bestellendes Organ der Tochter GmbH der von ihm
+vertretenen Aktiengesellschaft in der von § 181 BGB gemeinten Art in der Rolle eines
+Geschäftsgegners gegenüber, bei der er darum bemüht ist, seine eigene
+23Das gilt auch, wenn es nur um die Bestellung geht und nicht zugleich das
+Anstellungsverhältnis betroffen ist. Schon die Bestellung stärkt die rechtliche Stellung
+325 = NZG 2001, 128 = ZIP 2001, 70), weil es mit der organschaftlichen Handlungsund Vertretungsmacht in der Tochtergesellschaft (§ 35 I 1 GmbHG) ausgestattet wird.
+Dass der Vorstand der Alleingesellschafterin dem Geschäftsführer der
+Tochtergesellschaft Weisungen erteilen kann, denen dieser grundsätzlich zu folgen hat
+nicht entgegen (aA Putz RFamU 2022, 245 (246 f.)). Zudem können kollidierende
+organschaftliche Pflichten des Vorstands gegenüber der Aktiengesellschaft einerseits
+(§ 93 AktG) und des Geschäftsführers gegenüber der abhängigen GmbH (§ 43 GmbHG)
+andererseits entstehen (K. Schmidt/Lutter AktG/Drygala AktG § 112 Rn. 9).
+24(3) Es besteht auch kein Anlass, § 181 BGB teleologisch zu reduzieren (so aber
+Pluskat/Baßler Der Konzern 2006, 403 (405)). Nach der Rechtsprechung des BGH gilt
+§ 181 BGB nicht, wenn nach der Natur des Rechtsgeschäfts eine Gefährdung der
+Interessen des Vertretenen nicht nur im konkreten Einzelfall, sondern abstrakt-generell
+ausgeschlossen ist. Denn dann besteht nach dem Normzweck kein Bedürfnis für ein
+Der BGH hat eine solche Sachverhaltsgestaltung, in der sich eine Schädigung des
+Vertretenen typischerweise ausschließen lässt, vor dem Inkrafttreten von § 35 III 1
+GmbHG angenommen für Rechtsgeschäfte des geschäftsführenden
+Geschäfte, die dem Vertretenen lediglich einen rechtlichen Vorteil bringen (BGHZ 59,
+1863). Ein solcher Fall liegt nicht vor, weil die vertretene Alleingesellschafterin keine
+Rechte aus der Bestellung ihres Vorstandsmitglieds als Geschäftsführer ihrer Tochter
+GmbH erlangt.
+25Im Hinblick auf die aufgezeigten gefährdeten Interessen der Alleingesellschafterin
+handelt es sich auch nicht um ein iSv § 181 BGB „neutrales“ Geschäft, so dass
+dahinstehen kann, ob die vorgenannte Rechtsprechung entsprechend auszudehnen
+wäre (so Staudinger/Schilken BGB § 181 Rn. 32; MüKoBGB/Schubert, 9. Aufl., BGB § 181 Rn. 34; BeckOK BGB/Schäfer, 1.11.2022, BGB § 181 Rn. 19).
+26c) Zutreffend hat es das BeschwGer. für die Anwendung von § 181 Fall 1 BGB für
+unerheblich gehalten, dass die Alleingesellschafterin nicht durch ihre
+Vorstandsmitglieder Dr. E und Dr. T, sondern durch den von diesen bevollmächtigten
+Dr. O vertreten wurde. Nach dem Zweck der Norm spielt es keine Rolle, ob der nach § 181 BGB in seiner Vertretungsmacht beschränkte organschaftliche Vertreter im
+Rahmen der Beschlussfassung die Stimme selbst abgibt oder dafür einen (Unter-
+)Vertreter bestellt, weil er auf diesem Umweg nicht seine eigene Vertretungsmacht
+1991, 691; Grüneberg/Ellenberger BGB § 181 Rn. 12; MüKoBGB/Schubert BGB § 181
+Rn. 50; BeckOK BGB/Schäfer, 1.10.2022, BGB § 181 Rn. 22; MüKoAktG/Spindler AktG
+§ 78 Rn. 131; Bayer/Möller FS Grunewald, 2021, 79 (84 f.); Schindeldecker RNotZ 2015,
+533 (553); Suttmann MittBayNot 2011, 1 (5)).
+27 d) Soweit die Rechtsbeschwerde meint, § 181 BGB sei unanwendbar, weil sich die
+gesamtvertretungsberechtigten Vorstandsmitglieder E und T nach § 78 IV 1 AktG
+wechselseitig ermächtigt hätten, den jeweils anderen zum Geschäftsführer der
+Tochtergesellschaft zu bestellen, und sie dazu jeweils einzeln O bevollmächtigt hätten,
+kann sie damit nicht durchdringen. Eine wechselseitige Ermächtigung iSv § 78 IV 1
+AktG liegt nicht vor.
+28aa) Das BeschwGer. hat sich mit der erstmals in der Rechtsbeschwerde behaupteten
+wechselseitigen Ermächtigung nicht befasst und die O erteilte Vollmacht nicht
+ausgelegt. Da weitere Feststellungen nicht zu erwarten sind, kann der Senat die
+Auslegung nachholen und in der Sache selbst entscheiden (§ 74 VI 1 FamFG; vgl. BGH
+NJW-RR 1992, 423 = WM 1992, 612 (613); NJW-RR 2021, 342 Rn. 27).
+29bb) Nach §§ 133, 157 BGB ist bei der Auslegung von Willenserklärungen der
+wirkliche Wille des Erklärenden zu erforschen. Dabei ist vom Wortlaut der Erklärung
+auszugehen. In einem zweiten Auslegungsschritt sind sodann die außerhalb des
+Erklärungsakts liegenden Begleitumstände in die Auslegung einzubeziehen, soweit sie
+einen Schluss auf den Sinngehalt der Erklärung zulassen (BGH NJW-RR 2000, 1002 =
+30Aus der O erteilten Vollmacht ergibt sich eine ausdrückliche wechselseitige
+Ermächtigung der Vorstandsmitglieder E und T nicht. Nach dem Wortlaut der Urkunde
+handelten die unterzeichnenden Vorstandsmitglieder „als gesamtvertretungsbefugte
+Geschäftsführer“ der Alleingesellschafterin. Die Auffassung der Rechtsbeschwerde,
+wonach
+darin sowohl eine wechselseitige Ermächtigung der Vorstandsmitglieder als auch zwei
+jeweils einzeln erteilte Vollmachten zu sehen sein sollen, findet in dem Wortlaut keine
+Stütze. Die Rechtsbeschwerde weist zutreffend darauf hin, dass der Gebrauch des
+Wortes „Geschäftsführer“ im Hinblick auf §§ 76, 78 AktG terminologisch unzutreffend
+ist. Dabei handelt es sich nur um einen insoweit unerheblichen Formulierungsfehler,
+wie sich auch daran zeigt, dass dieser Begriff in der Unterschriftszeile gestrichen und
+der Fehler damit teilweise korrigiert wurde. An der Maßgeblichkeit des Wortlauts der
+Urkunde im Übrigen ändert sich dadurch nichts.
+31 Außerhalb der Urkunde liegende Umstände, die für eine wechselseitige
+Ermächtigung sprechen, hat das BeschwGer. nicht festgestellt. Solche werden auch
+von der Rechtsbeschwerde nicht aufgezeigt. Zwar ist nach der allgemeinen
+Lebenserfahrung anzunehmen, eine Erklärung solle nach dem Willen des Erklärenden
+einen bestimmten rechtserheblichen Inhalt haben, weswegen einer möglichen
+Auslegung der Vorzug zu geben ist, bei welcher der Erklärung eine tatsächliche
+Bedeutung zukommt, wenn sich diese Erklärung ansonsten als (teilweise) sinnlos
+(1075) Rn. 16). Gegen eine solche erweiternde Auslegung, die im Wortlaut der
+Erklärung keinen Anklang findet, spricht schon, dass sich die Vollmacht nicht als
+sinnlos erwiesen hat, weil die Möglichkeit einer Genehmigung besteht. Zudem sind
+dagegen dieselben Erwägungen anzuführen, die den BGH veranlasst haben, es
+abzulehnen, eine von zwei Gesamtvertretern einer GmbH gemeinsam abgegebene
+Vertragserklärung, bei der die Mitwirkung des einen gegen § 181 BGB verstieß, in eine
+zulässige Ermächtigung des anderen zur Alleinvertretung umzudeuten (vgl. BGH NJW
+1992, 618 = ZIP 1991, 1582 (1583)). Die persönlichen Verantwortlichkeiten für die
+Bestellung der Geschäftsführer würden sich anders gestalten. Die Bevollmächtigung
+und die darauf erfolgte Geschäftsführerbestellung wäre gegenüber der
+Muttergesellschaft nicht von den Vorstandsmitgliedern E und T gemeinsam zu
+verantworten. Vielmehr wären sie dann nur verantwortlich für die Bestellung des
+jeweils anderen.
+32e) Rechtsfehlerhaft geht das BeschwGer. allerdings davon aus, die Genehmigung für
+die Wirksamkeit der Stimmabgabe von O sei von dem Aufsichtsrat der
+Alleingesellschafterin zu erteilen.
+33aa) Stimmt ein Vorstandsmitglied einer Aktiengesellschaft bei der
+Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesellschaft
+entgegen der Beschränkung des § 181 Fall 1 BGB mit ab, ist die Stimmabgabe
+291 = ZIP 1994, 129 (131)). Damit ist jedenfalls in der Einpersonen-GmbH zugleich der
+Bestellungsbeschluss schwebend unwirksam, ohne dass es einer Anfechtungsklage
+bedarf, weil ansonsten dem Schutzzweck des § 181 BGB nicht hinreichend Rechnung
+getragen würde (BayObLGZ 2000, 325 = NZG 2001, 128 = ZIP 2001, 70;
+Lutter/Hommelhoff/Bayer GmbHG Anh. zu § 47 Rn. 4; Wicke GmbHG Anh. § 47 Rn. 3;
+Lindemann, Die Beschlussfassung in der Einmann GmbH, 1996, 212 ff.; Gutachten des
+Deutschen Notarinstituts, DNotI-Report 2012, 189 (192); Semler/Asmus NZG 2004, 881
+(883 f.)). Die Wirksamkeit der Stimmabgabe von Dr. O hängt von der Genehmigung
+durch die von ihm vertretene Alleingesellschafterin ab (vgl. §§ 177 I, 180  BGB).
+34bb) Zuständig für die Erteilung der Genehmigung nach § 177 I BGB ist jedes
+vertretungsberechtigte und nicht durch § 181 BGB in seiner Vertretungsmacht
+beschränkte Vorstandsmitglied der Alleingesellschafterin (§ 78 I 1 AktG). Andere
+Organe können die Aktiengesellschaft nur vertreten, wenn ihnen abweichend von
+dieser Grundregel die gesetzliche Vertretung übertragen wurde (BGH NZG 2023, 326 =
+ZIP 2022, 1749 Rn. 20). Da schwebend unwirksame Rechtsgeschäfte durch einen
+gesetzlichen Vertreter, einen Bevollmächtigten und auch durch den handelnden
+Vertreter ohne Vertretungsmacht, wenn er nachträglich Vertretungsmacht erlangt,
+genehmigt werden können (Grüneberg/Ellenberger BGB § 177 Rn. 6), führt § 181 BGB
+lediglich zum Ausschluss der von der Norm betroffenen Vorstandsmitglieder (KK-
+AktG/Cahn/Mertens AktG § 112 Rn. 4; Hopt/Roth Großkomm. AktG, 5. Aufl., AktG § 112 Rn. 73; Wasserbäch Die Vertretung der Aktiengesellschaft durch ihren
+Aufsichtsrat, 2018, ; Wachter GmbHR 2022, 476 (478); vgl. auch BGH NJW-RR
+1994, 291 = ZIP 1994, 129 (131) für die GmbH; aA Dicke/Johnen GmbHR 2022, 1117
+(1121 f.); Werner NZG 2022, 702 (705); Leuering/Rubner NJW-Spezial 2022, 176 (177)
+„Bestellungsorgan des Vertretenen“). Auf die davon zu unterscheidende Frage, wer zur
+Erteilung der Gestattung vor Ausübung des Vertretergeschäfts berufen ist, kommt es
+in diesem Zusammenhang nicht an (vgl. BGH NJW-RR 1994, 291 = ZIP 1994, 129 (131)
+für die GmbH).
+35cc) Da das Vorstandsmitglied D nach den Feststellungen des BeschwGer. die
+Alleingesellschafterin gemeinsam mit einem Prokuristen oder einem nicht durch § 181
+BGB ausgeschlossenen Vorstandsmitglied vertreten kann, kann er mit diesem auch die
+ausstehende Genehmigung erklären. Ob diese Möglichkeit zur ordnungsgemäßen
+Vertretung tatsächlich besteht, ist nicht festgestellt. Dem steht nicht entgegen, dass D
+selbst mit demselben Beschluss wie E und T wirksam zum Geschäftsführer bestellt
+wurde (aA Wachter GmbHR 2022, 476 (478)).
+36(1) Das Vorstandsmitglied D war weder an der Bevollmächtigung von O noch an der
+auch auf seine eigene Bestellung gerichteten Beschlussfassung beteiligt, weswegen
+ein Fall des § 181 BGB in seiner Person nicht vorliegt. Ist ein an der Bestellung weiterer
+Vorstandsmitglieder nicht beteiligtes Vorstandsmitglied vorhanden, das ohne
+Mitwirkung der durch § 181 BGB ausgeschlossenen Vorstandsmitglieder zur
+Vertretung der Aktiengesellschaft berechtigt ist, so besteht kein Grund, dieses nicht für
+befugt zu halten, die Genehmigung zu erteilen (vgl. BGH NJW-RR 1994, 291 = ZIP 1994,
+129 (131) für die GmbH). D wäre auch nicht gehindert gewesen, gemeinsam mit einem
+Prokuristen für die Alleingesellschafterin die Vorstandsmitglieder E und T zu
+Geschäftsführern der Ast. zu bestellen.
+37(2) Ein Insichgeschäft für das Vorstandsmitglied D, welches der durch ihn zu
+erklärenden Genehmigung entgegenstünde, folgt auch nicht daraus, dass die
+Wirksamkeit seiner Bestellung zum Geschäftsführer der Ast. von der Genehmigung der
+Bestellung der Vorstandsmitglieder E und T zu Geschäftsführern abhängen würde.
+38Die Beschlussfassung über die Bestellung des Geschäftsführers kann schon vor der
+Eintragung der GmbH mit einfacher Mehrheit erfolgen, da für die Vor GmbH
+Die Bestellung wird erst wirksam, wenn das Beschlussergebnis gegenüber dem
+Bestellten bekanntgegeben ist und der Berufene sich zur Annahme des Amts
+bereiterklärt, was auch konkludent erfolgen kann (Noack/Servatius/Haas/Beurskens
+GmbHG § 6 Rn. 48 f., Scholz/Uwe H. Schneider/Sven H. Schneider, GmbHG § 6 Rn. 91).
+Die konkludente Annahme durch das Vorstandsmitglied D. liegt hier jedenfalls in der
+von ihm (mit-)unterzeichneten Anmeldung der Ast. zum Handelsregister vom
+6.12.2019 (vgl. Gehrlein/Born/Simon/Buck-Heeb GmbHG § 6 Rn. 33).
+39(3) Die Bestellung von D scheitert schließlich auch nicht an § 139 BGB. Danach ist,
+wenn ein Teil des Rechtsgeschäfts nichtig ist, das ganze Rechtsgeschäft nichtig, wenn
+nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen sein würde.
+Zwar liegt in der Bestellung mehrerer Geschäftsführer durch einen Beschluss der
+Alleingesellschafterin ein einheitliches Rechtsgeschäft und § 139 BGB gilt auch für
+1974, 2233 (2234 f.)). Gleichwohl folgt daraus nicht die schwebende Unwirksamkeit
+der Bestellung des Vorstandsmitglieds D zum Geschäftsführer der Ast. Denn es ist
+anzunehmen, dass er auch ohne die übrigen Vorstandsmitglieder zum alleinigen
+Geschäftsführer bestellt worden wäre.
+40Werden in einem Beschluss mehrere Beschlussgegenstände zusammengefasst,
+beurteilt sich die Gesamtnichtigkeit des Beschlusses bei der Nichtigkeit eines Teils
+entsprechend § 139 BGB (BGHZ 222, 323 = NZG 2019, 979 Rn. 71; sowie BGH NJW
+1988, 1214 = ZIP 1988, 432 (433); BGHZ 205, 319 = NZG 2015, 867 Rn. 30, beide zur
+AG). Danach ist der ganze Beschluss nichtig, wenn nicht anzunehmen ist, dass er auch
+ohne den nichtigen Teil gefasst worden wäre. Insoweit kommt es auf den
+mutmaßlichen Willen der Gesellschafterversammlung an, der grundsätzlich durch
+Auslegung des Beschlusses zu ermitteln ist (BGHZ 205, 319 = NZG 2015, 867 Rn. 30;
+BGHZ 222, 323 = NZG 2019, 979 Rn. 71).
+41 Nach dem mutmaßlichen Willen der Alleingesellschafterin ist anzunehmen, dass
+diese eine wirksame Bestellung ihres Vorstandsmitglied D gewollt hätte. Mit der
+Bestellung auch nur eines Geschäftsführers werden, unabhängig von der
+ausstehenden Genehmigung, die Voraussetzungen geschaffen, um die
+Handlungsfähigkeit der Ast. herzustellen. Die Satzung der Ast. lässt die Bestellung nur
+eines Geschäftsführers gerade zu. Auch die von den Vorstandsmitgliedern Dr. E und
+Dr. T an Dr. O erteilte Vollmacht sah die Bestellung eines oder mehrerer
+Geschäftsführer vor.
+42(4) Ob diese Möglichkeit zur ordnungsgemäßen Vertretung der
+Alleingesellschafterin durch das Vorstandsmitglied D. gemeinsam mit einem
+Prokuristen oder einem anderen nicht durch § 181 BGB in seiner Vertretungsmacht
+beschränkten Vorstandsmitglied tatsächlich besteht, hat das BeschwGer. nicht
+festgestellt. Es kann daher offenbleiben, ob die Genehmigung nur durch den
+Aufsichtsrat erklärt werden kann, wenn der Vorstand hierzu mangels einer
+ausreichenden Anzahl nicht in einem Interessenkonflikt stehender
+Vorstandsmitglieder nicht in der Lage ist (Hopt/Roth Großkomm. AktG, 5. Aufl., § 112
+Rn. 73), oder gegebenenfalls die Bestellung eines stellvertretenden Vorstandsmitglieds
+in Betracht kommt (§ 105 II AktG, KK-AktG/Cahn/Mertens AktG § 112 Rn. 4).
+43f) Die Entscheidung stellt sich nicht aus anderen Gründen als richtig dar (§ 74 II
+FamFG). Eine Genehmigungskompetenz des Aufsichtsrats folgt, wie das BeschwGer.
+rechtsfehlerfrei angenommen hat, nicht aus § 112  AktG. Ob ein Verstoß gegen § 112  AktG zur Nichtigkeit des jeweiligen Rechtsgeschäfts gem. § 134 BGB oder zur
+Anwendbarkeit der §§ 177 ff. BGB führt mit der Folge, dass die Genehmigung nach § 177 I BGB allein von dem Aufsichtsrat erteilt werden könnte (BGH NZG 2005, 276 = ZIP
+2005, 348 (349)), ist in Rechtsprechung und Schrifttum umstritten. Der Senat hat die
+Frage bislang offengelassen (BGHZ 220, 377 = NZG 2019, 420 Rn. 35). Sie bedarf auch
+vorliegend keiner Entscheidung. Denn § 112  AktG ist auf die Bestellung des
+Vorstandsmitglieds einer Aktiengesellschaft zum Geschäftsführer einer
+Tochtergesellschaft nicht anwendbar.
+44aa) Die Frage ist umstritten.
+45Teilweise wird im Hinblick auf den Schutzzweck des § 112  AktG, eine
+unbefangene Wahrung der Gesellschaftsbelange sicherzustellen und
+Interessenkollisionen zu verhindern, vertreten, zur Entscheidung über die Bestellung
+des Vorstandsmitglieds einer Aktiengesellschaft zum Geschäftsführer ihrer Tochter
+GmbH sei der Aufsichtsrat berufen (LG Berlin NJW-RR 1997, 1534 = GmbHR 1997, 750
+(751); Grigoleit/Grigoleit/Tomasic, AktG, 2. Aufl., § 112 Rn. 10; MünchHdBGesR
+IX/Blath GmbHG § 9 Rn. 58; Baetzgen RNotZ 2005, 193 (223); Blath GmbHR 2018, 345
+(353); Blath DNotZ 2022, 314 (316 f.); Melchior Rpfleger 1997, 505 (508);
+Schindeldecker RNotZ 2015, 533 (552 f.); Suttmann MittBayNot 2011, 1 (14); wohl auch
+van Kann/Keiluweit AG 2010, 805 (808)).
+46Überwiegend wird hingegen angenommen, der Anwendungsbereich des § 112 AktG
+sei nicht eröffnet, weil es sich bei der Bestellung eines Geschäftsführers um einen
+Organakt der Untergesellschaft und nicht der Obergesellschaft als deren
+Alleingesellschafterin handele (OLG München NZG 2012, 710; LG Nürnberg-Fürth AG
+2001, 152; Noack/Servatius/Haas/Beurskens GmbHG § 6 Rn. 37; KK-
+AktG/Cahn/Mertens AktG § 112 Rn. 4; K. Schmidt/Lutter/Drygala AktG § 112 Rn. 9;
+Hölters/Weber/Groß-Bölting/Rabe AktG, 4. Aufl., AktG § 112 Rn. 13;
+MüKoAktG/Habersack, 5. Aufl., AktG § 112 Rn. 7; Henssler/Strohn/Henssler G AktG § 112 Rn. 7; Koch AktG § 112 Rn. 14; Hopt/Roth AktG § 112 Rn. 69 ff.;
+MüKoBGB/Schubert BGB § 181 Rn. 53; BeckOGK/Spindler AktG 1.10.2022, § 112 Rn.
+25 f.; MünchHdBGesR VII/Gehle GmbHG § 9 Rn. 84; Ziemons/Binnewies/Jaeger HdB
+Aktiengesellschaft Rn. 9174 a; Wasserbäch Die Vertretung der Aktiengesellschaft
+durch ihren Aufsichtsrat, 2018,  f.; Bayer/Möller FS Grunewald, 2021, 79 (82);
+Commichau Rpfleger 1995, 98 (99); Cramer NZG 2012, 765 (766 f.); Dicke/Johnen
+GmbHR 2022, 1117 (1119 f.); Hermanns FS E. Vetter, 2019, 233 (237 f.); Maidl DNotZ
+2022, 163 (165 f.); Schemmann NZG 2008, 89 (91 f.); Schiller GWR 2019, 102 (103);
+Theusinger/Guntermann AG 2017, 798 (803 f.); Wachter GmbHR 2022, 476 (478);
+Werner NZG 2022, 702 (703 f.); Wicke DNotZ 2013, 812 (820 f.); offenlassend:
+Gehrlein/Born/Simon/Buck-Heeb GmbHG § 6 Rn. 37).
+47bb) Der Senat schließt sich der zuletzt genannten Ansicht an. § 112  AktG,
+wonach der Aufsichtsrat die Gesellschaft gegenüber Vorstandsmitgliedern vertritt, ist
+nach einer an seinem Schutzzweck ausgerichteten Auslegung nicht anwendbar.
+48(1) Bei der Bestellung eines Vorstandsmitglieds einer Aktiengesellschaft zum
+Geschäftsführer einer GmbH oder, wie hier, Vor GmbH, deren Alleingesellschafterin die
+Aktiengesellschaft ist, handelt es sich nicht um eine vom Schutzzweck des § 112  AktG erfasste Vertretung der Aktiengesellschaft gegenüber ihrem
+Vorstandsmitglied. Die Stimmabgabe ist eine der Aktiengesellschaft in ihrer
+Eigenschaft als Alleingesellschafterin zuzurechnende Willenserklärung ihres
+Stimmrechtsvertreters, die der Vor GmbH und nicht dem Vorstand gegenüber
+abgegeben wird. Bei der Bestellungserklärung der Vor GmbH handelt es sich zwar um
+eine gegenüber dem Vorstandsmitglied abzugebende Willenserklärung. Sie betrifft
+aber kein Rechtsgeschäft der Aktiengesellschaft. Vielmehr handelt es sich um eine
+unmittelbar für und gegen die Vor GmbH wirkende (§ 164 I 1 BGB) Erklärung der
+Gesellschafterversammlung als dem Organ, das für die Ausführung von
+Gesellschafterbeschlüssen zuständig ist (§ 6 III 2, § 46 Nr. 5 GmbHG; BGH WM 1968,
+Bestellung eines Liquidators; Scholz/K. Schmidt GmbHG § 46 Rn. 80;
+Rowedder/Pentz/Belz GmbHG, 7. Aufl., GmbHG § 35 Rn. 43;
+MüKoGmbHG/Stephan/Tieves, 4. Aufl., GmbHG § 35 Rn. 51; Blath GmbHR 2018, 345
+(346 f.)).
+49 (2) Die Erwägungen, die den Senat veranlasst haben, § 112  AktG auf
+Rechtsgeschäfte der Aktiengesellschaft mit einer Gesellschaft, deren
+Alleingesellschafter ein Vorstandsmitglied ist, anzuwenden (BGHZ 220, 377 Rn. 24 =
+NZG 2019, 420), sind auf den Streitfall nicht übertragbar. Im Rahmen der
+Geschäftsführerbestellung begegnet die Aktiengesellschaft dem Vorstandsmitglied
+nicht auf der Ebene der Obergesellschaft, sondern in ihrer Funktion als
+Alleingesellschafterin der Tochtergesellschaft. Der spezifische Schutzzweck des § 112
+ AktG, der Interessenkollisionen vorbeugen und eine unbefangene, von
+sachfremden Erwägungen unbeeinflusste Vertretung der Gesellschaft gegenüber
+377 = NZG 2019, 420 Rn. 23), ist deshalb nicht in einem solchen Maß betroffen, dass
+die Anwendung der Norm geboten erscheint. Der hier zutage tretende
+Interessenkonflikt wird bereits durch das allgemeine Verbot des § 181 Fall 1 BGB
+erfasst und so ein hinreichender Schutz der Interessen der von dem Vorstandsmitglied
+vertretenen Alleingesellschafterin erreicht. Der Aktiengesellschaft bleibt dabei im
+Rahmen ihres Selbstorganisationsrechts die Möglichkeit erhalten, ihrem Vorstand
+durch die Befreiung von den Beschränkungen des § 181 BGB ein selbstständiges
+Handeln zu ermöglichen, insbesondere, wenn sie dies in einer Konzernstruktur für
+erforderlich hält. Gegen eine Anwendung von § 112  AktG spricht letztlich, dass es
+sich um eine personalwirtschaftliche Maßnahme unterhalb der Vorstandsebene der
+Alleingesellschafterin handelt, die zur Leitungskompetenz des Vorstands zählt (§ 76 I
+AktG).
+50Ob § 112  AktG trotz der wirtschaftlichen Identität generell nicht auf
+Rechtsgeschäfte zwischen einem Vorstandsmitglied und einer Gesellschaft, deren
+Alleingesellschafterin die Aktiengesellschaft ist, anzuwenden ist (so OLG Frankfurt
+112 Rn. 6; MüKoAktG/Habersack AktG § 112 Rn. 7; Koch, AktG § 112 Rn. 14; Hopt/Roth
+Großkomm. AktG § 112 Rn. 74; Wasserbäch Die Vertretung der Aktiengesellschaft
+durch ihren Aufsichtsrat, 2018, ; van Kann/Keiluweit AG 2010, 805 (807)), muss
+nicht entschieden werden.
+51g) Die vom BeschwGer. verneinte und im Schrifttum umstrittene Frage, ob das
+Vorstandsmitglied entsprechend § 47 IV 2 Fall 1 GmbHG an einer Stimmabgabe
+gehindert ist (bejahend: MüKoGmbHG/Drescher GmbHG § 47 Rn. 191, 194, 198, 227;
+Habersack/Casper/Löbbe/Hüffer/Schäfer GmbHG § 47 Rn. 123, 136;
+Michalski/Heidinger/Leible/J. Schmidt/Römermann GmbHG§ 47 Rn. 96; Götze
+GmbHR 2001, 217; Scheller EWiR 2022, 265; verneinend:
+Noack/Servatius/Haas/Noack GmbHG § 47 Rn. 83; BeckOGK/Spindler, 1.10.2022,
+AktG § 112 Rn. 28; Möller Die Beschlussfassung im Recht der Personen- und
+Kapitalgesellschaften, 2021,  f.; Blath DNotZ 2022, 314 (317); Cramer NZG 2012,
+765 (768 f.); Dicke/Johnen GmbHR 2022, 1117 (1119 f.); Maidl DNotZ 2022, 163
+(167 f.); Wachter GmbHR 2022, 476 (479); Werner NZG 2022, 702 (703 f.); wohl auch
+Scholz/K. Schmidt, GmbHG § 47 Rn. 181; Suttmann MittBayNot 2011, 1 (13 f.);
+tendenziell auch Schemmann NZG 2008, 89 (90 f.); differenzierend: MünchHdBGesR
+IX/Blath § 9 Rn. 56; Blath GmbHR 2018, 345 (350 f.), bedarf vorliegend keiner
+Entscheidung.
+52Werden bei der Beschlussfassung in einer GmbH nach § 47 IV 2 Fall 1 GmbHG vom
+Stimmrecht ausgeschlossene Stimmen mitgezählt, führt dies bei Feststellung durch
+den Versammlungsleiter zur Anfechtbarkeit des Beschlusses (BGHZ 104, 66 (69) =
+323 = NZG 2019, 979 Rn. 31 mwN). Die notarielle Beurkundung des Beschlusses steht
+der Feststellung durch den Versammlungsleiter gleich, weil dadurch das Ziel der
+Feststellung, Unsicherheit über die Fassung eines Beschlusses zu beseitigen, erreicht
+wird (vgl. BGH NZG 2008, 317 Rn. 24 = ZIP 2008, 757; BayObLG DNotZ 1992, 533
+(534 f.) = DStR 1992, 331; Gehrlein/Born/Simon/Teichmann GmbHG Anh. § 47 Rn. 40;
+Wicke GmbHG Anh. § 47 Rn. 12). Lediglich anfechtbare Beschlüsse hat das
+Registergericht einzutragen (BayObLG DStR 1992, 331 = GmbHR 1992, 41; OLG
+Stuttgart NZG 2011, 1301 = ZIP 2011, 2406; OLG München NZG 2013, 557 = ZIP 2012,
+2150). Etwas anderes ergibt sich auch nicht daraus, dass in einem Fall wie dem
+vorliegenden von einer völligen „Stimmlosigkeit“ des Beschlusses auszugehen ist
+(BGHZ 167, 204 = NZG 2006, 505 Rn. 26 (zu § 20 VII AktG); MüKoGmbHG/Drescher, 4.
+Aufl., GmbHG § 47 Rn. 220).
+53Einigkeit besteht jedenfalls darin, dass die entsprechende Anwendung von § 47 IV 2
+Fall 1 GmbHG in dieser Konstellation eine Anwendung von § 181 BGB nicht
+ausschließen würde, weil beide Vorschriften unterschiedliche Interessenkonflikte
+regeln. Während § 47 IV GmbHG den Konflikt innerhalb der körperschaftlichen
+Willensbildung zwischen den Interessen des Stimmrechtsvertreters und der Vor GmbH
+betrifft, regelt § 181 BGB den Vertreterkonflikt zwischen dem Vorstandsmitglied und
+der von ihm vertretenen Alleingesellschafterin, mithin aus Sicht der Vor GmbH einen
+externen Konflikt. Dem entspricht es, dass der Senat die Teilnahme eines
+Testamentsvollstreckers, der als solcher Anteilsrechte einer GmbH verwaltet, an der
+Beschlussfassung über seine Bestellung zum Geschäftsführer im Ergebnis nicht an § 47 IV GmbHG gemessen, sondern unter dem Gesichtspunkt des § 181 BGB beurteilt
+544. Der angefochtene Beschluss ist aufzuheben, soweit das BeschwGer. die
+Beschwerde zurückgewiesen hat (§ 74 V FamFG). Die Zwischenverfügung ist
+insgesamt aufzuheben. Die Sache ist nicht zur Endentscheidung reif, weil die für die
+begehrte Eintragung der Ast. maßgeblichen weiteren Voraussetzungen bislang nicht
+festgestellt sind. Da diese Feststellung zweckmäßigerweise durch das Registergericht
+erfolgt, ist die Sache an dieses zurückzuverweisen (§ 74 VI 2 FamFG).
+Anmerkung der Redaktion
+Die Entscheidung der Vorinstanz wird besprochen von Werner NZG 2022, 702.

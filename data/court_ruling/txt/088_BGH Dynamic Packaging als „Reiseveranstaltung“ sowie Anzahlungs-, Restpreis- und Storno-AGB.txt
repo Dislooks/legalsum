@@ -1,0 +1,437 @@
+Restpreis- und Storno-AGB
+* Dynamic Packaging als „Reiseveranstaltung“ sowie Anzahlungs-, Restpreisund Storno-AGB
+BGB §§ 651 a I, 651 k, 651 i III, 632 a, 320 I, 307 I, III; BGB-InfoV §§ 4 I, 6 II; RL
+90/314/EWG Art. 2, 4
+1. Wer eine nach den Wünschen des Reisenden zusammengestellte Mehrzahl von
+Reiseleistungen zu einem Gesamtpreis als Reise anbietet, ist auch dann
+Reiseveranstalter, wenn der Reisende selbst Einzelleistungen von Leistungsträgern
+auswählt, deren Angebote ihm der Veranstalter im Rahmen eines
+Buchungsprogramms zur „dynamischen Bündelung“ („Dynamic Packaging“) zu
+fortlaufend aktualisierten Einzelpreisen zur Verfügung stellt.
+2. Eine Klausel in Allgemeinen Geschäftsbedingungen, nach der der Reisende bei
+Vertragsschluss eine Anzahlung von nicht mehr als 20 % des Reisepreises zu leisten
+hat, stellt keine unangemessene Benachteiligung des Reisenden dar und ist wirksam
+Reiseveranstalter nur dann verlangen, wenn er in Höhe eines dem verlangten Anteil
+des Reisepreises entsprechenden Betrags bei Vertragsschluss seinerseits eigene
+Aufwendungen erbringen oder fällige Forderungen der Leistungsträger erfüllen muss,
+deren er sich zur Erfüllung seiner Verpflichtungen aus dem Reisevertrag bedient.
+3. Eine Klausel in Allgemeinen Geschäftsbedingungen, nach der der Reisende den
+(gesamten) restlichen Reisepreis früher als 30 Tage vor Reiseantritt zu entrichten hat,
+benachteiligt den Reisenden entgegen den Geboten von Treu und Glauben
+unangemessen und ist unwirksam.
+4. Wird in Allgemeinen Geschäftsbedingungen eines Reiseveranstalters ein
+Vomhundertsatz des Reisepreises als Entschädigung festgesetzt, die der Reisende zu
+zahlen hat, wenn er vor Reisebeginn vom Vertrag zurücktritt, müssen die
+unterschiedlichen Reisearten so differenziert werden und die bei einer bestimmten
+Reiseart als gewöhnlich erspart berücksichtigten Aufwendungen und der bei ihr als
+gewöhnlich möglich berücksichtigte anderweitige Erwerb in einer Weise bemessen
+werden, die es zumindest in aller Regel ausschließt, dass die Entschädigung
+überschritten wird, die nach § 651 i II BGB zu zahlen wäre.
+BGH, Urteil vom 9.12.2014 – X ZR 85/12
+NJW-Übersicht
+NJW-Übersicht
+Rn.
+Ad-hoc-Bündelung von Reiseleistungen als „Reiseveranstaltung“
+9–13
+Eröffnung der AGB-Kontrolle
+14–20
+Anzahlung
+22–33
+Restpreisfälligkeit
+34–37
+Stornopauschale
+38–43
+Zum Sachverhalt
+Der Verbraucherverbandskl. hat von der Bekl. verlangt, es zu unterlassen, beim
+Abschluss von Reiseverträgen folgende AGB zu verwenden:
+2.1. Nach Erhalt Ihrer Reisebestätigung/Rechnung ist innerhalb einer Woche die auf
+unserer Reisebestätigung/Rechnung ausgewiesene Anzahlung zu leisten. Diese
+beträgt 40 % (auf volle Euro aufgerundet) von dem Gesamtpreis der Rechnung. Die
+Restzahlung des Reisepreises ist bis spätestens 45 Tage vor Reiseantritt ohne
+nochmalige Aufforderung fällig.
+6.2. Die Rücktrittspauschalen, die wir im Falle Ihres Rücktritts von der Reise je
+angemeldeten Teilnehmer fordern müssen, betragen jeweils pro Person bzw.
+Wohneinheit in Prozent vom Reisepreis:
+BGH: * Dynamic Packaging als „Reiseveranstaltung“ sowie Anzahlungs-
+6.2.1. bei Flugreisen
+–bis 30 Tage vor Reisebeginn 40 %
+–ab 29. Tag bis 22. Tag vor Reisebeginn 45 %
+–ab 21. Tag bis 15. Tag vor Reisebeginn 50 %
+–ab 14. Tag bis 7. Tag vor Reisebeginn 60 %
+–ab 6. Tag vor Reisebeginn 70 %
+–am Tag des Reiseantritts oder bei Nichterscheinen 90 %.
+der Klauseln untersagt. Das OLG Dresden (NJW-RR 2012, 1134) hat die Berufung der
+Bekl. zurückgewiesen. Die vom Senat zugelassene Revision hatte ebenfalls keinen
+Erfolg.
+Aus den Gründen
+4A. Das BerGer. hat seine Entscheidung im Wesentlichen wie folgt begründet:
+5Die Regelung in den Reisebedingungen der Bekl., nach der unmittelbar nach Buchung
+der Reise eine Anzahlung von 40 % des Reisepreises fällig werde, sei gem. § 307 I, II
+Nr. 1 und § 320 BGB unwirksam. Auf die von der Bekl. geschlossenen Verträge seien
+die Vorschriften des Reisevertragsrechts anzuwenden und die Bekl. als
+Reiseveranstalter anzusehen, da sie Verträge über ausgewählte, miteinander
+verbundene Reisen zu einem einheitlichen Preis abschließe; hieran ändere es nichts,
+dass es das von der Bekl. angebotene System einer dynamischen Bündelung von
+Reiseleistungen („Dynamic Packaging“) dem Kunden ermögliche, über das Internet
+eine individuelle Auswahl aus einer größeren Zahl einzelner Reiseleistungen zu treffen.
+Als Reisebedingung unwirksam sei die Klausel zunächst bei Verwendung gegenüber
+Kunden, die keine Flugreise gebucht hätten, sondern ihre Anreise auf andere Weise
+organisierten. In diesen Fällen fielen nach Darstellung der Bekl. sofort nach Buchung
+zumeist nur 12,5 % des Reisepreises als Anzahlung für die Hotelbuchung und 5 % für
+eigene Kosten der Bekl. an. Aber auch bei der Verwendung der Klausel gegenüber
+Flugreisenden gelte im Ergebnis nichts anderes. Nach der Rechtsprechung des BGH
+zulässig, um dem Grundgedanken des § 320 BGB, wonach Leistungen Zug um Zug zu
+gewähren seien, Rechnung zu tragen. Die in der Rechtsprechung als zulässig
+angesehene „geringfügige“ Anzahlung in Höhe von bis zu 20 % des Reisepreises stelle
+dabei zwar nicht zwingend eine Obergrenze dar; bei entsprechendem Kostenanfall bei
+dem Reiseveranstalter könne auch ein höherer Prozentsatz als Anzahlung
+gerechtfertigt sein. Der von der Bekl. verlangte Anteil von 40 % könne aber nicht mehr
+als verhältnismäßig geringfügig angesehen werden. Auch das Argument der Bekl., im
+Werkvertragsrecht sei nach § 632 a BGB für erbrachte Teilleistungen die
+Vorleistungspflicht des Werkunternehmers erheblich abgemildert, führe nicht zu einer
+anderen Einschätzung. Voraussetzung für einen Anspruch auf Abschlagszahlungen
+nach § 632 a I 1 BGB sei neben einer erbrachten Teilleistung auch, dass der Besteller
+durch diese Teilleistung einen Wertzuwachs erlange. In dem Erwerb des Anspruchs auf
+eine Flugreise liege nicht zwingend ein Wertzuwachs auf Seiten des Reisenden, wenn
+es kein Hotel gebe, das ihn am Reiseziel aufnehme.
+6Die Regelung in den Reisebedingungen der Bekl., nach der der Restbetrag bereits 45
+Tage vor Reiseantritt fällig werde, verstoße ebenfalls gegen § 307 II Nr. 1 und § 320
+BGB. Um im Falle der Nichtleistung des Reisebetrags die Reise noch anderweitig
+verwenden zu können, genüge für den Reiseveranstalter ein Abstand zwischen
+Fälligkeit der Restzahlung und dem Reisebeginn von etwa einem Monat.
+7Die Klauseln zu den Rücktrittspauschalen bei Flugreisen seien wegen Verstoßes
+gegen § 651 i BGB unwirksam. § 651 i III BGB erlaube eine Pauschalierung des
+Schadensersatzanspruchs nur dann, wenn in die Pauschalbeträge nicht nur die
+ersparten Aufwendungen, sondern auch der durch anderweitige Verwendung der
+Reiseleistungen gewöhnlich mögliche Erwerb eingestellt würden. Bei der Bemessung
+einer Schadensersatzpauschale sei auch die Verpflichtung des Reiseveranstalters zur
+Schadensminderung, insbesondere indem die betreffende Reise zur Buchung durch
+Dritte angeboten werde, zu berücksichtigen. Entgegen der Behauptung der Bekl. sei bei
+bestimmten Luftverkehrsunternehmen ausweislich deren Reisebedingungen eine
+Stornierung von Flügen unter Erstattung des Flugpreises möglich. Ferner sei es
+gegebenenfalls möglich, den Namen des Flugreisenden gegen eine
+Umbuchungspauschale ändern zu lassen. Wenn die Bekl. bei ihrem Internetangebot
+auf diese Möglichkeiten einer anderweitigen Vermarktung stornierter Reisen verzichte,
+müsse sie sich dies als Verstoß gegen ihre Schadensminderungspflicht
+entgegenhalten lassen. Vor diesem Hintergrund seien Entschädigungen iHv 40 % des
+Reisepreises bei einem Rücktritt bis 30 Tage vor Reiseantritt und infolgedessen auch
+die Beträge der weiteren Stufen deutlich überhöht.
+8B. Dies hält der revisionsrechtlichen Nachprüfung stand.
+9I. Ohne Erfolg wendet sich die Revision dagegen, dass das BerGer. angenommen hat,
+die Bekl. biete als Reiseveranstalter Reisen iSd § 651 a BGB an und die von ihr
+verwendeten AGB seien demzufolge auch an den Vorschriften des Reisevertragsrechts
+zu messen.
+101. Reiseveranstalter ist derjenige, der aus der Sicht eines durchschnittlichen
+Reisekunden als Vertragspartei eine Gesamtheit von Reiseleistungen, die § 651 a I 1
+BGB als Reise definiert, in eigener Verantwortung zu erbringen verspricht. Maßgeblich
+ist, wie sich die Vertragspartner tatsächlich gegenüberstehen, insbesondere wie das
+11Dies entspricht den Vorgaben der Pauschalreise-Richtlinie (RL 90/314/EWG des
+Rates v. 13.6.1990 über Pauschalreisen, ABl. 1990 L 158, 59 ff. [nachfolgend:
+Richtlinie]), die als Veranstalter die Person ansieht, die nicht nur gelegentlich
+Pauschalreisen organisiert und sie direkt oder über einen Vermittler verkauft oder
+anbietet (Art. 2 Nr. 2 Richtlinie). Pauschalreise ist die im Voraus festgelegte
+Verbindung von mindestens zwei Dienstleistungen, wie beispielsweise Beförderung
+und Unterbringung, die zu einem Gesamtpreis verkauft oder zum Verkauf angeboten
+wird, wenn die Leistung länger als 24 Stunden dauert oder eine Übernachtung
+einschließt (Art. 2 Nr. 1 Richtlinie).
+122. Eine Ad-hoc-Bündelung von Reiseleistungen bildet die vom Reiseveranstalter zu
+einem Gesamtpreis angebotene Gesamtleistung und stellt eine Reise iSv § 651 a BGB
+dar. Dies ist in der Rechtsprechung bereits geklärt. Der EuGH hat entschieden, dass der
+auch für die Auslegung des § 651 a BGB maßgebliche Pauschalreisebegriff der
+Richtlinie auch solche Reisen einschließt, die von einem Reiseunternehmen auf
+Wunsch und nach den Vorgaben des Verbrauchers organisiert werden; eine „im Voraus
+festgelegte Verbindung“ liegt auch dann vor, wenn die Verbindung von touristischen
+Dienstleistungen in dem Zeitpunkt vorgenommen wird, in dem der Vertrag mit dem
+Verbraucher geschlossen wird (EuGH, Slg. I 2002, 4065 = EuZW 2002, 402 Rn. 11 –
+Club Tour/Garrido).
+133. Die Bündelung von Reiseleistungen und deren Erbringung zu einem Gesamtpreis
+stellen sich auch dann als vertragliche Leistung eines Reiseveranstalters dar, wenn der
+Reisende selbst eine Mehrzahl von Leistungen aus dem zweiten (elektronischen)
+Angebot des Reiseunternehmens auswählt. Nach den Feststellungen des BerGer. ist
+dies bei den Angeboten der Bekl. der Fall. Die Bekl. bietet eine größere Auswahl an
+miteinander verbundenen und aufeinander abgestimmten Leistungen zu einem
+Gesamtpreis an. Sie stellt nach den Vorgaben des Reisenden einzelne Reiseleistungen,
+die bei ihren Leistungsträgern zu fortlaufenden aktualisierten Preisen („in Echtzeit“) zur
+Verfügung stehen, zusammen und legt damit deren Verbindung fest. Hierfür verwendet
+sie ein Buchungsprogramm, das eine Verknüpfung mit den Angeboten der
+Leistungsträger unterhält und es ermöglicht, die vom Kunden gewünschten
+Reiseleistungen aufzufinden und aus dem auf diese Weise eröffneten Gesamtangebot
+der Bekl. auszuwählen. Die Zusammenstellung und Bündelung der Reiseleistungen
+erfolgt dabei vor oder jedenfalls gleichzeitig mit
+BGH: * Dynamic Packaging als „Reiseveranstaltung“ sowie Anzahlungsdem Vertragsschluss. Die Bekl. bringt sonach dem Reisenden gegenüber zum
+Ausdruck, die gesamte Reiseleistung, die mit Hilfe ihres Buchungsprogramms
+zusammengestellt wird, zu einem Gesamtpreis in eigener Verantwortung erbringen zu
+wollen.
+14II. Das BerGer. hat im Ergebnis zutreffend ausgesprochen, dass der Kl. nach §§ 1, 3 I
+Nr. 1 UKlaG von der Bekl. verlangen kann, die Verwendung der beanstandeten Klauseln
+zu unterlassen.
+151. Bei den Klauseln handelt es sich, wie das LG, dessen Feststellungen das BerGer.
+in Bezug genommen hat, zutreffend angenommen hat, um für eine Vielzahl von Fällen
+vorformulierte Vertragsbedingungen, die die Bekl. ihren Vertragspartnern bei
+Abschluss eines Vertrags stellt (§ 305 I 1 BGB).
+162. Die angegriffenen Klauseln unterliegen nach § 307 III 1 BGB der Inhaltskontrolle.
+17a) Nach dieser Vorschrift sind Bestimmungen in AGB an §§ 308, 309 und § 307 I, II
+BGB zu messen, durch die von Rechtsvorschriften abweichende oder diese ergänzende
+Regelungen vereinbart werden. Unter Rechtsvorschriften sind dabei nicht nur
+Gesetzesvorschriften im materiellen Sinn, sondern auch allgemeine Rechtsgrundsätze
+zu verstehen. Ob eine Klausel danach kontrollfähig ist, ist durch Auslegung zu ermitteln
+18b) Durch die beanstandeten Klauseln werden von Rechtsvorschriften oder
+allgemeinen Rechtsgrundsätzen abweichende Regelungen vereinbart oder
+Rechtsvorschriften ergänzt.
+19(1) Dies gilt zunächst für die Klauseln, nach denen innerhalb einer Woche nach Erhalt
+der Reisebestätigung eine Anzahlung von 40 % des Reisepreises zu leisten ist und der
+Restbetrag 45 Tage vor Reiseantritt zur Zahlung fällig sein soll. Das Reisevertragsrecht
+enthält keine spezielle Regelung über die Fälligkeit des Reisepreises und normiert
+insbesondere keine von § 320 BGB abweichende Vorleistungspflicht des Reisenden.
+Das dem Reisevertragsrecht verwandte Werkvertragsrecht sieht gem. §§ 641 I 1, 646
+BGB eine Fälligkeit der Vergütung sogar erst nach Abnahme oder Vollendung des
+Werks vor; danach kann jedenfalls nicht von einer Vorleistungspflicht des Reisenden
+ausgegangen werden. Demgegenüber legt § 651 k IV 1 BGB zwar zu Grunde, dass der
+Reisepreis jedenfalls vor Beendigung der Reise gezahlt worden ist; eine gesetzliche
+Vorleistungspflicht des Reisenden lässt sich hieraus aber nicht ableiten.
+20(2) Die Klausel über die Vomhundertsätze, die als Entschädigung iSd § 651 i II 2 BGB
+zu zahlen sind, wenn der Reisende vom Vertrag über eine Flugreise zurücktritt, ergänzt
+die Vorschrift des § 651 i III BGB, indem sie in zeitlicher Staffelung bestimmte
+Vomhundertsätze nennt, die vom Reisepreis als Entschädigung zahlbar sein sollen und
+vom Gesetz selbst nicht festgelegt werden.
+213. Die beanstandeten Klauseln sind unwirksam, da sie den Reisenden entgegen den
+Geboten von Treu und Glauben unangemessen benachteiligen (§ 307 I 1 BGB).
+22a) Eine unangemessene Benachteiligung enthält zunächst die Klausel der
+Reisebedingung 2.1, nach der binnen einer Woche nach Erhalt der Reisebestätigung
+oder Rechnung eine Anzahlung iHv 40 % des Reisepreises zu leisten ist.
+23(1) Eine Vorleistungspflicht in AGB kann nach der Rechtsprechung des BGH wirksam
+vereinbart werden, wenn sie durch einen sachlichen Grund gerechtfertigt ist, der auch
+bei Abwägung mit den hierdurch für den Vertragspartner entstehenden Nachteilen
+die der Verwender bereits vor dem eigentlichen Leistungsaustausch erbringen und
+Rn. 29).
+24(2) In der Rechtsprechung des BGH ist anerkannt, dass der Reiseveranstalter
+regelmäßig ein berechtigtes Interesse daran hat, in seinen allgemeinen
+Reisebedingungen eine Vorleistungspflicht des Reisenden vorzusehen (BGH, NJW
+2006, 3134 = RRa 2006, 256 Rn. 10). Dies wird auch vom Kl. nicht in Frage gestellt. Eine
+Abwicklung des Reisevertrags, bei der die Zahlung des Reisepreises gem. § 320 BGB
+Zug um Zug gegen den Erhalt der Reiseleistung erfolgt, wäre kaum praktikabel (BGHZ
+Zahlungsausfällen. Demgegenüber sieht das Gesetz eine Sicherung des Reisenden
+gegen die Gefahr eines Zahlungsausfalls auf Seiten des Reiseveranstalters
+ausdrücklich vor. § 651 k IV 1 BGB, wonach der Reiseveranstalter oder der
+Reisevermittler Zahlungen des Reisenden auf den Reisepreis nur fordern oder
+annehmen darf, wenn dem Reisenden ein Sicherungsschein übergeben wurde, in dem
+ein Kundengeldabsicherer den dem Reisenden verschafften unmittelbaren Anspruch
+auf Rückzahlung des gezahlten Reisepreises im Insolvenzfall bestätigt (§ 651 k III 1
+BGB), zeigt, dass das Gesetz es grundsätzlich als zulässig ansieht, den Reisepreis vor
+Beendigung der Reise zu fordern. Dies entspricht den Vorgaben der Richtlinie, die in
+Art. 4 II Buchst. a in Verbindung mit den Buchst. h und i ihres Anhangs lediglich
+verlangt, dass in dem Reisevertrag der Preis für die Pauschalreise sowie ein Zeitplan
+für die Zahlung des Preises sowie Zahlungsmodalitäten enthalten sein müssen.
+Auch § 6 II BGB-InfoV, nach dem die Reisebestätigung die nach § 4 I BGB-InfoV
+erforderlichen Angaben über den Reisepreis, die Höhe einer zu leistenden Anzahlung
+und die Fälligkeit des Restbetrags enthalten muss, geht davon aus, dass im
+Reisevertrag Vorleistungspflichten des Reisenden vereinbart werden können.
+25(3) Bei oder unmittelbar nach Vertragsschluss fällig werdende
+Anzahlungsverpflichtungen des Reisenden hat der BGH dann für zulässig erachtet,
+wenn diese einen verhältnismäßig geringfügigen Umfang haben. In seinem Urteil vom
+des Reisepreises als „verhältnismäßig gering“ bezeichnet und für unproblematisch
+gehalten. Die Verpflichtung zur Zahlung des Restbetrags vor Reisebeginn hat er
+hingegen vor dem Hintergrund der damals noch nicht gesetzlich vorgeschriebenen
+Versicherung des Insolvenzrisikos dann als unangemessen angesehen, wenn dem
+Reisenden nicht zumindest die Sicherheiten geboten würden, die dem
+1931). In einer späteren Entscheidung hat der BGH auf derselben Grundlage
+Anzahlungen in Höhe von mehr als 10 % des Reisepreises als nicht mehr geringfügig
+Regelung über die Sicherungspflicht des Reiseveranstalters (§ 651 k BGB) hat der
+Senat unter Berücksichtigung der durch diese Vorschriften geänderten Risikoverteilung
+zwischen Veranstalter und Reisenden eine Klausel, die eine Anzahlung in Höhe von
+20 % des Reisepreises vorsah, für wirksam erachtet. Unter dem Gesichtspunkt des
+Insolvenzrisikos könne nicht mehr davon ausgegangen werden, dass „geringfügig“ im
+Sinne der bisherigen Rechtsprechung nur noch Anzahlungen auf den Reisepreis seien,
+26(4) An der bisher – ohne weitere Voraussetzungen – als zulässig angesehenen
+Anzahlungsquote in Höhe von 20 % des Reisepreises hält der Senat fest. Sie trägt dem
+Umstand Rechnung, dass der Reiseveranstalter einerseits ein anerkennenswertes
+Interesse daran hat, dass der Reisende durch eine
+BGH: * Dynamic Packaging als „Reiseveranstaltung“ sowie Anzahlungsgewisse Anzahlung die Ernsthaftigkeit seines Reisewunschs und seine Fähigkeit und
+Bereitschaft dokumentiert, seine Vertragspflichten zu erfüllen und andererseits
+typischerweise zumindest in gewissem Umfang Kosten aufwenden muss, um das
+Leistungsangebot bereitzustellen und bereitzuhalten, aus dem der Reisende seine
+Auswahl getroffen hat und das er selbst oder durch ihm vertraglich verbundene
+Leistungsträger zum vereinbarten Reisezeitpunkt erbringen muss. Da auf Grund der
+Sicherstellung der Rückzahlung des Reisepreises im Insolvenzfall den Reisenden kein
+Ausfallrisiko trifft, ist es gerechtfertigt, grundsätzlich auch noch eine Anzahlung in
+Höhe von 20 % als angemessen und den Reisenden verhältnismäßig geringfügig
+belastend anzusehen.
+27(5) Eine höhere Anzahlung wird hingegen der Interessenlage der Vertragsparteien in
+der Regel nicht gerecht und bedarf deshalb einer besonderen Rechtfertigung.
+28Die Absicherung des Reisenden gegen das Risiko der Insolvenz des
+Reiseveranstalters allein rechtfertigt ebenso wenig eine erhöhte Anzahlung bei
+Vertragsschluss wie der Umstand, dass der Reisende, wenn er jedenfalls kurz vor
+Reiseantritt den gesamten Reisepreis entrichten muss, das ihm unabhängig von der
+Insolvenzsicherung zustehende Leistungsverweigerungsrecht (§ 320 BGB) vor
+Reisebeginn in aller Regel ohnehin nicht ausüben kann, weil er typischerweise keinen
+Einblick in die Reisevorbereitungen des Veranstalters hat, dessen getroffene
+Maßnahmen nicht überprüfen und den Veranstalter daher nicht zu einer
+Denn bei einer Anzahlung von mehr als 20 % des Reisepreises erhält der
+Reiseveranstalter – insbesondere bei lange vor dem Reisetermin vorgenommenen
+Buchungen – jedenfalls einen erheblichen Liquiditätsvorteil auf Kosten des Reisenden,
+der eben diesen Vorteil verliert, weil er einen erheblichen Teil des Reisepreises bereits
+längere Zeit vor Reisebeginn zahlen muss. Dies kann regelmäßig nur dann als der
+beiderseitigen Interessenlage angemessen gelten, wenn der sofort fällig werdende
+Anteil des Reisepreises dem Veranstalter nicht als Teil seiner liquiden Mittel verbleibt,
+sondern zur Deckung von Kosten der Reise benötigt wird, die bei dem Veranstalter
+bereits bei oder vor dem Vertragsschluss mit dem Reisenden und vor Durchführung der
+Reise anfallen. Der Reiseveranstalter kann deshalb eine Anzahlung von mehr als 20 %
+des Reisepreises nur dann verlangen, wenn er in Höhe eines dem verlangten Anteil des
+Reisepreises entsprechenden Betrags seinerseits eigene Aufwendungen erbringen
+oder fällige Forderungen der Leistungsträger erfüllen muss, deren er sich zur Erfüllung
+seiner Verpflichtungen aus dem Reisevertrag bedient.
+29Etwas anderes ergibt sich auch nicht aus der von der Revision verfochtenen
+Heranziehung des Rechtsgedankens des § 632 a BGB. Nach dieser Vorschrift des
+Werkvertragsrechts kann der Unternehmer von dem Besteller für eine vertragsgemäß
+erbrachte Leistung eine Abschlagszahlung in der Höhe verlangen, in der der Besteller
+durch die Leistung einen Wertzuwachs erlangt hat. Es kann dahinstehen, ob die
+Vorschrift oder ihr Rechtsgedanke für den Reisevertrag herangezogen werden kann, da
+sich hieraus jedenfalls für den Streitfall keine weitergehenden Spielräume des
+Reiseveranstalters für die Erhöhung der von ihm verlangten Anzahlung ergeben. Selbst
+wenn der Reisende, was nicht festgestellt ist, mit der Buchung Ansprüche gegen
+Leistungsträger erwürbe, erhielte er damit die Leistung selbst weder ganz noch
+teilweise.
+30(6) Zur Rechtfertigung einer 20 % des Reisepreises übersteigenden
+Anzahlungspflicht genügt es nicht, dass der Reiseveranstalter Reisen anbietet, bei
+denen er vor oder bei Vertragsschluss Vorleistungen erbringen muss, deren Wert die
+Höhe der verlangten Anzahlungen erreicht oder übersteigt. Die Anzahlung muss
+vielmehr für die konkrete Reise, für die sie verlangt wird, angemessen sein.
+31Angesichts der zahlreichen Faktoren, wie beispielsweise Flugpreis, Hotelkategorie,
+Aufenthaltsdauer oder (saisonabhängige) Reisezeit, die den Reisepreis bestimmen,
+wird der Prozentsatz des Reisepreises, den der Reiseveranstalter zur Deckung seiner
+Vorleistungen benötigt, in aller Regel nicht für sämtliche von ihm angebotenen Reisen
+gleich sein. Der Streitfall nötigt zu keiner abschließenden Entscheidung, inwieweit
+angesichts dessen durch AGB ein pauschalierter, 20 % des Reisepreises
+übersteigender Prozentsatz festgelegt werden kann, der über dem Wert der
+Aufwendungen liegt, die der Reiseveranstalter bei jeder der entsprechenden Klausel
+unterworfenen Reise mindestens bereits bei Vertragsschluss aufwenden muss.
+32Unterschiedliche Vorleistungen – wie sie auch bei den in einer bestimmten Kategorie
+angebotenen Reisen auftreten können – schließen es allerdings nicht notwendig aus,
+einen pauschalierten einheitlichen Vomhundertsatz für die Anzahlung festzulegen.
+Eine solche Pauschalierung muss indessen für die „Vorleistungsquote“ bei den von ihr
+erfassten Reisen repräsentativ sein und darf jedenfalls nicht dazu führen, dass bei
+einem erheblichen Teil der gebuchten Reisen Anzahlungen geleistet werden müssen,
+die über den Wert der vom Veranstalter erbrachten Vorleistungen hinausgehen. Es
+genügt deshalb zur Rechtfertigung einer bestimmten Anzahlungsquote jedenfalls nicht
+ohne Weiteres, dass bei den in der betreffenden Kategorie angebotenen Reisen
+durchschnittlich Vorleistungen in Höhe des verlangten Vomhundertsatzes anfallen. Je
+größer innerhalb der Kategorie die Spannbreite der Vorleistungskosten ist, desto
+weniger erscheint die Orientierung der Anzahlungsquote am Durchschnittswert der
+Vorleistungskosten als sachgerecht, weil infolgedessen in dem für den Verbraucher
+ungünstigsten Fall der für die konkrete Reise angemessene Anzahlungsbetrag
+erheblich überschritten werden kann. Je größer ferner die Nachfrage nach einer
+einzelnen Reise oder Reisevariante, das heißt deren Buchungshäufigkeit und damit ihre
+praktische wirtschaftliche Bedeutung, desto weniger wird es hingenommen werden
+können, wenn die Anzahlungsquote insoweit auch nur unwesentlich über der
+„Vorleistungsquote“ liegt.
+33(7) Danach hat das BerGer. die angegriffene Klausel zu Recht bereits deshalb für
+unwirksam erachtet, weil diese nicht nur Flugreisen betrifft, bei denen die Bekl.
+dargetan hat, dass ihre bei Buchung zu entrichtenden Vorleistungen bis zu 40 % des
+Reisepreises ausmachen, sondern auch andere Reisen, so dass die Bekl. schon nicht
+dargelegt hat, bei sämtlichen Reisen auch nur durchschnittlich einen 40 % des
+Reisepreises entsprechenden oder übersteigenden Betrag für fremde oder eigene
+Vorleistungen aufwenden zu müssen. Ohne Erfolg meint die Revision demgegenüber,
+die Bekl. habe dargelegt, der Reisende habe wegen des dank der dynamischen
+Leistungsbündelung deutlich niedrigeren Reisepreises bereits „rein rechnerisch“
+keinen wesentlichen Nachteil im Verhältnis zur Zahlungsverpflichtung, die ihn bei
+einem niedrigeren Anzahlungssatz bei „klassischen Pauschalreisen“ mit
+vergleichbarer Leistung treffe. Die Wirksamkeit von AGB hängt nicht von der Höhe des
+Preises einer vertraglichen Leistung ab.
+34b) Auch die Fälligkeit des (gesamten) restlichen Reisepreises 45 Tage vor
+Reiseantritt hat das BerGer. zu Recht als unangemessene Benachteiligung des
+Reisenden angesehen.
+35(1) Wann der Reiseveranstalter, der sich grundsätzlich die vollständige Begleichung
+des Reisepreises vor Reiseantritt ausbedingen kann (BGHZ 100, 157 [167 f.] = NJW
+1987, 1931), diesen einfordern darf, ist höchstrichterlich noch nicht
+BGH: * Dynamic Packaging als „Reiseveranstaltung“ sowie Anzahlungsentschieden. In der obergerichtlichen Rechtsprechung (vgl. OLG Köln, NJOZ 2013,
+1248 = RRa 2012, 297 Rn. 30) und in der reiserechtlichen Literatur
+(Staudinger/Staudinger, BGB, Neubearb. 2011, § 651 a Rn. 44; MüKoBGB/Tonner,
+6. Aufl. 2012, § 651 a Rn. 82; Führich, Reiserecht, 6. Aufl., Rn. 155) wird ein Zeitraum
+von höchstens 30 Tagen vor Reiseantritt als zulässig angesehen.
+36(2) Dem tritt der Senat bei. Die Begleichung des vollen Reisepreises eine gewisse
+Zeit vor dem Reiseantritt soll dem Reiseveranstalter die Möglichkeit geben, bei einer
+ausbleibenden Zahlung vom Vertrag zurücktreten und die Reise anderweitig verwerten
+zu können. Die Revision zeigt nicht auf, dass die Bekl. in den Tatsacheninstanzen
+Vortrag gehalten hat, aus dem sich ergäbe, dass ein Zeitraum von 30 Tagen hierfür
+typischerweise oder jedenfalls in einer praktisch erheblichen Vielzahl von Fällen nicht
+ausreichte. Selbst wenn der Zeitraum, der nach Ablauf der bei einer Mahnung zu
+setzenden angemessenen Nachfrist verbleibt, knapp bemessen sein sollte, bleibt zu
+bedenken, dass eine weitere Vorverlagerung der Fälligkeit des gesamten Reisepreises
+in dem Normalfall des fristgerecht zahlenden Reisenden der sachlichen Rechtfertigung
+entbehrt. Die Annahme der 30-Tage-Grenze ist deshalb sachlich zutreffend, da
+mangels Feststellungen, dass diese nicht nur in Ausnahmefällen zu Unzuträglichkeiten
+führt, eine weitere Vorverlagerung der Fälligkeit des vollen Reisepreises nicht zu
+rechtfertigen ist.
+37Soweit sich die Revision darauf beruft, die Bekl. habe bereits im Zeitpunkt des
+Vertragsschlusses zu einem beachtlichen Teil 100 % des Flugpreises sofort zu zahlen,
+führt dies zu keiner anderen Beurteilung. Abgesehen davon, dass dies weder
+festgestellt ist noch die Revision entsprechenden Vortrag aufzeigt, ist der
+Anwendungsbereich der Klausel nicht auf Reisen beschränkt, die ausschließlich aus
+Luftbeförderungsvorgängen bestehen.
+38c) Schließlich hält es auch der Nachprüfung stand, dass das BerGer. die Klausel zur
+Pauschalierung des Entschädigungsanspruchs bei Rücktritt des Reisenden von einer
+Flugreise für unwirksam erachtet hat.
+39(1) Nach § 651 i III BGB kann für den Fall, dass der Reisende vor Reisebeginn vom
+Vertrag zurücktritt, für jede Reiseart unter Berücksichtigung der gewöhnlich ersparten
+Aufwendungen und des durch anderweitige Verwendung der Reiseleistungen
+gewöhnlich möglichen Erwerbs ein Vomhundertsatz des Reisepreises als
+Entschädigung festgesetzt werden. Das Gesetz gebietet eine differenzierte
+Vorgehensweise und nennt Kriterien, die bei der Bemessung des Vomhundertsatzes
+von Bedeutung sind. Zu berücksichtigen sind die Art der Reise, was regelmäßig
+zumindest zu einer Unterscheidung nach Beförderungsarten führen wird (vgl.
+MüKoBGB/Tonner, § 651 i Rn. 15 mwN) und ersparte Aufwendungen sowie der durch
+anderweitige Verwendung der Reiseleistung mögliche Erwerb, wobei die gewöhnlich
+ersparten Aufwendungen und der gewöhnlich mögliche anderweitige Erwerb
+maßgebend sind.
+40(2) Die Unterscheidung nach Beförderungsarten kann sich allerdings als
+unzureichend erweisen. Gegebenenfalls müssen die unterschiedlichen Reisearten
+weitergehend so differenziert werden und die bei einer bestimmten Reiseart als
+gewöhnlich erspart berücksichtigten Aufwendungen und der bei ihr als gewöhnlich
+möglich berücksichtigte anderweitige Erwerb in einer Weise bemessen werden, dass
+es zumindest in aller Regel ausgeschlossen ist, dass die Entschädigung überschritten
+wird, die nach § 651 i II BGB zu zahlen wäre.
+41Indem es auf Reisearten und gewöhnlich ersparte Aufwendungen abstellt, erlaubt es
+das Gesetz, die angemessene Entschädigung in einer Weise zu pauschalieren, bei der
+in gewissem Umfang von Besonderheiten der einzelnen Reise abgesehen wird.
+Gleichwohl dürfen nicht zu geringe Anforderungen an die sachliche Rechtfertigung des
+verlangten Vomhundertsatzes des Reisepreises auch für die konkrete Reise gestellt
+werden, bei der der Reisende, der von seinem freien Rücktrittsrecht nach § 651 i I BGB
+Gebrauch gemacht hat, als Entschädigung iSd § 651 i II BGB zur Zahlung der nach § 651 i III BGB bestimmten Pauschale verpflichtet sein soll. Da zwar der
+Reiseveranstalter sich vorbehalten kann, im Einzelfall eine die Pauschale
+übersteigende angemessene Entschädigung nach § 651 i II BGB geltend zu machen,
+dem Reisenden aber der Einwand nicht eröffnet ist, im Einzelfall seien mehr als die
+gewöhnlich zu ersparenden Aufwendungen erspart oder ein gewöhnlich nicht
+möglicher anderweitiger Erwerb erzielt worden, benachteiligen zu hohe Pauschalen
+den Reisenden in besonders gravierender Weise und sind gegebenenfalls geeignet,
+sein gesetzliches Rücktrittsrecht nach § 651 i I BGB auszuhöhlen. Dies spricht, ohne
+dass dies im Streitfall abschließend entschieden werden müsste, dafür, dass an die
+Bemessung der Entschädigungspauschalen und ihre sachgerechte Differenzierung
+nach Reisearten grundsätzlich keine geringeren Anforderungen gestellt werden dürfen
+als an die Bemessung eines 20 % des Reisepreises übersteigenden
+Anzahlungsbetrags, bei der es nicht um die endgültige Höhe eines Anspruchs des
+Reiseveranstalters, sondern nur um den Fälligkeitszeitpunkt geht.
+114) bei einem Rücktritt ab 30 Tagen vor Reisebeginn innerhalb dieses Zeitraums
+differenzierenden – Vomhundertsätze der beanstandeten, für Flugreisen geltende
+Klausel zutreffend für überhöht gehalten, weil bereits die Eingangsstufe der Staffel, die
+jeden Rücktritt erfasst, der spätestens 30 Tage vor Reiseantritt erfolgt, mit 40 % weder
+die gewöhnlich ersparten Aufwendungen noch den gewöhnlich möglichen
+anderweitigen Erwerb hinreichend berücksichtigt.
+43Das BerGer. hat hierzu von der Revision unbeanstandet festgestellt, dass die von der
+Bekl. vorgelegten Beförderungsbedingungen verschiedener Luftverkehrsunternehmen
+entgegen dem Vortrag der Bekl. in bestimmten Fällen eine Erstattung des Flugpreises
+bei einer Stornierung erlauben und deshalb zutreffend angenommen, die Bekl. habe die
+behauptete Höhe der Mindeststornokosten, in die nach ihrer Angabe der vollständige
+Flugpreis einzustellen sei, nicht nachweisen können, so dass das Rechenwerk der Bekl.
+zur Bestimmung der ersparten Aufwendungen nicht nachvollziehbar sei. Es kann
+deshalb dahinstehen, in welcher Art und in welchem Umfang die Bekl. anderweitige
+Verwendungsmöglichkeiten der Reiseleistungen in ihre Berechnung hätte einbeziehen
+müssen.
+Anmerkung der Redaktion
+H. 10/2015]), die mit überwiegend identischen Leitsätzen versehen sind, wird
+verwiesen. In der Entscheidung X ZR 13/14 ([zu OLG Frankfurt a. M., RRa 2014, 73 =
+die Restpreiszahlung 40 Tage vor Reiseantritt fällig gestellt. In der Entscheidung X ZR
+die noch streitige Anzahlung 40 % (für Reisen „Musicals und Shows“) und war deren
+Abgrenzung zum Regelsatz von 25 % nicht transparent gelungen. – Zu den
+Vorinstanzen der drei BGH-Entscheidungen s. Kappus in Graf v. Westphalen,
+Vertragsrecht und AGB-Klauselwerke, Allgemeine Reisebedingungen (Stand Februar
+2014), Rn. 44 (Restpreisfälligkeit), 46 (Anzahlung), 82 (Storno).

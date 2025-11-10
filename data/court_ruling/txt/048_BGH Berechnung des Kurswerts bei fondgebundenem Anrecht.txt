@@ -1,0 +1,165 @@
+Berechnung des Kurswerts bei fondgebundenem Anrecht
+VersAusglG §§ 5 I, 14 I, 4; FamFG § 220 IV
+Bei der externen Teilung eines fondsgebundenen Anrechts in der Bezugsgröße
+Fondsanteile ist der Ausgleichswert als Zahlbetrag hinreichend bestimmt, wenn der
+Geldkurs des Anteils bei Rechtskraft der Entscheidung zum Versorgungsausgleich
+taggenau aus einem vom Versorgungsträger bereitgestellten und in der
+Beschlussformel angegebenen Internet-Zugang nebst Zugangscode ermittelt werden
+BGH, Beschluss vom 13.1.2021 – XII ZB 401/20
+Zum Sachverhalt
+Auf den am 31.5.2019 zugestellten Antrag hat das AG – FamG – Neuburg a. d. D.
+(Beschl. v. 8.11.2019 – 5 F 242/19) die am 21.3.2014 geschlossene Ehe des Ast. (im
+Folgenden: Ehemann) und der Ag. (im Folgenden: Ehefrau) geschieden und den
+Versorgungsausgleich geregelt. Während der Ehezeit (1.3.2014–30.4.2019; § 3 I
+VersAusglG) haben beide Ehegatten Anrechte in der gesetzlichen Rentenversicherung
+erworben, darüber hinaus der Ehemann zwei Anrechte einer betrieblichen
+Altersversorgung bei der BMW AG, von denen eines, die sogenannte „Zusatzvorsorge“,
+fondsgebunden ist, sowie ein weiteres Anrecht bei der V AG.
+Das AG – FamG – hat die in der gesetzlichen Rentenversicherung erworbenen Anrechte
+intern sowie die vom Ehemann bei der BMW AG erworbenen Anrechte auf Verlangen
+des Versorgungsträgers extern geteilt und hinsichtlich des bei der V AG erworbenen
+Anrechts angeordnet, dass ein Ausgleich nicht stattfinde. Bezüglich des
+fondsgebundenen Anrechts hat es bestimmt, dass zulasten des Anrechts des Ast. bei
+der BMW AG zugunsten der Ag. ein Anrecht iHv
+2021, 1235)
+1.950,70 Euro bei der Bet. zu 4 (DRV Bund) nach Maßgabe einer näher bezeichneten
+Teilungsordnung der BMW AG, bezogen auf den 30.4.2019, begründet werde. Die BMW
+AG ist verpflichtet worden, diesen Betrag nebst 2,2 % Zinsen seit dem 1.5.2019 bis zur
+Rechtskraft der Entscheidung an die Bet. zu 4 zu zahlen.
+Mit ihrer Beschwerde hat sich die BMW AG gegen die Verzinsung des aus dem
+fondsgebundenen Anrecht resultierenden Ausgleichsbetrags gewendet.
+Das OLG München (Beschl. v. 1.7.2020 – 2 UF 523/20) hat im Wege der externen
+Teilung zulasten des Anrechts des Ast. bei der BMW AG zugunsten der Ag. ein Anrecht
+bei der Bet. zu 4 iHv 63,790 Anteilen des Fonds BMW Alterskapital Target 2035 mit
+dem Wert der vorgenannten Anteile im Zeitpunkt der Rechtskraft der Entscheidung,
+mindestens jedoch in Höhe eines Kapitalbetrags von 1.473,83 Euro zuzüglich Zinsen
+hieraus iHv jährlich 2,20 % seit dem 30.4.2019 bis zum Eintritt der Rechtskraft der
+Entscheidung, begründet. Es hat die BMW AG verpflichtet, bei Rechtskraft der
+Entscheidung den dem Wert der vorgenannten Anteile zu diesem Zeitpunkt
+entsprechenden Kapitalbetrag, mindestens jedoch 1.473,83 Euro zuzüglich Zinsen iHv
+2,20 % seit dem 30.4.2019 bis zur Rechtskraft der Entscheidung, an die Bet. zu 4 zu
+zahlen.
+Die zugelassene Rechtsbeschwerde der Bet. zu 4 hatte mit Ausnahme einer
+Maßgabenanordnung zur Beschlussformel keinen Erfolg. Der Tenor des BGH lautet wie
+folgt: Im Wege der externen Teilung wird zulasten des Anrechts des Ast. bei der BMW
+AG (Vers.-Nr. Zusatzvorsorge) iHv 63,790 Anteilen des Fonds BMW Alterskapital
+Target 2035 zugunsten der Ag. ein Anrecht bei der DRV Bund mit dem Wert der
+vorgenannten Anteile im Zeitpunkt der Rechtskraft der Entscheidung und bezogen auf
+diesen Zeitpunkt, mindestens jedoch in Höhe eines Kapitalbetrags von 1.473,83 Euro
+zuzüglich Zinsen hieraus iHv jährlich 2,20 % seit dem 30.4.2019 bis zum Eintritt der
+Rechtskraft der Entscheidung begründet. Die BMW AG wird verpflichtet, den dem Wert
+der vorgenannten Anteile entsprechenden Kapitalbetrag – errechnet aus 63,790
+Anteilen multipliziert mit dem unter Verwendung der Zugangsnummer für den Tag der
+Rechtskraft abzurufenden Kurswert –, mindestens jedoch 1.473,83 Euro zuzüglich
+Zinsen hieraus iHv jährlich 2,20 % seit dem 30.4.2019 bis zum Eintritt der Rechtskraft
+der Entscheidung, an die DRV Bund zu zahlen. Die DRV Bund ist verpflichtet, den
+Kapitalbetrag anhand der bei Rechtskraft der Entscheidung geltenden
+Umrechnungsfaktoren in Entgeltpunkte umzurechnen.
+Aus den Gründen
+4II. (…) 1. Das OLG hat seine Entscheidung wie folgt begründet:
+5Zu Unrecht habe das FamG die Verzinsung des Ausgleichswerts anhand eines
+Rechnungszinses angeordnet, da diese nur für die Bildung eines Barwerts auf der
+Grundlage der geleisteten Beiträge gelte. Für Fondsanteile hingegen bestehe kein
+Rechnungszins, der deren Wertentwicklung angemessen abbilde.
+6Zulässig sei hier eine externe Teilung des Anrechts in der Bezugsgröße Fondsanteile,
+auch wenn deren Kurswert im vorliegenden Fall nicht gem. § 170 KAGB veröffentlicht
+werde. Es genüge, dass der Versorgungsträger einen Internet-Link zur Verfügung
+gestellt habe, mithilfe dessen der Kurswert taggenau von den Verfahrensbeteiligen in
+eigener Verantwortung festgestellt werden könne.
+72. Diese Ausführungen des OLG halten einer rechtlichen Nachprüfung stand.
+8a) Zutreffend ist das OLG davon ausgegangen, dass auf die Beschwerde des
+Versorgungsträgers gegen den ihn betreffenden Ausspruch zum
+Versorgungsausgleich das betroffene Anrecht insgesamt den Beschwerdegegenstand
+bildet. Der Prüfungsgegenstand ist weder dadurch beschränkt, dass sich der
+Beschwerdeangriff gegen ein bestimmtes Element der Entscheidung wie hier die
+Verzinsung des nach § 14 IV VersAusglG zu zahlenden Ausgleichsbetrags richtet, noch
+durch das allgemeine Verschlechterungsverbot. Denn als Wächter über die
+rechtmäßige Durchführung des Versorgungsausgleichs verfolgt der
+Versorgungsträger mit seiner Beschwerde stets auch die Interessen der
+Solidargemeinschaft. Deshalb hat das Gericht auf eine Beschwerde des
+Versorgungsträgers stets die Entscheidung zu treffen, die der Sach- und Rechtslage
+entspricht. Dies verstößt auch dann nicht gegen das Verschlechterungsverbot, wenn
+die Entscheidung entgegen dem Ziel des Rechtsmittels ausfällt (Senat BGHZ 215, 280
+9 b) Weiterhin ist das OLG zutreffend davon ausgegangen, dass der Ausgleichswert bei
+der externen Teilung eines aus Fondsanteilen bestehenden Anrechts grundsätzlich in
+Anteilen an diesem Vermögen angegeben werden kann. Denn die Teilung in Form der
+jeweiligen Bezugsgröße des Anrechts (vgl. § 5 I VersAusglG) entspricht der Funktion
+des Versorgungsausgleichs nicht nur bei der internen, sondern auch bei der externen
+Teilung grundsätzlich am besten. Eine Umrechnung des Ausgleichswerts in einen
+Kapitalbetrag erfordert erst § 14 IV VersAusglG, nach dem mit einem weiteren
+(Zahlungs-)Ausspruch festgelegt wird, welche konkrete Geldsumme bei Rechtskraft
+der Entscheidung zum Versorgungsausgleich vom Versorgungsträger des
+Ausgleichspflichtigen an den Versorgungsträger des Ausgleichsberechtigten zu zahlen
+ist. Anhand dieser Geldsumme gestaltet sich bei dem Zielversorgungsträger das neu
+zu begründende Anrecht für den Ausgleichsberechtigten. Kann der Ausgleichswert auf
+der Grundlage der Bezugsgröße der abgebenden Versorgung für den Zeitpunkt der
+Rechtskraft der Entscheidung in vollstreckbarer Weise abstrakt angegeben werden, ist
+dieser Wert gleichermaßen sowohl für den Gestaltungsausspruch nach § 14 I
+VersAusglG als auch für den Zahlungsausspruch nach § 14 IV VersAusglG, § 222 III
+10c) In dem Zusammenhang beanstandet die Rechtsbeschwerde zu Unrecht, dass sich
+der Zahlungsbetrag aus dem vom abgebenden Versorgungsträger zur Verfügung
+gestellten Internet-Link und der Zugangsnummer nicht ausreichend offenkundig
+rechnerisch ermitteln ließe.
+11 aa) Ein Titel ist zwar nur dann hinreichend bestimmt, wenn er den Anspruch des
+Gläubigers ausweist und Inhalt und Umfang der Leistungspflicht bezeichnet. Bei einem
+Zahlungstitel muss der zu vollstreckende Zahlungsanspruch betragsmäßig festgelegt
+sein oder sich zumindest ohne weiteres aus dem Titel errechnen lassen.
+Gegebenenfalls hat das Vollstreckungsorgan den Inhalt des Titels durch Auslegung
+festzustellen; dafür muss der Titel aber aus sich heraus genügend bestimmt sein oder
+jedenfalls sämtliche Kriterien für seine Bestimmbarkeit eindeutig festlegen. Es genügt
+für eine Bestimmbarkeit, wenn die Berechnung des Zahlungsanspruchs mithilfe
+offenkundiger – beispielsweise aus dem Bundesgesetzblatt oder dem Grundbuch
+ersichtlicher – Umstände möglich ist. Hingegen reicht es nicht aus, wenn auf Urkunden
+Bezug genommen wird, die nicht Bestandteil des Titels sind, oder wenn sonst die
+Leistung nur aus dem Inhalt anderer Schriftstücke ermittelt werden kann (Senat NJW
+2018, 3247 = FamRZ 2018, 1745 Rn. 20 mwN).
+12 bb) Zielt die Beschlussformel auf den künftigen Rücknahmepreis für eine bestimmte
+Anzahl von Anteilen an Fonds oder anderen Finanzinstrumenten, hat der Senat
+2021, 1235)
+eine solche Tenorierung als hinreichend bestimmt gebilligt, wenn für die Ausgabe- und
+Rücknahmepreise dieser Anteile eine gesetzliche Veröffentlichungspflicht nach § 170
+28 f.). Denn soweit im Anwendungsbereich dieser Vorschrift die maßgeblichen Preise
+in einer hinreichend verbreiteten Wirtschafts- oder Tageszeitung oder im
+Verkaufsprospekt oder in elektronischen Informationsmedien zu veröffentlichen sind,
+ist damit typischerweise gewährleistet, dass im Rahmen der Vollstreckung ein
+künftiger Geldkurs des Anteils taggenau aus jedermann zugänglichen Quellen ohne
+FamRZ 2018, 1745 Rn. 21). Die vorgenannte Voraussetzung ist hier allerdings nicht
+gegeben, da eine Verpflichtung aus § 170 KAGB zur Veröffentlichung von
+Rücknahmepreisen für die hier relevanten Fondsanteile nicht besteht.
+13cc) Es genügte auch nicht den vollstreckungsrechtlichen Anforderungen, wenn ein
+nicht nach § 170 KAGB veröffentlichter und auch sonst nicht offenkundiger
+Wertpapierkurs durch eine spätere ergänzende Mitteilung des Versorgungsträgers
+zum Stichtag zuverlässig festgestellt werden kann. Denn unterliegt die Höhe des zu
+vollstreckenden Geldbetrags Bemessungsmaßstäben, die aus der Entscheidung selbst
+nicht konkret bestimmbar sind, sondern vom Vollstreckungsorgan nur durch eine
+ergänzende Auskunft des Schuldners oder eines Dritten ermittelt werden können, ist
+die Zahlungsverpflichtung nicht in vollstreckungsfähiger Weise bestimmt.
+14dd) Anders liegt der Fall hingegen, wenn die Rücknahmepreise – wie hier – über ein
+Internet-Portal erlangt werden können, dessen Zugang mithilfe bereitgestellter
+Informationen wie etwa eines speziellen Internet-Links und gegebenenfalls noch
+zusätzlich erforderlicher Zugangscodes erlangt werden kann, wenn sich der Zugang zu
+diesen Informationen für alle Verfahrensbeteiligten unmittelbar aus der
+Beschlussformel der Entscheidung ergibt. Dann ist der konkrete Zahlbetrag über diese
+allseits erreichbare Zugangsinformation hinreichend bestimmbar (vgl. Senat BGHZ
+Stellung des Versorgungsträgers als Wächter über die rechtmäßige Durchführung des
+spricht nichts dagegen, dass dieser den einmal eingerichteten und dem Gericht im
+Rahmen des Verfahrens über den Versorgungsausgleich nach § 220 IV FamFG
+mitgeteilten Zugang auch weiterhin zum Abruf für alle Verfahrensbeteiligten und
+gegebenenfalls für ein Vollstreckungsorgan offenhält.
+15Im Hinblick darauf muss sich der Tatrichter einerseits darüber vergewissern, dass
+der Kurswert über den vom Versorgungsträger mitgeteilten Zugangsweg tatsächlich
+taggenau abgerufen werden kann, andererseits den vom Vollstreckungsorgan zu
+vollziehenden Rechenweg unter Angabe der vollständigen Zugangsdaten in der
+Beschlussformel selbst vorgeben.
+163. Die Rechtsbeschwerde ist daher mit der Maßgabe zurückzuweisen, dass alle für
+die Berechnung des Zahlbetrags erforderlichen Angaben einschließlich der
+vollständigen Zugangsdaten für die Ermittlung des Kurswerts in die Beschlussformel
+aufzunehmen sind.
+Anmerkung der Redaktion
+besprochen von Schwamb NZFam 2021, 176 (Nennung des Zugangscodes zur
+Website des Versorgungsträgers ist ausreichend); die zugelassene Rechtsbeschwerde
+wurde nicht eingelegt. Zur externen Teilung fondsgebundener Anrechte einer privaten
+Lebensversicherung vgl. OLG Hamm Beschl. v. 21.5.2019 – II 13 UF 164/18, BeckRS
+2019, 10981, besprochen von Steffens NZFam 2019, 591; allgemein mit der externen
+Teilung fondsgebundener Anrechte befasst sich außerdem Schwamb NZFam 2019,
+759.

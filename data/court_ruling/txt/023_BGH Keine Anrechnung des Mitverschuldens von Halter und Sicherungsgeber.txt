@@ -1,0 +1,660 @@
+Keine Anrechnung des Mitverschuldens von Halter und Sicherungsgeber
+ZPO § 253 II Nr. 2; BGB §§ 823 I, 426, 242
+1.Wird das Klagebegehren auf ein undifferenziertes Gemenge von Ansprüchen
+sowohl aus eigenem als auch aus abgetretenem Recht ohne Angabe einer
+Prüfungsreihenfolge gestützt, liegt eine alternative Klagehäufung vor, die wegen des
+Verstoßes gegen das Gebot, den Klagegrund bestimmt zu bezeichnen, unzulässig ist.
+2.Auf Schadensersatzansprüche aus § 823 I BGB wegen Verletzung des
+Sicherungseigentums an einem Fahrzeug bei einem Verkehrsunfall muss sich der
+Sicherungseigentümer das Mitverschulden des Halters und Sicherungsgebers nicht
+anspruchsmindernd zurechnen lassen. Dem Schädiger kann aber ein
+Ausgleichsanspruch gem. § 426 BGB gegen den Sicherungsgeber zustehen (vgl.
+3.Macht der Halter (Sicherungsgeber; ähnlich: Leasingnehmer) in Prozessstandschaft
+für den nicht-haltenden Eigentümer (Sicherungsnehmer, ähnlich: Leasinggeber)
+dessen deliktische Ansprüche wegen Verletzung des Eigentums geltend und verlangt
+er aufgrund einer Ermächtigung des Eigentümers Zahlung an sich selbst, kann der
+Schädiger die dolo-agit-Einwendung im Hinblick auf den ihm gegen den Halter
+zustehenden Ausgleichsanspruch gem. § 426 BGB nicht erheben. Es besteht aber die
+Möglichkeit, den Ausgleichsanspruch im Wege der (Hilfs-)Widerklage gegen den
+Halter geltend zu machen.
+BGH Urteil vom 17.1.2023 – VI ZR 203/22
+NJW-Übersicht
+Rn.
+Zulässigkeit der Klage
+12–23
+Bestimmtheit des Klagegrundes
+14–15
+Gewillkürte Prozessstandschaft
+16–22
+Unbegründeter Teil der Klage
+23–36
+Erfasste Schadensersatzansprüche der Abtretung an M-Bank
+24–25
+Anrechnung des Mitverschuldens des Kl.
+26–27
+Hälftiges Mitverschulden des Kl.
+28–33
+Erlöschen der gekürzten Ansprüche durch Erfüllung bzw. Aufrechnung
+34–36
+Fahrzeugbezogene Schadenspositionen
+37–38
+Ungekürzter deliktischer Anspruch der M-Bank
+39–41
+Ersatz der Wertminderung
+
+Dolo-Agit-Einrede der Bekl.
+43–54
+– Grundsätzliche Streitentscheidung zur vorliegenden Fallkonstellation
+46–54
+Hilfswiderklage der Bekl.
+56–62
+Zum Sachverhalt
+Die Parteien stritten um restlichen Schadensersatz aus einem Verkehrsunfall in einem
+Parkhaus. Der Kl. war am Unfalltag Halter und Fahrer eines Pkw Mitsubishi, dessen
+Kauf er über die M-Bank finanziert hatte. Zur Sicherung des Darlehens hatte er das
+Fahrzeug an die Bank übereignet. Zudem hatte er sämtliche Ansprüche aus einem
+eventuellen Verkehrsunfallereignis im Voraus an die Bank abgetreten. Die Bank
+wiederum hatte den Kl. ermächtigt, Schadensersatzansprüche aus einem solchen
+Ereignis im eigenen Namen und auf eigene Rechnung geltend zu machen.
+Am Unfalltag parkte der Zeuge H seinen bei der Bekl. haftpflichtversicherten Pkw Seat
+im Parkhaus in Fahrtrichtung links direkt neben einer Auffahrt. Als er sich unter linkem
+Lenkradeinschlag rückwärts aus der Parktasche tastete, kollidierte sein Fahrzeug mit
+dem auf der Fahrgasse von rechts in gerader Fahrlinie rückwärts herannahenden Pkw
+Mitsubishi. Diesen hatte der Kl. in Fahrtrichtung rechts direkt gegenüber der Auffahrt
+geparkt und nach dem Ausparken zunächst nach vorne und sodann zurück rangiert,
+um in die Auffahrt einbiegen zu können. Beim Zusammenstoß wurden beide Fahrzeuge
+beschädigt.
+Von den vom Kl. geltend gemachten Reparaturkosten iHv 3.337,70 EUR, dem
+Minderwert iHv 500 EUR und den Sachverständigenkosten iHv 680,34 EUR hat die Bekl.
+vorgerichtlich die Hälfte reguliert. Auf die vom Kl. verlangte Unkostenpauschale iHv 30
+EUR hat sie 12,50 EUR (die Hälfte des aus ihrer Sicht anzusetzenden Betrags von 25
+EUR) gezahlt. Sie hat sich weiter zum hälftigen Ausgleich der vom Kl. geltend
+gemachten Mietwagenkosten bereit erklärt, insoweit, dh iHv 240,02 EUR, aber die
+Aufrechnung mit einem Regressanspruch erklärt, der aus der Schadensregulierung an
+ihren Versicherten resultierte. Auf die vom Kl. verlangten vorgerichtlichen
+Rechtsanwaltskosten iHv 540,50 EUR hat sie 255,85 EUR gezahlt. Mit der Klage hat der
+Kl., der den gesamten Schaden ersetzt haben möchte, im Wege der gewillkürten
+Prozessstandschaft für die M-Bank die Verurteilung der Bekl. zur Zahlung von 2.516,54
+EUR und von Rechtsverfolgungskosten iHv 284,65 EUR, jeweils nebst Zinsen, an den
+Kl. verlangt. Die Bekl. hat Klageabweisung und im Wege der Hilfswiderklage die
+Feststellung beantragt, dass der Kl. verpflichtet sei, die Bekl. im Fall ihrer Verurteilung
+zur Zahlung weiterer Reparaturkosten, weiterer Wertminderung sowie weiterer
+Sachverständigenkosten in Höhe des sich daraus ergebenden Urteilsbetrags
+gegenüber der M-Bank freizustellen.
+Das AG Bayreuth (Urt. v. 19.8.2021 – 102 C 237/21) hat unter Annahme eines hälftigen
+Mitverschuldens des Kl. diesem lediglich weitere Rechtsverfolgungskosten iHv 236,69
+EUR nebst Zinsen zugesprochen und die Klage im Übrigen abgewiesen. Die Berufung
+zurückgewiesen. Mit der vom BerGer. zugelassenen Revision verfolgte der Kl. sein
+Klageziel uneingeschränkt weiter. Die Bekl. wiederholte mit ihrer Anschlussrevision
+ihren Hilfswiderklageantrag. Die Revision des Kl. hatte teilweise Erfolg; die Widerklage
+der Bekl. war erfolgreich. Die Anschlussrevision der Bekl. ist gegenstandslos.
+Aus den Gründen
+10B. Die Revision des Kl. ist unzulässig, soweit sie sich gegen die Zurückweisung
+seiner Berufung gegen die Abweisung der Klage hinsichtlich eines Teils der von ihm
+geltend gemachten Rechtsverfolgungskosten richtet. Der Kl. hat – nach teilweiser
+übereinstimmender Erledigterklärung – Rechtsverfolgungskosten in Höhe von noch
+284,65 EUR geltend gemacht. Davon sind ihm 236,69 EUR zuerkannt worden. Die
+diesbezügliche Klageabweisung bezüglich der Differenz iHv 47,96 EUR hat das AG,
+gebilligt vom BerGer., damit begründet, dass hinsichtlich der Gebührensätze von der
+bis 31.12.2020 geltenden Gebührentabelle auszugehen sei, weil die anwaltlichen
+Tätigkeiten im Jahr 2020 erfolgt seien. Dazu verhält sich die Revisionsbegründung des
+Kl. nicht. Sie entspricht insoweit nicht den Anforderungen des § 551 III 1 Nr. 2 ZPO.
+11 C. Im Übrigen ist die Revision des Kl. nur insoweit begründet, als er aus dem Recht
+der M-Bank als Sicherungseigentümerin aus § 823 I BGB den Ersatz des restlichen
+Minderwerts iHv 250 EUR nebst Prozesszinsen verlangen kann.
+12I. Die Klage ist zulässig.
+131. Die Klage ist nicht wegen fehlender Bestimmtheit des Klagegrundes unzulässig.
+14 a) Nach § 253 II Nr. 2 ZPO muss die Klageschrift neben einem bestimmten Antrag
+eine bestimmte Angabe des Gegenstandes und des Grundes des erhobenen
+Anspruchs enthalten. Damit werden der Streitgegenstand abgegrenzt und die Grenze
+der Rechtshängigkeit und der Rechtskraft festgelegt sowie Gegenstand und Umfang
+der Entscheidungsbefugnis des Gerichts bestimmt. Eine ordnungsgemäße
+Klageerhebung erfordert eine Individualisierung des Streitgegenstandes. Der Kl. muss
+die gebotene Bestimmung des Streitgegenstandes vornehmen und kann sie nicht zur
+Disposition des Gerichts stellen. Der Mangel der Bestimmtheit des Klageantrags wie
+des Klagegrundes ist auch im Revisionsverfahren von Amts wegen zu beachten. Eine
+an sich schon in der Klage gebotene Klarstellung kann von der Partei noch im Laufe
+des Verfahrens, auch noch in der Revisionsinstanz, nachgeholt werden (vgl. Senat NJW
+2019, 1669 Rn. 8 mwN).
+15b) Bei einem Anspruch aus eigenem und einem Anspruch aus fremdem Recht
+handelt es sich auch bei einheitlichem Klageziel um unterschiedliche
+Streitgegenstände (vgl. Senatsurteil, Rn. 9 mwN). Hier macht der Kl. in gewillkürter
+Prozessstandschaft für die M-Bank zwei Streitgegenstände geltend, nämlich einerseits
+die von ihm im Voraus an die M-Bank abgetretenen Ansprüche aus einem
+Verkehrsunfall und andererseits die originären Ansprüche der M-Bank aus ihrem
+Sicherungseigentum. In den Vorinstanzen hat der Kl. sein Klagebegehren auf ein
+undifferenziertes Gemenge beider prozessualer Ansprüche ohne Angabe einer
+Prüfungsreihenfolge gestützt. Damit lag eine alternative Klagehäufung vor, die wegen
+des Verstoßes gegen das Gebot, den Klagegrund bestimmt zu bezeichnen, unzulässig
+des Verfahrens, auch noch in der Revisionsinstanz, nachgeholt werden (vgl.
+Senatsurteil, Rn. 8, 11 mwN). Auf den Hinweis des Senats hat der Kl. erklärt, dass die
+„fahrzeugbezogenen Schäden“ (Reparaturkosten, Minderwert,
+Sachverständigenkosten) das Sicherungseigentum der Bank beträfen und
+diesbezügliche Ansprüche dieser als Sicherungseigentümerin zustünden, während es
+sich bei den Mietwagenkosten und allgemeinen Kosten um „personenbezogene
+Schäden“ handle und es insoweit um Ansprüche gehe, die in der Person des Kl.
+entstanden und an die Bank abgetreten worden seien. Daraus ergibt sich mit
+hinreichender Bestimmtheit, dass der Kl. als Prozessstandschafter für die M-Bank aus
+deren originärem Recht restliche Reparatur- und Sachverständigenkosten und
+restlichen Minderwert geltend macht und aus deren vom Kl. abgetretenem Recht
+restliche Mietwagenkosten und die restliche Unkostenpauschale.
+162. Der Kl. ist befugt, die Ansprüche der Bank – sowohl die vom Kl. an sie
+abgetretenen als auch ihre originären aus dem Sicherungseigentum – in gewillkürter
+Prozessstandschaft geltend zu machen.
+17a) Bei der Prozessführungsbefugnis handelt es sich um eine Prozessvoraussetzung,
+die in jeder Lage des Verfahrens, auch in der Revisionsinstanz, von Amts wegen zu
+prüfen ist. Das RevGer. ist dabei weder an die Feststellungen des BerGer. gebunden,
+noch beschränkt sich seine Prüfung auf die Tatsachen und Beweismittel, die dem
+BerGer. vorgelegen haben. Das RevGer. hat vielmehr gegebenenfalls auch unter
+Berücksichtigung neuen Vorbringens in der Revisionsinstanz selbstständig
+festzustellen, ob die Voraussetzungen für die Prozessführungsbefugnis im Zeitpunkt
+der letzten mündlichen Verhandlung in der Tatsacheninstanz vorgelegen haben (Senat
+18b) Eine gewillkürte Prozessstandschaft ist zulässig, wenn der Prozessführende vom
+Rechtsinhaber zur Prozessführung im eigenen Namen ermächtigt worden ist und er ein
+eigenes schutzwürdiges Interesse an ihr hat. Schutzwürdig ist ein Interesse des Kl. nur,
+wenn der Bekl. durch die gewählte Art der Prozessführung nicht unbillig benachteiligt
+wird. Darüber hinaus muss sich der Prozessführende im Rechtsstreit grundsätzlich auf
+die ihm erteilte Ermächtigung berufen und zum Ausdruck bringen, wessen Recht er
+geltend macht (Senatsurteil, Rn. 8 mwN). Diese Voraussetzungen sind im Streitfall
+erfüllt.
+19aa) Der Kl. ist von der M-Bank ermächtigt, nicht nur die von ihm an die M-Bank
+abgetretenen Ansprüche, sondern auch die originären Ansprüche der M-Bank aus dem
+Sicherungseigentum im eigenen Namen geltend zu machen. Den Vortrag in der
+Klageschrift, er habe der M-Bank im Rahmen des Darlehensvertrags sämtliche eigenen
+Ansprüche aus einem Verkehrsunfall abgetreten und sei von der Bank ermächtigt
+worden, „jene“ Schadensersatzansprüche (also die abgetretenen) im eigenen Namen
+zu verfolgen, hat der Kl. auf Hinweis des Senats unter Verweis auf das mit Anlage K 1
+vorgelegte Schreiben der Bank vom 5.11.2020 dahingehend modifiziert, dass die
+Prozessführungsbefugnis auch die Geltendmachung der originären Rechte der Bank
+aus dem Sicherungseigentum erfasse. Gemäß Abs. 2 dieses Schreibens bezieht sich
+die Ermächtigung ohne Einschränkung auf „die Ansprüche aus dem Schadensfall“. Da
+in Abs. 1 des Schreibens sowohl auf die Sicherungsübereignung als auch auf die
+Abtretung Bezug genommen wird, ist auch daraus auf eine umfassende Ermächtigung
+zu schließen. Eine solche hat die M-Bank schließlich mit ihrer vom Kl. vorgelegten
+Erklärung vom 12.12.2022 bestätigt.
+20Der Kl. hat sich ausdrücklich auf diese Ermächtigung gestützt und zum Ausdruck
+gebracht, dass er die Rechte der M-Bank geltend macht.
+21bb) Auch von einem schutzwürdigen Interesse des Kl. an der Prozessführung ist
+auszugehen. Ein solches ist gegeben, wenn die Entscheidung Einfluss auf die eigene<y
+Rechtslage des Prozessführungsbefugten hat. Es kann auch durch ein wirtschaftliches
+Interesse begründet werden. Für die Klage des Sicherungsgebers wird ein solches in
+22 cc) Durch das Einrücken des Fahrzeughalters in die Klägerposition entsteht der Bekl.
+kein Nachteil. Sie steht wirtschaftlich und prozessual nicht schlechter. Soweit es um
+Ansprüche geht, die der Kl. als Fahrzeughalter an die M-Bank als Eigentümerin
+abgetreten hat, bleiben diese um seinen Mitverschuldensanteil auch dann gekürzt,
+wenn er als Kl. auftritt (vgl. dazu unten II 2). Soweit es um die originären Ansprüche
+der M-Bank aus dem Sicherungseigentum geht, wird die Bekl. durch die
+Prozessführung des Kl. ebenfalls nicht benachteiligt. Denn machte die M-Bank ihre
+deliktischen Ansprüche gegen die Bekl. selbst geltend, könnte sie diese ungekürzt
+durchsetzen (vgl. dazu unten III. 1. b)). Sollten diese Ansprüche, wie vom BerGer.
+angenommen, in der vorliegenden Fallkonstellation, in der der Kl. in
+Prozessstandschaft für die Bank Zahlung des Schadensersatzes an sich selbst
+verlangt, nicht durchsetzbar sein (vgl. dazu unten III 3), wäre die Bekl. durch die
+Prozessführung des Kl. sogar bessergestellt.
+23 II. Die Klage ist insoweit unbegründet, als der Kl. Ansprüche der M-Bank aus von ihm
+abgetretenem Recht geltend macht. Nach der in der Revisionsinstanz erfolgten
+Klarstellung betrifft dies die Hälfte der Mietwagenkosten (240,02 EUR) und die
+restlichen Unkosten (17,50 EUR). Auf die von der Abtretung erfassten
+Schadensersatzansprüche des Kl. (dazu 1) muss sich die M-Bank, wie vom BerGer.
+zutreffend gesehen, ein Mitverschulden des Kl. anrechnen lassen (dazu 2). Die
+Auffassung des BerGer., dass den Kl. ein hälftiges Mitverschulden trifft, ist
+revisionsrechtlich nicht zu beanstanden (dazu 3). Die entsprechend gekürzten
+Ansprüche sind durch Erfüllung bzw. Aufrechnung erloschen (dazu 4).
+241. Nach den Feststellungen des BerGer. hatte der Kl. sämtliche Ansprüche aus einem
+eventuellen Verkehrsunfallereignis im Voraus an die M-Bank abgetreten. Von der
+Abtretung erfasst sind damit Schadensersatzansprüche, die dem Kl. im Hinblick auf
+den streitgegenständlichen Unfall gegen die Bekl. aus §§ 823 I, 823 II BGB iVm §§ 1 II,
+9 V StVO, §§ 7 I, 18 StVG, § 115 I 1 Nr. 1 VVG, § 1 PflVG zustehen.
+25Durch den Unfall wurde der berechtigte unmittelbare Besitz des Kl. an dem Fahrzeug
+verletzt, der sowohl durch § 823 I BGB als auch durch § 7 I StVG geschützt ist (vgl.
+den Feststellungen des BerGer. befand sich der Zeuge H mit dem bei der Bekl.
+haftpflichtversicherten Pkw Seat in Rückwärtsfahrt aus der Parktasche, als es zur
+Kollision mit dem vom Kl. geführten Pkw Mitsubishi kam. Die Bekl. hat nicht in Abrede
+gestellt, dass der Zeuge H gegen das auf Parkflächen ohne eindeutigen
+Straßencharakter mittelbar über § 1 II StVO geltende Gebot des § 9 V StVO verstoßen
+hat, sich bei der Rückwärtsfahrt so zu verhalten, dass er das Fahrzeug notfalls sofort
+anhalten kann, und dass er den Unfall dadurch (mit) verursacht hat (vgl. Senat NJW
+2016, 1100 Rn. 11 mwN).
+262. Allerdings kann die Bekl. als Schuldnerin der Schadensersatzforderung gegenüber
+der M-Bank als Zessionarin und neuer Gläubigerin gem. § 404 BGB die Einwendungen
+entgegensetzen, die „zur Zeit der Abtretung“ der Forderung gegen den Kl. als Zedenten
+und bisherigen Gläubiger begründet waren. Diese in § 404 BGB vorgesehene zeitliche
+Einschränkung muss im Hinblick auf dessen Schutzzweck, eine Verschlechterung der
+Verteidigungsmöglichkeiten des Schuldners in Folge der Zession zu verhindern, dahin
+interpretiert werden, dass bei der Abtretung künftiger Forderungen als maßgeblicher
+Zeitpunkt der Zeitpunkt anzusehen ist, in dem die Abtretung wirksam wird, also der
+Zeitpunkt des Entstehens der Forderung. Denn der Zessionar erwirbt sie nur mit dem
+Inhalt, mit dem sie zur Entstehung gelangt. Deshalb ist bei einer Vorausabtretung
+künftiger Forderungen zwischen der Verbindlichkeit des Verfügungsgeschäfts und
+dem Wirksamwerden des mit ihm bezweckten späteren Rechtsübergangs zu
+unterscheiden. Die im Abtretungsvertrag enthaltene rechtsgeschäftliche Verfügung ist
+zwar mit Vertragsabschluss beendet und für den Veräußerer insofern bindend, als er
+den späteren Erwerb der Forderung durch den Abtretungsempfänger nicht mehr durch
+eine neue Abtretung vereiteln kann. Vollendet wird die Abtretung aber erst dann, wenn
+und soweit alle Voraussetzungen für die Entstehung der Forderung in der Person des
+27Nach diesen Grundsätzen kann die Bekl. der M-Bank als Zessionarin diejenigen
+Einwendungen entgegensetzen, mit denen die erst nach Abschluss des
+Abtretungsvertrags aufgrund des streitgegenständlichen Verkehrsunfalls
+entstandenen Schadensersatzansprüche des Kl. als Zedent behaftet waren. Da die
+Ansprüche des Kl. aus dem Verkehrsunfall aufgrund seiner Mitverantwortung für den
+Schaden gem. § 254 BGB bzw. § 17 II iVm I StVG, § 18 III StVG auf die Hälfte beschränkt
+waren (dazu sogleich 3), sind sie mit ihrer Entstehung und dem damit verbundenen
+Wirksamwerden der Abtretung auch nur in diesem Umfang auf die M-Bank
+übergegangen.
+283. Auf der Grundlage der vom BerGer. getroffenen Feststellungen ist dessen
+Beurteilung, dass den Kl. ein hälftiges Mitverschulden trifft, revisionsrechtlich nicht zu
+beanstanden.
+29a) Die Entscheidung über eine Haftungsverteilung im Rahmen des § 254 BGB oder
+des § 17 II StVG ist grundsätzlich Sache des Tatrichters und im Revisionsverfahren nur
+darauf zu überprüfen, ob der Tatrichter alle in Betracht kommenden Umstände
+vollständig und richtig berücksichtigt und der Abwägung rechtlich zulässige
+Erwägungen zugrunde gelegt hat. Die Abwägung ist aufgrund aller festgestellten, das
+heißt unstreitigen, zugestandenen oder nach § 286 ZPO bewiesenen Umstände des
+Einzelfalls vorzunehmen, wenn sie sich auf den Unfall ausgewirkt haben; in erster Linie
+ist hierbei das Maß der Verursachung von Belang, in dem die Bet. zur
+Schadensentstehung beigetragen haben; ein Faktor bei der Abwägung ist dabei das
+Rn. 8 mwN).
+30b) Nach den Feststellungen des BerGer. befanden sich sowohl der Kl. als auch der
+Zeuge H zum Kollisionszeitpunkt in Rückwärtsfahrt. Damit ist, wie vom BerGer.
+zutreffend gesehen und von der Revision insoweit nicht infrage gestellt, nicht nur dem
+Versicherten der Bekl., sondern auch dem Kl. ein für den Unfall ursächlicher Verstoß
+gegen § 1 II iVm § 9 V StVO anzulasten. Auch der Kl. hatte sich bei seiner
+Rückwärtsfahrt so zu verhalten, dass er das Fahrzeug notfalls sofort anhalten konnte,
+da er aufgrund der besonderen Situation auf einem Parkplatz bzw. in einem Parkhaus
+jederzeit damit rechnen musste, dass andere Fahrzeuge, wie etwa auf der Fahrgasse
+(rückwärts oder vorwärts) fahrende oder ein- und ausparkende Fahrzeuge seinen
+Verkehrsfluss stören. Er hatte daher von vornherein mit geringer Geschwindigkeit und
+Rn. 10).
+31c) Entgegen der Ansicht der Revision ist ein etwaiger zusätzlicher Verstoß des
+Zeugen H gegen (§ 1 II StVO iVm) § 10  StVO für das Abwägungsergebnis nicht
+relevant;
+denn selbst wenn § 10  StVO unmittelbar oder mittelbar über § 1 II StVO zur
+Anwendung käme, wäre der Verursachungs- und Verschuldensbeitrag des
+Versicherten der Bekl. in der Abwägung gem. § 17 II StVG bzw. gem. § 254 BGB
+jedenfalls in der konkreten Unfallsituation nicht als schwerwiegender zu bewerten.
+32aa) Gemäß § 10  StVO hat derjenige, der aus einem Grundstück, aus einer
+Fußgängerzone, aus einem verkehrsberuhigten Bereich auf die Straße oder von
+anderen Straßenteilen oder über einen abgesenkten Bordstein hinweg auf die Fahrbahn
+einfahren oder vom Fahrbahnrand anfahren will, sich dabei so zu verhalten, dass eine
+Gefährdung der anderen Verkehrsteilnehmer ausgeschlossen ist. Der Kl. meint, da er
+sich im Zeitpunkt der Kollision bereits auf der Parkhausfahrgasse und damit auf einer
+Fahrbahn iSd § 10  StVO befunden habe, habe er vor dem Zeugen H, der aus seiner
+Parktasche und damit von einem „anderen Straßenteil“ iSv § 10  StVO auf die
+Fahrgasse eingefahren sei, Vorrang gehabt.
+33bb) § 10  StVO dient ebenso wie § 9 V StVO primär (wenn auch nicht
+ausschließlich) dem Schutz des fließenden und deshalb typischerweise schnelleren
+2016, 1098 = VersR 2016, 410 Rn. 11) und ist deshalb auf einem öffentlichen Parkplatz
+oder in einem öffentlichen Parkhaus mit Fahrgassen ohne eindeutigen
+Straßencharakter nicht unmittelbar anwendbar. Ob und inwieweit § 10  StVO –
+15 ff.) – auf einem öffentlichen Parkplatz mittelbar im Rahmen der
+Pflichtenkonkretisierung nach § 1 II StVO Anwendung findet, ist umstritten (vgl. nur
+Nachw. bei Hentschel/König/Dauer/König Straßenverkehrsrecht, 46. Aufl., StVO § 8
+Rn. 31 a), kann hier aber dahinstehen. Dies gilt allerdings entgegen der Ansicht der
+Revisionserwiderung nicht schon deshalb, weil der Kl. im Zeitpunkt der Kollision ein
+Fahrmanöver nicht in Richtung des fließenden Verkehrs, sondern in dessen
+Gegenrichtung durchgeführt hat. Denn die Sorgfaltspflicht des § 10  StVO soll
+ebenso wie diejenige des § 9 V StVO unterschiedslos die Gefährdung „anderer
+Verkehrsteilnehmer“ ausschließen. Darunter fällt im Rahmen dieser Normen jede
+Person, die sich selbst verkehrserheblich verhält, das heißt körperlich und unmittelbar
+957 Rn. 12). Im Fall der (mittelbaren) Anwendbarkeit des § 10  StVO hätte deshalb
+in der vorliegenden Unfallsituation hierzu auch der Kl. gehört. Allerdings hätte die
+diesbezügliche Sorgfaltspflicht dem Zeugen H nichts Anderes, insbesondere nicht
+mehr abverlangt als das mittelbar geltende Gebot des § 9 V StVO. Er hätte sich beim
+rückwärtigen Ausparken so verhalten müssen, dass er sein Fahrzeug – mit Blick auf
+das rückwärts auf der Fahrgasse gegen die Pfeilrichtung herannahende Fahrzeug des
+Kl. – sofort hätte anhalten können. Sein Verstoß wiegt in der konkreten Unfallsituation
+nicht schwerer als der Verstoß des Kl. gegen seine Pflicht aus § 1 iVm § 9 V StVO.
+Denn anders als im fließenden Verkehr auf der Straße mit seinen typischerweise
+schnellen Verkehrsabläufen, bei denen der Verkehrsteilnehmer grundsätzlich darauf
+vertrauen darf, dass der Verkehrsfluss nicht gestört und sein Vorrang etwa von dem
+aus einer Parkbucht Einfahrenden beachtet wird (vgl. Senat NJW-RR 2012, 157 = VersR
+2011, 1540 Rn. 9), gilt in der Situation auf dem Parkplatz ein solcher
+Vertrauensgrundsatz nicht. Hier muss der Verkehrsteilnehmer jederzeit damit rechnen,
+dass ausparkende Fahrzeuge den Verkehrsfluss auf der Fahrgasse, die auch der
+Erschließung der Parkmöglichkeiten durch Eröffnung von Rangierräumen dient (vgl.
+1098 = VersR 2016, 410 Rn. 15). Für den Kl. galt dies hier in besonderem Maße, weil er
+sich seinerseits in Rückwärtsfahrt befand, noch am Rangieren war und sich dabei
+gegen die aufgezeichnete Pfeilrichtung bewegte.
+344. Die wegen Mitverschuldens des Kl. um die Hälfte gekürzten Ansprüche der M-
+Bank aus vom Kl. abgetretenem Recht auf Ersatz der Unkostenpauschale (unterstellt,
+ein solcher Anspruch stand dem Kl. zu) und der Mietwagenkosten sind durch Erfüllung
+bzw. Aufrechnung erloschen.
+35a) Es kann dahinstehen, ob die ursprünglich dem Kl. zustehenden Ansprüche wegen
+der Verletzung seines berechtigten unmittelbaren Besitzes an dem Fahrzeug den
+Ersatz der Unkostenpauschale erfassten (zum Schadensersatzanspruch bei
+Verletzung des berechtigten unmittelbaren Besitzes vgl. Senat NJW-RR 2022, 1386 =
+Anspruch durch die nach den Feststellungen des BerGer. bereits vorgerichtlich erfolgte
+Zahlung von 12,50 EUR seitens der Bekl. an den Kl. erloschen. Gegen die Beurteilung
+der Vorinstanzen, dass hinsichtlich der Unkostenpauschale von einem Betrag von
+insgesamt 25 EUR anstelle der vom Kl. angesetzten 30 EUR auszugehen ist, hat sich
+der Kl. in der Revision – wie auch schon in der Berufung – nicht gewandt. Die
+diesbezügliche, vom BerGer. gebilligte Schätzung des AG gem. § 287 ZPO lässt
+Rechtsfehler nicht erkennen. Ein etwaiger Anspruch beliefe sich wegen des hälftigen
+Mitverschuldens des Kl. somit auf den Ersatz von 12,50 EUR. Die Leistung dieses
+Betrags an den Kl. muss die M-Bank gem. § 407 I BGB gegen sich gelten lassen.
+Unabhängig davon hätte sie gem. § 362 II BGB iVm § 185 BGB auch deshalb
+befreienden Charakter, weil nach den den Senat bindenden tatbestandlichen
+Feststellungen des BerGer. die M-Bank den Kl. ermächtigt hat,
+Schadensersatzansprüche aus dem Verkehrsunfall nicht nur im eigenen Namen,
+sondern auch auf eigene Rechnung geltend zu machen, mithin Zahlung an sich zu
+verlangen.
+36b) Gegen den Anspruch auf Ersatz der Hälfte der vom Kl. aufgewendeten
+Mietwagenkosten, die zum grundsätzlich ersatzfähigen Nutzungsschaden des
+berechtigten unmittelbaren Besitzers gehören (vgl. Senat NJW-RR 2022, 1386 = VersR
+BerGer. die Aufrechnung mit einem Regressanspruch gegen den Kl. erklärt. Nach den
+vom BerGer. in Bezug genommenen Feststellungen des AG hat der Kl. die tatsächlichen
+Voraussetzungen für das Bestehen der Regressforderung nicht bestritten und nichts
+vorgetragen, was der Zulässigkeit der Aufrechnung entgegenstehen könnte. Damit ist
+auch dieser Anspruch erloschen, § 389 iVm § 406 BGB.
+37III. Hinsichtlich der sogenannten fahrzeugbezogenen Schadenspositionen
+(Reparatur- und Sachverständigenkosten, Minderwert), die der Kl. als originäres Recht
+der M-
+Bank aus dem Sicherungseigentum geltend macht, ist die Klage insoweit begründet,
+als es um den restlichen Ersatz des Minderwerts (250 EUR) nebst Prozesszinsen geht.
+38Der M-Bank steht gegen die Bekl. ein ungekürzter, das heißt nicht um das
+Mitverschulden des Kl. gekürzter, deliktischer Anspruch zu (dazu 1), der sich allerdings
+nur auf den Ersatz der Wertminderung, nicht auch auf Ersatz der Reparatur- und
+Sachverständigenkosten richtet (dazu 2). Die Beurteilung des BerGer., der Anspruch sei
+in der vorliegenden Fallkonstellation, in der der Kl. als Prozessstandschafter Leistung
+an sich verlange, nicht durchsetzbar, da ihm die dolo-agit-Einwendung entgegenstehe,
+hält revisionsrechtlicher Prüfung nicht stand (dazu 3).
+391. Das Sicherungseigentum ist echtes Eigentum iSv § 823 I BGB, also Volleigentum.
+Die M-Bank als Sicherungseigentümerin des Fahrzeugs hat daher gegen die Bekl.
+wegen Beschädigung des Fahrzeugs dem Grunde nach Schadensersatzansprüche aus
+2352 Rn. 19 mwN).
+40a) Auf die Ansprüche aus der Gefährdungshaftung nach § 7 StVG muss sich die M-
+Bank das Mitverschulden des Kl. zwar nicht über § 17 II StVG anrechnen lassen, weil
+die Anwendung dieser Vorschrift voraussetzt, dass auch der Geschädigte – hier die M-
+Bank – nach den Bestimmungen des Straßenverkehrsgesetzes haftet (Senat NJW
+Sie muss es sich aber gem. § 9 StVG iVm § 254 BGB anrechnen lassen (vgl. Senat
+41b) An einer entsprechenden Zurechnungsnorm fehlt es hingegen für deliktische
+Ansprüche der M-Bank als Sicherungseigentümerin aus § 823 I BGB. § 9 StVG ist auf
+die Fälle der Verschuldenshaftung nach § 823 BGB weder direkt noch analog
+Mitverschuldens des Kl. nach § 254 II 2 BGB kommt nicht in Betracht, weil dieser bei
+der Teilnahme am Straßenverkehr nicht Erfüllungsgehilfe der M-Bank iSv § 278 BGB
+deliktischen Schadensersatzansprüchen aus dem Sicherungseigentum kann die Bekl.
+daher nicht mit Erfolg entgegensetzen, dass sie den ihrer Mitverschuldensquote
+entsprechenden Anteil bereits (durch Zahlung an den zur Einziehung ermächtigten Kl.)
+geleistet hat.
+422. Von den Ansprüchen auf Ersatz der fahrzeugbezogenen Schäden steht der M-
+Bank gegen die Bekl. allerdings nur derjenige auf (restlichen) Ersatz der nach der
+Reparatur verbliebenen Wertminderung zu. Die (restlichen) Sachverständigen- und
+Reparaturkosten sind hier dagegen nicht zu ersetzen, weil die M-Bank insoweit keinen
+Schaden mehr hat. Denn nach den vom BerGer. in Bezug genommenen Anlagen und
+Feststellungen des AG hat der Kl. den Schaden am Fahrzeug bereits durch Einholung
+eines Sachverständigengutachtens ermittelt und die Reparatur durchführen lassen. Die
+Kosten hierfür wurden dem Kl. in Rechnung gestellt. Anhaltspunkte dafür, dass die M-
+Bank gegenüber dem Kl. zum Tragen dieser Kosten verpflichtet wäre, sind nicht
+ersichtlich. Vielmehr hat umgekehrt der Kl. gegenüber der M-Bank für diese Kosten aus
+§ 823 I BGB aufzukommen, weil er den Unfall mitverschuldet hat und damit das
+Sicherungseigentum der Bank an dem Fahrzeug schuldhaft verletzt hat (dazu sogleich
+3 a).
+433. Dem vom Kl. als Prozessstandschafter geltend gemachten Anspruch der M-Bank
+gegen die Bekl. auf restlichen Ersatz der Wertminderung steht die dolo-agit-
+Einwendung im Hinblick auf einen Ausgleichsanspruch der Bekl. gegen den
+gesamtschuldnerisch haftenden Kl. aus § 426 BGB nicht entgegen.
+44a) Nicht zu beanstanden ist allerdings die Beurteilung des BerGer., dass der Kl.
+gesamtschuldnerisch mit der Bekl. der M-Bank zum Ersatz des wegen Verletzung des
+Sicherungseigentums entstandenen Schadens – hier der Wertminderung – verpflichtet
+ist. Dabei haftet der Kl. der M-Bank nicht aus § 7 I StVG, weil sich nach dem
+Schutzzweck dieser Norm die Haftung des Halters nicht auf das von ihm gehaltene
+Fahrzeug selbst erstreckt. Unter der „Sache“, für deren Beschädigung er bei Vorliegen
+der tatbestandlichen Voraussetzungen des § 7 I StVG im Übrigen haftet, ist nur eine
+vom Fahrzeug verschiedene Sache zu verstehen, nicht dagegen das Fahrzeug selbst
+Rn. 9-11). Der Kl. haftet der M-Bank gegenüber aber aus § 823 I BGB, weil er schuldhaft
+– unter Verstoß gegen § 1 II iVm § 9 V StVO – deren Sicherungseigentum am Fahrzeug
+verletzt hat. Da, wie ausgeführt, auch die Bekl. der M-Bank gegenüber deliktsrechtlich
+zum Ersatz der Wertminderung gem. § 823 I BGB iVm § 115 I 1 Nr. 1 VVG, § 1 PflVG
+verpflichtet ist, sind der Kl. und die Bekl. gem. § 840 I BGB insoweit Gesamtschuldner.
+45 b) Ebenfalls zutreffend ist die Auffassung des BerGer., dass die Bekl. hinsichtlich
+ihres der M-Bank geschuldeten Restschadensersatzes einen Ausgleichsanspruch
+Bekl. einander verpflichtet, die Schuld gegenüber der M-Bank entsprechend ihrer
+Mitverschuldensanteile, hier also zu gleichen Teilen, zu tragen (§ 426 I BGB). Da die
+Bekl. die Hälfte des Wertminderungsschadens durch Zahlung an den nach den
+tatbestandlichen Feststellungen des BerGer. zur Einziehung ermächtigten Kl. bereits
+ersetzt hat, hat sie gem. § 426 I BGB gegenüber dem Kl. einen Anspruch, sie von dem
+Anspruch der M-Bank auf Restschadensersatz freizustellen. Befriedigte die Bekl. den
+Restschadensersatzanspruch der Bank, so könnte sie von dem Kl. Ausgleich gem. § 426 II BGB verlangen. Es handelt sich in beiden Fällen um Ansprüche, die der Bekl.
+gegenüber dem Kl. zustehen, nicht gegenüber der M-Bank, für die der Kl. hier als
+Prozessstandschafter auftritt.
+46c) Ob in einer Fallkonstellation, in der – wie hier – der Halter (Sicherungsgeber,
+ähnlich: Leasingnehmer) in Prozessstandschaft für den nicht-haltenden Eigentümer
+(Sicherungsnehmer, ähnlich: Leasinggeber) dessen Rechte geltend macht und
+aufgrund einer entsprechenden Ermächtigung des Eigentümers Zahlung an sich selbst
+verlangt, der andere Unfallbeteiligte im Hinblick auf den ihm zustehenden
+Ausgleichsanspruch gem. § 426 BGB die dolo-agit-Einwendung erheben kann, ist
+umstritten.
+47 aa) Teilweise wird dies befürwortet, weil der Sicherungsgeber (oder Leasingnehmer)
+nach Erhalt der Schadensersatzzahlung sogleich gem. § 426 II BGB zur (teilweisen) Rückzahlung bzw. schon
+vorher gem. § 426 I BGB zur (teilweisen) Freistellung verpflichtet wäre (OLG Nürnberg
+413 Rn. 53 f.; Pardey SVR 2019, 7 (9 f.); Nugel NZV 2009, 313 (316); Lemcke r+s 2014,
+577 (579); Schöller jurisPR-VerkR 18/2018 Anm. 2). Dabei wird teilweise auf die
+Nachteile verwiesen, die entstünden, müsste der andere Unfallbeteiligte in einem
+gesonderten Prozess seinen Ausgleichsanspruch gegen den Sicherungsgeber (oder
+Leasingnehmer) durchsetzen: er müsse dann zwei Prozesse über denselben
+Unfallschaden mit doppeltem Prozessrisiko führen. Zudem müsse er das Risiko der
+Vermögensverschlechterung des Sicherungsgebers bzw. Leasingnehmers tragen
+(OLG Nürnberg-Fürth r+s 2021, 413 Rn. 9). Soweit überhaupt auf das Problem der
+fehlenden Gegenseitigkeit der in Rede stehenden Ansprüche eingegangen wird, wird
+dafür plädiert, „zur Herstellung materieller Gerechtigkeit“ eine Ausnahme vom
+Gegenseitigkeitserfordernis anzuerkennen, wenn Beeinträchtigungen der
+Sachherrschaft und der Sachnutzung untrennbar verbunden seien (Pardey SVR 2019,
+7 (10)). Das LG Nürnberg-Fürth (r+s 2021, 413 Rn. 54) geht ebenso wie hier das BerGer.
+davon aus, es komme nicht auf die wechselseitige Forderungsinhaberschaft, sondern
+auf die wechselseitige Forderungsberechtigung an.
+48bb) Die Gegenansicht hält die dolo-agit-Einwendung nicht für durchgreifend und
+begründet dies mit der fehlenden Gegenseitigkeit der Ansprüche (OLG Köln 14.12.2020
+1.12.2022, StVG § 17 Rn. 68; BeckOGK/Looschelders, 1.12.2022, BGB § 254 Rn. 173;
+Looschelders VersR 2019, 513 (518)). Der nicht-haltende Eigentümer habe mit einem
+möglichen Ausgleichsanspruch zwischen den beiden Unfallbeteiligten nichts zu
+schaffen. Selbst wenn er den Sicherungsgeber (bzw. Leasingnehmer) ermächtigt habe,
+seinen Anspruch in gewillkürter Prozessstandschaft geltend zu machen, so bleibe es
+doch sein Anspruch, dem nur ein gegen ihn gerichteter Anspruch entgegengesetzt
+werden könne (jurisPK-StraßenVerkehrsR/Scholten StVG § 17 Rn. 68). Die spezifische
+Interessenwertung, auf der die doloagit-Einwendung beruhe – kein schutzwürdiges
+Interesse des Anspruchstellers, besondere Schutzwürdigkeit des Schuldners – liege
+hier nicht vor (Looschelders VersR 2019, 513 (518)).
+49cc) Der Senat schließt sich der letztgenannten Ansicht an.
+50(1) Der Grundsatz von Treu und Glauben (§ 242 BGB) bildet eine allen Rechten,
+Rechtslagen und Rechtsnormen immanente Inhaltsbegrenzung und setzt der (auch
+gesetzlich zulässigen) Rechtsausübung dort Schranken, wo sie zu untragbaren, mit
+Recht und Gerechtigkeit offensichtlich unvereinbaren Ergebnissen führt (BGHZ 229,
+139 = NJW-RR 2022, 11 Rn. 81 mwN). So verbietet er die Durchsetzung eines
+Anspruchs, wenn der Gläubiger das Erlangte wieder an den Schuldner herauszugeben
+hätte (dolo agit, qui petit, quod statim redditurus est; stRspr, vgl. nur BGH ZIP 2022,
+1695 Rn. 17 mwN). Es fehlt dann an einem schutzwürdigen Eigeninteresse des
+Gläubigers an der Durchsetzung der ihm formal zustehenden Rechtsposition (vgl. BGH
+NJW-RR 2021, 294 = ZIP 2020, 2179 Rn. 17 f.; Staudinger/Looschelders/Olzen BGB,
+2019, BGB § 242 Rn. 280; Grüneberg/Grüneberg BGB, 82. Aufl., BGB § 242 Rn. 52).
+51(2) Macht der Sicherungsgeber in Prozessstandschaft ein Recht des
+Sicherungsnehmers geltend, so ist der Gläubiger, dessen Rechtsausübung der
+Schranke des § 242 BGB unterliegt, der Sicherungsnehmer. Daran ändert weder die
+prozessrechtliche Ermächtigung an den Sicherungsgeber etwas, das Recht des
+Sicherungsnehmers im eigenen Namen geltend zu machen, noch die materiellrechtliche Ermächtigung, Leistung an sich (statt an den Sicherungsnehmer als
+Gläubiger) zu verlangen. Die Einziehungsermächtigung ermöglicht es lediglich dem
+Schuldner, mit befreiender Wirkung an den Ermächtigten zu leisten (§ 362 II iVm § 185
+BGB), Gläubiger bleibt aber der Sicherungsnehmer.
+52 (3) Gläubiger des ungekürzten deliktischen Anspruchs gegen die Bekl. ist vorliegend
+allein die M-Bank, die ihrerseits der Bekl. nichts schuldet. Denn Schuldner des
+Ausgleichsanspruchs der Bekl. gem. § 426 BGB ist nicht sie, sondern der Kl. Entgegen
+der Ansicht der Bekl. liegt auch kein Fall eines sogenannten Regresskreisels vor, bei
+dem die dolo-agit-Einwendung möglicherweise auch dann zur Anwendung kommt,
+wenn der Gläubiger nach der Durchsetzung seines Anspruchs gegen den Schuldner
+verpflichtet wäre, das Geforderte einem Dritten zu geben, der es erneut dem Schuldner
+überlassen müsste (BeckOGK/Kähler, 15.9.2022, BGB § 242 Rn. 1406 mwN). Denn eine
+Verpflichtung der M-Bank, den Ersatz des Minderwerts an den Kl. weiterzuleiten, ist
+nicht ersichtlich, sie ergibt sich insbesondere nicht aus der Ermächtigung an den Kl.,
+Zahlung an sich zu verlangen. Ausweislich dieser Ermächtigung hat die M-Bank den Kl.
+vielmehr aufgefordert, „eine aus Wertminderung resultierende Versicherungsleistung
+an uns auszuzahlen“. Der Kl. soll also Zahlung des Schadensersatzes an sich verlangen
+dürfen, dann aber den auf die Wertminderung entfallenden Teil an die M-Bank
+weiterleiten. Dies stimmt mit der Rechtslage überein, wonach, wie ausgeführt, auch der
+Kl. als Gesamtschuldner neben der Bekl. verpflichtet wäre, der M-Bank Ersatz der
+Wertminderung wegen Verletzung des Sicherungseigentums zu leisten. Nimmt aber
+ein Gläubiger (hier: M-Bank) einen Gesamtschuldner (hier: Bekl.) in Anspruch, der
+seinerseits bei einem Dritten (hier: Kl.) Rückgriff nehmen könnte, ohne dass feststeht,
+dass dieser einen Anspruch gegen den Gläubiger hat, ist eine Berufung auf § 242 BGB
+ausgeschlossen (BeckOGK/Kähler BGB § 242 Rn. 1408).
+53Andere Gründe, die der Schutzwürdigkeit des Eigeninteresses der M-Bank
+entgegenstehen und ihr das Recht nehmen könnten, ihren ungekürzten deliktischen
+Anspruch gegen die Bekl. durchzusetzen, sind nicht ersichtlich. Auf ein schutzwürdiges
+Eigeninteresse des Kl., diesen Anspruch als Prozessstandschafter geltend zu machen,
+kommt es in diesem Zusammenhang nicht an. Selbst wenn darauf abgestellt würde,
+wäre es, wie oben (I 2 b bb) zur Prozessführungsbefugnis ausgeführt, zu bejahen. Dass
+er dabei Zahlung an sich verlangt, beruht auf der Ermächtigung der M-Bank und bedarf
+gegenüber der Bekl. keiner Rechtfertigung durch ein schutzwürdiges Eigeninteresse.
+Demgegenüber steht die Bekl. nicht schlechter da, als wenn die M-Bank ihre eigenen
+Rechte selbst geltend machte oder der Kl. in Prozessstandschaft für die M-Bank
+Zahlung an diese verlangte. Auch dann wäre sie den ungekürzten Ansprüchen der M-
+Bank ausgesetzt und müsste ihren Ausgleichsanspruch gem. § 426 BGB gesondert
+gegen den Kl. geltend machen und das Risiko der Realisierbarkeit tragen; die dolo-agit-Einwendung stünde ihr dann auch nach der Meinung nicht
+zu, die sie für die besondere Fallkonstellation wie die vorliegende bejaht. Zudem
+besteht die Möglichkeit, den Anspruch aus § 426 I 1BGB auf Freistellung von der
+Schadensersatzpflicht im selben Prozess im Wege der (Hilfs-)Widerklage gegen den
+Prozessstandschafter geltend zu machen, wovon die Bekl. hier auch Gebrauch
+gemacht hat (dazu unten D).
+54 (4) Soweit das Ergebnis, dass der Kl. als Prozessstandschafter der M-Bank trotz
+seines Mitverschuldens am Unfall von der Bekl. ungekürzten Schadensersatz
+(hinsichtlich der Wertminderung) verlangen kann, als unbillig empfunden wird,
+resultiert eine etwaige Unbilligkeit weder aus einem rechtsmissbräuchlichen Verhalten
+der M-Bank noch aus einem solchen des Kl., sondern daraus, dass sich aufgrund der
+bestehenden Rechtslage der nicht-haltende Eigentümer ein Mitverschulden des
+Halters seines Fahrzeugs auf seine deliktischen Schadensersatzansprüche nicht
+anrechnen lassen muss (so 1 b). Eine Änderung dieser Rechtslage könnte nur der
+Gesetzgeber herbeiführen (vgl. zu diesbezüglichen Forderungen zB Looschelders
+VersR 2019, 513 (518, 519); Schiemann NZV 2019, 5 (9); Pardey SVR 2019, 7 (10);
+Schwartz jurisPR-VerkR 9/2018 Anm. 1; Lemcke r+s 2014, 577 (580)).
+55 4. Nach den für den Senat bindenden tatbestandlichen Feststellungen des BerGer.
+beläuft sich der nach der Reparatur verbliebene Minderwert des verunfallten Fahrzeugs
+auf 500 EUR. Da die Bekl. vorgerichtlich hierauf bereits die Hälfte geleistet hat, verbleibt
+ein Anspruch iHv 250 EUR. Ein Anspruch auf Zinsen aus diesem Betrag besteht
+allerdings erst von dem Eintritt der Rechtshängigkeit an (§ 291 I BGB). Der mit der Klage
+geltend gemachte Anspruch auf Verzugszinsen gem. §§ 286, 288 I BGB besteht
+dagegen nicht. Das anwaltliche Schreiben vom 27.10.2020 hat keinen Verzug der Bekl.
+begründet, weil der Kl. darin eine deutlich überhöhte Leistung, nämlich die Zahlung von
+Rn. 8 mwN).
+56D. Da sich die Klage teilweise als begründet erweist, hat der Senat über die für diesen
+Fall erhobene Hilfswiderklage der Bekl. zu entscheiden. Die Hilfswiderklage ist zulässig
+und begründet.
+57I. Die Hilfswiderklage ist in der Revisionsinstanz angefallen. So wie über einen
+Hilfsantrag des Kl. in der Revisionsinstanz zu befinden ist, wenn der Hauptantrag in der
+Berufungsinstanz Erfolg hatte, er auf die Revision des Bekl. jedoch vom RevGer.
+abgewiesen wird, so gelangt auch die Hilfswiderklage des Bekl. in die Revisionsinstanz,
+wenn die Vorinstanzen die Klage abgewiesen haben, die Entscheidung über die
+Hilfswiderklage dadurch nicht erforderlich war und der Kl. die Klageabweisung mit der
+Revision erfolgreich angreift. Dem Kl. darf es nicht ermöglicht werden, durch ein von
+ihm eingelegtes Rechtsmittel ein vom Bekl. zulässigerweise in das Verfahren
+eingeführtes Widerklagebegehren, über das nicht zu entschieden werden brauchte, zu
+17). Der (Hilfs-)Anschlussrevision, die die Bekl. hier für den Fall eingelegt hat, dass die
+Revision des Kl. Erfolg hat, und mit der sie ihren Hilfswiderklageantrag aus den
+Vorinstanzen wiederholt hat, bedarf es demnach nicht. Sie wäre auch unzulässig, weil
+die Bekl. durch das klageabweisende Berufungsurteil nicht beschwert ist (BGH GRUR
+2011, 1043 Rn. 22 mwN). Ist aber über die Hilfswiderklage schon aufgrund der Revision
+des Kl. zu entscheiden, ist die Anschlussrevision der Bekl. gegenstandslos.
+58II. Die Hilfswiderklage ist zulässig.
+591. Die Hilfswiderklage steht unter einer zulässigen prozessualen Bedingung, nämlich
+dem (teilweisen) Erfolg der Klage („im Falle ihrer Verurteilung“). Diese Bedingung ist im
+Hinblick auf die Verurteilung der Bekl. zum Ersatz des Minderwerts eingetreten.
+602. Auch sind die Parteien von Klage und Widerklage identisch. Der Umstand, dass
+der Kl. in Prozessstandschaft für die M-Bank auftritt und deren Ansprüche geltend
+macht, während es bei der Widerklage um Ansprüche gegen den Kl. selbst geht, ändert
+an der Parteienidentität nichts.
+61Erfüllt ist ferner das von der Rechtsprechung auf § 33 ZPO gestützte Erfordernis
+eines Zusammenhangs zwischen den mit Klage und Widerklage geltend gemachten
+Ansprüchen. Ein solcher Zusammenhang liegt dann vor, wenn zwischen den
+beiderseitigen Ansprüchen eine rechtliche Verbindung besteht, wobei dieser Begriff
+weit auszulegen ist (BGHZ 149, 120 (127) Rn. 19 mwN). Es genügt, dass die Ansprüche
+aus demselben Tatbestand hergeleitet werden. Entspringen Anspruch und
+Gegenanspruch verschiedenen Rechtsverhältnissen, so genügt es, wenn diese nach
+ihrem Zweck und nach der Verkehrsanschauung wirtschaftlich als ein Ganzes, als ein
+11). Hier entspringen sowohl die mit der Klage geltend gemachten Ansprüche der M-
+Bank gegen die Bekl. als auch der mit der Widerklage geltend gemachte Anspruch der
+Bekl. gegen den Kl. auf Freistellung von Ansprüchen der M-Bank demselben
+Schadensereignis. Die materiell-rechtlichen Rechtsverhältnisse – einerseits zwischen
+der M-Bank und der Bekl., andererseits zwischen der Bekl. und dem Kl. – erscheinen
+wirtschaftlich als ein innerlich zusammengehöriges Lebensverhältnis.
+623. Dem ursprünglich gestellten Antrag der Bekl. auf „Feststellung“ der Verpflichtung
+des Kl., die Bekl. im Falle ihrer Verurteilung in Höhe des Urteilsbetrags gegenüber der
+M-Bank freizustellen, hätte es – seinem Wortlaut nach – wegen des Vorrangs der
+Leistungsklage am erforderlichen Feststellungsinteresse gefehlt (vgl. nur Senat NJW-
+RR 2022, 23 = ZIP 2021, 2553 Rn. 15 mwN). Allerdings hat die Bekl. auf entsprechenden
+Hinweis des Senats in der mündlichen Verhandlung klargestellt, dass sie nicht die
+Feststellung der Verpflichtung zur Freistellung, sondern die Freistellung selbst begehrt.
+Selbst für den Fall, dass sich dies nicht bereits durch Auslegung ihres
+Hilfswiderklagebegehrens ergeben haben sollte, wäre eine diesbezügliche
+Modifikation des Antrags, die keine Klageänderung darstellt (§ 264 Nr. 2 ZPO; vgl. BGH
+NJW-RR 2002, 283 Rn. 6), auch im Revisionsverfahren noch zulässig, weil es zur
+Entscheidung über den Freistellungsantrag vorliegend keiner weiteren Feststellungen
+bedarf, insbesondere nicht zur Höhe der Forderung auf Ersatz der Wertminderung, von
+der freigestellt werden soll (vgl. Senat NJW-RR 2021, 187 Rn. 7 mwN; BGH 7.6.2001 –
+63III. Die Hilfswiderklage ist begründet. Wie oben unter C III 3 b ausgeführt, hat die Bekl.
+gegen den Kl. gem. § 426 I BGB einen Anspruch, sie von dem Anspruch der Bank auf
+restlichen Ersatz der Wertminderung freizustellen.
+Anmerkung
+Der BGH hat in dieser Entscheidung zunächst prozessual festgestellt, dass nach § 253
+II Nr. 2 ZPO die Klageschrift einen bestimmten Antrag und eine bestimmte Angabe des
+Gegenstands und des Grundes des erhobenen Anspruchs enthalten muss. Ferner auch,
+dass dies nicht zur Disposition des Gerichts gestellt werden darf und noch im Laufe
+des Verfahrens, auch des Revisionsverfahrens, nachgeholt werden kann.
+Werden, wie hier, Ansprüche aus eigenem und fremden Recht geltend gemacht, so
+handelt es sich auch bei einheitlichem Klageziel um unterschiedliche
+Streitgegenstände. Es lag damit eine alternative Klagehäufung vor, die wegen des
+Verstoßes gegen das Gebot, den Klagegrund bestimmt zu bezeichnen, unzulässig ist.
+Vorliegend konnte dieses undifferenzierte Gemenge von Ansprüchen allerdings in der
+Revisionsinstanz durch entsprechenden Vortrag aufgeklärt und damit der Mangel
+geheilt werden. Trotz dieser Heilungsmöglichkeit empfiehlt es sich aber, bereits bei der
+Klage deutlich herauszustellen, welche Ansprüche aus welchem Grund geltend
+gemacht werden und aus welchem Rechtsgrund man Inhaber dieser Ansprüche ist.
+Im Weiteren nimmt der BGH zur Frage der Zurechnung von Verschuldensanteilen an
+den Sicherungsgläubiger sowie zur dolo-agit-Einwendung in der Konstellation
+Schädiger/Versicherer, Geschädigter (Sicherungsgeber) und Sicherungsgläubiger
+Stellung. Dabei ist zunächst zwischen Ansprüchen des Sicherungsgläubigers aus
+eigenem Recht und Ansprüchen aus abgetretenem Recht des Schuldners
+(Geschädigten/Sicherungsgebers) zu unterscheiden.
+Rechte des Sicherungsgläubigers am Sicherungsgegenstand (hier dem Fahrzeug) aus
+eigenem Recht betreffen den Minderwert, die Sachverständigenkosten und den
+Fahrzeugschaden. Zu klären war, inwieweit bezüglich dieser Ansprüche die dolo-agit-
+Einwendung entgegengehalten werden kann, da hier durch den Geschädigten
+Ansprüche des Sicherungsgläubigers im eigenen Namen geltend gemacht werden und
+dem Schädiger/Versicherer im Nachgang für diese Ansprüche wiederum ein Anspruch
+gegen den Geschädigten als Fahrer zustünde. Hier ist zu differenzieren: bezüglich der
+Wertminderung steht dem Sicherungsgläubiger ein deliktischer und ungekürzter
+Anspruch gegen den Schädiger zu, da eine Verschuldenszurechnung des Geschädigten
+mangels Zurechnungsnorm nicht in Betracht kommt. Hingegen können die weiteren
+Reparatur- und Sachverständigenkosten vom Sicherungsgläubiger nicht weiter selbst
+geltend gemacht werden, da durch die Reparatur des Sicherungsgegenstands kein
+Schaden bezüglich dieser Positionen mehr bei ihm verblieben ist. Die Reparatur wurde
+ja bereits ausgeführt und die Sachverständigenkosten sind nicht vom
+Sicherungsgläubiger zu tragen.
+Hinsichtlich der beim Sicherungsgläubiger somit noch verbliebenen Ansprüche aus
+eigenem Recht (auf die restliche Wertminderung) greift auch nicht die dolo-agit-
+Einwendung. Dies begründet der BGH mit dem Grundsatz von Treu und Glauben. Die
+dolo-agit-Einwendung soll dabei sicherstellen, dass die Durchsetzung eines Anspruchs
+dann nicht möglich ist, wenn der Gläubiger das Erlangte wieder an den Schuldner
+herauszugeben hätte, da es dann an einem schutzwürdigen Interesse an der
+Durchsetzung von Rechtspositionen fehle. Dieser Fall liegt hier aber nicht vor, da der
+Sicherungsgläubiger nichts an den Schädiger herauszugegeben habe und diesem auch
+keinen Schadenersatz schulde.
+Tritt der Schuldner dagegen im Voraus auch sämtliche weitere Ansprüche aus einem
+Unfall an den Sicherungsgläubiger im Vorweg ab, welche nicht direkt den
+Sicherungsgegenstand bestreffen (hier Mietwagenkosten und Unkostenpauschale), so
+greifen die obigen Zurechnungsgrundsätze für diese Ansprüche nicht. Dies bedeutet,
+dass in der vorliegenden Konstellation der Schädiger (bzw. der Versicherer) der
+Schadensersatzforderung alle Einwendungen entgegenhalten kann, welche zur Zeit der
+Abtretung gegenüber dem Geschädigten bestanden. Vorliegend ist dies das
+Mitverschulden. Dabei ist § 404 BGB gemäß dem Schutzzweck so auszulegen, dass
+vorliegend als maßgeblicher Zeitpunkt der Unfallzeitpunkt und nicht der
+Abtretungszeitpunkt anzusetzen ist. Daher kann hier das Mitverschulden des
+Geschädigten entgegengehalten werden, womit diese Ansprüche nur gekürzt auf den
+Sicherungsgläubiger übergehen.
+Die ursprünglich eigenen Forderungen des Geschädigten sind (trotz Abtretung an den
+Sicherungsgläubiger) damit um das Mitverschulden zu kürzen. Der dolo-agit-
+Einwendung bedarf es hierfür nicht. Für die Praxis bedeutet dies nun: Die Abtretung
+aller Ansprüche an den Sicherungsgläubiger ändert nichts an den Einwendungen,
+welche auch ohne eine solche Abtretung dem Schädiger zustehen. Die dolo-agit-
+Einwendung greift indes in der vorliegenden Konstellation nicht gegenüber dem
+Sicherungsgläubiger für Schäden am Sicherungsgegenstand. Zu empfehlen ist daher
+für den Schädiger bzw. seinen Versicherer die Erhebung der Widerklage gegen den
+Geschädigten, da von diesem ein Ausgleich im Rahmen des
+Gesamtschuldverhältnisses verlangt werden kann.
+Rechtsanwalt Prof. Dr. Uwe Gail, LL. M., Olching

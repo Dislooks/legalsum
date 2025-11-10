@@ -1,0 +1,349 @@
+An Vermieter verpfändetes Sparguthaben
+InsO §§ 50 I, II, 109 I 3; BGB §§ 1273 ff.
+1. Hat ein gewerblicher Mieter ein Sparguthaben für alle Ansprüche des Vermieters
+aus dem Mietverhältnis und seiner Abwicklung wirksam verpfändet und macht der
+Verwalter in dem Insolvenzverfahren über das Vermögen des Mieters von seinem
+Sonderkündigungsrecht Gebrauch, sichert das vertragliche Pfandrecht auch den
+Schadensersatzanspruch des Vermieters wegen vorzeitiger Beendigung des
+Vertragsverhältnisses. Der Vermieter ist zur abgesonderten Befriedigung berechtigt.
+2.Die Vorschrift des § 50 II InsO ist auf ein vertraglich vereinbartes Pfandrecht nicht
+entsprechend anwendbar.
+BGH Urteil vom 27.1.2022 – IX ZR 44/21
+Zum Sachverhalt
+Die S-GmbH (künftig: Schuldnerin) mietete für den Zeitraum vom 1.3.2016 bis
+31.1.2021 von der Bekl. Gewerberäume nebst dazugehöriger Stellplätze für monatlich
+3.509,46 EUR brutto. Ausweislich des Mietvertrags hatte die Schuldnerin der Bekl. „für
+die Einhaltung der (ihr) aus diesem Vertrag obliegenden Verbindlichkeiten eine
+Sicherheit in Geld iHv 8.225,88 EUR“ zu gewähren. Dementsprechend verpfändete sie
+ihr „als Sicherheit für alle gegenwärtigen und künftigen Ansprüche des Vermieters
+gegen den Mieter aus dem bestehenden Mietverhältnis“ das auf einem Sparkonto bei
+der D. „unterhaltene Guthaben iHv 8.225,88 EUR“ zuzüglich der darauf anfallenden
+Zinsen „mit der Maßgabe, dass der Vermieter ohne besonderen Nachweis der Fälligkeit
+der gesicherten Ansprüche berechtigt ist, unter der Vorlage der über die Spareinlage
+ausgestellten Urkunde jederzeit Auszahlung des verpfändeten Guthabens von der Bank
+zu verlangen“. Sie übergab ihr das Sparbuch und zeigte der Bank die Verpfändung an.
+Am 1.2.2019 wurde über das Vermögen der Schuldnerin das Insolvenzverfahren
+eröffnet und der Kl. zum Insolvenzverwalter bestellt. Dieser kündigte noch am gleichen
+Tag nach § 109 I 1 InsO das Mietverhältnis „fristgerecht zum 30.4.2019, hilfsweise zum
+nächstmöglichen Termin“. Die Mietsache wurde der Bekl. am 20.5.2019
+zurückgegeben und von ihr jedenfalls bis Dezember 2019 nicht anderweitig vermietet.
+Die Bekl. ließ sich am 5.7.2019 das Sparguthaben iHv inzwischen 8.227,90 EUR
+auszahlen. Diesen Geldbetrag verlangte der Kl. nebst Zinsen von der Bekl. zurück. Die
+Parteien stritten darüber, ob die Bekl. an der Mietsicherheit ein Recht auf abgesonderte
+Befriedigung hatte und ob sie das Sparguthaben für Schadensersatzansprüche gem.
+§ 109 I 3 InsO wegen der vorzeitigen Beendigung des Mietverhältnisses, hilfsweise für
+etwaige Schadensersatzansprüche wegen unterlassener Reparaturen oder höchst
+hilfsweise für etwaige Schadensersatzansprüche wegen der Entfernung einer Telefonund Serveranlage verwerten durfte.
+abgewiesen, die Berufung des Kl. hatte vor dem OLG Koblenz (Urt. v. 16.3.2021 – 3 U
+des Kl. hatte ebenfalls keinen Erfolg.
+Aus den Gründen
+4I. Das BerGer. hat ausgeführt:
+Der Kl. habe gegen die Bekl. keinen Anspruch auf Schadensersatz wegen der
+Verwertung der Mietsicherheit gem. §§ 275 I, 280 I und III, 283 , 249 BGB. (Wird
+5II. Diese Ausführungen halten rechtlicher Nachprüfung stand. Dem Kl. steht gegen die
+Bekl. kein Anspruch wegen unberechtigter Verwertung des verpfändeten
+Sparguthabens zu. Vielmehr hatte die Bekl. wegen der vorzeitigen Kündigung des
+Mietverhältnisses durch den Kl. einen Schadensersatzanspruch aus § 109 I 3 InsO oder
+aus §§ 280 ff. BGB iVm § 109 I 3 InsO, welcher durch das ihr von der Schuldnerin an
+dem Sparguthaben eingeräumte vertragliche Pfandrecht (§§ 1279, 1273, 1274, 1205
+BGB) abgesichert war. Die Bekl. war deswegen gegenüber dem Kl. nach § 50 I InsO zur
+abgesonderten Befriedigung aus dem ihr verpfändeten Sparbuch und gem. §§ 1283 I,
+1282 I 1, 1284 BGB iVm § 173 I InsO zur Kündigung und Einziehung des Sparguthabens
+in voller Höhe berechtigt. Pfandreife nach §§ 1282 I 1, 1228 II oder nach § 1284 BGB
+war eingetreten, als die Bekl. am 5.7.2019 das Sparguthaben eingezogen hat.
+61. Der Bekl. stand aus § 109 I 3 InsO bzw. aus §§ 280 ff., 314 IV BGB iVm § 109 I 3
+InsO gegen den Kl. ein Schadensersatzanspruch wegen der von dieser
+ausgesprochenen Kündigung des Mietverhältnisses zu.
+7a) Gemäß § 108 I 1 InsO bestehen nach Eröffnung des Insolvenzverfahrens
+Mietverhältnisse des Schuldners über unbewegliche Gegenstände oder Räume mit
+Wirkung für die Insolvenzmasse fort. Doch kann der Insolvenzverwalter gem. § 109 I 1
+InsO ein Mietverhältnis über einen unbeweglichen Gegenstand oder über Räume, das
+der Schuldner als Mieter eingegangen war, ohne Rücksicht auf die vereinbarte
+Vertragsdauer oder einen vereinbarten Ausschluss des Rechts zur ordentlichen
+Kündigung kündigen; die Kündigungsfrist beträgt drei Monate zum Monatsende, wenn
+nicht eine kürzere Frist maßgeblich ist. Kündigt der Verwalter, so kann der Vermieter
+nach § 109 I 3 InsO wegen der vorzeitigen Beendigung des Vertragsverhältnisses als
+Insolvenzgläubiger Schadenersatz verlangen.
+8Die Rechtsnatur des in § 109 I 3 InsO angesprochenen Anspruchs ist in der Literatur
+umstritten.
+Einige meinen, der Vermieter habe gegen den Schuldner wie in § 103 II 1 InsO einen
+Differenzanspruch (Kübler/Prütting/Bork/Tintelnot InsO, 2020, InsO § 109 Rn. 68 f.).
+Andere sehen in § 109 I 3 InsO einen eigenständigen insolvenzrechtlichen
+Schadensersatzanspruch (Jaeger/Jacoby InsO, 2. Aufl., InsO § 109 Rn. 27 f.). Wieder
+andere vertreten die Ansicht, § 109 I 3 InsO begründe nicht selbst einen
+Schadensersatzanspruch, sondern qualifiziere nur den sich aus dem BGB ergebenden
+Schadensersatzanspruch als Insolvenzforderung (HmbKommInsO/Pohlmann-Weide,
+9. Aufl., InsO § 109 Rn. 15; vgl. auch MüKoInsO/Eckert/Hoffmann, 4. Aufl., InsO § 109
+Rn. 28; Uhlenbruck/Wegener InsO, 15. Aufl., InsO § 109 Rn. 10). Die Frage nach der
+Rechtsnatur dieses Anspruchs muss nicht beantwortet werden, weil es im Streitfall
+nicht darauf ankommt, ob er auf bürgerlich-rechtlichen Vorschriften beruht oder auf
+9 b) Die Schuldnerin hat mit der Bekl. einen ordentlich nicht kündbaren Mietvertrag mit
+einer Laufzeit bis zum 31.1.2021 abgeschlossen. Der Kl. hat von seinem
+Sonderkündigungsrecht nach § 109 I 1 InsO Gebrauch gemacht und den Mietvertrag
+zum 30.4.2019 gekündigt; die Kündigungsfrist des § 109 I 1 Hs. 2 InsO lief allerdings
+erst zum 31.5.2019 ab. Diese Falschberechnung der Kündigungsfrist ist unschädlich;
+die Kündigung wurde zum zulässigen Termin am 31.5.2019 wirksam, weil der Kl. die
+Kündigung auf jeden Fall zum zulässigen Termin wollte, wie sich aus dem
+Kündigungsschreiben ergibt (vgl. OLG Karlsruhe NJOZ 2013, 398 = WuM 2012, 666
+(667) (unter II 1 c); HK-BGB/Rolfs, 2021, BGB § 573 c Rn. 15). Tatsächlich hat der Kl.
+die vermieteten Räume auch erst im Mai 2019 der Bekl. zurückgegeben. Als Folge
+dieser Kündigung kann die Bekl. als Insolvenzgläubigerin (§§ 109 I 3, 38 InsO) wegen
+der im Vergleich zur im Mietvertrag vereinbarten Mietdauer vorzeitigen Beendigung des
+Vertragsverhältnisses Schadenersatz verlangen.
+102. Die zwischen den Mietvertragsparteien vereinbarte Mietkaution sicherte in der
+Insolvenz der Schuldnerin (Mieterin) grundsätzlich auch den Anspruch der Bekl.
+(Vermieterin) aus § 109 I 3 InsO bzw. aus §§ 280 ff., 314 IV BGB iVm § 109 I 3 InsO.
+11a) Welche Vermieteransprüche gesichert werden sollen, ergibt sich primär aus der
+getroffenen Vereinbarung. Enthält die Vereinbarung keine Einschränkung, dient die
+Mietkaution der Sicherung aller – auch der noch nicht fälligen oder bedingten –
+Ansprüche des Vermieters, die sich aus dem Mietverhältnis und seiner Abwicklung
+2. Aufl., BGB § 551 Rn. 11; Jaeger/Henckel InsO § 50 Rn. 12; vgl.
+Kübler/Prütting/Bork/Tintelnot InsO § 109 Rn. 73; MüKoInsO/Eckert/Hoffmann InsO § 109 Rn. 34; Jaeger/Jacoby InsO § 109 Rn. 35).
+12 Die Eröffnung des Insolvenzverfahrens über das Vermögen des Mieters beseitigt
+das Sicherungsbedürfnis des Vermieters nicht. Dieser darf eine vor Insolvenzeröffnung
+vom Schuldner geleistete Mietkaution daher auch weiterhin behalten (vgl.
+Uhlenbruck/Wegener InsO § 108 Rn. 32; Jaeger/Jacoby InsO § 108 Rn. 161;
+MüKoInsO/Eckert/Hoffmann InsO § 109 Rn. 34). Endet das Mietverhältnis erst nach
+Insolvenzeröffnung und weist der Mietvertrag keine abweichenden Regelungen auf,
+kann der Vermieter sämtliche Forderungen aus dem Mietvertrag – unabhängig von
+ihrem Entstehungszeitpunkt – mit dem nach Vertragsende fälligen Anspruch auf
+Rückzahlung der Kaution verrechnen. Es kommt nicht darauf an, ob die Ansprüche des
+Vermieters als Masseverbindlichkeiten zu erfüllen sind oder ob es sich um
+Insolvenzforderungen handelt (Jaeger/Jacoby InsO § 108 Rn. 161;
+Uhlenbruck/Wegener InsO § 108 Rn. 32; Guhling/Günter/Geldmacher
+Gewerberaummiete, 2. Aufl., Anhang zu §§ 562–562 d Rn. 331). Bei der Abrechnung
+kann der Vermieter nach seiner Wahl darüber entscheiden, wegen welcher
+Forderungen er sich aus der Mietkaution befriedigt, unabhängig davon, ob es sich
+jeweils um Insolvenz- oder Masseforderungen handelt (Jaeger/Jacoby InsO § 108 Rn.
+161; Uhlenbruck/Wegener InsO § 108 Rn. 32; BeckOK InsO/Berberich, 2021, InsO § 108 Rn. 54.1; vgl. auch OLG Hamburg ZMR 2008, 714 (715 f.) =
+13b) Ausweislich der mietvertraglichen Vereinbarung diente die Mietsicherheit der
+„Einhaltung der (der Schuldnerin) aus diesem Vertrag obliegenden Verbindlichkeiten“,
+mithin sollte die Mietkaution alle – auch noch nicht fälligen – Ansprüche des
+Vermieters, die sich aus dem Mietverhältnis und seiner Abwicklung ergeben, sichern,
+auch Schadensersatzansprüche wegen Vertragsverletzungen aus §§ 280, 281, 314 IV,
+543 II 1 Nr. 3 BGB (vgl. OLG Brandenburg NJW-RR 2007, 670 = NZM 2007, 402 (403);
+Spielbauer/Schneider/Schneider BGB § 551 Rn. 11, 20; Lindner-
+Figura/Oprée/Stellmann/Moeser Geschäftsraummiete, 4. Aufl., Kap. 12 Rn. 50; vgl.
+auch von der Bub/Treier/Osten/Schüller MietR-Hdb, 5. Aufl., Kap. III Rn. 2033). Ein
+Schadensersatzanspruch aus § 109 I 3 InsO ist eine solche Verbindlichkeit, welche
+durch die Kaution abgesichert werden sollte.
+14 Der Streit über die Rechtsnatur des in § 109 I 3 InsO genannten Anspruchs (vgl. oben
+Rn. 8) ist in diesem Zusammenhang unerheblich. Auch die Autoren, die sich für eine
+eigenständige insolvenzrechtliche Anknüpfung des Anspruchs aussprechen, gehen
+nicht davon aus, dass der Schadensersatzanspruch ein vom Mietvertrag zu trennender
+Anspruch mit abweichendem Rechtsgrund wäre. Vielmehr soll durch ihn der
+mietvertragliche Anspruch insolvenzrechtlich abgewickelt werden. Es wird betont, der
+insolvenzrechtliche Schadensersatzanspruch sei bereits im Mietvertrag angelegt
+(Jaeger/Jacoby InsO § 109 Rn. 28; vgl. Kübler/Prütting/Bork/Tintelnot InsO § 109 Rn.
+68). Deswegen umfasst die Kaution, die als Sicherheit für alle – auch noch nicht fälligen
+– Ansprüche des Vermieters, die sich aus dem Mietverhältnis und seiner Abwicklung
+ergeben, gegeben wird, einen etwaigen Schadensersatzanspruch aus § 109 I 3 InsO
+(aA für eine Bürgschaft, mit welcher sich der Bürge für sämtlichen Verpflichtungen des
+Mieters aus dem Mietverhältnis verbürgt hat: OLG Rostock NZI 2016, 804 = NJOZ 2016,
+1115 Rn. 59). Eine solche Sicherungsabrede wird im Hinblick darauf getroffen, dass
+der Mieter Zahlungsschwierigkeiten hat, mithin gerade auch für den Fall, dass über sein
+Vermögen das Insolvenzverfahren eröffnet wird. Auch wenn der in § 109 I 3 InsO
+angesprochene Anspruch auf Ersatz des Mietausfallschadens einen eigenständigen
+insolvenzrechtlichen Schadensersatzanspruch darstellen sollte, hat er eine
+mietvertragliche Grundlage und ist eine aus diesem Vertrag entstehende
+Verbindlichkeit (vgl. Kübler/Prütting/Bork/Tintelnot InsO § 109 Rn. 73; Jaeger/Jacoby
+InsO § 109 Rn. 28, 35; MüKoInsO/Eckert/Hoffmann InsO § 109 Rn. 34).
+153. Die Bekl. war gem. § 50 I InsO nach Maßgabe der § 166 bis § 173 InsO wegen des
+ihr eingeräumten vertraglichen Pfandrechts an dem Sparkonto für Hauptforderung,
+Zinsen und Kosten zur abgesonderten Befriedigung aus dem Sparguthaben berechtigt.
+16a) Die Schuldnerin hat der Bekl. – entgegen der vertraglichen Vereinbarung – keine
+Barkaution gewährt, sondern ihr zur Sicherung der Ansprüche aus dem Mietvertrag die
+Forderung auf Auszahlung des Guthabens aus dem Sparvertrag mit der D. gem. §§ 1273, 1274, 1280, 1205, 398 BGB wirksam verpfändet. Die Mietvertragsparteien haben
+sich darüber geeinigt, dass die Forderung der Schuldnerin auf Auszahlung des
+Sparguthabens (einschließlich künftiger Zinsen) zur Sicherung der gegenwärtigen und
+künftigen Forderungen der Bekl. aus dem Mietverhältnis gegen die Schuldnerin mit
+einem Pfandrecht der Bekl. belastet sein soll. Die Verpfändung künftiger Forderungen
+(hier der Zinsansprüche) ist nach § 1273 BGB ebenso möglich, wie nach §§ 1273 II 1,
+1204 II BGB ein Pfandrecht an einer bestehenden Forderung für künftige oder bedingte
+Forderungen bestellt werden kann (vgl. HK-BGB, 2019, BGB § 1273 Rn. 14 f.). Sowohl
+die verpfändeten (künftigen) Zinsforderungen als auch die gesicherten (künftigen)
+Forderungen aus dem Mietverhältnis und seiner Abwicklung sind hinreichend
+bestimmt bezeichnet. Die Schuldnerin hat der Bekl. das Sparbuch wie vereinbart
+ausgehändigt und die Verpfändung ihrer Bank angezeigt (§ 1280 BGB).
+17b) Der Verwertung des Pfandrechts stand § 50 II 1 InsO nicht entgegen. Diese
+Regelung stellt eine nicht verallgemeinerungsfähige Ausnahmebestimmung für das
+gesetzliche Pfandrecht des Vermieters und Verpächters dar (vgl. Döderlein ZMR 2016,
+181 (182)).
+18aa) Das sich aus § 50 I InsO für das rechtsgeschäftliche Pfandrecht, für das durch
+Pfändung erlangte Pfandrecht und für das gesetzliche Pfandrecht ergebende
+Absonderungsrecht wird in § 50 II 1 InsO für das Vermieter- und Verpächterpfandrecht
+beschränkt. Das gesetzliche Pfandrecht des Vermieters nach §§ 578 I und II 1, 562
+BGB und das gesetzliche Pfandrecht des Verpächters nach §§ 581 II, 578 I und II 1, 562
+BGB sichern aufgrund der ausdrücklichen Anordnung des § 50 II 1 Fall 2 InsO im
+Insolvenzverfahren über das Vermögen des Mieters und des Pächters den
+Schadensersatzanspruch aus § 109 I 3 InsO nicht.
+19bb) In § 50 II 1 InsO ist nur das gesetzliche Pfandrecht des Vermieters oder
+Verpächters genannt, nicht jedoch das dem Streitfall zugrundeliegende vertragliche
+Pfandrecht an Forderungen (§§ 1279 ff. BGB). In der Literatur ist streitig, ob auf die
+Mietsicherheit § 50 II 1 Fall 2 InsO analog anzuwenden ist (einerseits
+Ahrens/Gehrlein/Ringstmeier/Flöther/Wehner Insolvenzrecht, 4. Aufl., § 109 Rn. 30;
+wohl auch FK-InsO/Wegener, 9. Aufl., InsO § 109 Rn. 25; Zeibig Die Mietkaution, 2012,
+ f. allerdings ausdrücklich für die Barkaution unter Hinweis auf § 51 Nr. 1 InsO,
+welcher auf § 50 I und II InsO verweise; Heinze ZInsO 2010, 1073 (1076) ebenfalls für
+MüKoInsO/Eckert/Hoffmann InsO § 109 Rn. 34; Jaeger/Jacoby InsO § 109 Rn. 35 f.;
+Kübler/Prütting/Bork/Tintelnot InsO § 109 Rn. 73; Spielbauer/Schneider/Schneider
+Mietrecht BGB § 551 Rn. 11; Guhling/Günter/Geldmacher BGB Anhang zu §§ 562–
+562 d Rn. 331; Döderlein ZMR 2016, 181).
+20(1) Für eine analoge Anwendung des § 50 II 1 Fall 2 InsO auf die Mietsicherheit ist
+jedenfalls dann kein Raum, wenn sie wie im Streitfall in der Form gewährt wird, dass
+der Mieter dem Vermieter ein Sparguthaben verpfändet. Es fehlt an einer tragfähigen
+Grundlage für eine Analogie. Eine solche setzt eine Gesetzeslücke im Sinne einer
+planwidrigen Unvollständigkeit des Gesetzes voraus. Ob eine derartige Lücke
+vorhanden ist, ist vom Standpunkt des Gesetzes und der ihm zugrundeliegenden
+Regelungsabsicht zu beurteilen. Die vom Gesetzgeber nicht beabsichtigte Lücke muss
+dabei aufgrund konkreter Umstände positiv festgestellt werden
+können, weil sonst jedes Schweigen des Gesetzgebers als planwidrige Lücke im Wege
+Diese Voraussetzung ist nicht gegeben.
+21 § 50 I InsO regelt das Absonderungsrecht des Inhabers eines vertraglichen oder
+gesetzlichen Pfandrechts oder eines Pfändungspfandrechts. Wenn in diesem engen
+gesetzlichen Zusammenhang der Gesetzgeber die Einschränkung des § 50 II InsO
+allein für das gesetzliche Pfandrecht des Vermieters und Verpächters anordnet, kann
+von einer planwidrigen Unvollständigkeit des Gesetzes nicht die Rede sein.
+22(2) Das gesetzliche Vermieterpfandrecht und das Vertragspfandrecht sind zudem in
+Bezug auf die Beschränkung des § 50 II 1 InsO nicht vergleichbar.
+23(a) Der Umfang des Vermieterpfandrechts ist – anders als derjenige des
+vertraglichen Pfandrechts – zum Schutz der Mieter (BeckOGK/Reuschle, 2021, BGB § 562 Rn. 13) und aus sozial- und kreditpolitischen Erwägungen (BeckOGK/Reuschle
+BGB § 562 d Rn. 1) bereits im BGB beschränkt. Nach § 562 II BGB (§ 578 I und II 1 BGB)
+kann das Vermieterpfandrecht nicht für künftige Entschädigungsforderungen, also
+auch für Forderungen auf Ersatz des Mietausfalls wegen vorzeitiger Beendigung des
+Mietverhältnisses (BeckOGK/Reuschle BGB § 562 Rn. 13), und für die Miete für eine
+spätere Zeit als das laufende und das folgende Mietjahr geltend gemacht werden.
+Nach § 562 d BGB (§ 578 I und II 1 BGB) setzt sich das Vermieterpfandrecht zudem
+gegenüber dem pfändenden Gläubiger zu dessen Schutz im Hinblick auf die
+Mietrückstände lediglich für das letzte Jahr vor der Pfändung durch. Der Regelung in § 562 d BGB entspricht § 50 II 1 Fall 1 InsO für den Fall der Eröffnung des
+Insolvenzverfahren, welche an die Stelle der Pfändung tritt (BeckOGK/Reuschle BGB § 562 d Rn. 1). § 50 II 1 InsO erweitert die auf künftige Entschädigungsforderungen
+bezogene Beschränkung des Vermieterpfandrechts nach § 562 BGB für den Fall der
+Eröffnung des Insolvenzverfahrens und der Kündigung durch den Verwalter auf den
+Schadensersatzanspruch aus § 109 I 3 InsO (vgl. Döderlein ZMR 2016, 181 (182)).
+24 (b) Hinzu kommt, dass das als Mietkaution gewährte Vertragspfandrecht dem
+Vermieter lediglich den Zugriff auf einen begrenzten und von vornherein feststehenden
+Vermögensgegenstand gestattet, während das gesetzliche Vermieterpfandrecht bei
+unbeschränkter Geltung im Insolvenzverfahren dem Vermieter zum Nachteil der
+übrigen Gläubiger den wesentlichen Teil der Insolvenzmasse sichern könnte.
+25c) Unerheblich ist, dass tatbestandliche Voraussetzung für die gesicherte Forderung
+die Eröffnung des Insolvenzverfahrens über das Vermögen des Mieters und die
+Wahrnehmung des Sonderkündigungsrechts durch den Insolvenzverwalter nach § 109
+I 1 InsO ist. Selbst wenn es sich bei den Ansprüchen entweder aus § 109 I 3 InsO oder
+den schuldrechtlichen Haftungsregelungen gem. §§ 280 ff. BGB (vgl. oben Rn. 8) um
+künftige Forderungen handelte, welche erst nach Eröffnung des Insolvenzverfahrens
+entstanden, konnte an dem Sparguthaben zu ihrer Absicherung nach § 1204 II BGB ein
+Pfandrecht bestellt werden und entstand ein Absonderungsrecht nach § 50 I InsO.
+26aa) Allerdings wird in der Literatur vertreten, dass trotz wirksam bestellten
+Pfandrechts kein Absonderungsrecht bestehe, wenn das Pfandrecht eine künftige
+Forderung absichere und diese Forderung erst nach Insolvenzeröffnung entstehe
+(Jaeger/Windel InsO § 91 Rn. 31; Uhlenbruck/Brinkmann InsO § 50 Rn. 3;
+Kübler/Prütting/Bork/Lüke, InsO, 2011, § 91 Rn. 42; Kübler/Prütting/Bork/Prütting
+InsO, 2015, InsO § 50 Rn. 11; Nerlich/Römermann/Kruth InsO, 2018, InsO § 91 Rn. 23;
+Schmidt/Sternal InsO, 19. Aufl., InsO § 91 Rn. 18; Häsemeyer, Insolvenzrecht, 4. Aufl.,
+Rn. 10.28). Andere meinen, der Pfandgläubiger sei absonderungsberechtigt, auch
+wenn die gesicherte Forderung erst nach der Eröffnung des Insolvenzverfahrens
+entstehe. § 91 I InsO stehe nicht entgegen (Jaeger/Henckel InsO § 50 Rn. 12;
+MüKoInsO/Ganter, 4. Aufl., InsO Vorbemerkung vor §§ 49–52 Rn. 35; FK-
+InsO/Imberger, 9. Aufl., InsO § 50 Rn. 12).
+27bb) Das Absonderungsrecht nach § 50 I InsO entsteht auch mit der wirksamen
+Bestellung eines Pfandrechts an einer bestehenden Forderung zur Absicherung einer
+künftigen Forderung (im Unterschied zur Verpfändung einer künftigen Forderung). Der
+Gesetzeszweck gebietet, dass der Gläubiger – unabhängig vom Entstehen der
+gesicherten Forderung – schon mit der Pfandrechtsbestellung eine insolvenzfeste
+Stellung erwirbt. Eine Verwertung des Pfandes für eine künftige Forderung ist
+allerdings erst mit dem Entstehen und der Fälligkeit der Forderung möglich. Das
+Pfandrecht erlischt außerdem wieder, wenn feststeht, dass die Forderung nicht
+entstehen kann (MüKoInsO/Ganter InsO Vorbemerkung vor §§ 49–52 Rn. 35; HK-BGB,
+2019, BGB § 1204 Rn. 26 f.; Erman/Schmidt BGB, 16. Aufl., BGB § 1204 Rn. 16;
+Jaeger/Henckel InsO § 50 Rn. 12; Becker-Eberhard Die Forderungsgebundenheit der
+Sicherungsrechte, 1993,  ff. (305 ff.); Obermüller/Kuder FS G. Fischer, 2008,
+385 f.). Das folgt einerseits aus der Gleichstellung der künftigen Forderungen mit den
+bedingten in § 1204 II BGB, vor allem aber aus § 1209 BGB. Wenn der Rang des
+Pfandrechts für künftige Forderungen sich nach der Zeit der Pfandrechtsbestellung
+richtet, das Pfandobjekt also in diesem Zeitpunkt schon dem Pfandgläubiger
+ausschließlich als Haftungsgegenstand zugewiesen ist, muss diese Zuweisung auch
+gegenüber der Wirkung der Insolvenzverfahrenseröffnung Bestand haben
+(Jaeger/Henckel InsO § 50 Rn. 12). Der Gesetzgeber hat die Akzessorietät beim
+Mobiliarpfandrecht für eine künftige Forderung gelockert. Bei diesen Rechten gehört
+das Entstehen der gesicherten Forderung gerade nicht zum Verfügungstatbestand
+Möglichkeit geschaffen, mit sofort einsetzender Bindung des Sicherungsgebers
+bereits gegenwärtig für die Sicherung erst später entstehender Ansprüche Sorge zu
+tragen. Dies setzt voraus, dass das Sicherungsgeschäft als solches sofort wirksam
+wird, auch wenn die gesicherte Forderung noch nicht besteht, und das Pfandrecht
+sofort entsteht (Becker-Eberhard,  (286 f.)), auch mit Wirkung für das
+Insolvenzverfahren (Becker-Eberhard, ).
+28d) Die Bekl. durfte das Sparguthaben im Juli 2019 vollständig einziehen und auf ein
+eigenes Konto überweisen lassen, auch wenn ihr Anspruch aus § 109 I 3 InsO oder aus
+§§ 280 ff., 314 IV BGB möglicherweise zu diesem Zeitpunkt nach allgemeinen Regeln
+erst in Höhe von zwei Nettomieten (2 x 2.949,13 EUR = 5.898,26 EUR) fällig war (zur
+Umsatzsteuer vgl. BGH NJW-RR 2018, 714 = NZM 2018, 333 Rn. 25), mithin Pfandreife
+nach § 1282 I 1 und 2 BGB iVm § 1228 II 1 BGB dann nur teilweise eingetreten war. § 1281 BGB steht dem nicht entgegen.
+29aa) Wer eine eigenständige insolvenzrechtliche Anknüpfung des Anspruchs
+annimmt und den Anspruch so berechnet, dass die Miete für die fiktive Restlaufzeit
+nach § 41 II InsO abgezinst und dann der Wert der entfallenden Gebrauchsmöglichkeit
+geschätzt und dieser Betrag abgezogen wird (§ 45  InsO), kommt zu einer Fälligkeit
+des Anspruchs spätestens mit Ablauf der Sonderkündigungsfrist und mit Rückgabe
+der Räumlichkeiten in voller Höhe (Jaeger/Jacoby InsO, 2. Aufl., InsO § 109 Rn. 27 f.,
+33). Pfandreife wäre danach mit Ablauf des 31.5.2019 eingetreten.
+30bb) Wer allerdings den Anspruch als zivilrechtlichen Schadensersatzanspruch
+versteht (Ahrens/Gehrlein/Ringstmeier/Flöther/Wehner Insolvenzrecht, § 109 Rn. 28;
+Uhlenbruck/Wegener InsO § 109 Rn. 11; Nerlich/Römermann/Balthasar InsO, 1999, § 109 Rn. 12; HmbKomm-InsO/Pohlmann-Weide InsO § 109 Rn. 15; FK-InsO/Wegener
+InsO § 109 Rn. 26; MüKoInsO/Eckert/Hoffmann InsO § 109 Rn. 28) oder zumindest die
+Maßstäbe der konkreten Schadensberechnung entsprechend anwendet
+(Kübler/Prütting/Bork/Tintelnot InsO § 109 Rn. 70), wird die zivilrechtlichen
+Grundsätze über den Kündigungsfolgeschaden anwenden. Der Anspruch entstünde
+erst sukzessiv mit den fiktiven Mieten (vgl. dazu mwH Jaeger/Jacoby InsO § 109 Rn.
+32; zum Kündigungsfolgeschaden, insbes. auch zur Fälligkeit des Anspruchs
+Staudinger/Emmerich BGB § 543 Rn. 61 ff.; zur Fälligkeit des Mietausfallschadens
+an die Bekl. am 5.7.2019 erst die Nettomieten für die Monate Juni und Juli 2019 iHv
+insgesamt 5.898,26 EUR fällig gewesen, weil nach § 4 Nr. 1 des Mietvertrags die Miete
+spätestens am dritten Werktag eines jeden Monats zu zahlen war. Mithin waren zu
+diesem Zeitpunkt auch die Schadensersatzansprüche wegen der vorzeitigen
+Beendigung des Mietverhältnisses in dieser Höhe fällig. Nur insoweit wäre nach § 1282
+I 1 und 2, § 1228 II BGB Pfandreife eingetreten gewesen. Dass abweichend von § 1228
+II BGB Pfandreife erst durch den Verzug der Schuldnerin hätte eintreten sollen (vgl.
+hierzu von der Bub/Treier/Osten/Schüller MietR-HdB, Kap. III Rn. 2036), ergibt sich aus
+dem Vortrag der Parteien und den vorgelegten Urkunden nicht. Wegen des
+Differenzbetrags hätte eine Auszahlung allein an die Bekl. auf Grundlage der §§ 1281,
+1282 BGB nicht erfolgen dürfen (vgl. BGH NJW-RR 2013, 820 = NZI 2013, 596 Rn. 17).
+31Doch findet die Vorschrift des § 1281 BGB gem. § 1284 BGB keine Anwendung,
+soweit der Pfandgläubiger und der Gläubiger (Verpfänder) ein anderes vereinbaren.
+Auch in Allgemeinen Geschäftsbedingungen kann vereinbart werden, dass der
+Pfandgläubiger die verpfändete Forderung schon vor Eintritt der Pfandreife kündigen
+und einziehen darf. Das stellt keine unangemessene Benachteiligung des Verpfänders
+iSd § 307 II BGB dar (vgl. OLG Karlsruhe Justiz 2010, 171 (173); Staudinger/Wiegand,
+2019, BGB § 1281 Rn. 8; BeckOGK/Henn BGB § 1281 Rn. 13; Lindner-
+Figura/Oprée/Stellmann/Moeser Kap. 12 Rn. 122; Kinne/Schach/Bieber/Bieber
+MietProzR, 7. Aufl., MietProzR § 551 Rn. 5 a; von der Bub/Treier/Osten/Schüller, Kap.
+III Rn. 2135; aA Soergel/Habersack BGB, 13. Aufl., BGB § 1281 Rn. 2). Überdies wurden
+die Allgemeinen Geschäftsbedingungen von der Schuldnerin (Verpfänderin) gestellt,
+die ein Formular ihrer Bank verwendete (vgl. OLG Karlsruhe Justiz 2010, 171 (173)).
+32Schuldnerin (Verpfänderin) und Bekl. (Pfandgläubigerin) haben vereinbart, dass die
+Bekl. ohne besonderen Nachweis der Fälligkeit der gesicherten Ansprüche berechtigt
+war, unter Vorlage des Sparbuchs jederzeit Auszahlung des verpfändeten Betrags von
+der Bank zu fordern. Deswegen hat die Schuldnerin der Bekl. auch das Sparbuch
+ausgehändigt (§ 808 BGB). Damit haben die Mietvertragsparteien § 1281 BGB
+abbedungen und bestimmt, dass die Bekl. vor Pfandreife das Sparguthaben kündigen
+und einziehen darf. Im Umfang der fälligen Ansprüche der Bekl. gelten ihre
+Forderungen nach § 1288 II BGB als berichtigt. Entsprechendes gilt für die zu diesem
+Zeitpunkt noch nicht fälligen Forderungen (vgl. MüKoBGB/Damrau, 8. Aufl., BGB § 1284 Rn. 2).
+33cc) Mithin durfte die Bekl. das Sparguthaben unabhängig davon in voller Höhe
+einziehen, ob die Schadensersatzforderung am 5.7.2019 schon in Gänze fällig war oder
+nicht. Deswegen muss auch an dieser Stelle die streitige Frage nach der Rechtsnatur
+des Schadensersatzanspruchs des Vermieters nach vorzeitiger Kündigung durch den
+Insolvenzverwalter nicht beantwortet werden.
+34e) Der Verwertung durch die Bekl. standen auch nicht die Vorschriften der §§ 166 ff.
+InsO entgegen; nach § 173 I InsO blieb das Recht der Bekl. zur Verwertung unberührt.
+Der Kl. war nicht nach § 166 II InsO einziehungsbefugt. Diese Vorschrift erlaubt dem
+Verwalter die Einziehung oder anderweitige Verwertung einer Forderung, welche der
+Schuldner zur Sicherung eines Anspruchs abgetreten hatte. Auf verpfändete
+Forderungen ist sie nicht, auch nicht entsprechend, anwendbar (BGH NJW-RR 2013,
+820 = NZI 2013, 596 Rn. 15).
+354. Die Feststellungen der Vorinstanzen zur Höhe des Schadens wegen vorzeitiger
+Beendigung des Mietverhältnisses werden vom Kl. in der Revisionsinstanz nicht
+angefochten. Daher muss nicht entschieden werden, wie dieser Schaden im Einzelnen
+zu berechnen ist.
+Anmerkung der Redaktion
+S. hierzu die Anm. Dahl/Linnenbrink NZI 2022, 376. – Zum Vermieterpfandrecht
+allgemein s. Bruns NZM 2019, 46. Speziell zum Vermieterpfandrecht in der Insolvenz
+s. Dahl NJW-Spezial 2009, 549 und Lütcke NZI 2014, 1035.

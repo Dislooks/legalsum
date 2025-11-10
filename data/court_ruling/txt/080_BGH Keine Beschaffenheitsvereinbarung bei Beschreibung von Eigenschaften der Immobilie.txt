@@ -1,0 +1,330 @@
+der Immobilie
+* Keine Beschaffenheitsvereinbarung bei Beschreibung von Eigenschaften der
+Immobilie
+BGB §§ 434 I Nr. 1, 444
+Eine Beschreibung von Eigenschaften eines Grundstücks oder Gebäudes vor
+Vertragsschluss durch den Verkäufer, die in der notariellen Urkunde keinen
+Niederschlag findet, führt in aller Regel nicht zu einer Beschaffenheitsvereinbarung
+nach § 434 I Nr. 1 BGB.
+BGH, Urteil vom 6.11.2015 – V ZR 78/14
+Zum Sachverhalt
+Mit notariellem Vertrag vom 18.12.2009 verkauften die Bekl. an den Kl. und dessen
+Ehefrau ein 2002/2003 mit einem Wohnhaus bebautes Grundstück zum Preis von
+550.000 Euro. In dem Kaufvertrag wurden die Rechte der Käufer wegen Sachmängeln
+des Grundstücks und des Gebäudes ausgeschlossen. Das Grundstück hatten die Bekl.
+zuvor in einem Exposé und auf ihrer Internetseite angeboten und darin eine Wohnfläche
+von ca. 200 m2 und eine Nutzfläche von ca. 15 m2 angegeben. Den Käufern hatten sie
+auf Nachfrage Grundrisszeichnungen der drei Geschosse (Erdgeschoss,
+Obergeschoss und Dachgeschoss) mit Angaben der Flächenmaße ausgehändigt, aus
+deren Addition sich für die Räume und die Dachterrasse eine Fläche von insgesamt
+215,3 m2 ergibt. Die Käufer ließen später die Wohnfläche des Gebäudes durch einen
+Architekten berechnen, der unter Zugrundelegung der Wohnflächenverordnung eine
+tatsächliche Gesamtwohnfläche von 171,74 m2 ermittelte. Darauf gestützt hat der Kl.
+aus eigenem und abgetretenem Recht seiner Ehefrau von den Bekl. eine Zahlung von
+66.411 Euro zuzüglich Zinsen als Kaufpreisminderung und den Ersatz weiterer
+Schäden (wegen zu viel gezahlter Grunderwerbsteuer von 2324,28 Euro und
+Bankzinsen von 7198,41 Euro zuzüglich Zinsen und den Ersatz außergerichtlicher
+Rechtsanwaltskosten von 2594,20 Euro) verlangt.
+Die Klage ist in den Tatsacheninstanzen ohne Erfolg geblieben (LG Verden, Urt. v.
+Aus den Gründen
+5II. (...) 1. Ansprüche des Käufers wegen eines Sachmangels nach §§ 434 ff. BGB
+infolge einer unrichtigen Erklärung des Verkäufers über die Wohnfläche des verkauften
+Wohnhauses setzen voraus, dass deren Größe als Beschaffenheit der Kaufsache
+vertraglich vereinbart wurde (§ 434 I 1 BGB) oder dass der Käufer nach den
+öffentlichen Äußerungen des Verkäufers eine bestimmte Größe der Wohnfläche
+erwarten durfte (§ 434 I 3 BGB).
+6a) Aus den Angaben der Bekl. in dem Exposé und in den im Internet publizierten
+Anzeigen ergibt sich schon deshalb keine Haftung nach § 434 I 3 BGB, weil die
+tatsächliche Wohnfläche der Räume nicht von der Größe abweicht, die ein
+durchschnittlicher Käufer bei einer Wohnflächenangabe von ca. 200 m2 erwarten
+durfte. Dies ergibt sich daraus, dass die tatsächliche Fläche aller Räume und der
+Dachterrasse nach dem eigenen, auf ein Sachverständigengutachten gestützten
+Vortrag des Kl. über 200 m2 beträgt und die Fragen, ob und in welchem Umfang der
+Hauswirtschaftsraum und die Dachterrasse bei der Berechnung die Wohnfläche in
+Ansatz zu bringen sind, Bewertungstoleranzen unterliegen (dazu unten II 2 b aa) und
+eine bestimmte Berechnungsgrundlage im Exposé nicht genannt worden ist. Die
+Revision stützt den Anspruch der Kl. auch nicht auf die Haftung des Verkäufers wegen
+Fehlens einer nach dessen öffentlichen Äußerungen zu erwartenden Eigenschaft der
+Kaufsache gem. § 434 I 3 BGB, sondern auf eine Beschaffenheitsvereinbarung nach § 434 I 1 BGB.
+7b) Die Angaben im Exposé der Bekl. und in ihren Anzeigen sind nicht Gegenstand einer
+Beschaffenheitsvereinbarung der Parteien nach § 434 I 1 BGB geworden; das folgt
+bereits daraus, dass die Flächenangabe durch die den Käufern vor Vertragsschluss
+ausgehändigten Grundrisszeichnungen mit Angaben über die Flächen der einzelnen
+Räume und der jeweiligen Geschosse konkretisiert worden ist.
+8c) Rechtsfehlerhaft ist jedoch die Auffassung des BerGer., dass eine durch die
+Aushändigung der Grundrisszeichnungen konkludent getroffene
+Beschaffenheitsvereinbarung nach § 434 I 1 BGB durch den vertraglich vereinbarten
+Ausschluss der Haftung des Verkäufers für Sachmängel erfasst wird. Diese
+Vertragsauslegung widerspricht der Rechtsprechung des BGH.
+9Eine Beschaffenheitsvereinbarung setzt keine ausdrücklichen Erklärungen der
+Parteien voraus, sondern kann sich auch aus den Umständen des Vertragsschlusses
+wie etwa dem Kontext der dabei geführten Gespräche oder den bei dieser Gelegenheit
+1074 Rn. 16). Verhält es sich so, kann der Verkäufer sich nicht auf einen allgemeinen
+Haftungsausschluss berufen. Die Auslegungsregel, nach der sich ein zwischen den
+Parteien vereinbarter allgemeiner Ausschluss der Haftung für Sachmängel nicht auf
+eine von den Parteien nach § 434 I 1 BGB vertraglich vereinbarte Beschaffenheit
+Beschaffenheit der Kaufsache nicht ausdrücklich, sondern „nur“ konkludent vereinbart
+10d) Das angefochtene Urteil stellt sich jedoch im Ergebnis als richtig dar (§ 561 ZPO).
+Anders als das BerGer. meint, fehlt es bereits an einer Beschaffenheitsvereinbarung.
+Bei den Rechtsgeschäften, die der notariellen Beurkundung bedürfen, ist allerdings
+streitig, ob und unter welchen Voraussetzungen durch Äußerungen des Verkäufers
+über bestimmte Eigenschaften der Kaufsache im Vorfeld des Vertragsschlusses eine
+Beschaffenheitsvereinbarung nach § 434 I 1 BGB zu Stande kommt, wenn die Angaben
+in der notariellen Urkunde keinen Niederschlag finden.
+11aa) Das OLG Koblenz bejaht das unter Bezugnahme auf die vorstehend zitierte
+Rechtsprechung des BGH. In der notariellen Kaufvertragsurkunde nicht erwähnte und
+deshalb formunwirksame Beschaffenheitsvereinbarungen würden mit Auflassung und
+Eintragung nach § 311 b I 2 BGB wirksam (vgl. OLG Koblenz, DWE 2015, 121 [122]).
+12Anderer Ansicht sind das OLG Brandenburg (NZM 2010, 712 [714]), das OLG Bremen
+(NJW-RR 2014, 791 = NZM 2014, 401), das OLG Hamm (Urt. v. 18.6.2009 – I-22 U
+Einzelnen unterschiedlichen Begründungen – das Zustandekommen einer
+Beschaffenheitsvereinbarung aus vorvertraglichen Angaben des Verkäufers über
+Eigenschaften der Kaufsache, die im notariellen Vertrag keinen Niederschlag gefunden
+haben. Gestützt wird das darauf, dass es sich bei solchen Angaben um bloße
+Objektbeschreibungen handele (OLG Brandenburg, NZM 2010, 712 [714]), von einem
+Rechtsbindungswillen des Verkäufers in diesen Fällen nicht ausgegangen werden
+könne (OLG Bremen, NJW-RR 2014, 791 = NZM 2014, 401), die Parteien im Zweifel nur
+die vor
+BGH: * Keine Beschaffenheitsvereinbarung bei Beschreibung von
+dem Notar abgegebenen Erklärungen zum Gegenstand ihrer vertraglichen Einigung
+oder solche Aussagen sich als bloße Wissenserklärungen des Verkäufers darstellten
+13bb) Das Schrifttum befasst sich nur vereinzelt mit der Frage, ob aufgrund einer
+Äußerung des Verkäufers über eine bestimmte Eigenschaft des Kaufgegenstands eine
+Beschaffenheitsvereinbarung zu Stande kommt, wenn diese in der Vertragsurkunde
+keinen Niederschlag gefunden hat (bejahend Thau in NK-BGB, 2. Aufl., Anh. I zu §§ 433–480 Rn. 77; auch bei den nicht beurkundungsbedürftigen Geschäften vereinend
+Höffmann, ZGS 2011, 299).
+14Im Allgemeinen wird davon ausgegangen, dass es für eine
+Beschaffenheitsvereinbarung genüge, wenn der Verkäufer die Eigenschaften der
+verkauften Sache in bestimmter Weise beschreibe und der Käufer vor diesem
+Hintergrund seine Entscheidung treffe (BeckOK BGB/Faust, 36. Ed., § 434 Rn. 45;
+Erman/Grunewald, BGB, 14. Aufl. 2014, § 434 Rn. 16; Schulze in HK-BGB, § 434 Rn. 8;
+jurisPK/Pammler, 7. Aufl., § 434 Rn. 42; Palandt/Weidenkaff, BGB, 74. Aufl. 2015, Rn.
+17). Zugleich wird die Auffassung vertreten, dass Beschaffenheitsvereinbarungen der
+für den Vertrag vorgesehenen Form bedürften (insoweit allgM, Jauernig/Berger, BGB,
+15. Aufl., Rn. 9; jurisPK/Pammler, § 434 Rn. 39; MüKoBGB/Westermann, 6. Aufl., § 434
+Rn. 16; Palandt/Weidenkaff, § 434 Rn. 18; Schmidt in Prütting/Wegen/Weinreich, BGB,
+10. Aufl., § 434 Rn. 30; Staudinger/Matusche-Beckmann, BGB, Neubearb. 2013, § 434
+Rn. 72) und daher – wenn das Gesetz eine bestimmte Form vorschreibe – in die
+Vertragsurkunde selbst aufgenommen werden müssten (BeckOK BGB/Faust, § 434
+Rn. 40; Grigoleit/Herresthal, JZ 2003, 233 [239]; Schmidt in Prütting/Wegen/Weinreich,
+§ 434 Rn. 27: „Einigung in Vertragsform“). Nicht erörtert wird, inwieweit die
+Beurkundungsbedürftigkeit des Vertrags der Annahme entgegensteht,
+Beschaffenheitsvereinbarungen könnten durch Beschreibungen bestimmter
+Eigenschaften der Kaufsache durch den Verkäufer im Vorfeld des Vertragsschlusses
+zu Stande kommen.
+15cc) Der Senat entscheidet die Rechtsfrage dahin, dass eine Beschreibung von
+Eigenschaften eines Grundstücks oder Gebäudes durch den Verkäufer vor
+Vertragsschluss, die in der notariellen Urkunde keinen Niederschlag findet, in aller
+Regel nicht zu einer Beschaffenheitsvereinbarung nach § 434 I 1 BGB führt.
+Informationen über Eigenschaften der Kaufsache sind auch nach neuem Kaufrecht von
+den beurkundungsbedürftigen Vereinbarungen der Parteien zu unterscheiden (vgl. zum
+DNotZ 1986, 78 [79]).
+16(1) (a) Diese Abgrenzung ist deshalb geboten, weil die Parteien bei einem
+beurkundungsbedürftigen Rechtsgeschäft alle Erklärungen in den Vertrag aufnehmen
+müssen, die eine Regelung enthalten, das heißt Rechtswirkungen erzeugen sollen
+gehören die Vereinbarungen über die Beschaffenheit nach § 434 I 1 BGB. Sie
+konkretisieren die Verpflichtung des Verkäufers nach § 433 I 2 BGB, dem Käufer die
+Sache frei von Sachmängeln zu verschaffen, dahingehend, dass dieser – abweichend
+von den in § 434 I 2 BGB bestimmten allgemeinen Anforderungen – dem Käufer eine
+der individuell vereinbarten Beschaffenheit gemäße Sache schuldet (Lemke/Czub,
+Immobilienrecht, § 311 b BGB Rn. 45; Grigoleit/Herresthal, JZ 2003, 233 [239]). Dass
+die Parteien eine solche Bindung gewollt haben – selbst wenn in der Urkunde zu der
+Vereinbarung einer Beschaffenheit nichts aufgenommen wurde – ist vor dem
+Hintergrund des ihnen bekannten Beurkundungserfordernisses in aller Regel nicht
+anzunehmen.
+17(b) Ein solches Verständnis der vorvertraglichen Angaben des Verkäufers entspricht
+dem Grundsatz einer nach beiden Seiten hin interessengerechten Vertragsauslegung
+ausgehen, dass der Verkäufer mit ihm eine bestimmte Beschaffenheit des
+Grundstücks oder Gebäudes – mit der Folge einer nicht ausschließbaren Haftung –
+vereinbaren will, wenn die geschuldete Beschaffenheit im Kaufvertrag nicht erwähnt
+wird. Die vorvertraglichen Beschreibungen der Eigenschaften der Kaufsache durch den
+Verkäufer werden deshalb nicht bedeutungslos, da dieser bei ihm bekannter
+Unrichtigkeit der Information dem Käufer haftet (dazu unter II 2).
+18(c) Dieses Verständnis vorvertraglicher Beschreibungen gebietet auch der
+Auslegungsgrundsatz, wonach im Zweifel derjenigen Auslegung der Vorzug gebührt,
+die die Nichtigkeit des Rechtsgeschäfts vermeidet (vgl. BGHZ 152, 153 [158 f.] = NJW
+2003, 819; BGH, GRUR 2011, 946 Rn. 26). Mit diesem wäre es nicht vereinbar, bei
+vorvertraglichen Äußerungen des Verkäufers über Eigenschaften des
+Kaufgegenstands nicht beurkundete Beschaffenheitsvereinbarungen anzunehmen;
+denn dies hätte die Nichtigkeit des Vertrags nach § 125  BGB wegen
+Nichteinhaltung der gesetzlichen Formvorschrift zur Folge (so zutr. Büdenbender in
+NK-BGB, 2. Aufl., § 434 Rn. 19). Die Möglichkeit einer Heilung der Formnichtigkeit nach
+§ 311 b I 2 BGB mit Auflassung und Eintragung stellt den vorstehenden Grundsatz nicht
+in Frage. Die Parteien wollen im Zweifel keinen Vertrag schließen, der wegen
+Nichtbeurkundung einer Beschaffenheitsvereinbarung formnichtig wäre. Dies hätte
+unter anderem zur Folge, dass eine zur Sicherung des Anspruchs des Käufers
+eingetragene Auflassungsvormerkung nicht entstünde und damit keinen Schutz nach
+§ 883 II BGB gegenüber zwischenzeitlichen Verfügungen und
+Vollstreckungsmaßnahmen böte. Zudem kann sich keine Partei sicher sein, dass die
+Heilung eintritt, weil es jeder Seite freisteht, sich bis zur Eintragung der Rechtsänderung
+auf die Formunwirksamkeit der Vereinbarung zu berufen.
+19(2) Der oben genannte Auslegungsgrundsatz steht nicht im Widerspruch zu Art. 2 II
+Buchst. a RL 1999/44/EG des Europäischen Parlaments und des Rates vom 25.5.1999
+zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für
+Verbrauchsgüter, ABl. 1999 L 171, 12 (im Folgenden Verbrauchsgüter-RL). Danach wird
+vermutet, dass Verbrauchsgüter vertragsgemäß sind, wenn sie mit der von dem
+Verkäufer gegebenen Beschreibung übereinstimmen. Die Richtlinie gebietet bei einem
+Verkauf von Verbrauchsgütern allerdings eine weite Auslegung des § 434 I 1 BGB, die
+keine hohen Anforderungen an das Zustandekommen einer Vereinbarung stellt. Bei
+den Kaufverträgen über Grundstücke und Gebäude, die keine Verbrauchsgüter im Sinne
+der Begriffsbestimmung in Art. 1 II Buchst. b Verbrauchsgüter-RL sind, ist jedoch eine
+engere Auslegung der Vorschrift geboten, die den Zwecken des gesetzlichen
+Formzwangs Rechnung trägt. Dieser soll die Vertragsparteien vor übereilten Verträgen
+bewahren, sie auf die Wichtigkeit des Geschäfts hinweisen und ihnen die Möglichkeit
+zu rechtskundiger Belehrung und Beratung eröffnen (Senat, BGHZ 83, 395 [397] = NJW
+Beurkundung wäre entscheidend in Frage gestellt, wenn schon die vorvertragliche
+Beschreibung bestimmter Eigenschaften des Grundstücks oder Gebäudes zu einer
+Beschaffenheitsvereinbarung führte, ohne dass in dem notariellen Vertrag dazu etwas
+erklärt ist. Auch der mit dem Beurkundungszwang verfolgte weitere Zweck,
+BGH: * Keine Beschaffenheitsvereinbarung bei Beschreibung von
+den Parteien eine rechtskundige Beratung und Belehrung zukommen zu lassen, würde
+verfehlt werden, wenn schon Äußerungen des Verkäufers im Vorfeld des
+Vertragsschlusses zu Beschaffenheitsvereinbarungen nach § 434 I 1 BGB führten.
+Dies ist nämlich Gegenstand der Verhandlung vor dem Notar. Bei dieser hat der Notar
+gem. § 17 I BeurkG den Willen der Parteien zu ermitteln. Dazu gehört auch die
+Feststellung, ob Beschaffenheitsvereinbarungen, auf deren rechtliche Tragweite
+hinzuweisen ist, getroffen werden sollen.
+20(3) Anderes ergibt sich auch nicht aus der zum früheren Kaufrecht ergangenen
+Rechtsprechung des Senats. Die Revision weist zwar zutreffend darauf hin, dass nach
+dieser eine verkaufte Wohnung auch dann einen Fehler nach § 459 I 1 BGB aF
+aufweisen konnte, wenn die Wohnfläche weder in dem notariellen Vertrag noch in den
+darin in Bezug genommenen Unterlagen, sondern allein in einem dem Käufer zuvor
+aber für die Entscheidung der Frage, unter welchen Voraussetzungen von einer in der
+notariellen Urkunde nicht erwähnten Beschaffenheitsvereinbarung auszugehen ist,
+ebenso wenig weiter wie der Hinweis der Erwiderung darauf, dass der Senat für den
+Anspruch des Käufers wegen Fehlens einer zugesicherten Eigenschaft (§§ 463 ,
+459 II BGB aF) stets eine beurkundete Erklärung des Verkäufers in Vertragsform für
+Rechtsprechung beruhte auf der – bei der regelmäßigen Vereinbarung eines
+Gewährleistungsausschlusses nach § 476 BGB aF – wesentlichen Unterscheidung
+zwischen bloßen vertraglichen Beschaffenheitsangaben nach § 459 I BGB aF und
+Auslegungsgrundsätze können nicht mehr angewendet werden, weil nunmehr bereits
+die Vereinbarung einer Beschaffenheit nach § 434 I 1 BGB zu einer Verkäuferhaftung
+wegen Sachmängeln gem. §§ 434, 437 BGB führt, die – anders als die Haftung des
+Verkäufers für Fehler gem. § 459 I BGB aF – durch einen allgemeinen
+Haftungsausschluss nicht mehr abbedungen wird. Vor diesem Hintergrund sind
+strengere Anforderungen an das Zustandekommen einer
+21(4) Nach diesen Grundsätzen hat die Übergabe der Grundrisszeichnungen nicht zu
+einer Beschaffenheitsvereinbarung geführt. Die Zeichnungen mit den Flächenangaben
+dienten allein der Information der Käufer auf deren Nachfrage zu der im Exposé
+angegebenen Wohnflächengröße von ca. 200 m2.
+Da in dem Notarvertrag weder die Größe der Wohnfläche angegeben ist noch die
+überreichten Unterlagen erwähnt sind, ist eine Vereinbarung über die Beschaffenheit
+nach § 434 I 1 BGB nicht zu Stande gekommen. Soweit der Beschluss des Senats vom
+vorvertragliche Angaben des Verkäufers (zur Größe der Wohnfläche in einem Exposé)
+mit dem Vertragsschluss konkludent eine entsprechende
+Beschaffenheitsvereinbarung nach § 434 I 1 BGB zu Stande kommt, hält er daran nicht
+fest.
+222. Dem Kl. steht auch kein Schadensersatzanspruch aus vorvertraglichem
+Verschulden zu (§ 280 I iVm §§ 241 II, 311 II BGB). Solche Ansprüche wegen
+unrichtiger Information oder wegen unterlassener Aufklärung kommen hier aus zwei
+Gründen in Frage. Die Wohn- und Nutzflächen sind 13,34 m2 kleiner als in den
+Grundrisszeichnungen angegeben, weil abweichend von den Zeichnungen gebaut
+worden ist. Zudem soll die sich aus den Grundrisszeichnungen ergebende Wohnfläche
+bei einer Ermittlung nach §§ 42–44 der II. Berechnungsverordnung in der im Zeitpunkt
+des Vertragsschlusses geltenden Fassung vom 12.10.1990 (BGBl. I 1990, 2178) nach
+Darstellung des Kl. nur 182,5 m2 und nicht – wie die Bekl. meinen – 201,5 m2 betragen.
+23a) Die Klage wäre allerdings (teilweise) begründet, wenn die Bekl. gewusst hätten,
+dass die Angaben auf den Grundrisszeichnungen deswegen unrichtig waren, weil die
+Räume kleiner sind als auf den Zeichnungen dargestellt.
+24aa) Vorsätzliche falsche Angaben des Verkäufers über Eigenschaften der
+Kaufsache, die nicht Gegenstand einer Beschaffenheitsvereinbarung geworden sind,
+begründen einen Anspruch des Käufers auf Schadensersatz aus der Verletzung
+vorvertraglicher Pflichten. Dieser Anspruch wird auch nach Gefahrübergang nicht
+durch die Vorschriften über die Haftung des Verkäufers wegen eines Sachmangels
+dass der Käufer als Vertrauensschaden von dem Verkäufer den Betrag verlangen kann,
+um den er den Kaufgegenstand zu teuer erworben hat (vgl. Senat, BGHZ 168, 35 = NJW
+25bb) An einem vorsätzlichen Verhalten des Verkäufers, das der Käufer darlegen und
+hier jedoch. Arglistiges Verhalten des Verkäufers setzt die Kenntnis der Tatsachen
+voraus, aus denen sich die Unrichtigkeit seiner Angaben ergibt. Diese Voraussetzung
+des Vorsatzes kann nicht durch wertende Überlegungen ersetzt werden (vgl. Senat,
+NJW-RR 2003, 989 [990]). Dass die relevanten Umstände erkennbar waren und die Bekl.
+sie (als Makler, Bauherrn und Bewohner des Hauses) hätten kennen können oder
+kennen müssen, reicht für die Feststellung des Vorsatzes nicht aus, sondern
+rechtfertigt nur den Vorwurf der Fahrlässigkeit (vgl. BGH, NJW-RR 2012, 404 Rn. 10).
+Die Annahme des BerGer., dass sich aus dem unbestrittenen Vortrag des Kl. eine
+Kenntnis der Bekl. von der Flächenabweichung nicht ergibt, ist rechtsfehlerfrei.
+Anderes folgt entgegen der Ansicht der Revision auch nicht daraus, dass den Bekl. eine
+Angabe des Architekten in der Bauakte über eine Wohnfläche von 181 m2 bekannt war.
+Daraus ist nicht der Schluss zu ziehen, dass die Bekl. wussten, dass kleiner als auf den
+Zeichnungen dargestellt gebaut worden war. Die Revision verweist selbst auf Vortrag
+des Kl., dass sich aus den Grundrissen (nach der Wohnflächenverordnung oder der
+Zweiten Berechnungsverordnung) eine Wohnfläche von 182,5 m2 ergibt; dies
+entspricht der Wohnfläche, die der Architekt in dem Bogen des Landesamts für
+Statistik angegeben hat.
+26b) Die Klage ist schließlich nicht deswegen begründet, weil die Bekl. die Käufer nicht
+darauf hingewiesen haben, dass die sich nach den Grundrisszeichnungen ergebende
+Wohnfläche nicht ca. 200 m2, sondern – wie der Kl. vorträgt – nur 182,5 m2 beträgt.
+27aa) Dabei kann dahinstehen, ob die Prämisse des darauf gestützten Angriffs der
+Revision zutrifft oder ob die Behauptung der Bekl. richtig ist, dass sich nach §§ 42–
+44 II. BV eine Wohnfläche von 201,5 m2 errechne, weil die Grundflächen des
+Hauswirtschaftsraums ganz und die der Dachterrasse zur Hälfte anzusetzen seien.
+Für die Dachterrasse ist Letzteres richtig, weil nach § 44 II der II. BV die Grundflächen
+von Balkonen, Loggien, Dachgärten und gedeckten Freisitzen zur Ermittlung der
+2009, 477 Rn. 21). Die Grundfläche von Wirtschaftsräumen gehört zwar nach § 42 IV
+Nr. 4 der
+BGH: * Keine Beschaffenheitsvereinbarung bei Beschreibung von
+II. BV aF nicht zur Wohnfläche, wobei aber solche Räume nicht als Wirtschaftsräume
+angesehen werden, die nach Art und Ausstattung als Wohnraum genutzt werden
+könnte hier auf den über 9 m2 großen Hauswirtschaftsraum zutreffen. Die Frage, ob
+die Wohnflächenangabe von ca. 200 m2 unter Zugrundelegung der Zweiten
+Berechnungsverordnung richtig gewesen ist, kann jedoch offenbleiben.
+28bb) Die angegriffene Entscheidung stellt sich nämlich auch dann als richtig dar, wenn
+die sich aus den Zeichnungen ergebende Wohnfläche bei einer Ermittlung nach §§ 42–
+44 II. BV aF kleiner als im Exposé angegeben gewesen sein sollte.
+29(1) Den Verkäufer, der über die Größe der Wohnfläche durch Übergabe von
+Grundrisszeichnungen mit Maßen und Angaben zu den Raumgrößen informiert, trifft
+keine weitergehende Aufklärungspflicht. Der Kaufinteressent kann nach Treu und
+Glauben (§ 242 BGB) und den im Verkehr herrschenden Anschauungen nicht erwarten,
+auch darüber informiert zu werden, welche Wohnfläche das zum Verkauf stehende
+Haus nach den für deren Ermittlung einschlägigen Normen (DIN 283, §§ 42–44 II. BV
+aF, §§ 2–4 WoFlV) hat. Dem steht bereits entgegen, dass es eine gesetzliche
+Bestimmung zur Berechnung der Wohnflächen selbst genutzter Wohnhäuser nicht gibt
+und die Normen zur Wohnflächenermittlung zum Teil unterschiedlich regeln, welche
+Flächen der Räume und der nutzbaren Freiflächen (Balkone, Loggien, Terrassen usw.)
+zur Wohnfläche gehören. Ein allgemeiner, eindeutiger Sprachgebrauch über den Begriff
+Aufklärungspflicht würden überspannt, wenn jeder Verkäufer von sich aus weitere
+Angaben dazu machen müsste, auf welcher Grundlage die Angabe der Wohnfläche des
+in einem Inserat oder in einem Exposé zum Kauf angebotenen Gebäudes oder
+Wohnung beruht. Hierzu wird ein Verkäufer, der nicht über besondere Fachkenntnisse
+verfügt, regelmäßig nicht in der Lage sein. Will der Käufer darüber näheren Aufschluss
+erhalten, muss er nachfragen und, wenn der Verkäufer ihm die erbetenen
+Informationen nicht erteilen kann, sich selbst anhand der ihm ausgehändigten
+Unterlagen kundig machen.
+30(2) Offenbleiben kann, ob ein fachkundiger Verkäufer (wie bspw. ein
+Immobilienmakler) zu weitergehenden Informationen zu den Grundlagen seiner
+Berechnung verpflichtet ist. Selbst wenn man das annähme, fehlte es an einem
+arglistigen Verhalten der Bekl. Dazu hätten sie wissen müssen, dass ihre Angabe zur
+Wohnfläche von der nach der Verkehrssitte oder dem Ortsgebrauch üblichen Praxis (zu
+595 Rn. 15) abweicht und sie damit gerechnet haben, dass die Käufer das nicht
+wussten und bei Offenbarung dieses Umstands den Kauf nicht oder nicht mit dem
+vereinbarten Inhalt abgeschlossen hätten (allg. zu den Voraussetzungen der Arglist
+31Dass die Bekl. Kenntnis davon hatten, dass die Wohnfläche unter Zugrundelegung
+der §§ 42–44 II. BV nicht ca. 200 m2 beträgt, ist von dem beweisbelasteten Kl. nicht
+nachgewiesen. Das BerGer. verneint das rechtsfehlerfrei unter Hinweis darauf, dass
+der Kl. dem (unter Beweis gestellten) Vortrag der Bekl., von ihrem Architekten dahin
+informiert worden zu sein, dass die Wohnfläche ca. 200 m2 betrage, nicht mit einem
+unter Beweis gestellten eigenem Vortrag entgegengetreten ist. Eine solche Kenntnis
+der Bekl. ergibt sich entgegen der Ansicht der Revision auch nicht daraus, dass sie
+selbst vorgetragen haben, die sich aus den Grundrisszeichnungen nach der Zweiten
+Berechnungsverordnung ergebende Wohnfläche betrage 201,5 m2. Vor dem
+Hintergrund der oben (unter II 2 b aa) genannten Spielräume für den Bauherrn bei dem
+Ansatz der Dachterrassen und der Unsicherheiten bei der Berücksichtigung nicht zum
+Wohnen vorgesehener, aber dazu nutzbarer Räume beweist dieser Vortrag der Bekl.
+ebenso wenig wie die Angabe einer Wohnfläche von 181 m2 durch den Architekten auf
+einem Bogen in der Bauakte, dass die Bekl. wussten, dass sich bei einer üblichen
+Ermittlung der Wohnfläche nach der Zweiten Berechnungsverordnung eine um ca.
+18 m2 kleinere Fläche ergibt.
+32Angesichts dessen, dass die Bekl. mit der Übergabe der Grundrisszeichnungen auch
+die Grundlagen ihrer Berechnung offenbart haben, kann nicht davon ausgegangen
+werden, dass sie damit rechneten, dass die Käufer bei einem Hinweis auf eine
+(möglicherweise) abweichende Ermittlung der Wohnfläche nach der Zweiten
+Berechnungsverordnung den Kaufvertrag nicht oder nicht wie vereinbart
+abgeschlossen hätten. Bei der Berechnung der Fläche der Räume im Erdgeschoss (in
+dem sich der Hauswirtschaftsraum befindet), ist das Maß als Nutzfläche, berechnet
+nach DIN 283, bezeichnet worden. Aus dieser Angabe und den zu einzelnen Räumen
+genannten Quadratmeterangaben war für die Käufer durch Addition der Flächenmaße
+offensichtlich, dass die Bekl. den Hauswirtschaftsraum in die von ihnen angegebene
+Wohnfläche einbezogen hatten.
+Anmerkung der Redaktion
+Mit der unbemerkten Beschaffenheitsvereinbarung im Immobilienvertrag unter
+diesem Heft). – Zum sittenwidrigen Missverhältnis von Leistung und Gegenleistung bei

@@ -1,0 +1,505 @@
+Interventionswirkung bei Streitverkündung – Maklertätigkeit
+ZPO §§ 67, 68, 74
+1. Bei einem Beitritt des Streitverkündeten aufseiten des Prozessgegners des
+Streitverkünders tritt die Interventionswirkung gem. § 74 II und III ZPO in Verbindung
+mit § 68 ZPO in gleicher Weise ein wie bei einem unterlassenen Beitritt.
+2. Die Interventionswirkung des § 68 ZPO ergreift den im Vorprozess geltend
+gemachten Anspruch und wirkt auch im Folgeprozess, in dem dieser Anspruch aus
+abgetretenem Recht geltend gemacht wird.
+3. Die Interventionswirkung tritt im Folgeprozess zwar nicht ein, soweit der dem
+Rechtsstreit im Vorprozess nicht beigetretene Streitverkündete im Falle seines
+Beitritts nach § 67 ZPO gehindert gewesen wäre, auf den Verlauf des Vorprozesses
+Einfluss zu nehmen. Tritt der Streitverkündete dem Rechtsstreit im Vorprozess jedoch
+nicht aufseiten des Streitverkünders, sondern aufseiten von dessen Prozessgegners
+bei, kommen ihm die sich aus § 67 ZPO ergebenden Beschränkungen der
+Interventionswirkung nicht zugute.
+BGH, Urteil vom 19.11.2020 – I ZR 110/19
+NJW-Übersicht
+Rn.
+Kein Provisionsanspruch aus § 652 I BGB
+20 ff.
+Möglicher Anspruch aus § 179 I BGB
+23 ff.
+Streitverkündung im Vorprozess
+26 ff.
+– Umfang der Bindungswirkung
+27 ff.
+– Zulässigkeit der Streitverkündung
+30 ff.
+– Beitritt aufseiten des Prozessgegners
+33 ff.
+– Beurteilung im Vorprozess
+38 ff.
+– Konkludent geschlossener Maklervertrag
+
+– Keine überschießenden Feststellungen
+48 ff.
+– Reichweite der Interventionswirkung
+54 ff.
+– Begrenzte Feststellungen zum Vertragsinhalt
+
+Haftung bei vollmachtloser Vertretung
+59 ff.
+Zum Sachverhalt
+Die Bekl. war Verwalterin der W (im Folgenden: Eigentümerin) für die in deren Eigentum
+stehenden Häuser K. 7–9 in A. (im Folgenden: Objekt). Die CA (im Folgenden:
+Zedentin), eine auf Gewerbeimmobilien spezialisierte Maklerin aus A., die ihre
+Ansprüche an die Kl. abgetreten hat, hatte bereits im Jahr 2007 vergeblich versucht, für
+die Bekl. eine kleinere Teilfläche des Objekts von 500–1.800 m² zu vermitteln. Mit
+Schreiben vom 30.3.2007 hatte sie das Einverständnis der Eigentümerin für etwaige
+provisionspflichtige Maklertätigkeiten erbeten. Die Bekl. hatte ihr mit Schreiben vom
+2.5.2007 mitgeteilt, dass die Eigentümerin bereit sei, die Provisionsregelungen der
+Zedentin zu akzeptieren. Mit Schreiben vom 19.5.2009 wandte sich die Bekl. als
+bevollmächtigte Verwalterin des Objekts an die Zedentin mit der Bitte um
+Unterstützung bei der Vermietung von Büroflächen in dem Objekt von 1.600 m². Die
+Bekl. korrespondierte mit der Eigentümerin wegen der Einschaltung von Maklern und
+möglicher Provisionskonditionen. Die Zedentin entfaltete verschiedene Tätigkeiten.
+Mitte 2010 wurden weitere Flächen in dem Objekt frei, so dass fast 11.000 m² zur
+Vermietung anstanden. Die Bekl. informierte die R., die eine Teilfläche in dem Objekt
+angemietet hatte, dass es Gespräche gebe, die kompletten Gebäude neu zu vermieten,
+und es deshalb zu einer Kündigung des Mietvertrags kommen könne. Hierdurch erhielt
+die R. Kenntnis davon, dass in den Gebäuden größere Flächen zur Anmietung frei
+waren. Die Zedentin führte Besichtigungstermine durch. Der Erstbesichtigungstermin
+mit einem Vertreter der R. fand ohne Beteiligung der Bekl. statt. Anfang Juni 2011
+wurde der bisherige Mietvertrag der R. um weitere Mietflächen erweitert. Die Zedentin
+hat mit ihrer im Vorprozess gegen die Eigentümerin erhobenen Klage wegen der
+Erweiterung der Mietflächen der R. einen Anspruch auf Zahlung einer Maklerprovision
+iHv 266.688,38 Euro geltend gemacht, wobei sie der Bekl. den Streit verkündet hat. Die
+Bekl. ist diesem Rechtsstreit daraufhin aufseiten der Eigentümerin beigetreten. Die
+dortige Klage ist durch rechtskräftiges Berufungsurteil mit der Begründung
+abgewiesen worden, es könne nicht festgestellt werden, dass zwischen der Zedentin
+und der Eigentümerin ein Maklervertrag zustande gekommen sei.
+Im vorliegenden Rechtsstreit verfolgte die Kl. gegen die Bekl. aus abgetretenem Recht
+der Zedentin Ansprüche auf Zahlung der Maklerprovision iHv 266.688,38 Euro sowie
+auf Erstattung der Gerichts- und Verfahrenskosten des Vorprozesses iHv 71.604,33
+Euro, jeweils nebst Zinsen. Sie machte geltend, die Zedentin habe einen Maklervertrag
+mit der Bekl. geschlossen, der zu einem Vermittlungserfolg geführt habe, weil die R.
+ihre Mietflächen erweitert habe. Die Bekl. hafte für diese Beträge, weil sie gegenüber
+der Zedentin als Vertreterin ohne Vertretungsmacht der Eigentümerin aufgetreten sei.
+Das LG Darmstadt (Urt. v. 14.7.2017 – 16 O 38/17) hat die Klage abgewiesen. Die
+dagegen gerichtete Berufung der Kl. hat das OLG Frankfurt a. M. (Beschl. v. 22.5.2019
+Revision der Kl. wurde dieser Beschluss aufgehoben und die Sache an das BerGer.
+zurückverwiesen.
+2021, 1242)
+Aus den Gründen
+19B. II. Mit der vom BerGer. gegebenen Begründung kann die Klage nicht abgewiesen
+werden.
+201. Das BerGer. ist allerdings zutreffend davon ausgegangen, dass die Bekl. der
+Zedentin gegenüber nicht gem. § 652 I BGB zur Zahlung einer Provision verpflichtet
+war.
+21a) Das BerGer. hat angenommen, vom wirksamen Zustandekommen eines die
+Verpflichtung zur Provisionszahlung auslösenden Vertrags zwischen der Zedentin und
+der Bekl. könne schon nach dem Vortrag der Kl. nicht ausgegangen werden. Von einer
+ausdrücklichen Vereinbarung gehe die Kl. selbst nicht aus. Die Kl. sehe die im Jahr
+2007 zwischen der Zedentin und der Bekl. getroffene Vereinbarung ebenfalls nicht als
+Grundlage für die nunmehr in Rede stehende Maklertätigkeit. Eine konkludente
+Vereinbarung der Bekl. und der Zedentin über die Verpflichtung der Bekl. zur Zahlung
+einer Maklerprovision lasse sich auch nicht aus dem Schreiben der Bekl. vom
+19.5.2009, der daraus entstandenen E-Mail-Korrespondenz zwischen der Bekl. und der
+Zedentin sowie den von der Zedentin vorgenommenen Vermittlungstätigkeiten
+herleiten. Die Bekl. habe stets ausdrücklich erklärt, dass sie als bevollmächtigte
+Verwalterin des Objekts mit der Neu- oder Nachvermietung beauftragt gewesen sei.
+Für ein Handeln der Bekl. im eigenen Namen ergäben sich danach keine Anhaltspunkte.
+22b) Diese Beurteilung steht im Revisionsverfahren nicht im Streit. Rechtsfehler sind
+insoweit nicht ersichtlich.
+232. Nach den vom BerGer. bislang getroffenen Feststellungen kann jedoch nicht
+ausgeschlossen werden, dass der Zedentin gegen die Bekl. als vollmachtlose
+Vertreterin Ansprüche gem. § 179 I BGB zustehen.
+24a) Nach § 179 I BGB ist, wer als Vertreter einen Vertrag geschlossen hat, sofern er
+nicht seine Vertretungsmacht nachweist, dem anderen Teil nach dessen Wahl zur
+Erfüllung oder zum Schadensersatz verpflichtet, wenn der Vertretene die Genehmigung
+des Vertrags verweigert.
+25b) Nach den Feststellungen des BerGer. ist die Bekl. gegenüber der Zedentin als von
+der Eigentümerin des Objekts bevollmächtigte Verwalterin aufgetreten.
+26c) Aufgrund der infolge der Streitverkündung im Vorprozess eingetretenen
+Interventionswirkung gem. § 74 ZPO iVm § 68 ZPO ist im vorliegenden Rechtsstreit
+davon auszugehen, dass die Bekl. als vollmachtlose Vertreterin der Eigentümerin mit
+der Zedentin einen Maklervertrag abgeschlossen hat.
+27aa) Die Frage, ob und inwieweit das Gericht durch das Urteil im Vorprozess
+gebunden ist, bezieht sich auf die Urteilsfindung selbst und ist daher auch ohne
+2014, 1379 Rn. 28 mwN).
+28bb) Das BerGer. hat angenommen, die Kl. habe nicht substanziiert dargetan, dass
+sich die Bekl. und die Zedentin über die wesentlichen Vertragsbestandteile wie
+insbesondere eine Provisionspflicht bei Nachweis oder Vermittlung eines
+Hauptvertrags und die Höhe der vom Vertragspartner zu zahlenden Provision geeinigt
+hätten. Selbst wenn in dem Schreiben vom 19.5.2009 ein Angebot zum Abschluss
+eines Maklervertrags gelegen hätte, habe die Zedentin dieses Angebot mit ihrer E-Mail
+vom 3.5.2011 wegen des erheblichen Zeitablaufs nicht mehr wirksam annehmen
+können. Etwas anderes ergebe sich auch nicht aus dem zwischen der Eigentümerin
+und der Zedentin geführten Vorprozess. Eine Interventionswirkung gem. § 68 ZPO sei
+im Streitfall bereits deshalb ausgeschlossen, weil ein rechtskräftiges Sachurteil
+zuungunsten der von der Bekl. unterstützten Hauptpartei ergangen sein müsste. Die
+Bekl. habe jedoch nicht die dort unterlegene Zedentin, sondern die letztlich obsiegende
+Eigentümerin unterstützt.
+29Dem Berufungsurteil im Vorprozess sei außerdem nicht zu entnehmen, dass die
+Voraussetzungen des Provisionsanspruchs gegeben seien und lediglich die Frage des
+Vertragspartners des Maklervertrags anhand der Vollmachtsituation abzuklären sei.
+Der Vortrag der Zedentin im Vorprozess lasse nicht erkennen, dass eine
+maklervertragliche Beziehung bestanden habe. Vielmehr befasse sich das Urteil
+durchgängig mit Fragen der Vollmacht. Voraussetzung für eine Haftung des Vertreters
+ohne Vertretungsmacht gem. § 179 I BGB sei ebenfalls, dass der Vertreter ohne
+Vertretungsmacht einen Vertrag geschlossen habe. Von einem Vertragsschluss der
+Bekl. und der Zedentin im Sinne einer hinreichend klaren und bestimmten Einigung über
+die Verpflichtung zur Zahlung von Maklerprovisionen an die Zedentin im Falle der
+erfolgreichen Vermittlung der Räumlichkeiten könne jedoch keine Rede sein. Diese
+Beurteilung hält den Angriffen der Revision nicht stand.
+30cc) Die Streitverkündung der Zedentin gegenüber der Bekl. im Vorprozess der
+Zedentin gegen die Eigentümerin war gem. § 72 I ZPO zulässig.
+31(1) Nach § 72 I ZPO ist eine Streitverkündung unter anderem zulässig, wenn eine
+Partei – wie hier die Zedentin – im Zeitpunkt der Streitverkündung für den Fall des ihr
+ungünstigen Ausgangs des Rechtsstreits einen Anspruch auf Gewährleistung oder
+Schadloshaltung gegen einen Dritten – wie hier gegen die Bekl. dieses Rechtsstreits –
+erheben zu können glaubt. Zu den Ansprüchen auf „Schadloshaltung“ gehören neben
+Rückgriffsansprüchen auch Ansprüche gegen Dritte, die im Vorprozess anstelle der
+[282] mwN).
+32(2) Im Streitfall hatte die Zedentin bei ihrer Streitverkündung im Vorprozess derartige
+alternative, sich wechselseitig ausschließende Ansprüche gegen die dort verklagte
+Eigentümerin oder gegen die vorliegend verklagte Verwalterin des Objekts in Betracht
+gezogen. Sie hatte die Zahlung des Maklerlohns von der Eigentümerin mit der
+Behauptung verlangt, die Bekl. habe in deren Namen und Vollmacht mit ihr einen
+Maklervertrag abgeschlossen. Demgegenüber hatte die beklagte Eigentümerin
+vorgetragen, die Bekl. habe mit der Zedentin keinen Maklervertrag abgeschlossen und
+sei zum Abschluss eines solchen Vertrags auch nicht bevollmächtigt gewesen. Danach
+durfte die Zedentin davon ausgehen, dass sie den Maklerlohn nach § 652 I BGB
+entweder – sofern die bestrittenen Behauptungen eines Vertragsschlusses und einer
+entsprechenden Vertretungsmacht der Bekl. bewiesen wurden – von der Eigentümerin
+verlangen konnte oder aber – sofern zwar ein Vertragsschluss festgestellt, aber die
+Vertretungsmacht nicht bewiesen wurde – nach § 179 I BGB von der Bekl.
+33dd) Die Revision rügt mit Recht, dass eine Interventionswirkung nicht mit der
+Erwägung des BerGer. verneint werden kann, die Bekl. sei dem letztlich obsiegenden
+Prozessgegner der streitverkündenden Partei als Streithelfer beigetreten.
+34(1) Nach § 74 ZPO iVm § 68 ZPO kann der Streitverkündungsgegner unabhängig
+davon, ob er dem Prozess beitritt oder nicht, die Richtigkeit des Urteils im Vorprozess
+nicht bestreiten und mangelhafte Prozessführung des Streitverkünders nur in
+beschränktem Umfang einwenden.
+35(2) Nach dem Wortlaut des § 68 Hs. 1 ZPO wird der Nebenintervenient (Streithelfer)
+allerdings nur im Verhältnis
+2021, 1242)
+zu der Hauptpartei nicht mit der Behauptung gehört, dass der Rechtsstreit, wie er dem
+Richter vorgelegen habe, unrichtig entschieden sei. Im Streitfall geht es nicht um das
+Verhältnis zwischen der Bekl. und der von ihr unterstützten Eigentümerin, sondern um
+das Verhältnis zum Prozessgegner, das heißt der Zedentin.
+36(3) Es entspricht jedoch der ständigen Rechtsprechung des BGH, dass bei einem
+Beitritt des Streitverkündeten aufseiten des Prozessgegners des Streitverkünders die
+Interventionswirkung in gleicher Weise eintritt wie bei einem unterlassenen Beitritt. Die
+Interventionswirkung ergibt sich in diesem Fall nicht unmittelbar aus § 68 ZPO, sondern
+37ee) Einer Interventionswirkung steht auch nicht entgegen, dass im vorliegenden
+Rechtsstreit nicht die Zedentin als Kl. des Vorprozesses klagt, sondern die Zessionarin.
+Die Interventionswirkung ergreift den Anspruch, den die Kl. aus abgetretenem Recht
+38ff) Entgegen der Beurteilung des BerGer. ist im Vorprozess mit Bindungswirkung für
+den vorliegenden Rechtsstreit festgestellt worden, dass die Bekl. einen Maklervertrag
+mit der Zedentin abgeschlossen hat.
+39(1) Die Interventionswirkung kommt nicht nur dem Entscheidungsausspruch,
+sondern auch den tatsächlichen und rechtlichen Grundlagen zu, auf denen das Urteil
+gilt sie nicht für Feststellungen des Erstgerichts, auf denen dessen Urteil nicht beruht
+(sog. überschießende Feststellungen). Dabei kommt es nicht auf eine subjektive
+Sichtweise des Gerichts, sondern darauf an, worauf die Entscheidung des
+Erstprozesses objektiv nach zutreffender Rechtsauffassung beruht. Jedoch muss der
+Empfänger einer Streitverkündung auch damit rechnen, dass sich das Erstgericht für
+einen Begründungsansatz entscheidet, den er nicht für richtig hält. Dieser
+Begründungsansatz gibt den Rahmen vor. Eine in diesem Rahmen objektiv notwendige
+Feststellung wird nicht deshalb überschießend, weil sie sich bei der Wahl eines anderen
+40 (2) Im rechtskräftigen Urteil des Vorprozesses hat das dortige BerGer.
+angenommen, die Zedentin könne von der Eigentümerin keine Maklerprovision für den
+Nachweis des Mietvertrags mit der R. verlangen, weil nicht festgestellt werden könne,
+dass zwischen diesen Parteien ein Maklervertrag geschlossen worden sei. Dazu hat es
+ausgeführt:
+41Da die (dortige) Kl. (nachfolgend wie im vorliegenden Rechtsstreit nur noch:
+Zedentin) und die (dortige) Bekl. (nachfolgend wie im vorliegenden Rechtsstreit:
+Eigentümerin) in keinem unmittelbaren Kontakt gestanden hätten, komme ein
+Vertragsschluss gem. § 164 I BGB nur in der Weise in Betracht, dass die Streithelferin
+(nachfolgend wie im vorliegenden Rechtsstreit: Bekl.) einerseits im Namen der
+Eigentümerin aufgetreten wäre und andererseits Vertretungsmacht gehabt hätte.
+Zumindest die zuletzt genannte Voraussetzung habe die Zedentin nicht beweisen
+können. Die Zedentin habe ihre die Vermietung an die R. im Jahre 2011 betreffenden
+Maklertätigkeiten nicht bereits aufgrund eines im Jahr 2007 mit der Bekl.
+geschlossenen Maklervertrags erbracht. Vielmehr habe die Bekl. im Mai 2009 unter
+anderem mit ihrem an die Zedentin gerichteten Schreiben vom 19.5.2009 als
+bevollmächtigte Verwalterin des Objekts neu begonnen, Kontakt zu Maklern
+aufzunehmen. Dementsprechend sei auch erst wieder ein E-Mail-Verkehr zwischen der
+Zedentin und der Bekl. ab dem 17.6.2009 festzustellen. Ein Vertragsschluss über die
+Bekl. komme nur in der Weise in Betracht, dass die Bekl. nach dem Rundschreiben vom
+Mai 2009 für die Eigentümerin Maklerleistungen der Zedentin in Kenntnis der
+Provisionspflicht entgegengenommen habe. Eine ausdrückliche
+Provisionsvereinbarung zwischen der Zedentin und der Bekl. könne nicht festgestellt
+werden. Die Bekl. habe jedoch aufgrund der mit der Zedentin im Jahr 2007 getroffenen
+Abreden gewusst, dass im Fall des Herbeiführens eines Vertragsschlusses an die
+Zedentin von der Vermieterseite eine Provision zu zahlen sein würde.
+Dementsprechend habe die Bekl. auch in dem von ihr erstellten und der Zedentin
+zugesandten Exposé auf eine für den Mieter provisionsfreie Vermietung hingewiesen
+und in der E-Mail des Zeugen K an den bei der Eigentümerin tätigen Herrn M ausgeführt,
+dass den Maklern eine provisionsfreie Vermietung ermöglicht werden solle, weshalb
+die Übernahme der Provision durch die Eigentümerin aufgrund der derzeitigen
+Wirtschaftslage und des sehr engen Büromarktes in A. empfohlen werde. Zudem sei
+zu berücksichtigen, dass es sich bei der Bekl. nicht um einen Maklerkunden handele,
+den die Rechtsprechung im Auge habe, wenn sie für die Annahme eines
+Vertragsschlusses durch die Entgegennahme von Maklerdiensten ein vorheriges
+unmissverständliches Provisionsverlangen des Maklers verlange. Die Bekl. habe
+vielmehr selbst im Rahmen ihrer Tätigkeit als Objektverwalterin Maklerdienste erbracht
+und sei auf dem Immobilienmarkt tätig gewesen, so dass sie sich mit den
+Gepflogenheiten ausgekannt habe. Nach Aussage des für die Bekl. tätigen Zeugen K
+sei es zum damaligen Zeitpunkt in A. so gewesen, dass die Objekte für die Mieter
+provisionsfrei vermietet und die Provisionen seitens der Vermieterseite gezahlt
+würden.
+42Da sämtliche für die Eigentümerin erteilten Vollmachten im April 2009 widerrufen
+worden seien, komme es mangels einer der Bekl. ausdrücklich erteilten Vollmacht für
+einen nach April 2009 geschlossenen Vertrag zwischen der Zedentin und der
+Eigentümerin darauf an, ob der Eigentümerin das Handeln der Bekl. aufgrund einer
+Anscheins- oder Duldungsvollmacht zugerechnet werden könne. Dies könne nicht
+festgestellt werden.
+43(3) Soweit das BerGer. diesen Ausführungen entnommen hat, dass die Entscheidung
+im Vorprozess darauf beruhte, dass die Bekl. nicht bevollmächtigt gewesen sei, mit
+Wirkung für die Eigentümerin des Objekts einen Maklervertrag abzuschließen, steht
+dies im Revisionsverfahren nicht in Streit. Rechtsfehler sind insoweit nicht ersichtlich.
+44(4) Die Revision wendet sich jedoch mit Erfolg gegen die Annahme des BerGer., das
+Urteil im Vorprozess verhalte sich ausschließlich und durchgehend zur Frage der
+Vollmacht. Das dortige BerGer. hat in seinem Urteil über diese Frage hinausgehende
+Feststellungen getroffen, auf deren Grundlage mit Bindungswirkung für den
+vorliegenden Rechtsstreit vom Abschluss eines Maklervertrags zwischen der Zedentin
+und der Bekl. auszugehen ist.
+45 Im Eingangssatz dieses Urteils heißt es, es könne nicht festgestellt werden, dass
+zwischen der Zedentin und der Eigentümerin ein Maklervertrag zustande gekommen
+sei. Daran schließt sich der Satz an, ein Anspruch gegen die Eigentümerin setze voraus,
+dass die Bekl. einerseits in deren Namen aufgetreten wäre und andererseits
+Vertretungsmacht gehabt hätte. Zumindest die zuletzt genannte Voraussetzung habe
+die Zedentin nicht beweisen können. Aus dem Wort „zumindest“ ergibt sich nicht, dass
+das Erstgericht das Zustandekommen einer vertraglichen Vereinbarung nicht geprüft
+hat. Es hat mit dieser Wendung
+2021, 1242)
+lediglich zum Ausdruck gebracht, dass die Voraussetzungen für eine wirksame
+Stellvertretung nicht vorgelegen haben.
+46Anders als das BerGer. meint, ist das Bestehen einer vertraglichen Vereinbarung im
+Vorprozess festgestellt worden. Das dort tätig gewesene BerGer. hat angenommen,
+mangels eines im Jahr 2007 zustande gekommenen Vertragsschlusses komme ein
+Vertragsschluss in der Weise in Betracht, dass die Eigentümerin nach dem
+Rundschreiben von Mai 2009 Maklerleistungen der Zedentin in Kenntnis der
+Provisionspflicht entgegengenommen habe. Das dortige BerGer. hat unter Würdigung
+der in erster Instanz durchgeführten Beweisaufnahme und Berücksichtigung der von
+der Zedentin vorgelegten Urkunden festgestellt, dass die Bekl. in Kenntnis der
+Provisionspflicht Leistungen der Zedentin entgegengenommen hatte.
+47Nach diesen im Vorprozess getroffenen Feststellungen ist zwischen der Zedentin
+und der dabei von der hiesigen Bekl. vertretenen Eigentümerin durch konkludentes
+Verhalten ein Maklervertrag zustande gekommen. Nach der Rechtsprechung des BGH
+macht derjenige, der sich an einen gewerbsmäßigen Makler wendet und Dienste im
+Sinne eines eigenen Suchauftrags erbittet, ein Angebot auf Abschluss eines
+3). Für die Annahme eines solchen Antrags genügt es, wenn der Makler – wie dies
+vorliegend geschehen ist – seine Tätigkeit aufnimmt. Der Zugang einer ausdrücklichen
+[51]; NJW-RR 2010, 257 Rn. 3). So verhielt es sich nach dem im Vorprozess vom
+dortigen BerGer. festgestellten Sachverhalt.
+48(5) Die vom BerGer. des Vorprozesses getroffene Feststellung zum
+Zustandekommen eines Maklervertrags zwischen der Zedentin und der Bekl. stellt
+keine überschießende Feststellung dar.
+49 Das BerGer. hat im Vorprozess zunächst festgestellt, dass ein Maklervertrag
+zustande gekommen ist. Im Anschluss daran hat es geprüft, ob die Bekl.
+bevollmächtigt war, die Eigentümerin aus diesem Vertrag zu verpflichten. Das Urteil im
+Vorprozess beruht damit sowohl auf der Feststellung des Abschlusses eines
+Maklervertrags als auch darauf, dass die Bekl. dabei ohne Vollmacht gehandelt hat.
+50Das BerGer. des Vorprozesses hätte die Frage eines Vertragsschlusses zwar offen
+lassen können, da das Zustandekommen des Maklervertrags und eine entsprechende
+Vollmacht der Bekl. kumulativ hätten vorliegen müssen, um der Klage der Zedentin
+gegen die Eigentümerin zum Erfolg zu verhelfen. Es hätte in diesem Fall die Klage der
+Zedentin jedenfalls wegen Fehlens einer Vollmacht der Bekl. abweisen können. Diesen
+Begründungsansatz hat das im Vorprozess tätige BerGer. jedoch nicht gewählt,
+sondern seiner Entscheidung maßgeblich zugrunde gelegt, dass die Bekl.
+Maklerleistungen der Zedentin in Kenntnis der Provisionspflicht entgegengenommen
+hat, damit ein Vertrag zustande gekommen ist und die Klage allein wegen Fehlens einer
+Vollmacht der Bekl. abzuweisen ist. Hieran muss sich die Bekl. im vorliegenden
+Rechtsstreit festhalten lassen.
+51 (6) Dem steht nicht entgegen, dass im Vorprozess keine Feststellungen zur
+Vereinbarung einer bestimmten Provisionshöhe getroffen worden sind und das dortige
+BerGer. auf der Grundlage der erhobenen Beweise angenommen hat, dass eine
+ausdrückliche Provisionsvereinbarung zwischen der Zedentin und der Bekl. nicht
+festgestellt werden könne.
+52Auch im vorliegenden Rechtsstreit hat die Kl. zu einer Einigung über die
+Provisionshöhe keinen hinreichenden Sachvortrag gehalten. Die Revision beruft sich
+ohne Erfolg auf von der Kl. hier gehaltenen Vortrag, nach dem sich die Bekl. mit der
+Zedentin über konkrete Provisionssätze in derWeise geeinigt habe, dass der für die
+Bekl. handelnde Zeuge K die Provisionssätze der Zedentin für in Ordnung erachtet
+habe. Die Kl. hat lediglich vorgetragen, dass die Geschäftsführerin der Zedentin diesem
+Zeugen gegenüber in einem Gespräch am 16.6.2009 ihre Vorstellungen zur Höhe der
+Provision zum Ausdruck gebracht habe. Von einer Einigung über die Höhe war dabei
+nicht die Rede. Soweit die Revision geltend macht, es habe eine Einigung der Bekl. mit
+der Zedentin zur Provisionshöhe gegeben, handelt es sich um einen neuen Sachvortrag,
+der im Revisionsverfahren gem. § 559 I ZPO nicht berücksichtigt werden kann.
+53Entgegen der Ansicht des BerGer. stellte das Fehlen einer Einigung über die Höhe
+der dem Makler für seine Tätigkeit zustehende Provision das Zustandekommen eines
+Maklervertrags grundsätzlich nicht infrage. Nach § 653 II BGB ist, wenn die Höhe der
+Vergütung nicht bestimmt ist, beim Bestehen einer Taxe der taxmäßige Lohn und in
+Ermangelung einer Taxe der übliche Lohn als vereinbart anzusehen. Die Revision weist
+in diesem Zusammenhang auf beweisbewehrten erstinstanzlichen Vortrag der Kl. hin,
+nach dem die Zedentin ihre Provision anhand der vermieteten Fläche und der Dauer
+des Mietverhältnisses errechnet hat und diese Berechnung marktüblich ist. Hiermit hat
+sich das BerGer. nicht auseinandergesetzt.
+54(7) Der Annahme einer Bindungswirkung hinsichtlich des Zustandekommens eines
+Maklervertrags steht entgegen der Ansicht der Revisionserwiderung auch nicht der
+Umstand entgegen, dass die Bekl., wenn sie im Vorprozess dem Rechtsstreit aufseiten
+der Zedentin beigetreten wäre, das Zustandekommen eines Maklervertrags gem. § 67
+ZPO nicht hätte bestreiten können, weil sie sich damit in Widerspruch zum Vorbringen
+der unterstützten Hauptpartei gesetzt hätte.
+55Der BGH hat allerdings entschieden, dass die Interventionswirkung nicht eintritt,
+soweit der Streitverkündungsgegner nach § 67 ZPO gehindert war, auf den Verlauf des
+Vorprozesses Einfluss zu nehmen. Konnte er dort auch im Falle seines Beitritts seinen
+eigenen Standpunkt nicht zur Geltung bringen, weil er auf die Unterstützung der
+281 [282]). Danach hätte die Bekl. im Vorprozess, wenn sie dem Rechtsstreit aufseiten
+der Zedentin beigetreten wäre, den Vertragsschluss nicht bestreiten können.
+56 Die Bekl. ist dem Rechtsstreit im Vorprozess allerdings auf der Gegenseite
+beigetreten, wobei sie dort die Eigentümerin unterstützt und ebenso wie diese geltend
+gemacht hat, dass sie mit der Zedentin keinen Maklervertrag abgeschlossen habe. Sie
+hat damit auf den Verlauf des Vorprozesses Einfluss nehmen und durch den Beitritt
+auf-
+2021, 1242)
+seiten der Eigentümerin ihre vom Vortrag der Zedentin als Streitverkünderin
+abweichende Darstellung der Dinge in den Rechtsstreit einführen können. Über die
+Frage, ob ein Maklervertrag zustande gekommen ist, ist im Vorprozess in beiden
+Tatsacheninstanzen Beweis erhoben worden. Die Eigentümerin und die Bekl. sind dort
+mit ihrem Vorbringen, es habe keine vertragliche Verbindung zur Zedentin bestanden,
+nicht durchgedrungen. Bei einer solchen Sachlage besteht kein Anlass, diesen Punkt
+des Vorprozesses im Hinblick auf die bei einem anderen Verhalten im Prozess gem. § 67 ZPO eingeschränkten Befugnisse des Streithelfers von der Interventionswirkung
+des § 68 ZPO auszunehmen.
+57Dem kann auch nicht mit Erfolg entgegengehalten werden, die Bekl. dürfe im
+vorliegenden Rechtsstreit nicht schlechter gestellt werden, als wenn sie im Vorprozess
+die Zedentin als Streitverkünderin unterstützt hätte. Da die Bekl. dem Rechtsstreit im
+Vorprozess nicht aufseiten der Zedentin, sondern aufseiten von deren Prozessgegner
+beigetreten ist, kommen ihr die sich aus § 67 ZPO ergebenden, im Hinblick darauf, dass
+sie dem Rechtsstreit auf der Gegenseite beigetreten ist, aber hypothetisch gebliebenen
+Beschränkungen der Interventionswirkung nicht zugute.
+58gg) Aus den im Vorprozess vom dortigen BerGer. getroffenen Feststellungen ergibt
+sich allerdings nicht, dass sich der Maklervertrag, aus dem die Kl. ihre Ansprüche
+herleitet, auf sämtliche Büroflächen bezog, die die R. letztlich angemietet hat. Im
+Vorprozess hat das BerGer. auf das E-Mail-Schreiben der Bekl. vom 19.5.2009, das mit
+diesem Schreiben versandte Exposé und die vom Zeugen K an den Mitarbeiter der
+Eigentümerin M versandte E-Mail vom 5.6.2009 abgestellt. Soweit es die darin
+genannten Flächen angeht, die ausweislich der im vorliegenden Rechtsstreit vom LG
+getroffenen und vom BerGer. in Bezug genommenen Feststellungen 1.600 m² groß
+waren, ist von einem Maklervertrag auszugehen. Das BerGer. hat aber – von seinem
+Standpunkt aus folgerichtig – keine Feststellungen zu der Frage getroffen, ob sich der
+Maklervertrag auch auf weitere, in dem Exposé nicht genannte und von der R. im Jahr
+2011 insgesamt angemietete 11.000 m² Bürofläche bezog.
+59d) Die Eigentümerin hat unstreitig den von der Bekl. in ihrem Namen geschlossenen
+Maklervertrag mit der Zedentin nicht genehmigt.
+60e) Die Revisionserwiderung macht ohne Erfolg geltend, ein Anspruch gegen die Bekl.
+gem. § 179 I BGB sei nach § 179 III 1 BGB von vornherein ausgeschlossen.
+61aa) Nach § 179 III 1 BGB haftet der Vertreter nicht, wenn der andere Teil den Mangel
+der Vertretungsmacht kannte oder kennen musste.
+62bb) Der Vortrag der Bekl., auf den sich die Revisionserwiderung hierzu bezieht, lässt
+weder eine solche Kenntnis der Zedentin erkennen noch rechtfertigt er die Annahme,
+die Zedentin habe den Mangel der Vertretungsmacht kennen müssen.
+63(1) Nach dem Vortrag der Bekl. soll die Geschäftsführerin der Zedentin aufgrund des
+im Jahr 2007 geführten Verfahrens gewusst haben, dass die Zedentin solange keinen
+Anspruch auf Maklerprovision habe, solange die Eigentümerin nicht ausdrücklich einer
+solchen Provisionszahlung zugestimmt hat. Die Zedentin habe mit anwaltlichem
+Schreiben vom 3.8.2011 die Bekl. deshalb als „Botin“ der Eigentümerin bezeichnet. Der
+Inhalt dieses anwaltlichen Schreibens sei unstreitig.
+64(2) Die Revisionserwiderung zeigt mit dem Verweis auf diesen Vortrag bereits nicht
+auf, dass die Zedentin davon Kenntnis hatte, dass – wie das BerGer. im Vorprozess
+festgestellt hat – die Eigentümerin die der Bekl. erteilte Vollmacht im April 2009 in
+vollem Umfang widerrufen hatte und die Bekl. bei Abfassung des Schreibens vom
+19.5.2009 ohne jegliche Vertretungsmacht gehandelt hat. Das Vorbringen der Bekl., auf
+das sich die Revisionserwiderung bezieht, zielt demgegenüber darauf, dass die
+Zedentin Kenntnis von einer Beschränkung einer bestehenden Vertretungsmacht
+gehabt hat.
+65(3) Dieses Vorbringen rechtfertigt darüber hinaus auch nicht die Annahme, dass die
+Zedentin im Mai 2009 Kenntnis davon hatte, dass die Bekl. ohne ausdrückliche
+Zustimmung der Eigentümerin nicht berechtigt gewesen wäre, zulasten der
+Eigentümerin eine Provisionspflicht auszulösen.
+66Der mit dem Vortrag der Bekl. angesprochene Zustimmungsvorbehalt der
+Eigentümerin und die von der Zedentin verwendete Bezeichnung der Bekl. als Botin der
+Eigentümerin bezieht sich auf den geschäftlichen Kontakt zwischen der Zedentin und
+der Bekl. im Frühjahr 2007, insbesondere die Mitteilung der Bekl. vom 2.5.2007, dass
+die Eigentümerin bereit sei, die Provisionsregelungen der Zedentin zu akzeptieren.
+67Nach den vom BerGer. in Bezug genommenen Feststellungen des LG ist die Bekl.
+rund zwei Jahre später mit Schreiben vom 19.5.2009 als „bevollmächtigte Verwalterin“
+des Objekts an die Zedentin herangetreten, um Unterstützung bei der Vermietung von
+Büroflächen zu erhalten. In diesem Schreiben hat sich die Bekl. ohne jede
+Einschränkung auf eine Vollmacht der Eigentümerin berufen und ist gerade nicht als
+Botin aufgetreten. Sie hat weder darauf verwiesen, dass die Zedentin eine Provision
+nur beanspruchen könne, wenn die Eigentümerin dem zustimmt, noch hat sie auf das
+zwei Jahre vorher praktizierte Verfahren Bezug genommen. Das BerGer. hat zudem in
+anderem Zusammenhang angenommen, dass die Vereinbarung im Jahr 2007 für die
+Maklertätigkeit im Jahr 2009 keine Grundlage bilde.
+68Danach kann nicht davon ausgegangen werden, dass die Zedentin positiv wusste,
+dass die Bekl. mit lediglich eingeschränkter Vertretungsmacht für die Eigentümerin
+hätte handeln können.
+69(4) Die Zedentin hat den Mangel der Vertretungsmacht der Bekl. auch nicht kennen
+müssen. Weil im Interesse der Verkehrssicherheit in § 179 I BGB eine gesetzliche
+Garantenhaftung vorgesehen ist, darf der Vertragsgegner grundsätzlich auf die
+behauptete Vertretungsmacht vertrauen, ohne zu Nachforschungen über deren
+Bestand und Umfang verpflichtet zu sein. Nur wenn er Anhaltspunkte für eine fehlende
+Vertretungsmacht hat und diesen Bedenken nicht nachgeht, ist er nicht schutzwürdig
+bot keine Anhaltspunkte dafür, dass die Bekl. ohne oder nur mit eingeschränkter
+Vertretungsmacht tätig wurde.
+70C. Danach ist der angefochtene Beschluss des BerGer. gem. § 562 I ZPO aufzuheben
+und die Sache, da sie nicht gem. § 563 III ZPO zur Endentscheidung reif ist, gem. § 563
+I 1 ZPO zur Verhandlung und neuen Entscheidung an das BerGer. zurückzuverweisen.
+71 Im wiedereröffneten Berufungsverfahren wird das BerGer. Feststellungen dazu zu
+treffen haben, ob der im Anschluss an das Schreiben der Bekl. vom 19.5.2009
+geschlossene Maklervertrag mit der Zedentin, der sich auf eine geringere Fläche bezog
+als diejenige,
+2021, 1242)
+die später an die R vermietet worden ist, später erweitert worden ist. Erforderlichenfalls
+wird es zu prüfen haben, ob die Zedentin eine die Provisionspflicht auslösende
+Maklerleistung erbracht hat. Gegebenenfalls wird es Feststellungen dazu zu treffen
+haben, welche Provision für eine solche Maklerleistung marktüblich ist. In diesem
+Zusammenhang wird es sich auch mit dem Vorbringen der Bekl. auseinanderzusetzen
+haben, ein Provisionsanspruch sei am Ort der Belegenheit des Objekts bei der
+Vermittlung eines Bestandsmieters für Objekte wie dasjenige der in Rede stehenden
+Art nicht üblich. Sollte das BerGer. die zuletzt genannte Frage nicht aus eigener
+Sachkunde beantworten können, wird es in Erwägung zu ziehen haben, das von beiden
+Parteien angebotene Sachverständigengutachten einzuholen.
+Anmerkung
+Urteile binden in subjektiver Hinsicht grundsätzlich nur die Parteien des Rechtsstreits
+und deren Rechtsnachfolger nach Rechtshängigkeit; in objektiver Hinsicht erfasst die
+Bindung den Tenor bezüglich des Streitgegenstands und das kontradiktorische
+Gegenteil. Das ergibt sich aus dem Rechtsinstitut der materiellen Rechtskraft.
+Weitergehend reicht jedoch die Interventionswirkung gem. § 68 ZPO, welche sich auch
+in Bezug auf Dritte auf alle tatsächlich und rechtlich entscheidungserheblichen
+Grundlagen der Entscheidung erstreckt, unabhängig davon, ob diese zutreffend oder
+fehlerhaft waren. Diese Wirkung kann im Wege der Streitverkündung gem. §§ 74, 68
+ZPO erzielt werden, womit der Streitverkünder einen Dritten an den Ausgang des
+Prozesses bindet, § 74 III iVm § 68 ZPO, um sich für den Fall eines für ihn ungünstigen
+Ausgangs dieses Rechtsstreits Rechte für einen Folgeprozess zu sichern,
+insbesondere, wenn er Regressansprüche bzw. alternative Haftungsansprüche gegen
+diese dritte Partei zu haben glaubt.
+Der I. Zivilsenat befasst sich vorliegend mit den Voraussetzungen, der Reichweite und
+den Beschränkungen der in der Praxis wichtigen Interventionswirkung. Die filigran
+wirkende ZPO-Problemlage betrifft die Situation einer Alternativhaftung im Verhältnis
+zwischen der im Erstprozess verklagten Eigentümerin als Vertretene auf Grundlage
+eines Maklervertrags aus § 652 I iVm § 164 I BGB oder der nunmehr im Folgeprozess
+in Anspruch genommenen Beklagten auf Grundlage einer Haftung als Vertreterin ohne
+Vertretungsmacht gem. § 179 I BGB. Im Erstprozess hatte die Zedentin der jetzigen
+Beklagten den Streit verkündet; die Beklagte ist dem Rechtsstreit aufseiten der zuvor
+verklagten Eigentümerin beigetreten.
+Vorliegend hatte der Senat mit Blick auf die Reichweite der Bindungswirkung zu
+ermitteln, welche Feststellungen im Vorprozess überhaupt getroffen worden sind. Der
+I. Zivilsenat geht davon aus, dass sich die Feststellungen im Vorprozess auf zwei
+Elemente beziehen: den konkludenten Abschluss eines Maklervertrags zwischen der
+Zedentin und der von der Beklagten vertretenen Eigentümerin sowie das Fehlen der
+Vertretungsmacht der Beklagten für die Eigentümerin. Dabei scheidet der Senat das
+Vorliegen einer sogenannten überschießenden Feststellung in Bezug auf das Bestehen
+des Vertrags aus. Die Abgrenzung von Feststellungen, die notwendigerweise vom
+Erstgericht zu treffen waren, von sogenannten überschießenden Feststellungen, die zur
+Begründung der Entscheidung nicht notwendig sind, ist bedeutsam, da Letztere gerade
+Annahme, es handele sich bei dem Vorliegen des Vertrags nicht um eine sogenannte
+überschießende Feststellung, ist hier jedenfalls nicht eindeutig, denn die Klage im
+Erstprozess hätte durchaus allein aus dem Aspekt des Fehlens der Vertretungsmacht
+abgewiesen werden können. Diesen Weg hatte das Erstgericht aber nicht gewählt.
+Schließlich thematisiert der Senat eine wichtige Ausnahme der Bindung: Diese besteht
+dann nicht, wenn der Streitverkündete auf den Vorprozess keinen Einfluss nehmen
+konnte. Die dargestellte Bindungswirkung tritt nur ein, weil sich der Streitverkündete
+am Rechtsstreit des Vorprozesses hätte aktiv beteiligen und ein für ihn nachteiliges
+Ergebnis hätte verhindern können. Freilich hätte die Beklagte dann, wenn sie aufseiten
+der Zedentin beigetreten wäre, ein nachteiliges Ergebnis deshalb nicht aktiv verhindern
+können, weil sie den Vertragsschluss mit der Zedentin nicht hätte bestreiten können.
+Denn widersprechende Erklärungen wären ihr als Gehilfin der unterstützten Partei
+untersagt. Hier ist die nunmehr Beklagte aber gerade aufseiten der im Vorprozess
+verklagten Eigentümerin beigetreten, womit sie auf den Prozess sehr gut Einfluss
+nehmen konnte, da die Argumentation der Eigentümerin, es sei kein Maklervertrag
+abgeschlossen worden, ebenso tragen konnte. Daher sind keine Gründe ersichtlich,
+warum der Beklagten im Folgeprozess die dargestellten Feststellungen nicht bindend
+aufgedrängt werden könnten.
+Der richtige Umgang mit dem prozesstaktisch wichtigen Instrument der
+Streitverkündung kann damit ausschlaggebend sein, wie die vorstehende
+Entscheidung zeigt, in der die Bindungswirkung bei einem Beitritt aufseiten des
+streitverkündenden Zedenten anstatt aufseiten der im Erstprozess verklagten
+Eigentümerin ausgeschlossen gewesen wäre.
+Prof. Dr. Madeleine Tolani, LL. M. (Golden Gate University), Wismar

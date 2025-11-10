@@ -1,0 +1,178 @@
+Anspruch auf Rückzahlung eines nicht verbrauchten Gebührenvorschusses
+BGB §§ 667, 675; RVG § 9; HGB § 159
+1. Der Anspruch auf Rückzahlung eines nicht verbrauchten Vorschusses für die
+Gebühren eines Rechtsanwalts entsteht aufschiebend bedingt bereits mit der
+2. Die Haftungsverbindlichkeit des Gesellschafters einer aufgelösten Gesellschaft
+verjährt auch dann in fünf Jahren, wenn die Gesellschaftsschuld einer kürzeren
+Verjährung unterliegt.
+BGH Urteil vom 16.12.2021 – IX ZR 81/21
+Zum Sachverhalt
+Die Kl., ein Rechtsschutzversicherer, verlangt aus übergegangenem Recht ihrer
+Versicherungsnehmerin, einer Gesellschaft mit beschränkter Haftung, die Rückzahlung
+eines nicht verbrauchten Gebührenvorschusses für die Wahrnehmung eines
+Gerichtstermins in einem finanzgerichtlichen Verfahren (1,2 Terminsgebühr nach Nr.
+3104 VV-RVG nach einem Wert von 167.835,72 EUR = 1.994,40 EUR). Der Bekl. zu 1
+(nachfolgend nur noch: der Bekl.) war neben dem Bekl. zu 2 Gesellschafter der
+Rechtsanwalts-GbR, die von der Versicherungsnehmerin mandatiert worden war.
+Mit Schreiben vom 10.6.2016 teilte der Bekl. der Kl. mit, dass über das Vermögen der
+Versicherungsnehmerin das Insolvenzverfahren eröffnet worden sei und es zu der
+bevorschussten Wahrnehmung des Gerichtstermins deshalb (absehbar) nicht mehr
+kommen werde. Ferner wies er darauf hin, dass die mandatierte Rechtsanwalts-GbR
+aufgelöst worden sei und zwischenzeitlich nicht mehr existiere. Daraufhin nahm die Kl.
+die Bekl. als Gesellschafter erfolglos außergerichtlich auf Rückzahlung des
+Vorschusses für die Wahrnehmung des Gerichtstermins in Anspruch. Am 12.2.2019
+erwirkte die Kl. den Erlass von Mahnbescheiden gegen die Bekl. Am 20.2.2019 erhob
+der Bekl. Widerspruch. Das Verfahren geriet in Stillstand und wurde von der Kl. durch
+Einzahlung des Gerichtskostenvorschusses für die Durchführung des streitigen
+Verfahrens am 25.6.2020 weiter betrieben.
+Im streitigen Verfahren haben die Bekl. die Einrede der Verjährung erhoben. Das AG
+Osnabrück (Urt. v. 26.11.2020 – 42 C 1484/20 (2)) hat beide Bekl. antragsgemäß
+verurteilt. Die (nur) vom Bekl. eingelegte Berufung hatte vor dem LG Osnabrück (Urt. v.
+6.5.2021 – 4 S 319/20) keinen Erfolg. Die vom BerGer. zugelassene Revision des Bekl.
+hatte ebenfalls keinen Erfolg.
+Aus den Gründen
+8II. (…) 2. Mit Recht hat das BerGer. einen Anspruch auf Rückzahlung des nicht
+verbrauchten Gebührenvorschusses für die Wahrnehmung des Gerichtstermins
+angenommen.
+9a) Aus dem Anwaltsvertrag folgt ein Anspruch auf Rückgewähr desjenigen Teils des
+geleisteten Vorschusses, der die tatsächlich geschuldete Vergütung übersteigt. Die
+Rückzahlung derartiger Vorschüsse richtet sich nicht nach § 812 BGB. Für sie sind
+1458 = WM 2019, 738 Rn. 6). Der Rechtsanwalt hat über erhaltene Vorschüsse
+abzurechnen. Eine entsprechende vertragliche Pflicht folgt aus §§ 675, 666 BGB (vgl.
+braucht der Rechtsanwalt erhaltene Vorschüsse nicht zurückzugewähren, soweit sein
+2019, 738 Rn. 13).
+10Nach der Rechtsprechung des BGH entsteht der Anspruch auf Rückzahlung nicht
+verbrauchter Vorschüsse mit der Fälligkeit des Vergütungsanspruchs gem. § 8 I RVG
+Anspruchs iSd § 199 I BGB. Nach dieser Vorschrift ist ein Anspruch entstanden, sobald
+er erstmals vom Gläubiger geltend gemacht und mit einer Klage durchgesetzt werden
+kann. Das setzt grundsätzlich die Fälligkeit des Anspruchs voraus, da erst von diesem
+Zeitpunkt an (§ 271 BGB) der Gläubiger mit Erfolg die Leistung fordern und
+gegebenenfalls den Ablauf der Verjährungsfrist durch Klageerhebung unterbinden
+kann. Unter einer aufschiebenden Bedingung kann ein Anspruch schon vor diesem
+Zeitpunkt existent werden. Entstanden iSd § 199 I BGB ist aber auch ein aufschiebend
+bedingter Anspruch grundsätzlich erst mit Eintritt der Bedingung (vgl. BGHZ 219, 327
+= NZG 2018, 1344 Rn. 66 mwN).
+11b) Der Anspruch auf Rückzahlung nicht verbrauchter Gebührenvorschüsse entsteht
+aufschiebend bedingt schon mit der Leistung des Vorschusses. Es steht von Anfang
+an fest, dass der Mandant die Rückzahlung des Vorschusses verlangen kann, soweit
+dieser für die Deckung des später fällig werdenden Vergütungsanspruchs nicht
+benötigt wird. Der Rückzahlungsanspruch hängt damit von einem zukünftigen
+ungewissen Ereignis ab, nämlich von dem Umstand, dass der Vergütungsanspruch
+entgegen den Erwartungen (§ 9 RVG: „voraussichtlich entstehenden Gebühren“) hinter
+dem geleisteten Vorschuss zurückbleibt. Ähnlich verhält es sich mit dem Anspruch aus
+§ 774 BGB. Der aus dieser Vorschrift folgende Regressanspruch entsteht bereits mit
+Übernahme der Bürgschaft und wird insoweit aufschiebend bedingt begründet (vgl.
+BGH NJW-RR 2008, 1007 = NZI 2008, 371 = ZIP 2008, 885 Rn. 11). Auch den Anspruch
+des Mieters auf Auszahlung von Guthaben aus Nebenkostenvorauszahlungen hat der
+Senat als aufschiebend bedingt angesehen (vgl. BGH NJW-RR 2005, 487 = NZI 2005,
+der Anspruch des Mandanten auf Herausgabe eingezogener Gelder frühestens dann,
+NZI 2007, 515 Rn. 11, 14 ff.). Dies beruht darauf, dass der aus § 667 BGB folgende
+Herausgabeanspruch aufschiebend bedingt nicht schon mit Abschluss des
+es hier jedoch nicht. Der Anspruch auf Rückzahlung nicht verbrauchter
+Gebührenvorschüsse entsteht aufschiebend bedingt nicht schon mit Abschluss des
+Mandatsvertrags, sondern mit der Leistung des Vorschusses.
+12c) Die aufschiebende Bedingung für den Rückzahlungsanspruch ist eingetreten. Der
+Gebührenvorschuss für die Wahrnehmung des Gerichtstermins ist entgegen den
+Erwartungen nicht verbraucht worden.
+13Der Anwaltsvertrag hat spätestens mit der Eröffnung des Insolvenzverfahrens über
+das Vermögen der Versicherungsnehmerin seine Erledigung gefunden. Nach § 115 I
+InsO erlischt ein vom Schuldner erteilter Auftrag, der sich auf das zur Insolvenzmasse
+gehörende Vermögen bezieht, durch die Eröffnung des Insolvenzverfahrens. Dies gilt
+gem. § 116  InsO entsprechend, wenn sich jemand durch einen Dienst- oder
+Werkvertrag mit dem Schuldner verpflichtet hat, ein Geschäft für diesen zu besorgen.
+Der im vorliegenden Fall geschlossene Anwaltsvertrag war ein
+Geschäftsbesorgungsvertrag in diesem Sinne. Damit stand fest, dass es nicht mehr zu
+der beauftragten Wahrnehmung des Gerichtstermins kommen würde. Mit der
+Eröffnung des Insolvenzverfahrens trat demnach die aufschiebende Bedingung für den
+Rückzahlungsanspruch ein.
+143. Der Rückzahlungsanspruch ist gem. § 86 I 1 VVG von der Versicherungsnehmerin
+auf die Kl. übergegangen. Dem Rechtserwerb stünde § 91 InsO auch dann nicht
+entgegen, wenn die aufschiebende Bedingung erst mit der Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin eingetreten wäre.
+15Die Rechtsschutzversicherung ist eine Schadensversicherung, für die § 86 I 1 VVG
+gilt. Nach dieser Regelung geht ein dem Versicherungsnehmer gegen einen Dritten
+zustehender Ersatzanspruch auf den Versicherer über, soweit dieser den Schaden
+ersetzt. Hierbei handelt es sich um einen gesetzlichen Anspruchsübergang iSv § 412
+Rn. 10). Indem die Kl. Vorschüsse an die Rechtsanwalts GbR geleistet hat, hat sie ihrer
+Versicherungsnehmerin iSd § 86 I 1 VVG „einen Schaden ersetzt“. Durch die Zahlung
+der Vorschüsse ist der aufschiebend bedingte Anspruch auf Rückzahlung nicht
+2020, 561). Die endgültige Entstehung des Rückzahlungsanspruchs in der Hand der Kl.
+durch den Eintritt der Fälligkeit des Vergütungsanspruchs wäre nicht durch die
+Eröffnung des Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin
+verhindert worden. Der uneingeschränkten Übertragung eines bedingten Rechts steht
+insbesondere § 91 InsO auch dann nicht entgegen, wenn die Bedingung erst nach oder
+mit der Eröffnung des Insolvenzverfahrens eintritt (vgl. BGH NJW-RR 2008, 1007 = NZI
+2008, 371 = ZIP 2008, 885 Rn. 9 mwN).
+164. Die vom Bekl. erhobene Verjährungseinrede greift nicht durch.
+17Der Rückzahlungsanspruch richtete sich gegen die Rechtsanwalts GbR als
+Vertragspartnerin der Versicherungsnehmerin. Der Bekl. haftet als Gesellschafter der
+1056). In Rede steht hier die akzessorische Haftung des Bekl. und damit die
+Gesellschafterschuld. Die Gesellschafterschuld ist nicht verjährt. Auf eine Verjährung
+des Anspruchs gegen die Anwalts GbR könnte sich der Bekl. nicht berufen.
+18a) Die Gesellschafterschuld ist nicht verjährt.
+19 aa) Die Gesellschafterhaftung stimmt grundsätzlich und gerade auch hinsichtlich
+aller Einwendungen oder Einreden – zugunsten und zuungunsten des Gesellschafters
+– mit der jeweiligen Gesellschaftsverbindlichkeit überein. Dies entspricht dem Wortlaut
+der §§ 128 ff. HGB und dem Sinn der akzessorischen Gesellschafterhaftung. Das
+Sicherungsinteresse des Gläubigers erfordert es, dass ein Gesellschafter für die
+Gesellschaftsschulden, die während oder vor seiner Mitgliedschaft begründet worden
+sind, auch zeitlich wie die Gesellschaft selbst haftet (BGH NZG 2010, 264 Rn. 41).
+20bb) Eine Sonderverjährung sieht allerdings § 159 HGB für den Gesellschafter einer
+aufgelösten Gesellschaft vor. Nach dem Wortlaut des § 159 I HGB verjähren die
+Ansprüche gegen einen Gesellschafter aus Verbindlichkeiten der Gesellschaft in fünf
+Jahren nach der Auflösung der Gesellschaft, sofern nicht der Anspruch gegen die
+Gesellschaft einer kürzeren Verjährung unterliegt. Gemäß § 159 II HGB beginnt die
+Verjährung mit dem Ende des Tages, an welchem die Auflösung der Gesellschaft in
+das Handelsregister des für den Sitz der Gesellschaft zuständigen Gerichts
+eingetragen wird. Die Sonderverjährung gilt auch für den Gesellschafter einer (Außen-
+)Gesellschaft bürgerlichen Rechts mit der Maßgabe, dass die Verjährung mit der
+Kenntnis des Gläubigers von der Auflösung der Gesellschaft beginnt (BFHE 183, 307
+(309) = NJW-RR 1998, 1185; BVerwGE 153, 109 = NZG 2016, 1262 Rn. 14; vgl. auch
+21cc) Die Verjährungsfrist nach § 159 HGB beträgt fünf Jahre. Dies gilt auch dann,
+wenn die Frist für die Verjährung der Gesellschaftsschuld kürzer ist. § 159 I Hs. 2 HGB
+betrifft nicht die dem Gesellschafter der aufgelösten Gesellschaft zustehende
+Verjährungseinrede. Die insoweit missverständlich formulierte Vorschrift stellt
+lediglich klar, dass dem Gesellschafter die gem. § 129 I HGB abgeleitete Einrede der
+Verjährung der Gesellschaftsschuld verbleibt. Davon ist der BGH schon zu § 159 HGB
+aF wie selbstverständlich (Brandes FS Stimpel, 1985, 105 (113)) ausgegangen (BGHZ
+Brandes FS Stimpel, 1985, 105 (113)). In Kenntnis dieser Rechtsprechung hat der
+Gesetzgeber § 159 HGB durch das Gesetz zur zeitlichen Begrenzung der Nachhaftung
+von Gesellschaftern (NachhBG) vom 18.3.1994 geändert. Klarstellungsbedarf im Blick
+auf § 159 I Hs. 2 HGB hat der Gesetzgeber nicht gesehen. Den Materialien lässt sich
+vielmehr entnehmen, dass auch der Gesetzgeber von einer (einheitlich) fünfjährigen
+Sonderverjährung ausgegangen ist (vgl. BT-Drs. 12/1868, 1). Das vom BGH zugrunde
+gelegte und vom Gesetzgeber geteilte Verständnis des § 159 I Hs. 2 HGB entspricht
+überdies der ganz herrschenden Meinung im Schrifttum
+(Ebenroth/Boujong/Joost/Strohn/Hillmann HGB, 4. Aufl., HGB § 159 Rn. 11;
+Heymann/Freitag HGB, 3. Aufl., HGB § 159 Rn. 16; Staub/Habersack HGB, 5. Aufl., HGB
+§ 159 Rn. 15; Röhricht/Graf von Westphalen/Haas HGB § 159 Rn. 9;
+Heidel/Schall/Eberl HGB, 3. Aufl., HGB § 159 Rn. 7; BeckOK HGB/Klimke, 2021, HGB § 159 Rn. 11; MüKoHGB/Schmidt, 4. Aufl., HGB § 159 Rn. 26; BeckOGK/Temming, 2021,
+HGB § 159 Rn. 40, aA wohl nur Baumbach/Hopt/Roth HGB, 40. Aufl., HGB § 159 Rn. 5;
+Oetker/Boesche HGB, 7. Aufl., HGB § 159 Rn. 10). Das ist (weiterhin) richtig. Nur auf
+diese Weise werden das Interesse des Gläubigers an der Verwirklichung der
+akzessorischen Haftung des Gesellschafters und dessen gegenläufiges Interesse an
+der zeitlichen Begrenzung dieser Haftung nach Auflösung der Gesellschaft miteinander
+in Ausgleich gebracht.
+22dd) Danach kann sich der Bekl. nicht auf eine (Sonder-)Verjährung seiner
+Haftungsverbindlichkeit binnen der regelmäßigen Verjährungsfrist des § 195 BGB
+berufen, die entsprechend § 159 II HGB bereits mit dem Ende des Tages in Lauf gesetzt
+worden wäre, an dem die Kl. von der Auflösung der Anwalts GbR Kenntnis erlangt hatte.
+In Lauf gesetzt wurde nur die fünfjährige Frist des § 159 I HGB. Diese Frist wurde durch
+den von der Kl. gestellten Mahnbescheidsantrag und erneut durch die später erfolgte
+Überleitung in das streitige Verfahren rechtzeitig gehemmt.
+23b) Auf eine Verjährung des Anspruchs gegen die Rechtsanwalts GbR könnte sich der
+1056; NZG 2010, 264 Rn. 43) kann der Bekl. Einwendungen geltend machen, die von
+der Gesellschaft erhoben werden könnten. Dazu zählt im Grundsatz auch die Einrede
+der Verjährung der Gesellschaftsschuld (MüKoHGB/Schmidt HGB § 129 Rn. 7 mwN).
+Verwehrt ist die Geltendmachung der Einrede der Verjährung der Gesellschaftsschuld
+allerdings dem Gesellschafter, gegenüber dem der Gläubiger die Verjährung rechtzeitig
+Das ist im Fall der Sonderverjährung nach § 159 HGB nicht zwingend der Fall. Auch im
+Streitfall lief die im Juni 2016 mit Erlangung der Kenntnis von der Auflösung der
+Gesellschaft in Gang gesetzte Sonderverjährung erst nach der mit Ablauf des Jahres
+2016 begonnenen Verjährung der Gesellschaftsschuld ab (§§ 195, 199 BGB). Auch in
+einem solchen Fall kann sich der Gesellschafter auf die Verjährung der
+Gesellschaftsschuld jedoch nicht berufen, wenn die Verjährung seiner
+Haftungsverbindlichkeit vor dem Eintritt der Verjährung der Gesellschaftsschuld
+gehemmt worden ist. Das ist hier der Fall.
+Anmerkung der Redaktion
+S. hierzu Leuering/Rubner NJW-Spezial 2022, 111. – S. zur Erstattung unverbrauchter,

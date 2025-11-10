@@ -1,0 +1,295 @@
+Geschäftsführers
+* Geltendmachung von Ersatzansprüchen aus Pflichtverletzung des
+Geschäftsführers
+GmbHG § 46 Nr. 8
+Zur Geltendmachung von Ersatzansprüchen, die mit einer Pflichtverletzung des
+Geschäftsführers begründet werden, kann ein besonderer Vertreter bestellt werden,
+auch wenn nicht der Geschäftsführer selbst, sondern eine von ihm mittelbar
+beherrschte Gesellschaft in Anspruch genommen werden soll.
+BGH Urteil vom 30.11.2021 – II ZR 8/21
+Zum Sachverhalt
+Die Kl., eine GmbH, hat drei Gesellschafterinnen. 50 % ihres Stammkapitals hält die C
+GmbH, deren Alleingesellschafter und Geschäftsführer R. ist. Weitere 40 % des
+Stammkapitals hält die insolvente H GmbH (im Folgenden: H), deren
+Alleingesellschafter W ist. Die übrigen 10 % entfallen auf die insolvente HI mbH (im
+Folgenden: HI). Geschäftsführer der Kl. war bis Juni 2008 W., ab Ende 2008 zudem R.,
+im August 2010 wurde Ri zum weiteren Geschäftsführer der Kl. bestellt.
+Alleingesellschafterin der beklagten GmbH ist die L GmbH, deren Alleingesellschafter
+und Geschäftsführer wiederum R ist.
+Bereits 1999 schloss die Kl. mit der Ha GmbH (im Folgenden: Käuferin) einen
+Unternehmenskaufvertrag über die Veräußerung von Anteilen an einer weiteren
+Gesellschaft. In der Folge kam es zwischen den Kaufvertragsparteien zum Streit. Die
+Kl., R und die W mbH als Zessionarin der Ansprüche des W erhoben daraufhin im Jahr
+2010 gemeinsam eine Teil-Schiedsklage gegen die Käuferin. Zur Finanzierung ihrer
+Prozessführung schloss die Kl., vertreten durch ihre Geschäftsführer R und Ri, auf der
+Grundlage eines entsprechenden Gesellschafterbeschlusses am 21./22.2.2011 mit der
+Bekl., diese wiederum vertreten durch R, einen Prozessfinanzierungsvertrag. Darin
+verpflichtete sich die Bekl. zur Übernahme der Verfahrenskosten der Kl. bis zu einer
+bestimmten Höhe, im Gegenzug versprach die Kl. der Bekl. im Falle eines
+Prozesserfolgs eine 30 %-ige Erlösbeteiligung. Spätestens 2015 kam es zwischen den
+Gesellschafterinnen der Kl. bzw. deren Insolvenzverwaltern zum Streit über die
+Wirksamkeit des Prozessfinanzierungsvertrags.
+Die Gesellschafterinnen der Kl. fassten am 14./15.6.2016 im Umlaufverfahren einen
+Beschluss, in dem der Insolvenzverwalter der Gesellschafterin H, Rechtsanwalt B,
+ermächtigt wurde, die Rechtsanwälte H mit der Erhebung einer Klage gegen die Bekl.
+auf Feststellung der Unwirksamkeit des Prozessfinanzierungsvertrags vom
+21./22.2.2011 zu beauftragen. In der Folge erhob die Kl., vertreten durch den
+besonderen Vertreter B, gegen die Bekl. eine entsprechende Feststellungsklage.
+Das LG Hamburg (Urt. v. 17.7.2018 – 411 HKO 9/17) hat die Klage als unbegründet
+abgewiesen, wogegen sich die Kl. mit ihrer Berufung gewandt hat.
+Während des Berufungsverfahrens haben am 9.12.2019 die Gesellschafterinnen der
+Kl. einstimmig den Beschluss gefasst, dass der Insolvenzverwalter der H in dem
+Beschluss vom 15./16.6.2016 als besonderer Vertreter „iSd § 46 Nr. 8 Var. 2 GmbHG
+(analog) ermächtigt worden ist und werden sollte“. Am 17.12.2019 hatten die H und
+die HI gegen die Stimmen der C GmbH unter anderem für eine Neufassung und
+Ergänzung des Beschlusses vom 15./16.6.2016 gestimmt, insbesondere für die
+vorsorgliche Ermächtigung des besonderen Vertreters zur Klageerhebung als
+besonderer Vertreter iSv § 46 Nr. 8 Fall 2 GmbHG (analog) rückwirkend auf den
+15.6.2016 (TOP 4 Nr. 1), zur Ausschöpfung des Instanzenwegs (TOP 4 Nr. 2), zur
+Erhebung einer Leistungsklage, gerichtet auf die Rückzahlung der auf den
+Prozessfinanzierungsvertrag erbrachten Zahlungen (TOP 4 Nr. 3), und einer negativen
+Feststellungsklage (TOP 4 Nr. 4). Die Kl. hat die Klage um den Antrag auf Rückzahlung
+der von der Kl. auf den Prozessfinanzierungsvertrag geleisteten 5.873.896,55 EUR und
+um den Antrag auf Feststellung, dass der Bekl. gegenüber der Kl. ein Anspruch aus
+dem Prozessfinanzierungsvertrag nicht zusteht, erweitert.
+Berufung der Kl. mit der Maßgabe zurückgewiesen, dass die Klage unzulässig sei. Mit
+der vom Senat zugelassenen Revision verfolgte die Kl. ihre Klageanträge weiter, den
+Zahlungsantrag jedoch nur iHv 4.458.599,87 EUR nebst Zinsen. Die Revision führte im
+Umfang der Anfechtung zur Aufhebung des Berufungsurteils und zur
+Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+9I. Das BerGer. hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:
+10Der wirksamen Klageerhebung stehe die mangelnde gesetzliche
+Vertretungsbefugnis (§ 51 I ZPO) des besonderen Vertreters entgegen. Mit
+Beschlussfassungen vom 14./15.6.2016 und vom 9.12.2019 habe die Kl. einen
+besonderen Vertreter nach § 46 Nr. 8 Fall 2 GmbHG nicht bestimmen können, weil es
+sich bei der Bekl. nicht um eine Geschäftsführerin der Kl. gehandelt habe.
+11Eine analoge Anwendung des § 46 Nr. 8 Fall 2 GmbHG auf den Fall tatsächlicher
+oder mutmaßlicher Interessenkonflikte in der Person eines Geschäftsführers sei im
+Hinblick auf die grundsätzlich nicht beschränkbare gesetzliche Vertretungsmacht des
+Geschäftsführers (§§ 35, 37 II GmbHG) nicht angezeigt.
+12Abgesehen von der fehlenden gesetzlichen Vertretung der Kl. begegne die
+Zulässigkeit der Klage aber auch im Hinblick auf die spezifische Rechtsnatur der
+Feststellungsklage und deren besonderen Voraussetzungen unüberwindbaren
+Bedenken. Im maßgeblichen Außenrechtsverhältnis der Kl. gegenüber der Bekl. gebe
+es wegen Personenidentität keine relevante Unsicherheit über die Wirksamkeit des
+Prozessfinanzierungsvertrags. Die Bekl. habe die Kl. zudem zuletzt
+BGH: * Geltendmachung von Ersatzansprüchen aus Pflichtverletzung
+2014 aus dem Prozessfinanzierungsvertrag in Anspruch genommen. Diese jahrelange
+Untätigkeit widerlege ein Feststellungsinteresse faktisch.
+13Ein Feststellungsinteresse ergebe sich auch nicht aus der Klageerweiterung in der
+Berufungsinstanz, weil unbeschadet der Frage der Sachdienlichkeit der Klageänderung
+hinsichtlich der erweiterten Berufungsanträge jedenfalls die Voraussetzungen des § 533 Nr. 2 ZPO nicht vorlägen.
+14II. Diese Ausführungen halten einer rechtlichen Nachprüfung nicht stand.
+151. Die Revision ist zulässig.
+16Der Zulässigkeit der Revision der Kl. steht nicht der mögliche Mangel der
+Legitimation des besonderen Vertreters B. entgegen, da auch eine Partei, deren
+gesetzliche Vertretung in der Vorinstanz verneint worden ist, wirksam ein Rechtsmittel
+einlegen kann, um eine andere Beurteilung zu erreichen (BGH NZG 2021, 1028 Rn. 6
+mwN).
+172. Die Revision ist begründet.
+18a) Entgegen der Ansicht des BerGer. kann entsprechend § 46 Nr. 8 GmbHG zur
+Geltendmachung von Ersatzansprüchen, die mit einer Pflichtverletzung des
+Geschäftsführers begründet werden, ein besonderer Vertreter bestellt werden, auch
+wenn nicht der Geschäftsführer selbst, sondern eine von ihm mittelbar beherrschte
+Gesellschaft in Anspruch genommen werden soll.
+19aa) § 46 Nr. 8 GmbHG soll die unvoreingenommene Prozessführung der
+Gesellschaft in Rechtsstreitigkeiten sicherstellen, in denen die nach § 35 GmbHG an
+sich zur Vertretung berufenen Geschäftsführer insgesamt oder teilweise nicht als
+Vertretungsorgan in Betracht kommen, weil die Gefahr besteht, dass sie wegen der
+Hinblick auf den Normzweck ist nach der Rechtsprechung des BGH eine
+entsprechende Anwendung des § 46 Nr. 8 GmbHG möglich bei Prozessen der
+Gesellschaft gegen einen Gesellschafter, wenn dem Gesellschafter neben dem
+Geschäftsführer dieselbe oder eine in engem Zusammenhang stehende
+Pflichtverletzung vorgeworfen wird. Auch in diesem Fall ist nämlich die
+Vertretungsmacht nicht gegeben, wenn der Geschäftsführer auch selbst wegen der
+Pflichtverletzung in Anspruch genommen werden soll und deshalb gehindert ist,
+20 bb) Die Kompetenz der Gesellschafter aus § 46 Nr. 8 GmbHG zur Bestellung eines
+besonderen Vertreters ist auch auf die Geltendmachung von Ersatzansprüchen, die der
+Gesellschaft gegen eine von ihrem Geschäftsführer mittelbar beherrschte Gesellschaft
+zustehen sollen, zu erstrecken. Eine Gefährdung des Vertrauensverhältnisses und der
+persönlichen Beziehungen der Beteiligten ist bei einer Inanspruchnahme der vom
+Geschäftsführer mittelbar beherrschten Gesellschaft in gleicher Weise möglich wie bei
+einer unmittelbaren Inanspruchnahme des Geschäftsführers durch die Gesellschaft.
+Auch in einem solchem Fall besteht die Gefahr, dass Ansprüche der Gesellschaft nicht
+mit dem nötigen Nachdruck verfolgt werden, wenn die Entscheidung darüber auch dem
+Geschäftsführer obliegt, dessen persönliche und wirtschaftliche Interessen auch im
+Hinblick auf seine mittelbare Beteiligung und Beherrschung des Anspruchsgegners
+betroffen sind. Ein Ersatzanspruch gegen eine von ihm wie hier vollständig beherrschte
+Gesellschaft ist insoweit nicht anders zu bewerten als der Ersatzanspruch gegen den
+Geschäftsführer selbst. Beschließen in dieser Situation die Gesellschafter über die
+Geltendmachung oder Nichtgeltendmachung der Ersatzansprüche, wird der
+Geschäftsführer von diesem Interessenkonflikt entlastet.
+21cc) Die Feststellung der Unwirksamkeit des Prozessfinanzierungsvertrags, dessen
+Nichtigkeit die Kl. unter anderem mit dem Missbrauch der Vertretungsmacht durch R
+beim Abschluss des Prozessfinanzierungsvertrags und Verstößen gegen §§ 134, 138
+BGB begründet, fällt unter die Geltendmachung eines Ersatzanspruchs iSd § 46 Nr. 8
+GmbHG. Zu den Ersatzansprüchen iSv § 46 Nr. 8 GmbHG zählen alle aus der
+Geschäftsführung hergeleiteten Ersatzansprüche auf vertraglicher oder
+Abschluss und die Ausführung des Prozessfinanzierungsvertrags, dessen
+Unwirksamkeit die Kl. klageweise festgestellt wissen möchte, sind der
+Geschäftsführung der Kl. durch ihren Geschäftsführer R unmittelbar zuzuordnen. Bei
+einer Unwirksamkeit des Vertrags kommen nicht nur ein etwaig pflichtwidriges
+Verhalten des Geschäftsführers R und daraus folgende Schadensersatzansprüche
+gegen ihn in Betracht. Vielmehr würden aus der Unwirksamkeit des
+Prozessfinanzierungsvertrags typischerweise bereicherungsrechtliche Ansprüche
+resultieren, die ihrerseits beim Zusammentreffen mit einer möglichen Pflichtverletzung
+als Ersatzanspruch iSd § 46 Nr. 8 GmbHG anzusehen sind (BGHZ 97, 382 (390 f.) =
+Prozessfinanzierungsvertrags berühmt sich die Kl. durch ihre Klageerweiterung in der
+Berufungsinstanz.
+22dd) Der Bestellung eines besonderen Vertreters nach § 46 Nr. 8 GmbHG steht nicht
+entgegen, dass es weitere Geschäftsführer gibt, die nach § 35 I 1 GmbHG eine
+organschaftliche Vertretung der Gesellschaft in einem Prozess grundsätzlich
+übernehmen könnten. Die Kl. musste sich in dem Prozess gegen die Bekl. mithin nicht
+auf ihre Vertretung durch den weiteren Geschäftsführer verweisen lassen.
+23In der Rechtsprechung des BGH ist für § 46 Nr. 8 GmbHG anerkannt, dass die
+Gesellschafterversammlung einen besonderen Vertreter auch dann bestellen kann,
+wenn eine satzungsmäßige Vertretung der Gesellschaft im Prozess durch weitere
+vorhandene Geschäftsführer nach § 35 GmbHG prinzipiell möglich wäre (BGH NJW-RR
+1992, 993 = ZIP 1992, 760 (761); NZG 2012, 502 = ZIP 2012, 824 Rn. 12; ZIP 2016, 2413
+Gesellschafter müssen sich nicht auf die Möglichkeit verweisen lassen, kraft ihrer
+Weisungsbefugnis Einfluss auf den weiteren Geschäftsführer zu nehmen und die
+Prozessführung zur Durchsetzung der Ersatzansprüche mittels Weisungen der
+Gesellschafterversammlung zu lenken. Einem weiteren Geschäftsführer kann es in
+einer solchen Situation an der erforderlichen Unvoreingenommenheit fehlen, um die
+Inte-
+BGH: * Geltendmachung von Ersatzansprüchen aus Pflichtverletzung
+ressen der Gesellschaft im Prozess zur Durchsetzung der Ersatzansprüche gegen den
+Geschäftsführer mit dem nötigen Nachdruck zu verfolgen.
+24b) Das Urteil erweist sich auch nicht aus anderen Gründen als richtig. Nicht frei von
+Rechtsfehlern hat das BerGer. ein Feststellungsinteresse der Kl. iSd § 256 ZPO an der
+Feststellung der Unwirksamkeit des Prozessfinanzierungsvertrags verneint. Ein
+rechtliches Interesse der Kl. an der Feststellung der Unwirksamkeit des
+Prozessfinanzierungsvertrags besteht im maßgeblichen Rechtsverhältnis der Parteien
+und wird nicht dadurch widerlegt, dass die Bekl. die Kl. zuletzt vor der Klageerhebung
+in diesem Rechtsstreit aus dem Prozessfinanzierungsvertrag in Anspruch genommen
+hat.
+25 Ein Feststellungsinteresse iSd § 256 ZPO ist nach ständiger Rechtsprechung des
+BGH gegeben, wenn dem Recht oder der Rechtslage eine gegenwärtige Gefahr der
+Unsicherheit droht und das erstrebte Urteil geeignet ist, diese Gefahr zu beseitigen
+Parteien haben den Prozessfinanzierungsvertrag vom 21./22.2.2011 über Jahre gelebt
+und gegenseitig Leistungen auf ihre Verpflichtungen erbracht. Spätestens mit der
+Beschlussfassung vom 14./15.6.2016 haben sich die Gesellschafter der Kl. zur
+gerichtlichen Überprüfung der Wirksamkeit des Vertrags entschlossen und damit eine
+maßgebliche Unsicherheit seitens der Kl. belegt. Unerheblich ist dabei eine – etwaig –
+abweichende Rechtsauffassung des R als Geschäftsführer der Kl., den gem. § 37 I Fall
+2 GmbHG eine Folgepflicht im Hinblick auf die Beschlussfassung der Gesellschafter
+trifft. Auf Seiten der Bekl. hat sich deren gegenteilige Rechtsauffassung spätestens in
+dem vorliegenden Rechtsstreit gezeigt.
+26Das Feststellungsinteresse der Kl. wird entgegen der Ansicht des BerGer. nicht
+dadurch widerlegt, dass die Bekl. die Kl. aus dem Vertrag zuletzt vor Klageerhebung in
+Anspruch genommen hat. Im Hinblick auf R als Geschäftsführer der Kl. sowie als
+Geschäftsführer und Alleingesellschafter ihrer Gesellschafterin C GmbH einerseits und
+als Geschäftsführer und mittelbarer Alleingesellschafter der Bekl. andererseits liegt es
+vielmehr nahe, dass die Bekl. die von den Gesellschafterinnen der Kl. 2016 einstimmig
+beschlossene und mit Beschluss vom 9.12.2019 einstimmig bestätigte gerichtliche
+Klärung der Wirksamkeit des Prozessfinanzierungsvertrags zunächst abwartet, bevor
+sie weitere Leistungen aus dem Vertrag einfordert.
+27c) Das BerGer. hat schließlich rechtsfehlerhaft die Zulässigkeit der Klageerweiterung
+verneint. Die von dem besonderen Vertreter B erhobene Klageerweiterung der Kl. um
+die Zahlung von – nunmehr noch – 4.458.599,87 EUR nebst Zinsen seit dem 7.2.2020
+und um die Feststellung, dass der Bekl. ein Anspruch aus dem
+Prozessfinanzierungsvertrag nicht zusteht, erfüllt die Voraussetzungen des § 533 Nr.
+2 ZPO und ist im Übrigen auch sachdienlich iSd § 533 Nr. 1 ZPO.
+28aa) Der besondere Vertreter der Kl. war aufgrund des Beschlusses der
+Gesellschafterinnen der Kl. vom 17.12.2019 als gesetzlicher Vertreter iSd § 51 ZPO zur
+Klageerweiterung befugt. Es handelt sich bei der Prozessführungsbefugnis um eine
+Prozessvoraussetzung, die auch im Revisionsverfahren noch von Amts wegen zu
+29Die C GmbH unterlag bei der Beschlussfassung am 17.12.2019 einem Stimmverbot
+nach § 47 IV 2 GmbHG. Ist ein GmbH-Gesellschafter Alleingesellschafter einer
+Drittgesellschaft, besteht nach der Rechtsprechung des BGH zu § 47 IV GmbHG für ihn
+ein Stimmverbot bei einer Beschlussfassung, die die Vornahme eines Rechtsgeschäfts
+oder die Einleitung oder Erledigung eines Rechtsstreits gegen diese Drittgesellschaft
+(1040)). Das Stimmverbot trifft auch eine GmbH-Gesellschafterin, wenn sie zwar nicht
+selbst Gesellschafterin der Drittgesellschaft ist, aber ihr Alleingesellschafter
+Alleingesellschafter der Drittgesellschaft ist. Dann ist die wirtschaftliche Verbindung
+so stark, dass man das persönliche Interesse der GmbH-Gesellschafterin und ihres
+Gesellschafters mit dem der Drittgesellschaft gleichsetzen kann. Das in der
+anderweitigen Beteiligung des Gesellschafter-Gesellschafters verkörperte Interesse
+schließt dann bei Entscheidungen über Rechtsgeschäfte oder die Einleitung oder
+Erledigung eines Rechtsstreits mit der Drittgesellschaft eine unbefangene
+Stimmabgabe in der Regel aus und bedeutet deshalb für die GmbH eine erhebliche
+Rn. 32 mwN). Danach unterlag die C GmbH, deren Alleingesellschafter R ist, aufgrund
+der starken wirtschaftlichen Verbundenheit des R mit der Bekl. als ihrem mittelbaren
+Alleingesellschafter einem Stimmverbot. Die C GmbH war deshalb nach § 3 (8) 
+des Gesellschaftsvertrags der Kl. nicht stimmberechtigt, wonach deren Gesellschafter
+auch in eigenen Angelegenheiten stimmberechtigt sind, es sei denn, dass einer der in
+§ 47 IV GmbHG bezeichneten Gegenstände Gegenstand der Beschlussfassung ist. Ihre
+dennoch erfolgte Stimmabgabe in der Gesellschafterversammlung der Kl. war deshalb
+nichtig und nicht mitzuzählen (vgl. Baumbach/Hueck/Zöllner/Noack GmbHG, 22. Aufl.,
+GmbHG § 47 Rn. 104; Lutter/Hommelhoff/Bayer GmbHG, 20. Aufl., GmbHG § 47 Rn.
+52).
+30Die nach § 3 (8)  des Gesellschaftsvertrags der Kl. erforderliche Zustimmung
+aller übrigen Gesellschafter lag vor. Die Gesellschafterin H, deren Insolvenzverwalter
+zum besonderen Vertreter bestellt worden war und der durch den Beschluss vom
+17.12.2019 zur Ausschöpfung des Instanzenwegs ermächtigt worden ist, unterlag
+dabei keinem Stimmverbot. Bei der Bestellung des besonderen Vertreters und seiner
+Ermächtigung zur Rechtsverfolgung ist im Ausgangspunkt kein gesellschaftsfremdes
+Eigeninteresse anzunehmen, sondern der an der Verfolgung des Anspruchs
+interessierte Gesellschafter verfolgt typischerweise dasselbe Interesse wie die GmbH.
+31Entgegen dem von der Bekl. in der Revisionsverhandlung erhobenen Vorwurf ist der
+weitere Beschluss der Gesellschafter der Kl. vom 17.12.2019 auch nicht treuwidrig,
+weil, wie die Bekl. geltend macht, der einstimmig gefasste Gesellschafterbeschluss
+vom 15./16.6.2016 vergleichsartigen Charakter habe, das Vorgehen bis zur Klärung der
+Unwirksamkeit bzw. Wirksamkeit des Prozessfinanzierungsvertrags abschließend
+regele und deshalb einer inhaltlichen Erweiterung, wie durch den Beschluss vom
+17.12.2019 erfolgt, entgegen stehe. Der Senat kann die behauptete
+Vergleichsvereinbarung nicht selbst auslegen, weil sie als schuldrechtliche Abrede
+unabhängig davon, ob sie – wie nicht ersichtlich – zum Gegenstand der
+Beschlussfassung gemacht
+BGH: * Geltendmachung von Ersatzansprüchen aus Pflichtverletzung
+worden ist, nicht objektiv wie eine Satzung oder ein Gesellschafterbeschluss, sondern
+subjektiv auszulegen ist. Die Auslegung, für die es zudem an den erforderlichen
+Feststellungen fehlt, obliegt insoweit nach den allgemeinen Regeln der §§ 133, 157
+BGB dem BerGer. als Tatrichter (vgl. BGHZ 210, 186 = NZG 2016, 742 Rn. 34).
+32bb) Das BerGer. durfte die Zulässigkeit der Klageerweiterung in der
+Berufungsinstanz nicht unter Verweis auf die Voraussetzungen des § 533 Nr. 2 ZPO
+ablehnen. Die Klageerweiterung ist iSd § 533 Nr. 2 ZPO auf Tatsachen gestützt, die das
+BerGer. seiner Verhandlung und Entscheidung über die Berufung ohnehin nach § 529
+ZPO zugrunde zu legen hat. Die mit Schriftsatz vom 31.1.2020 erhobene
+Klageerweiterung auf Zahlung von 5.873.896,55 EUR nebst Zinsen beruht – von der
+Bekl. nicht bestritten – auf den Zahlungen der Kl. an die Bekl. wegen von der Bekl.
+verauslagten Schiedsgerichtskosten und Anwaltshonoraren iHv 1.415.296,68 EUR und
+zwei Abschlagszahlungen der Kl. an die Bekl. auf die Erlösbeteiligung iHv 1.000.000
+EUR und 3.458.599,87 EUR, deren Rückerstattung die Kl. begehrt. Diesen neuen Vortrag
+der Kl. hätte das BerGer. seiner Entscheidung als unstreitig gem. § 529 I Nr. 2, § 531
+33Rechtsfehlerhaft hat das BerGer. darauf abgestellt, dass es für eine Entscheidung
+auf Grundlage des gem. § 529 I ZPO maßgeblichen Tatsachenvortrags an einem
+Vorbringen der Parteien zu den Voraussetzungen einer bereicherungsrechtlichen
+Gesamtsaldierung, insbesondere im Hinblick auf die Voraussetzungen des § 814 BGB,
+fehle. Die Kl. hat mit der Begründung ihrer Klageerweiterung nicht nur dargelegt, was
+sie aufgrund des unwirksamen Vertrags zurückzuverlangen können glaubt, sondern
+zugleich auch zu den von der Bekl. verauslagten Schiedsgerichtskosten und
+Anwaltshonoraren iHv 1.415.296,68 EUR vorgetragen. Der ihr als Saldogläubigerin
+obliegenden Darlegungslast, bei der Anspruchsbegründung auch darzulegen, was die
+Eine etwaige weitere Minderung des Saldos vorzutragen, obliegt dem
+420 = ZIP 2019, 564 Rn. 42), mithin der Bekl., die sich dazu nicht verhalten hat. Das
+BerGer. hätte deshalb aufgrund des zu berücksichtigenden unstreitigen Vorbringens
+eine Saldierung vornehmen und in diesem Rahmen § 814 BGB zulasten der insofern
+als Leistungsempfängerin darlegungs- und beweispflichtigen (vgl. BAGE 167, 144 =
+34cc) Die Klageerweiterung ist auch sachdienlich iSd § 533 Nr. 1 ZPO.
+35Das BerGer. hat offengelassen, ob die Klageerweiterung sachdienlich ist. Hat der
+Tatrichter die Sachdienlichkeit einer Klageänderung nicht geprüft, entscheidet hierüber
+515 (517)). Maßgeblich ist eine objektive Beurteilung, ob und inwieweit die
+Klageänderung den sachlichen Streitstoff im Rahmen des anhängigen Rechtsstreits
+36Von einer solchen Erledigung ist im Hinblick auf die Klageerweiterung bezüglich des
+Zahlungsantrags auszugehen, da einem weiteren Rechtsstreit um die Rückzahlung der
+von der Kl. auf den Prozessfinanzierungsvertrag – dessen Unwirksamkeit unterstellt,
+die das BerGer. ohnehin zu prüfen haben wird – geleisteten Zahlungen vorgebeugt
+wird.
+37Gleiches gilt für den mit der Klageerweiterung erhobenen weiteren
+Feststellungsantrag.
+38III. Das Berufungsurteil ist danach im ausgesprochenen Umfang aufzuheben (§ 562
+I ZPO) und die Sache ist zur neuen Verhandlung und Entscheidung an das BerGer.
+zurückzuverweisen (§ 563 I 1 ZPO).
+39Sollte das BerGer. den weiteren Feststellungsantrag für unzulässig halten, da dieser
+Feststellungsantrag – wie es die Revision ausführt – nur die Rechtsfolge des ersten
+Feststellungsantrags zum Ausdruck bringt und folglich darin enthalten ist, hat es auf
+eine sachdienliche Antragstellung hinzuwirken, § 139 I 2 ZPO. Denn
+bereicherungsrechtliche Ansprüche aufgrund der etwaigen Unwirksamkeit des
+Prozessfinanzierungsvertrags, derer sich die Kl. berühmt, werden vom Wortlaut des
+Weiteren Feststellungsantrags nicht erfasst.
+Anmerkung der Redaktion
+S. hierzu die Anm John NZG 2022, 360. – Zum Kompetenzstreit in der GmbH und zur
+Frage, wer zuständig ist, wenn Gesellschaftsvertrag und Gesetz schweigen, s.
+Punte/Klemens NZG 2021, 594.

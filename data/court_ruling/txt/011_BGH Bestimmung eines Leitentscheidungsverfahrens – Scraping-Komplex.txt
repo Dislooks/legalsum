@@ -1,0 +1,125 @@
+Bestimmung eines Leitentscheidungsverfahrens – Scraping-Komplex
+ZPO § 552b; DS-GVO Art. 82
+1. Zur Bestimmung eines Leitentscheidungsverfahrens gem. § 552b ZPO in der
+Fassung des Gesetzes zur Einführung eines Leitentscheidungsverfahrens beim BGH
+vom 24.10.2024 (BGBl. 2024 I Nr. 328).
+2. Eine Anhörung der Parteien im Rahmen der Bestimmung des Verfahrens zum
+Leitentscheidungsverfahren ist nicht erforderlich. (Leitsatz 2 von der Redaktion)
+BGH Beschluss vom 31.10.2024 – VI ZR 10/24
+Zum Sachverhalt
+Der Kl. macht Schadensersatz-, Feststellungs-, Unterlassungs- und
+Auskunftsansprüche wegen einer Verletzung der DS-GVO durch die Bekl. geltend. Die
+Bekl., die ihren Sitz in Irland hat, betreibt das soziale Netzwerk Facebook, bei welchem
+der Kl. ein Nutzerkonto unterhält. Der Kl. hatte auf dem Netzwerk persönliche Daten
+eingestellt. Hierzu gehörte die für die Registrierung erforderliche und für alle Nutzer
+stets öffentlich einsehbare Angabe seines Namens, Geschlechts sowie der ihm
+zugewiesenen Nutzer-ID. Neben den immer einsehbaren Pflichtangaben können die
+Nutzer in ihrem Profil weitere Daten zu ihrer Person angeben und im von der Bekl.
+vorgegebenen Rahmen darüber entscheiden, welche anderen Gruppen von Nutzern
+(„Freunde“, (auch) „Freunde von Freunden“, „öffentlich“) auf diese Daten zugreifen
+können. Die Bekl. stellt hierfür Privatsphäre-Einstellungen zur Verfügung, mit denen die
+Nutzer bestimmen können, inwieweit sie Informationen, die sie zur Verfügung stellen,
+öffentlich einsehbar machen möchten. Über Funktion und Bedeutung der Privatsphäre-
+Einstellungen informierte die Bekl. ihre Nutzer im sogenannten Hilfebereich des
+Nutzerkontos. Der Kl. hatte in diesem Zusammenhang seine Arbeitsstätte öffentlich
+einsehbar angegeben,
+die Datenschutzeinstellung betreffend die Sichtbarkeit seiner Mobiltelefonnummer
+jedoch so gesetzt, dass diese nur für ihn sichtbar war. Bei den
+Suchbarkeitseinstellungen seines Profils, bei denen unter anderem festgelegt werden
+konnte, wer ihn anhand seiner Telefonnummer finden kann, hatte der Kl. es bei der
+Standardvoreinstellung „alle“ belassen; diesen Kreis hätte er stattdessen auch auf
+„Freunde von Freunden“ oder „Freunde“ (ab Mai 2019 außerdem: „nur ich“) begrenzen
+können. War die Suchbarkeits-Einstellung eines Nutzers – wie beim Kl. – im Hinblick
+auf die Telefonnummer auf „alle“ gestellt, erlaubte es die von der Bekl. implementierte
+sogenannte Kontakt-Import-Funktion bis September 2019 jedem Facebook-Nutzer, das
+Profil eines anderen Nutzers mithilfe der von diesem hinterlegten Telefonnummer zu
+finden. Hierzu konnten Nutzer Kontakte von Mobilgeräten auf Facebook hochladen, um
+mithilfe der Telefonnummern die jeweiligen Nutzer zu finden. Dies war auch dann
+möglich, wenn die Zielgruppenauswahl des jeweiligen Nutzers im Hinblick auf die
+Telefonnummer nicht auf „öffentlich“, sondern etwa – wie hier – auf „nur ich“ gestellt
+war.
+Im Zeitraum von Januar 2018 bis September 2019 ordneten unbekannte Dritte durch
+die Eingabe randomisierter Nummernfolgen über die Kontakt-Import-Funktion des
+Netzwerks Telefonnummern zu Nutzerkonten zu und griffen die zu diesen Nutzern
+vorhandenen Daten ab (sog. Scraping). Die auf diese Weise erlangten und nunmehr mit
+einer Telefonnummer verknüpften Daten von ca. 533 Mio. Nutzern wurden im April
+2021 im Internet öffentlich verbreitet. Hiervon waren auch persönliche Daten des Kl.
+(Telefonnummer in Verknüpfung mit den Daten seines Nutzerkontos, das heißt Nutzer-
+ID, Vorname, Nachname, Geschlecht und Arbeitsstätte) betroffen. Nach dem Vortrag
+des Kl. informierte die Bekl. weder die zuständige Datenschutzbehörde noch ihn selbst
+über den Vorfall. Der Kl. begehrte die Leistung von immateriellem Schadensersatz, weil
+die Bekl. in mehrfacher Hinsicht gegen die DS-GVO verstoßen und seine Daten nicht
+ausreichend geschützt habe. Er habe einen spürbaren Kontrollverlust über seine Daten
+erlitten, der zu einem massiven Anstieg von betrügerischen Kontaktversuchen geführt
+habe. Darüber hinaus begehrt er die Feststellung, dass die Bekl. verpflichtet ist, ihm in
+diesem Zusammenhang alle künftigen Schäden zu ersetzen, und macht weitere
+Unterlassungs- und Auskunftsansprüche geltend. Mit Schreiben vom 23.8.2021 teilte
+die Bekl. dem Kl. mit, welche Daten sie über ihn gespeichert hat.
+Das LG Bonn (Urt. v. 29.3.2023 – 13 O 125/22) hat der Klage teilweise stattgegeben
+und dem Kl. aus Art. 82 I DS-GVO Schadensersatz iHv 250 EUR sowie einen Teil der
+begehrten Rechtsverfolgungskosten zugesprochen. Im Übrigen hat es die Klage
+abgewiesen. Auf die vom LG zugelassene Berufung der Bekl. hat das OLG Köln (ZD
+2024, 180 Ls. = GRUR-RS 2023, 37347) die Entscheidung des LG unter Zurückweisung
+der Anschlussberufung des Kl. abgeändert und die Klage insgesamt abgewiesen. Mit
+seiner vom OLG zugelassenen Revision verfolgte der Kl. seine Ansprüche weiter. Der
+Senat hat das Verfahren VI ZR 10/24 zum Leitentscheidungsverfahren bestimmt.
+Aus den Gründen
+8II. Die Revision wirft Rechtsfragen auf, die für eine Vielzahl anderer Verfahren von
+Bedeutung sind. Der Senat bestimmt das vorliegende Verfahren daher zum
+Leitentscheidungsverfahren iSd § 552b ZPO idF des Gesetzes zur Einführung eines
+Leitentscheidungsverfahrens beim BGH vom 24.10.2024 (BGBl. 2024 I Nr. 328).
+9 1. Die formalen Voraussetzungen zur Bestimmung des vorliegenden Verfahrens zum
+Leitentscheidungsverfahren liegen vor. Das Gesetz zur Einführung eines
+Leitentscheidungsverfahrens beim BGH vom 24.10.2024 ist nach seinem Art. 7 am Tag
+nach der Verkündung, mithin am 31.10.2024 in Kraft getreten. Die
+Revisionsbegründung des Kl. wurde der Bekl. am 8.4.2024 zugestellt, die
+Revisionserwiderung der Bekl. ist am 15.10.2024 eingegangen (§ 552b  ZPO). Eine
+Anhörung der Parteien im Rahmen der Bestimmung des Verfahrens zum
+Leitentscheidungsverfahren ist nicht erforderlich (arg. e contr. § 148 IV ZPO; vgl. ferner
+Allgayer Stellungnahme als Sachverständiger zum (Regierungs-)Entwurf eines
+Gesetzes zur Einführung eines Leitentscheidungsverfahrens beim BGH, BT-
+Rechtsausschuss v. 13.12.2023, 4); etwas anderes würde auch die Zielsetzung des
+Gesetzes unterlaufen, eine zügige höchstrichterliche Klärung trotz der Rücknahme von
+Revisionen aus prozesstaktischen Gründen oder aufgrund eines Vergleichs zu
+ermöglichen (vgl. BT-Drs. 20/8762, 10).
+102. Das Verfahren wirft die folgenden Rechtsfragen auf:
+11a) Liegt in der Implementierung der sogenannten Kontakt-Import-Funktion in
+Verbindung mit der Standardvoreinstellung „alle“ ein Verstoß der Bekl. gegen die
+Datenschutz-Grundverordnung iSd Art. 82 I DS-GVO?
+12b) Ist der bloße Verlust der Kontrolle über die gescrapten und nunmehr mit der
+Mobiltelefonnummer des Betroffenen verknüpften Daten geeignet, einen immateriellen
+Schaden iSd Art. 82 I DS-GVO zu begründen? Falls ja, wie wäre der Ersatz für einen
+solchen Schaden zu bemessen?
+13c) Welche Anforderungen sind an die Substanziierung einer Schadensersatzklage
+nach Art. 82 I DS-GVO zu stellen?
+14d) Reicht die bloße Möglichkeit des Eintritts künftiger Schäden in einem Fall wie dem
+vorliegenden aus, um ein Feststellungsinteresse iSd § 256 I ZPO zu begründen?
+15e) Genügen die vom Kl. gestellten Anträge, dass die Bekl. es unterlasse,
+16– personenbezogene Daten der Klägerseite unbefugten Dritten über eine Software
+zum Importieren von Kontakten zugänglich zu machen, ohne die nach dem Stand der
+Technik möglichen Sicherheitsmaßnahmen vorzusehen, um die Ausnutzung des
+Systems für andere Zwecke als der Kontaktaufnahme zu verhindern, und
+17– die Telefonnummer des Kl. auf Grundlage einer Einwilligung zu verarbeiten, die
+wegen der unübersichtlichen und unvollständigen Informationen durch die Bekl.
+erlangt wurde, namentlich ohne eindeutige Informationen darüber, dass die
+Telefonnummer auch bei Einstellung auf „privat“ noch durch Verwendung des
+Kontaktimporttools verwendet werden kann, wenn nicht explizit hierfür die
+Berechtigung verweigert und, im Falle der Nutzung der Facebook-Messenger App, hier
+ebenfalls explizit die Berechtigung verweigert wird,
+18dem Bestimmtheitsgebot des § 253 II Nr. 2 ZPO?
+193. Die Entscheidung dieser Rechtsfragen ist für eine Vielzahl anderer Verfahren von
+Bedeutung (§ 552b  ZPO). Beim erkennenden Senat sind derzeit 25 weitere
+Revisionsverfahren zu dem Scraping-Vorfall bei der Bekl. anhängig. In den
+Tatsacheninstanzen sind bei unterschiedlichen Gerichten noch insgesamt mehrere
+tausend Verfahren anhängig (vgl. OLG Stuttgart ZD 2024, 60 Ls. = GRUR-RS 2023,
+32883 Rn. 136: über 100 eigene und bundesweit mehr als 6.000 Parallelverfahren; OLG
+Hamm r+s 2024, 869 Ls. = GRUR-RS 2024, 16856 Rn. 23: Vielzahl eigener
+Parallelverfahren; OLG Köln ZD 2024, 180 Ls. = GRUR-RS 2023, 37347 Rn. 29: Vielzahl
+gleichgelagerter eigener Verfahren).
+Anmerkung der Redaktion
+In der Sache hat der Senat mit Urteil vom 18.11.2024 entschieden (s. dazu die BGH-
+Pressemitt. Nr. 218/2024). – Grundsätzlich zum neu eingeführten
+rechtspolitische Aspekte im Vorfeld der Einführung erörtert Rapp ZRP 2024, 34. Die
+Entwicklung des Internetrechts ist Gegenstand der ständigen Berichterstattung von
+(Schufa-Scoring und Schadensersatz bei Übermittlung von Positivdaten) und OLG
+(Scraping).

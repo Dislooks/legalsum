@@ -1,0 +1,285 @@
+Unwirksamkeit einer uneingeschränkten Festpreisklausel im Bauvertrag
+BGB §§ 307 I 1, 306 II, 305 c II, 313; VOB/B § 2 III
+1.Die in Allgemeinen Geschäftsbedingungen des Auftraggebers eines Einheitspreis-
+Bauvertrags enthaltene Klausel
+„Die dem Angebot des Auftragnehmers zugrunde liegenden Preise sind grundsätzlich
+Festpreise und bleiben für die gesamte Vertragsdauer verbindlich.“
+benachteiligt den Auftragnehmer unangemessen und ist daher unwirksam.
+2.Mit dieser Klausel kann auch bei der hier anzuwendenden kundenfeindlichsten
+Auslegung eine Anpassung der Vergütung aufgrund einer Störung der
+Geschäftsgrundlage ausgeschlossen sein, was eine unangemessene Benachteiligung
+darstellen würde.
+3.Gemäß § 305 c II BGB ist im Zweifel die Auslegung zur anwendbaren Regelung
+vorzuziehen, die sich zum Nachteil der Verwenderin auswirkt. Das ist hier die Geltung
+der eigentlich nachrangigen Regelung des § 2 III VOB/B. Dem steht auch § 306 II BGB
+nicht entgegen, der die Geltung der gesetzlichen Regelung vorsieht, da die
+Verwenderin der Allgemeinen Geschäftsbedingungen sich nicht auf die
+Unwirksamkeit einer vorhandenen Ersatzklausel berufen kann. (Leitsätze 2 und 3 von
+der Redaktion)
+BGH, Urteil vom 20.7.2017 – VII ZR 259/16
+Zum Sachverhalt
+Die Kl. verlangt Restwerklohn für Erd-, Mauer- und Betonarbeiten bei dem Neubau einer
+Tageseinrichtung für Menschen mit Behinderung. Die Parteien schlossen am
+18.9.2013 über diese Arbeiten einen Einheitspreisvertrag, der unter Nr. 3 lautet:
+„Vertragsgrundlagen: Auftrags-LV laut Anlage, Bauzeitplan R-GmbH, Allgemeine
+Vertragsbedingungen, Zusätzliche technische Vorschriften Nr. 5“. Auf  des
+„Deckblatts der Auftragserteilung – Angaben zum Auftrags-LV“ heißt es unter
+„Sonstige Vereinbarungen“: 1. Die VOB ist Vertragsbestandteil. (...)“. Auf der nächsten
+Seite („Auftragserteilung – Vorspanntext zum Auftrags-LV“) vereinbarten die Parteien
+unter der Überschrift „Allgemeine Vertragsbedingungen“ Folgendes:
+1.Vertragsgrundlagen
+1.1der schriftlich abgeschlossene Werkvertrag
+1.2das Leistungsverzeichnis des Architekten einschließlich der dort
+aufgeführten zusätzlichen technischen Vorschriften
+1.3diese allgemeinen Vertragsbedingungen
+1.4die Baupläne und die zusätzlichen Angaben des Architekten und der
+Sonderfachleute
+1.5die VOB Teile B und C in der jeweils neuesten Fassung (...)
+1.9subsidiär gelten die Bestimmungen des BGB’s über den Werkvertrag.
+Bei Widersprüchen gilt für die Auslegung vorstehende Reihenfolge. (...)
+2.(…)
+3.Vergütung
+3.1Die dem Angebot des Auftragnehmers zugrunde liegenden Preise sind
+grundsätzlich Festpreise und bleiben für die gesamte Vertragsdauer
+verbindlich. (...)
+Im Vergleich zu den im Auftrags-Leistungsverzeichnis angegebenen Mengen kam es
+zu Mehr- und Minderleistungen. Hieraus errechnete die Kl. eine „Umsatzreduzierung“
+iHv 141.493,45 Euro, wobei sie Massenänderungen von weniger als 10 % außer
+Betracht ließ. Ihre Schlussrechnung vom 17.12.2014 in Höhe von 1.170.352,37 Euro
+(netto) enthielt in Position 10 im Hinblick auf die Umsatzreduzierung einen
+„Umlagenausgleich“, den die Bekl. in ihrer Schlusszahlung nicht berücksichtigte. Die Kl.
+macht unter Berufung auf § 2 III VOB/B – soweit in der Revision noch von Interesse –
+diesen Betrag iHv 8377,98 Euro sowie weiteren 440,95 Euro nebst Zinsen und
+Freistellung von außergerichtlichen Rechtsverfolgungskosten geltend.
+Das LG Duisburg (Urt. v. 12.2.2016 – 22 O 74/15) hat die Klage insoweit abgewiesen.
+Die Berufung der Kl. ist erfolglos geblieben (OLG Düsseldorf, BauR 2017, 727 = BeckRS
+2016, 111157). Die vom BerGer. zugelassene Revision führte zur Aufhebung des
+Berufungsurteils und zur Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+veröffentlicht ist, meint, der Kl. stehe kein Anspruch gem. § 2 III VOB/B gegen die Bekl.
+zu.
+8Nr. 3.1 der Allgemeinen Vertragsbedingungen habe Vorrang vor der Bestimmung des
+§ 2 III VOB/B. Das ergebe sich aus Nr. 1 der Allgemeinen Vertragsbedingungen, denn
+die Parteien hätten die maßgeblichen Vertragsgrundlagen in Nr. 1.1 bis 1.9 in eine
+bestimmte Reihenfolge gestellt und ausdrücklich vereinbart, dass bei Widersprüchen
+für die Auslegung diese Reihenfolge gelte. Nach dem objektiven Empfängerhorizont
+seien danach die Allgemeinen Vertragsbedingungen vorrangig und die Regelungen der
+VOB/B nur insoweit einschlägig, als sie den vorrangigen Regelungen nicht
+widersprächen. Etwas anderes folge auch nicht daraus, dass sich auf der zweiten Seite
+des Deckblatts zur Auftragserteilung unter der Überschrift „Sonstige Vereinbarungen“
+unter 1 ein Passus befinde, wonach die VOB Vertragsbestandteil sein solle.
+9Bei der Nr. 3.1 der Allgemeinen Vertragsbedingungen handele es sich um eine
+Allgemeine Geschäftsbedingung iSv § 305 I BGB. Auch wenn § 2 III VOB/B nicht
+ausdrücklich erwähnt werde, habe die Klausel nach der gebotenen objektivierten
+Betrachtungsweise von einem redlichen Vertragspartner aus den typischerweise an
+Geschäften dieser Art beteiligten Verkehrskreisen nur so verstanden werden können,
+dass genau diese speziell auf den Einheitspreisvertrag zugeschnittene
+Preisanpassungsmöglichkeit ausgeschlossen sein sollte.
+10Soweit die Klausel die Preisanpassungsmöglichkeiten gem. § 2 III VOB/B bei
+Mengenänderungen ausschließe, führe dies nicht zu einer Unwirksamkeit nach § 307
+BGB. Mit der Klausel sei letztlich nur das umgesetzt worden, was dem
+Einheitspreisvertrag nach seiner Konzeption ohnehin wesensimmanent sei. Der
+Ausschluss des Preisanpassungsrechts treffe beide Parteien gleichermaßen, so dass
+von einer unangemessenen Benachteiligung der Kl. keine Rede sein könne. Die
+Risikoverteilung werde nicht allein nachhaltig zulasten des Auftragnehmers verändert.
+Es werde außerdem nur die Rechtslage des Werkvertragsrechts gem. §§ 631 ff. BGB
+wiederhergestellt, die eine solche Preisanpassung bei Mengenänderungen nicht kenne.
+11Es bedürfe keiner Entscheidung, ob die Klausel zu einer Gefährdung des
+Vertragszwecks (§ 307 II Nr. 2 BGB) führen würde, wenn damit Nachforderungen
+jeglicher Art ausgeschlossen wären. Die Klausel sei dahin auszulegen, dass Ansprüche
+wegen Wegfalls der Geschäftsgrundlage und Verschuldens bei Vertragsverhandlungen
+nicht ausgeschlossen seien. Eine gegenteilige Auslegung ließen weder der Wortlaut
+von Nr. 3.1 noch dessen systematische Stellung noch der Sinn und Zweck der Regelung
+zu.
+12Aufgrund ihrer Formulierung spreche schließlich nichts dafür, dass die Klausel auch
+Ansprüche aus § 2 V VOB/B ausschließen solle, so dass ein Verstoß gegen § 307 BGB
+unter diesem Gesichtspunkt nicht geprüft werden müsse.
+13II. Diese Beurteilung hält der rechtlichen Überprüfung in einem entscheidenden
+Punkt nicht stand.
+141. Bei den Allgemeinen Vertragsbedingungen des Auftrags- Leistungsverzeichnisses
+handelt es sich nach den nicht angegriffenen Feststellungen des BerGer. um von der
+Bekl. gestellte Allgemeine Geschäftsbedingungen. Nach der ständigen
+Rechtsprechung des BGH kann das RevGer. Allgemeine Geschäftsbedingungen wie
+152. Mit der vom BerGer. gegebenen Begründung kann ein Anspruch der Kl. gem. § 2
+III VOB/B nicht verneint werden. Die Parteien haben diese Bestimmung wirksam in
+ihren Vertrag einbezogen.
+16a) Sowohl Nr. 1 der Sonstigen Vereinbarungen auf  des Deckblatts zur
+Auftragserteilung als auch Nr. 1.5 der Allgemeinen Vertragsbedingungen, die beide auf
+die VOB/B Bezug nehmen, haben – isoliert betrachtet – als Regelungsgehalt, dass die
+Bestimmungen der VOB/B und damit auch § 2 III VOB/B Vertragsinhalt sein sollen.
+Hiervon gehen das BerGer. und die Parteien im Ansatz zutreffend aus.
+17b) Dem steht Nr. 3.1 der Allgemeinen Vertragsbedingungen nicht entgegen. Diese
+Bestimmung steht zwar in inhaltlichem Widerspruch zu § 2 III VOB/B (aa). Der
+Widerspruch sollte nach Nr. 1 der Allgemeinen Vertragsbedingungen auch dahin
+aufgelöst werden, dass die Bestimmung der Nr. 3.1 vorgeht (bb). Jedoch ist Letztere
+unwirksam (cc). Die Unwirksamkeit führt dazu, dass § 2 III VOB/B anwendbar ist (dd).
+18aa) Ohne Erfolg wendet sich die Revision gegen die Auslegung des BerGer., Nr. 3.1
+der Allgemeinen Vertragsbedingungen schließe Ansprüche des Auftragnehmers unter
+den Voraussetzungen des § 2 III VOB/B aus. Auch unter Berücksichtigung der
+Unklarheitenregel des § 305 c II BGB, nach der Zweifel bei der Auslegung Allgemeiner
+Geschäftsbedingungen zulasten des Verwenders gehen, kann die in Rede stehende
+Klausel nicht dahin verstanden werden, dass der Anspruch des Auftragnehmers auf
+eine Preisanpassung gem. § 2 III VOB/B nicht betroffen und von der Klausel nicht
+erfasst ist.
+19Allgemeine Geschäftsbedingungen sind gemäß ihrem objektiven Inhalt und
+typischen Sinn einheitlich so auszulegen, wie sie von verständigen und redlichen
+Vertragspartnern unter Abwägung der Interessen der normalerweise beteiligten
+Verkehrskreise verstanden werden, wobei die Verständnismöglichkeiten des
+durchschnittlichen Vertragspartners des Verwenders zugrunde zu legen sind (stRspr,
+Auslegungsmöglichkeiten rechtlich vertretbar, kommt die Unklarheitenregel des § 305 c II BGB zur Anwendung. Außer Betracht bleiben dabei jedoch solche
+Verständnismöglichkeiten, die zwar theoretisch denkbar, praktisch aber fernliegend
+Rn. 25 mwN).
+20Der Revision ist zwar zuzugeben, dass es der Wortlaut der Nr. 3.1 theoretisch
+erlauben würde, eine Ausnahme für die Fälle des § 2 III VOB/B anzunehmen. Denn das
+Wort „grundsätzlich“ kann dahin verstanden werden, dass die Regelung nur im
+Allgemeinen mit dem Vorbehalt bestimmter Ausnahmen gelten solle. Dass die Fälle
+des § 2 III VOB/B solche Ausnahmen sein sollten, ist dem Wortlaut der Klausel unter
+Berücksichtigung der Verständnismöglichkeit des durchschnittlichen Auftragnehmers
+nicht zu entnehmen. Auch die Revision zeigt keine Umstände auf, warum der
+durchschnittliche Auftragnehmer die Klausel dahingehend verstehen könnte, dass sie
+gerade den bei der Durchführung eines Bauvertrags nicht seltenen Fall einer
+Massenänderung, die 10 % des im Vertrag gewählten Mengenansatzes überschreitet,
+nicht betreffen sollte.
+21bb) Zutreffend hat das BerGer. auch angenommen, dass wegen der in Nr. 1 der
+Allgemeinen Vertragsbedingungen vorgesehenen Reihenfolge der Geltung die in den
+Allgemeinen Vertragsbedingungen enthaltene Klausel der Nr. 3.1 Vorrang vor § 2 III
+VOB/B hat. Aus dem Umstand der zusätzlichen Erwähnung der VOB als
+Vertragsbestandteil unter Nr. 1 der Sonstigen Vereinbarungen auf  des
+„Deckblatts der Auftragserteilung – Angaben zum Auftrags-LV“ folgt entgegen der
+Ansicht der Revision nicht, dass diese Vorrang habe, weil es sich hierbei um eine
+Regelung des schriftlich abgeschlossenen Werkvertrags handele (vgl. Nr. 1.1 der
+Vertragsgrundlagen). Nach den Feststellungen des BerGer. handelt es sich hierbei
+nicht um den schriftlichen Werkvertrag, sondern um das Auftrags-
+Leistungsverzeichnis. Aus den in Bezug genommenen Anlagen ergibt sich nichts
+anderes. Der schriftliche Einheitspreisvertrag vom 18.9.2013 in der Anlage K 1, der
+ausdrücklich als Werkvertrag bezeichnet ist, besteht aus zwei Seiten und ist als
+einziger von beiden Parteien unterschrieben. Das Auftrags-Leistungsverzeichnis in der
+Anlage B 1 umfasst insgesamt 115 durchnummerierte Seiten einschließlich des
+„Deckblatts der Auftragserteilung – Angaben zum Auftrags-LV“.
+22Für ihre Auffassung kann sich die Revision auch nicht auf den unterschiedlichen
+Wortlaut zwischen „ist Vertragsbestandteil“ und „Vertragsgrundlagen“ berufen. Die
+Wahl des Begriffs „Vertragsgrundlagen“ hat ersichtlich keine andere, schwächere
+Bedeutung, was sich schon daraus ergibt, dass hierbei als erstes der schriftlich
+abgeschlossene Werkvertrag selbst genannt wird.
+23cc) Nr. 3.1 der Allgemeinen Vertragsgrundlagen ist jedoch gem. § 307 BGB
+unwirksam. Bei dieser Prüfung ist auch im Individualprozess die kundenfeindlichste
+Auslegung zugrunde zu legen, wenn diese zur Unwirksamkeit der Klausel führt und
+42 mwN). Es kommt deshalb nicht darauf an, ob die vom BerGer. getroffene Auslegung
+möglicherweise die am nächsten liegende und allen Interessen am besten gerecht
+werdende Auslegung ist.
+24(1) Entgegen der Auffassung des BerGer. erlaubt die Klausel eine nicht völlig
+fernliegende, sondern auch ernsthaft in Betracht zu ziehende Auslegung, nach der
+durch sie auch Ansprüche auf Anpassung der Vergütung nach § 313 BGB wegen einer
+Störung der Geschäftsgrundlage ausgeschlossen sein sollen.
+25Der Wortlaut von Nr. 3.1 erfasst auch diese Fälle. Zwar trifft es zu, worauf das
+BerGer. abstellt, dass sich der Anspruch wegen Wegfalls der Geschäftsgrundlage als
+gesetzliche Ausformung des Gedankens von Treu und Glauben darstellt. Gleichwohl
+kommt als – typische – Anpassung des Vertrags gerade eine Anpassung der
+Vergütung in Betracht, so dass es dem entgegensteht, wenn die Preise für die gesamte
+Vertragsdauer verbindlich bleiben sollen. Auch die systematische Stellung von Nr. 3.1
+unter der Überschrift „Vergütung“ steht deshalb der Annahme nicht entgegen, dass
+eine Preisanpassung nach § 313 BGB, die gerade die Vergütung betrifft, nicht gemeint
+sein könne.
+26Auch der vom BerGer. herangezogene Umstand, dass rechtlicher Anknüpfungspunkt
+für § 313 BGB keine bloßen Mengenabweichungen von mehr als 10 % sind, ist kein
+ausreichender Anhaltspunkt dafür, dass die Klausel diese Fälle keinesfalls umfassen
+solle. Der Bezug zu § 2 III VOB/B oder zu Mengenabweichungen von mehr als 10 %
+findet sich gerade nicht im Wortlaut der Klausel; die Auslegung des umfassenden
+Wortlauts hat lediglich ergeben, dass sie (auch) der Anpassungsmöglichkeit des § 2 III
+VOB/B entgegensteht. Hieraus kann nichts dafür geschlossen werden, welche
+weiteren Preisänderungen ebenfalls nicht eintreten sollen.
+27Schließlich vermag auch die Verwendung des zusätzlichen Begriffs „grundsätzlich“
+die Reichweite der Klausel nicht einzuschränken. Die Revision weist zutreffend darauf
+hin, dass dieser Begriff verschiedene Bedeutungen haben kann. Außerhalb der
+juristischen Terminologie wird er häufig auch im Sinne von „ausnahmslos“ verwendet,
+was hier zulasten der Bekl. angenommen werden muss.
+28(2) Der Ausschluss des Anspruchs auf Anpassung des Preises unter den
+Voraussetzungen von § 313 BGB benachteiligt die Kl. in unangemessener Weise, weil
+sie in Fällen, in
+denen ihr dies unzumutbar wäre, an dem unveränderten Vertragspreis festgehalten
+würde. Nr. 3.1 der Allgemeinen Vertragsbedingungen ist daher gem. § 307 I 1 BGB
+unwirksam (vgl. BGH, NJW-RR 2016, 29 = BauR 2016, 260 Rn. 25).
+29dd) Die Unwirksamkeit von Nr. 3.1 der Allgemeinen Vertragsbedingungen führt dazu,
+dass § 2 III VOB/B anwendbar ist.
+30Die von der Bekl. verwendeten Allgemeinen Geschäftsbedingungen regeln den Fall
+der Unwirksamkeit einer Klausel nicht ausdrücklich. Jedoch sehen sie die Geltung der
+VOB/B insgesamt, also auch der Bestimmung des § 2 III VOB/B, nachrangig unter
+anderem zu den Allgemeinen Vertragsbedingungen vor. Auf die Reihenfolge soll es für
+die Auslegung nur dann ankommen, wenn ein Widerspruch vorliegt. Wann das der Fall
+ist, ist nicht näher erläutert. Zum einen kann man auf den bloßen Inhalt der Regelungen
+abstellen. Ein solcher Widerspruch liegt wie oben ausgeführt vor. Ein Widerspruch kann
+aber auch erst dann angenommen werden, wenn eine wirksame vorrangige Regelung
+vorliegt. Denn eine unwirksame Regelung entfaltet keine Wirkung; die Auslegung des
+Vertrags unter Berücksichtigung dieses Umstands ergibt keinen Widerspruch mehr. Es
+kann dahinstehen, welche Auslegung richtig ist. Jedenfalls kommen beide
+Möglichkeiten ernsthaft in Betracht. Unter Berücksichtigung von § 305 c II BGB ist im
+Zweifel die Auslegung vorzuziehen, die sich zum Nachteil für die Bekl. auswirkt. Das ist
+hier die Geltung des für die Kl. als einzige Anspruchsgrundlage ihres Begehrens in
+Betracht kommenden § 2 III VOB/B.
+31Dem steht § 306 II BGB nicht entgegen. Hiernach führt zwar die Unwirksamkeit einer
+Bestimmung grundsätzlich dazu, dass sich der Inhalt des Vertrags nach den
+gesetzlichen Vorschriften regelt. Eine hiervon abweichende Bestimmung in den
+Allgemeinen Geschäftsbedingungen des Klauselverwenders ist regelmäßig ihrerseits
+wegen Verstoßes gegen § 307 II Nr. 1 BGB unwirksam (vgl. BGHZ 204, 346 = NJW
+2015, 1952 Rn. 45 mwN; BeckOGK/Bonin, Stand 1.5.2017, § 306 BGB Rn. 66–71 mwN).
+Es ist jedoch schon fraglich, ob die Vorschrift des § 306 II BGB nach ihrem Zweck auch
+dann Anwendung findet, wenn eine im Vergleich zum Gesetz für den Vertragspartner
+günstigere Ersatzklausel zur Verfügung steht. Jedenfalls aber könnte die Bekl. die
+Unwirksamkeit der Ersatzregelung nicht geltend machen. Die Inhaltskontrolle von
+Formularklauseln dient ausschließlich dem Schutz des Vertragspartners des
+Verwenders; der Verwender kann sich nicht auf die Unwirksamkeit einer von ihm
+1572 Rn. 42 mwN).
+32§ 2 III VOB/B ist für die Kl., die allenfalls hieraus Ansprüche herleiten kann, günstiger
+als das Gesetz. Das Gesetz sieht im Falle der Vereinbarung von Einheitspreisen
+unabhängig davon, welche Mengen abgerechnet werden, keine Änderung der Preise
+vor. Das liegt entgegen einer vertretenen Auffassung (vgl. Beck’scher VOB/B-
+Kommentar/Jansen, 3. Aufl., § 2 III Rn. 73 mwN) nicht daran, dass das Gesetz einen
+Einheitspreisvertrag überhaupt nicht kennt. Vielmehr sind die Parteien frei darin, wie
+sie die Vergütung nach § 631 I BGB bemessen.
+33III. Der Senat kann in der Sache nicht selbst entscheiden. Von seinem Standpunkt
+aus folgerichtig hat das BerGer. keine Feststellungen dazu getroffen, ob die
+Voraussetzungen des § 2 III VOB/B vorliegen.
+Anmerkung
+Nach der Rechtsprechung des BGH ist eine Festpreisklausel in einem Einheitspreis-
+Bauvertrag gem. § 307 I 1 BGB unwirksam, wenn die gebotene kundenfeindlichste
+Auslegung ergibt, dass eine Preisanpassung zugunsten des Vertragspartners wegen
+einer Störung der Geschäftsgrundlage gem. § 313 BGB ausgeschlossen ist (vgl. BGH,
+NJW-RR 2016, 29 = NZBau 2016, 96). Gleiches muss gelten, wenn die Festpreisklausel
+nach einer solchen Auslegung andere nach dem Gesetz an sich berechtigte
+Mehrforderungen (etwa solche aus culpa in contrahendo wegen schuldhaft
+fehlerhafter Ausschreibung/Mengenermittlung) des Auftragnehmers ausschließt (vgl.
+Kniffka/Koeble, Kompendium des Baurechts, 4. Aufl. 2014, Teil 5 Rn. 175). Hingegen
+hält eine Festpreisklausel in einem VOB/B-Einheitspreisvertrag, die nur die Geltung des
+2738 = ZfBR 1993, 277). Denn hierdurch wird die geltende gesetzliche Regelung
+vereinbart, wonach der Auftragnehmer ohnehin an den vereinbarten Einheitspreis
+gebunden ist.
+Der BGH gelangt in obiger Entscheidung zu dem Ergebnis, dass die Klausel von
+potenziellen Auftragnehmern so verstanden werden kann, dass durch sie auch
+Ansprüche auf Anpassung der Vergütung wegen einer Störung der
+Geschäftsgrundlage ausgeschlossen sein sollen. Sie ist daher gem. § 307 I 1 BGB
+unwirksam. Die gegebene Begründung steht in Einklang mit der ständigen (zitierten)
+Rechtsprechung des BGH zur Unklarheitenregel des § 305 c II BGB.
+Es wäre demnach nur konsequent, wenn der BGH bei erneuter Beurteilung auch die
+Klausel „Die Einheitspreise sind Festpreise für die Dauer der Bauzeit und behalten auch
+dann ihre Gültigkeit, wenn Massenänderungen im Sinne § 2.3 VOB/B eintreten“ –
+Denn diese Klausel kann aus der maßgeblichen objektiven Sicht potenzieller
+Auftragnehmer so verstanden werden, dass auch gesetzliche Ansprüche auf
+Anpassung der Vergütung ausgeschlossen sind. Das sieht auch der BGH (NJW-RR
+2016, 29 = NZBau 2016, 96) hinsichtlich der praktisch die gleiche Regelung enthaltende
+Klausel „Massenänderungen – auch über 10% – sind vorbehalten und berechtigen
+nicht zur Preiskorrektur“ nicht anders.
+Die Unwirksamkeit der Festpreisklausel könnte dem klagenden Auftragnehmer – da
+nach der insoweit nicht angegriffenen Entscheidung des Berufungsgerichts (OLG
+Anpassung der Vergütung nicht bestehen – nur dann weiterhelfen, wenn hieraus die
+Anwendbarkeit des § 2 III VOB/B als Ersatzklausel anstatt – wie von § 306 II BGB an
+sich vorgesehen – der gesetzlichen Regeln folgen würde. Ob § 306 II BGB insoweit
+abbedungen wurde, ist durch Auslegung des Bauvertrags zu ermitteln.
+Der BGH bejaht nach Auslegung der von der Beklagten gestellten Vertragsklauseln –
+wiederum in Anwendung der Unklarheitenregel – zu Recht die Anwendbarkeit des
+§ 2 III VOB/B. Ob die Abweichung bzw. Abbedingung von § 306 II BGB einer AGBrechtlichen Prüfung standhalten würde, konnte der BGH letztlich offenlassen, weil eine
+Unwirksamkeitsprüfung zugunsten des Verwenders nicht stattfindet.
+Da die Ersatzklausel die rechtliche Stellung des Vertragspartners gegenüber dem
+dispositiven Recht verbessert, würde eine solche Prüfung zu deren Wirksamkeit führen.
+Denn es fehlt in einem solchen Fall an einer unangemessenen Benachteiligung des
+691 Rn. 48 zu einer an sich intransparenten Klausel).
+Richter am OLG Dr. Winfried Grabsch, Karlsruhe

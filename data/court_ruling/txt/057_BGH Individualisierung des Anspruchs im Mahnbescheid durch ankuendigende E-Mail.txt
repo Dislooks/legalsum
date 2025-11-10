@@ -1,0 +1,254 @@
+Mail
+Individualisierung des Anspruchs im Mahnbescheid durch ankündigende E-
+Mail
+ZPO § 531 II 1 Nr. 3; GG Art. 103 I; BGB §§ 203, 204 I Nr. 3
+1. Für die Individualisierung des Anspruchs im Mahnbescheid kann es bedeutsam
+sein, dass der Prozessbevollmächtigte des Gläubigers den Mahnbescheid etwa zwei
+Wochen zuvor per E-Mail an die zuständige Behördenmitarbeiterin angekündigt hat.
+2. Die Korrespondenz der Parteien eines VOB-Bauvertrags über die Richtigkeit einer
+Schlussrechnung kann als Verhandlungen im Sinne des § 203 BGB eine
+Verjährungshemmung bewirken.
+3. Der Gläubiger kann eine E-Mail seines Prozessbevollmächtigten an den Schuldner
+erstmals in der Berufungsinstanz vortragen, wenn er von ihr nichts wusste. (Leitsätze
+der Redaktion)
+BGH, Beschluss vom 17.6.2020 – VII ZR 111/19
+Zum Sachverhalt
+Die Kl. begehrte von der Bekl. – der Bundesrepublik Deutschland – Restwerklohn iHv
+677.347,64 Euro. Die Bekl. beauftragte die Kl. unter dem 22.7.2010 mit der
+Durchführung von Renovierungsarbeiten für einer Kindertagesstätte mit einem
+Auftragsvolumen von 1.072.757,54 Euro netto. Die Parteien vereinbarten die Geltung
+der VOB/B. Der Kopf des Auftragsschreibens enthielt den Hinweis, bei der
+Rechnungsausstellung die Auftragsnummer „09A0634“ anzugeben. Im Verlauf der
+Baumaßnahme kam es zu insgesamt 29 Nachträgen. Nachdem die Leistungen der Kl.
+am 17.1.2013 unter Vorbehalt näher bezeichneter Mängel abgenommen worden
+waren, erstellte die Kl. ihre Schlussrechnung unter dem 24.9.2013 über einen
+Gesamtbetrag von 2.080.970,07 Euro. Die Bekl. kürzte die Rechnungssumme mit der
+ersten Schlussrechnungsprüfung auf 1.399.834,78 Euro, die der Kl. unter dem
+13.1.2014 übermittelt wurde. Unter dem 27.5.2014 erhob die Kl. gegen die
+Schlussrechnungsprüfung Widerspruch. Mit der daraufhin durchgeführten zweiten
+Schlussrechnungsprüfung kürzte die Bekl. die Rechnung der Bekl. auf 1.403.622,93
+Euro und zahlte den nach ihren Berechnungen unter Berücksichtigung bereits
+geleisteter Abschläge sich ergebenden Restbetrag von 3.788,15 Euro an die Kl.
+Am 30.12.2016 hat die Kl. gegen die Bekl. den Erlass eines Mahnbescheids iHv
+677.347,64 Euro beantragt. In dem Antrag hat sie die geltend gemachte
+Hauptforderung mit „Werkvertrag/Werklieferungsvertrag gemäß Restforderung aus
+Schlussrechnung SR 7804716 vom 24.9.2013“ bezeichnet. Die Bezeichnung „SR
+7804716“ entspricht der Rechnungsnummer der von der Kl. gestellten
+Schlussrechnung. Der am 12.1.2017 erlassene Mahnbescheid ist der Bekl. am
+14.1.2017 zugestellt worden. Das Amt für B hat der Kl. mit Schreiben vom 16.1.2017
+mitgeteilt, die Forderung könne ohne Nennung der Baumaßnahme nicht zugeordnet
+werden. Nachdem die Kl. weitere Angaben nachgereicht hat, hat die Bekl. am 25.1.2017
+Widerspruch gegen den Mahnbescheid eingelegt. Die Bekl. verteidigt sich gegen die
+Klageforderung unter anderem mit der Einrede der Verjährung. Sie ist der Auffassung,
+der Mahnbescheid sei nicht hinreichend konkretisiert. Aufgrund der in dem
+Mahnbescheid allein mitgeteilten Schlussrechnungsnummer hätte die Klageforderung
+einem Bauvorhaben nicht zugeordnet werden können, da die Kl. in dem Zeitraum von
+2010 bis 2013 – was unstreitig ist – insgesamt 16 unterschiedliche Baumaßnahmen
+für die Bekl. in R. realisiert habe.
+53125) die Klage wegen Verjährung abgewiesen. Zur Begründung hat das LG
+ausgeführt, dass die Zustellung eines Mahnbescheids gem. § 204 I Nr. 3 BGB den Lauf
+der Verjährung des geltend gemachten Anspruchs nur hemme, wenn der Anspruch
+gemäß den Anforderungen des § 690 I Nr. 3 ZPO hinreichend individualisiert worden
+sei. Dies erfordere, dass die bezeichnete Forderung Grundlage eines der materiellen
+Rechtskraft fähigen Vollstreckungstitels sein und der Schuldner erkennen könne,
+welcher Anspruch durch den Mahnbescheid geltend gemacht werde, damit er
+beurteilen könne, ob und in welchem Umfang er sich zur Wehr setzen wolle. Die zweite
+Voraussetzung liege nicht vor. Aufgrund der Umstände des Falls habe die Bekl. die im
+Mahnbescheid bezeichnete Forderung nicht zuordnen können. Angegeben sei allein
+die Rechnungsnummer der Kl. Angesichts der insgesamt 16 verschiedenen
+Bauvorhaben, die die Kl. für die Bekl. in R. im Zeitraum von 2010 bis 2013 realisiert
+habe, hätte dies eine Zuordnung nicht ermöglicht.
+Gegen dieses Urteil hat die Kl. Berufung eingelegt. Mit Beschluss vom 15.3.2019 hat
+das BerGer. die Kl. darauf hingewiesen, dass es erwäge, die Berufung gem. § 522 II
+ZPO zurückzuweisen. Hierzu hat das BerGer. der Kl. eine Frist zur Stellungnahme bis
+zum 12.4.2019 eingeräumt.
+Nach Zustellung des Hinweisbeschlusses sind die Streithelfer der Kl. – die
+Rechtsanwälte, die sie außergerichtlich und im Mahnverfahren gegenüber der Bekl.
+vertreten hatten – dem Rechtsstreit beigetreten und haben innerhalb der vom BerGer.
+gesetzten Frist auf den Hinweisbeschluss erwidert. In dieser Erwiderung haben die
+Streithelfer der Kl. vorgetragen, dass der Streithelfer zu 1 der beim Amt für B. R.
+zuständigen Referentin im Justiziariat, Frau L, am 29.12.2016 eine E-Mail unter dem
+Betreff „Bauvorhaben Renovierung Kindertagesstätte, Geb. ... K.“ mit folgendem Inhalt
+geschrieben habe:
+„Sehr geehrte Frau Kollegin L, bei mir ist relativ kurzfristig noch eine weitere Sache der
+P-GmbH & Co. KG aufgeschlagen.
+Ich konnte Sie leider letzte Woche telefonisch nicht mehr erreichen, um mit Ihnen die
+Frage eines Verjährungsverzichts auch in der Angelegenheit zu erörtern. Es blieb mir
+deshalb nichts anderes übrig, als in der Kürze der Zeit einen Mahnbescheidsantrag zu
+stellen. Das ist, wie Sie wissen, natürlich kein ,Akt der Aggression’, sondern dient
+ausschließlich der Verjährungshemmung. Möglicherweise können wir ja den Versuch
+unternehmen, auch in dieser Angelegenheit eine außergerichtliche Einigung zu
+erzielen. Die Probleme dürften ähnlich liegen wie bei Gebäude ... .“
+Diesen Vortrag hat sich die Kl. im beim BerGer. am 18.4.2019 eingegangenen
+Schriftsatz zu eigen gemacht und vorgetragen, die E-Mail vom 29.12.2016 sei ihr
+„bisher nicht bewusst“ gewesen.
+Berufung der Kl. gem. § 522 II ZPO zurückgewiesen. Die Revision hat das BerGer. nicht
+zugelassen. Dagegen
+wandte sich die Kl. mit ihrer Nichtzulassungsbeschwerde, mit der sie ihren Klageantrag
+weiterverfolgte; diese hatte Erfolg und führte gem. § 544 IX ZPO zur Aufhebung des
+angefochtenen Beschlusses und zur Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+13II. (...) 1. Das BerGer. hat, soweit es für das Nichtzulassungsbeschwerdeverfahren
+von Bedeutung ist, ausgeführt:
+14Das Gesetz fordere, bereits im Mahnantrag eine Individualisierung des Anspruchs
+so vorzunehmen, dass unmittelbar aufgrund der Angaben im Mahnbescheid die
+Forderung zugeordnet werden könne. Dass die Angaben der Kl. im Mahnbescheid der
+Bekl. nicht ermöglicht habe, die geltend gemachte Forderung einem Bauvorhaben
+zuzuordnen, zeige sich an der Nachfrage des Amtes für B. Es habe in den Händen und
+im Risikobereich der Kl. gelegen, ihre Forderung unmissverständlich einem
+Rechtsverhältnis zuzuordnen und so der Bekl. ohne Weiteres die Prüfung der
+Berechtigung zu ermöglichen.
+15Die Erkennbarkeit der Forderung lasse sich auch nicht aufgrund der erstmals
+vorgelegten E-Mail vom 29.12.2016, zu der die Bekl. noch nicht Stellung genommen
+habe und deren zweitinstanzliche Vorlage im Falle eines Bestreitens ohnehin nach § 531 II 1 Nr. 3 ZPO präkludiert wäre, herleiten. Denn das Problem der unmittelbaren
+Erkennbarkeit der Forderung werde hierdurch nicht behoben.
+162. Die Beurteilung des BerGer., die E-Mail des Streithelfers zu 1 der Kl. vom
+29.12.2016 an die zuständige Referentin im Justiziariat des Amtes für B. habe keinen
+Einfluss auf die rechtliche Würdigung, beruht auf einer entscheidungserheblichen
+Verletzung des Anspruchs der Kl. auf Gewährung rechtlichen Gehörs aus Art. 103 I GG.
+17a) Das Gebot des rechtlichen Gehörs verpflichtet das Gericht, die Ausführungen der
+Prozessbeteiligten zur Kenntnis zu nehmen und in Erwägung zu ziehen. Das Gericht ist
+danach unter anderem verpflichtet, den wesentlichen Kern des Vorbringens der Partei
+zu erfassen und – soweit er eine zentrale Frage des Verfahrens betrifft – in den
+Gründen zu bescheiden. Von einer Verletzung dieser Pflicht ist auszugehen, wenn die
+Begründung der Entscheidung des Gerichts nur den Schluss zulässt, dass sie auf einer
+allenfalls den äußeren Wortlaut, aber nicht den Sinn des Vortrags der Partei
+erfassenden Wahrnehmung beruht (BGH NZBau 2020, 290 = BauR 2020, 1032 Rn. 17
+mwN).
+18b) Diesen Maßstäben genügt der Zurückweisungsbeschluss des BerGer. nicht.
+19aa) Nach § 204 I Nr. 3 BGB hemmt die Zustellung des Mahnbescheids im
+Mahnverfahren die Verjährung. Nach ständiger Rechtsprechung des BGH, von der auch
+das BerGer. ausgeht, setzt die Hemmung der Verjährung voraus, dass der im
+Mahnbescheid bezeichnete Anspruch durch seine Kennzeichnung von anderen
+Ansprüchen unterschieden und abgegrenzt werden kann. Der im Mahnbescheid
+bezeichnete Anspruch muss deshalb Grundlage eines Vollstreckungstitels sein können
+und dem Schuldner die Beurteilung ermöglichen, ob er sich gegen den Anspruch zur
+Rn. 13; vgl. auch NJOZ 2017, 1485 = BauR 2017, 1406 Rn. 12). Damit der Schuldner
+beurteilen kann, ob er sich gegen den Anspruch zur Wehr setzen will oder nicht, muss
+er im Zeitpunkt der Zustellung des Mahnbescheids erkennen können, woraus der
+1220 Rn. 13). Wann dieser Anforderung Genüge getan ist, kann nicht allgemein und
+abstrakt festgelegt werden; vielmehr hängen Art und Umfang der erforderlichen
+Angaben im Einzelfall von dem zwischen den Parteien bestehenden Rechtsverhältnis
+Rn. 13).
+20bb) Die Besonderheit des zwischen den Parteien bestehenden Rechtsverhältnisses
+besteht zunächst darin, bei der Bekl. die zuständige Stelle zu definieren, die für die
+Prüfung des Mahnbescheids und damit die Zuordnung der geltend gemachten
+Forderung zuständig war. Nach dem Behördenaufbau der Bekl. ist dies die zuständige
+Stelle im Amt für B. Diese Stelle ist dasjenige Referat, das für den Anspruch der Kl. aus
+der Schlussrechnung vom 24.9.2013 zuständig war und im Rahmen dieses Referats
+die zuständige Mitarbeiterin/der zuständige Mitarbeiter.
+21Nach dem – vom BerGer. nicht als präkludiert zurückgewiesenen und daher schon
+deshalb dem Beschwerdeverfahren zugrunde zu legenden – Vortrag der Streithelfer
+auf den Hinweisbeschluss des BerGer. ist die zuständige Sachbearbeiterin beim Amt
+für B. die im Justiziariat tätige Referentin Frau L gewesen. Diese Referentin war nach
+dem Inhalt der E-Mail für sämtliche Streitigkeiten der Kl. mit der Bekl. zuständig. Damit
+haben die Streithelfer der Kl. im Kern vorgetragen, durch die E-Mail vom 29.12.2016 sei
+die zuständige Mitarbeiterin des Amtes für B. in der Lage gewesen, die im etwa zwei
+Wochen später zugestellten Mahnbescheid bezeichnete Forderung unmittelbar
+zuzuordnen.
+22Nach diesem Vortrag genügten die Angaben im Mahnbescheid den Erfordernissen
+der höchstrichterlichen Rechtsprechung zur Hemmung nach § 204 I Nr. 3 BGB.
+23cc) Indem das BerGer. aufgrund des Erfordernisses der „unmittelbaren
+Erkennbarkeit“ ohne nähere Begründung die E-Mail vom 29.12.2016 als rechtlich
+unerheblich bewertete, hat es den Kerngehalt des Vortrags der Streithelfer der Kl. zu
+einer zentralen Frage des Rechtsstreits nicht beachtet. Die Begründung des BerGer.
+lässt nur den Schluss zu, dass es allenfalls den äußeren Wortlaut der E-Mail, aber nicht
+den Sinn des Vortrags der Streithelfer der Kl. erfasst hat.
+243. Auf dieser Verletzung des Anspruchs der Kl. auf rechtliches Gehör beruht der
+angefochtene Beschluss. Es kann nicht ausgeschlossen werden, dass das BerGer. bei
+gebotener Berücksichtigung der aufgezeigten Gesichtspunkte zu einem für die Kl.
+günstigeren Ergebnis gelangt wäre.
+254. Der angefochtene Beschluss ist deshalb aufzuheben und die Sache ist zur neuen
+Verhandlung und Entscheidung an das BerGer. zurückzuverweisen. Für die neue
+Verhandlung und Entscheidung weist der Senat auf Folgendes hin:
+26a) Sollte die Bekl. den Vortrag zur E-Mail vom 29.12.2016 bestreiten, wird das BerGer.
+seine Auffassung, der Vortrag sei nach § 531 II 1 Nr. 3 ZPO – ohne Weiteres –
+präkludiert, zu überdenken haben. Nach § 531 II 1 Nr. 3 ZPO sind neue Angriffs- und
+Verteidigungsmittel im Berufungsverfahren nur zuzulassen, wenn sie im ersten
+Rechtszug nicht geltend gemacht worden sind, ohne dass dies auf einer Nachlässigkeit
+der Partei beruht. Die Kl. hat der Sache nach vorgetragen, von der E-Mail ihrer
+damaligen Rechtsanwälte keine Kenntnis gehabt zu haben. Das erscheint aufgrund der
+bisherigen Feststellungen nicht unwahrscheinlich, da der Streithelfer zu 1 der Kl. mit
+der E-Mail vom 29.12.2016 das
+gute bilaterale Verhältnis zur Sachbearbeiterin bei der Bekl. nicht gefährden wollte und
+auch ansonsten kein Anlass ersichtlich ist, diese E-Mail an die Kl. weiterzuleiten.
+27b) Die Zurückverweisung gibt dem BerGer. des Weiteren Gelegenheit, seine
+Rechtsauffassung zu überdenken, der geltend gemachte Anspruch der Kl. sei nicht
+nach § 203 BGB gehemmt gewesen.
+28 aa) Schweben zwischen dem Schuldner und dem Gläubiger Verhandlungen über
+den Anspruch oder die den Anspruch begründenden Umstände, ist die Verjährung
+gehemmt, bis der eine oder der andere Teil die Fortsetzung der Verhandlungen
+verweigert (§ 203  BGB). Nach der Rechtsprechung des BGH ist der Begriff
+„Verhandlungen“ weit auszulegen. Der Gläubiger muss dafür lediglich klarstellen, dass
+er einen Anspruch geltend machen und worauf er ihn stützen will. Anschließend genügt
+jeder ernsthafte Meinungsaustausch über den Anspruch oder seine tatsächlichen
+Grundlagen, sofern der Schuldner dies nicht sofort und erkennbar ablehnt.
+Verhandlungen schweben schon dann, wenn eine der Parteien Erklärungen abgibt, die
+der jeweils anderen die Annahme gestatten, der Erklärende lasse sich auf Erörterungen
+über die Berechtigung des Anspruchs oder dessen Umfang ein. Nicht erforderlich ist,
+dass dabei Vergleichsbereitschaft oder Bereitschaft zum Entgegenkommen
+signalisiert wird oder dass Erfolgsaussicht besteht (BGHZ 182, 76 = NJW-RR 2010, 975
+29Nach den Feststellungen des LG, auf welche das BerGer. Bezug genommen hat, fand
+nach der ersten Schlussrechnungsprüfung der Bekl. eine Korrespondenz der Parteien
+statt, die in dem Widerspruch der Kl. vom 27.5.2014 mündete. Auf diesen Widerspruch
+hin stellte die Bekl. das endgültige Prüfungsergebnis auf 1.403.622,93 Euro fest.
+Soweit das BerGer. hierzu meint, die Bekl. habe nicht nach außen hin kundgetan, in
+Verhandlungen über die Forderung einzutreten, ein Schriftwechsel reiche dafür nicht,
+kann dies vor dem Hintergrund der höchstrichterlichen Rechtsprechung nicht
+nachvollzogen werden.
+30bb) Das BerGer. hat im Zurückweisungsbeschluss darauf hingewiesen, die Kl. habe
+erstmals in der Stellungnahme zum Hinweisbeschluss die Hemmung der Verjährung
+angesprochen. Ob damit das BerGer. in Erwägung zieht, die Kl. sei mit ihrem Hinweis
+auf § 203 BGB präkludiert, ist unklar. Der Senat weist deshalb vorsorglich darauf hin,
+dass eine solche Auffassung rechtlich unzutreffend wäre. Der Tatbestand der
+Hemmung der Verjährung ist nicht nur auf eine Einrede des Gläubigers hin zu
+berücksichtigen, sondern muss von Amts wegen auf der Grundlage des von den
+Parteien vorgetragenen Sachverhalts geprüft werden. Eine entsprechende Prüfung
+hätte deshalb bereits das LG vornehmen müssen.
+Anmerkung
+Der Beschluss setzt die Rechtsprechung zur Individualisierung des geltend gemachten
+Anspruchs als zentrale Voraussetzung der Verjährungshemmung qua Mahnbescheid
+konsequent fort. Gestritten wurde in der Vergangenheit weniger über die Grundlagen
+der Individualisierung (Rechtskraftfähigkeit und Schuldnerschutz) als vielmehr über
+den genauen Zuschnitt jener Kriterien, die über die Erkennbarkeit der geltend
+gemachten Forderung entscheiden. Bedeutung hat dies vor allem für solche Fälle, in
+denen – so wie hier – der Gläubiger sich zahlreicher Forderungen gegen den Schuldner
+berühmt. Dabei entspricht es der herrschenden Meinung, dass im Mahnbescheid
+durchaus auf externe Unterlagen Bezug genommen werden kann, sofern sie dem
+Schuldner zugegangen sind (BGH NJOZ 2017, 1485 Rn. 12). Die Angaben im
+Mahnbescheid dürfen also nicht isoliert betrachtet werden. Deshalb ist es zugleich
+irrelevant, ob auch ein außenstehender Dritter in der Lage ist, den geltend gemachten
+Anspruch zu identifizieren. Es entscheidet einzig die Perspektive des Schuldners
+(MüKoBGB/Grothe, 8. Aufl. 2018, § 204 Rn. 32).
+Hier nun setzt der VII. Zivilsenat an, indem er – abhängig von der Art des zwischen den
+Parteien bestehenden Rechtsverhältnisses – weitere Faktoren in die Betrachtung
+einbezieht, die dem Schuldner die Identifizierung der geltend gemachten Forderung
+ermöglichen. In casu war es eine E-Mail, die der Prozessbevollmächtigte des
+Gläubigers an den Schuldner geschickt hatte und in der für eine gegenständlich
+umschriebene Werklohnforderung ein verjährungshemmender Mahnbescheid in
+Aussicht gestellt worden war. Dass dieser Mahnbescheid lediglich die
+Schlussrechnungsnummer des Gläubigers enthielt, nicht jedoch die vom Schuldner
+verwendete Auftragsnummer, ist für die Zwecke des § 204 I Nr. 3 BGB solange
+irrelevant, als der Schuldner aufgrund der E-Mail erkennen konnte, um welche
+Forderung es geht.
+Damit eng verbunden ist die Frage, auf welche konkrete Stelle es für die vorgenannte
+Identifizierung der Forderung ankommt, wenn es sich bei dem Schuldner um eine große
+Organisationseinheit handelt. Zu Recht hat der Senat den jeweiligen
+Organisationsaufbau in den Blick genommen und auf den danach zuständigen
+Mitarbeiter abgestellt. Allein sein Kenntnishorizont entscheidet, mögen andere
+Mitarbeiter des Schuldners die geltend gemachte Forderung auch nicht identifizieren
+mwN) wird dadurch keineswegs in ihr Gegenteil verkehrt: Natürlich hat der Gläubiger
+es in der Hand, sich präzise auszudrücken, wohingegen der Schuldner gem. § 692 I Nr.
+3 ZPO für seine Reaktion nur zwei Wochen Zeit hat. Doch muss der Gläubiger zur
+Verjährungshemmung auch nicht mehr tun, als seinem Schuldner vorab oder
+gleichzeitig klar zu machen, um welche Forderung es in dem Mahnbescheid geht. Wie
+dies geschieht, spielt keine Rolle. § 204 I Nr. 3 BGB kennt keine Individualisierung
+unterschiedlicher Qualität.
+Der Senat hat schließlich die Judikatur zum Begriff der „Verhandlungen“ in § 203 BGB
+bekräftigt und dessen Inhalt – wie der BGH bereits zuvor (etwa BGH Beschl. v.
+mahnt an, die klassische Formel ernst zu nehmen und keine Bereitschaft zum
+Entgegenkommen zu verlangen. Es genügen Erklärungen, kraft derer der jeweilige
+Adressat annehmen darf, der Erklärende lasse sich auf Erörterungen über den
+Anspruch ein. Das wiederum ist bei einem Schriftwechsel über die Richtigkeit einer
+Rechnung typischerweise der Fall.
+Prof. Dr. Helmut Grothe, Berlin

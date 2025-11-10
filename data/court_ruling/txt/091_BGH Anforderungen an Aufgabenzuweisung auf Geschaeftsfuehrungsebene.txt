@@ -1,0 +1,392 @@
+* Anforderungen an Aufgabenzuweisung auf Geschäftsführungsebene
+GmbHG idF bis 31.10.2008 §§ 41, 43 I, 64 II 2; BGB §§ 366 I, 422 I 1, 423
+Eine Geschäftsverteilung oder Ressortaufteilung auf der Ebene der
+Geschäftsführung setzt eine klare und eindeutige Abgrenzung der
+Geschäftsführungsaufgaben aufgrund einer von allen Mitgliedern des Organs
+mitgetragenen Aufgabenzuweisung voraus, die die vollständige Wahrnehmung der
+Geschäftsführungsaufgaben durch hierfür fachlich und persönlich geeignete
+Personen sicherstellt und ungeachtet der Ressortzuständigkeit eines einzelnen
+Geschäftsführers die Zuständigkeit des Gesamtorgans insbesondere für nicht
+delegierbare Angelegenheiten der Geschäftsführung wahrt. Eine diesen
+Anforderungen genügende Aufgabenzuweisung bedarf nicht zwingend einer
+schriftlichen Dokumentation (Abgrenzung zu BFHE 141, 443 = DStR 1984, 756 =
+BGH, Urteil vom 6.11.2018 – II ZR 11/17
+Zum Sachverhalt
+Der Kl. ist Insolvenzverwalter im Insolvenzverfahren über das Vermögen der W-
+GmbH (im Folgenden: Schuldnerin), das auf Eigenantrag vom 10.10.2008 hin
+eröffnet wurde. Der Bekl. war neben dem Zeugen K Geschäftsführer der Schuldnerin.
+Die Schuldnerin wurde gegründet, um die vom Bekl. moderierte Fernsehshow „Ka.“
+für den Fernsehsender V. zu produzieren. Nach deren Einstellung und verschiedenen
+kleineren Projekten begann die Schuldnerin im Herbst 2006 mit der Produktion der
+„D.“, einer Late-Night-Show, die mit dem Bekl. als Moderator vom Fernsehsender S.
+ausgestrahlt wurde. Der Fernsehsender stellte die Sendung nach der zehnten Folge
+der fünften Staffel im Oktober 2008 ein.
+Der Kl. macht geltend, die Schuldnerin sei seit dem 1.7.2008 mit fälligen
+Verbindlichkeiten iHv 152.447,79 Euro, die auch später nicht ausgeglichen worden
+seien, spätestens aber seit dem 1.9.2008 zahlungsunfähig gewesen. Ungeachtet
+dessen seien vom 3.9. bis zum 10.10.2008 aus dem Vermögen der Schuldnerin noch
+Zahlungen iHv 94.437,92 Euro geleistet worden, deren Erstattung der Kl. vom Bekl.
+ua verlangt.
+Das LG Berlin (Urt. v. 31.7.2018 – 15 O 65/14) hat die Klage abgewiesen. Auf die
+das Urteil des LG teilweise abgeändert und den Bekl. unter Abweisung der
+weitergehenden Klage verurteilt, an den Kl. 4191,90 Euro nebst Zinsen zu zahlen.
+Hiergegen richtete sich die vom Senat zugelassene Revision des Kl., mit der er seinen
+Zahlungsantrag im Umfang der Abweisung weiter verfolgt. Die Revision hatte Erfolg.
+Sie führte zur Aufhebung des angefochtenen Urteils und zur Zurückverweisung der
+Sache an das BerGer., soweit der Zahlungsantrag des Kl. abgewiesen wurde.
+Aus den Gründen
+6I. Das BerGer. hat seine Entscheidung, soweit für das Revisionsverfahren von
+Interesse, im Wesentlichen wie folgt begründet:
+11II. Diese Ausführungen halten einer rechtlichen Prüfung in entscheidenden
+Punkten nicht stand.
+121. Das BerGer. hat im Ausgangspunkt zutreffend angenommen, dass zulasten
+eines Geschäftsführers, der in der in § 64 II GmbHG in der bis 31.10.2008 geltenden
+Fassung (aF) beschriebenen Lage der Gesellschaft Zahlungen aus dem
+Gesellschaftsvermögen leistet, vermutet wird, dass er schuldhaft gehandelt hat.
+Maßstab für die Beurteilung eines schuldhaften Handelns ist nach § 64 II 2 GmbHG
+aF die Sorgfalt eines ordentlichen Geschäftsmanns. Auf die individuellen Fähigkeiten
+des in Anspruch genommenen Geschäftsführers kommt es
+BGH: * Anforderungen an Aufgabenzuweisung auf
+nicht an, so dass diesen mangelnde Sachkenntnis nicht entschuldigt (BGH, NJW-RR
+2012, 1122 = ZIP 2012, 1557 Rn. 9 f. mwN).
+132. Rechtsfehlerhaft ist die Beurteilung des BerGer., dass der Bekl. im vorliegenden
+Fall den Entlastungsbeweis zu seinen Gunsten geführt habe.
+14a) Das BerGer. geht im Einklang mit der Senatsrechtsprechung davon aus, dass
+die Erfüllung der sich aus § 64 GmbHG aF ergebenden Pflichten allen
+Geschäftsführern einer GmbH persönlich obliegt und nicht im Wege der
+Geschäftsverteilung auf einen einzelnen Geschäftsführer übertragen werden kann
+Vermutung schuldhaften Verhaltens widerlegen will, muss daher die Gründe
+vortragen und erläutern, die ihn gehindert haben, eine tatsächlich bestehende
+Insolvenzreife der Gesellschaft zu erkennen. Bei der Bewertung dieses Vorbringens
+ist zu berücksichtigen, dass der Geschäftsführer einer Gesellschaft mit beschränkter
+Haftung für eine Organisation sorgen muss, die ihm die zur Wahrnehmung seiner
+Pflichten erforderliche Übersicht über die wirtschaftliche und finanzielle Situation
+der Gesellschaft jederzeit ermöglicht (BGH, NJW-RR 1995, 669 = ZIP 1995, 560
+[561]). Ob der Geschäftsführer seiner Pflicht zur laufenden Beobachtung der
+wirtschaftlichen Lage des Unternehmens und näheren Überprüfung im Falle
+krisenhafter Anzeichen hinreichend nachgekommen ist, ist unter umfassender
+Berücksichtigung der für die Gesellschaft wirtschaftlich relevanten Umstände zu
+beurteilen (BGH, NJW-RR 2012, 1122 = ZIP 2012, 1557 Rn. 13).
+15b) Die persönliche Verantwortung des Geschäftsführers für die Erfüllung der
+Insolvenzantragspflicht schließt, wie das BerGer. ebenfalls zutreffend gesehen hat,
+ein arbeitsteiliges Handeln bzw. eine Ressortverteilung auf der Ebene der
+Geschäftsführung nicht aus, wenn mehrere Personen als Geschäftsführer bestellt
+wurden. Eine solche Verteilung ist abhängig von der Größe des Unternehmens und
+der Art der vorzunehmenden Geschäfte möglich und gegebenenfalls sogar
+für sich genommen zulässige Verteilung der Geschäftsführungsaufgaben entbindet
+denjenigen, dem hiernach nur bestimmte Aufgaben zur Erledigung zugewiesen sind,
+allerdings nicht von seiner eigenen Verantwortung für die ordnungsgemäße Führung
+der Geschäfte der Gesellschaft. Soweit es um die Wahrnehmung der nicht
+übertragbaren Aufgaben geht, wie die Einstandspflicht des Geschäftsführers für die
+Gesetzmäßigkeit der Unternehmensleitung, ist ein strenger Maßstab an die Erfüllung
+der in einem solchen Falle besonders weitgehenden Kontroll- und
+Überwachungspflichten gegenüber einem Mitgeschäftsführer anzulegen (BGH, NJW
+130).
+16c) Die Feststellungen des BerGer. rechtfertigen schon nicht die Annahme, dass es
+eine wirksame Ressortverteilung zwischen dem Bekl. und dem Zeugen K gegeben
+hat, aufgrund derer der Bekl. sich auf die Kontrolle und Überwachung der Tätigkeit
+des Mitgeschäftsführers beschränken konnte.
+17aa) Eine Geschäftsverteilung oder Ressortaufteilung auf der Ebene der
+Geschäftsführung setzt eine klare und eindeutige Abgrenzung der
+Geschäftsführungsaufgaben aufgrund einer von allen Mitgliedern des Organs
+mitgetragenen Aufgabenzuweisung voraus, die die vollständige Wahrnehmung der
+Geschäftsführungsaufgaben durch hierfür fachlich und persönlich geeignete
+Personen sicherstellt und ungeachtet der Ressortzuständigkeit eines einzelnen
+Geschäftsführers die Zuständigkeit des Gesamtorgans insbesondere für nicht
+delegierbare Angelegenheiten der Geschäftsführung wahrt. Entgegen der Sicht der
+Revision bedarf eine Geschäfts- oder Ressortverteilung nicht zwingend der
+Schriftform oder einer ausdrücklichen Absprache, wenngleich die schriftliche
+Dokumentation regelmäßig das naheliegende und geeignete Mittel für eine klare und
+eindeutige Aufgabenabgrenzung darstellt. Ob und gegebenenfalls in welchem
+Umfang eine solche Dokumentation erforderlich ist, muss unter Berücksichtigung
+der konkreten Verhältnisse im Einzelfall bestimmt werden.
+18(1) Nach der Rechtsprechung des RG kann dem Bedürfnis nach Arbeitsteilung auf
+Geschäftsführungsebene dadurch entsprochen werden, dass der eine
+Geschäftsführer vorwiegend (nicht ausschließlich) mit Kassen- und Buchführung
+und der andere ebenso vorwiegend mit den übrigen Aufgaben befasst wird und die
+Pflicht jedes Geschäftsführers, für alle Zweige der Geschäftsführung zu sorgen, von
+der Aufgabenteilung unberührt bleibt. Soweit es nicht um die dem Betroffenen
+besonders zugewiesenen Aufgaben geht, ist seine Pflicht dann auf die Überwachung
+des Mitgeschäftsführers gerichtet (RGZ 98, 98 [100]).
+19(2) Die Organisation der Aufgaben auf Geschäftsführungsebene – gegebenenfalls
+im Rahmen der Vorgaben der Satzung oder von Beschlüssen der Gesellschafter –
+ist, wie die Aufgabenwahrnehmung selbst, Teil der Unternehmensleitung, die mit der
+Sorgfalt eines ordentlichen Geschäftsmanns zu erfüllen ist (vgl. BGHZ 125, 366 [375]
+Michalski/Ziemons, GmbHG, 3. Aufl., § 43 Rn. 338; Ulmer/Paefgen, GmbHG, 2. Aufl.,
+§ 35 Rn. 177; Klöhn in Bork/Schäfer, GmbHG, 3. Aufl., § 43 Rn. 27 f.; Goette, ZHR 175
+[2011], 388, 392; Leuering/Dornhegge, NZG 2010, 13 [14]; Drescher, Die Haftung des
+GmbH-Geschäftsführers, 7. Aufl., Rn. 967). Maßgeblich ist danach, dass die
+Arbeitsteilung auf Geschäftsführungsebene eine ordnungsgemäße Erledigung aller
+Geschäftsführungsaufgaben durch hierfür fachlich und persönlich geeignete
+Personen sicherstellt und die Gesamtverantwortung der Geschäftsführung,
+insbesondere für nicht delegierbare Angelegenheiten gewährleistet bleibt (vgl. BGH,
+477 [484]; MüKoGmbHG/Stephan/Tieves, 2. Aufl., § 37 Rn. 104).
+20(a) Eine diesen Anforderungen genügende Organisation setzt eine klare und
+eindeutige Aufteilung aller Geschäftsführungsaufgaben voraus (das Erfordernis der
+Eindeutigkeit bezweifelnd: MüKoGmbHG/Stephan/Tieves, 2. Aufl., § 37 Rn. 104). Für
+eine Umgestaltung der auf eigene Aufgabenwahrnehmung gerichteten Pflicht in eine
+Pflicht zur Überwachung eines Mitgeschäftsführers ist nur dann Raum, wenn die
+Geschäftsverteilung oder Ressortaufteilung das Vertrauen darauf rechtfertigt, dass
+jede Geschäftsführungsaufgabe einem Geschäftsführer zugeordnet ist. Bei dieser
+Zuordnung dürfen weder Zweifel über die Abgrenzung einzelner Aufgaben entstehen
+noch über die Person des für die Erledigung Verantwortlichen.
+21(b) Eine ordnungsgemäße Erledigung von Geschäftsführungsaufgaben durch
+einen Mitgeschäftsführer ist ferner nur dann gewährleistet, wenn die
+Geschäftsverteilung oder Ressortaufteilung von allen Geschäftsführern
+einvernehmlich mitgetragen wird (vgl. U. H. Schneider/S. H. Schneider in Scholz,
+GmbHG, 12. Aufl., § 37 Rn. 75; MüKoGmbHG/
+BGH: * Anforderungen an Aufgabenzuweisung auf
+Fleischer, 2. Aufl., § 43 Rn. 114; Zöllner/Noack in Baumbach/Hueck, GmbHG, 21.
+Aufl., § 37 Rn. 29; MüKoGmbHG/Stephan/Tieves, § 37 Rn. 101; Kleindiek in
+Lutter/Hommelhoff, GmbHG, 19. Aufl., § 37 Rn. 29; MünchHdbGesRIII/Marsch-
+Barner/Diekmann, 4. Aufl., § 44 Rn. 86) und die jeweiligen Aufgaben Personen
+zugeordnet werden, die für die Erledigung fachlich und persönlich geeignet sind
+(U. H. Schneider, FS 100 Jahre GmbH-Gesetz, 477 [484]; U. H. Schneider in Scholz, § 43 Rn. 37). Dieser Eignung müssen sich die Geschäftsführer bei der
+Aufgabenzuweisung vergewissern (RGZ 91, 72 [77]). Können die Geschäftsführer
+aufgrund dieser Vergewisserung von einer ordnungsgemäßen Aufgabenerledigung
+ausgehen, ist die Zuweisung der Zuständigkeit für bestimmte Aufgaben regelmäßig
+so zu verstehen, dass die Pflicht des zuständigen Geschäftsführers zur laufenden
+Unterrichtung der weiteren Geschäftsführer über die wesentlichen Angelegenheiten
+der Gesellschaft unberührt bleibt (MüKoGmbHG/Stephan/Tieves, § 37 Rn. 90).
+Entsprechend können die übrigen Geschäftsführer in diesem Fall auch ohne
+ausdrückliche Regelung annehmen, von dem nach der Geschäftsverteilung oder
+Ressortaufteilung zuständigen Geschäftsführer zuverlässig und rechtzeitig
+diejenigen Informationen zu erhalten, die für die Wahrnehmung der jedem
+Geschäftsführer persönlich obliegenden Aufgaben erforderlich sind (vgl. BGH, NJW
+1994, 2149 = ZIP 1994, 891 [892]).
+22(3) Entgegen einer im Schrifttum unter Hinweis auf die Rechtsprechung des BFH
+zur Wahrnehmung steuerrechtlicher Pflichten vertretenen Auffassung setzt eine
+wirksame Begrenzung des Verantwortungsbereichs nicht stets eine schriftlich
+fixierte Verteilung der Aufgaben voraus (so U. H. Schneider/S. H. Schneider in
+Scholz, § 37 Rn. 69; MüKoGmbHG/Fleischer, § 43 Rn. 115; Vetter in
+Krieger/Schneider, HdB Managerhaftung, 3. Aufl., Rn. 22.48; Michalski/Ziemons,
+GmbHG, 3. Aufl., § 43 Rn. 338; U. H. Schneider, FS 100 Jahre GmbH-Gesetz, 477
+[484 f.]; Dreher, ZGR 1992, 22 [59 f.]; aA Kleindiek in Lutter/Hommelhoff, § 37 Rn. 37;
+Buck-Heeb in Gehrlein/Born/Simon, GmbHG, 3. Aufl., § 37 Rn. 28; Jacoby in
+Bork/Schäfer, GmbHG, 3. Aufl., § 37 Rn. 6; Leuering/Dornhegge, NZG 2010, 13 [15];
+MünchHdbGesRIII/Marsch-Barner/Diekmann, 4. Aufl., § 44 Rn. 87).
+23(a) Das Gebot einer schriftlichen Fixierung der Aufgabenteilung ließe sich, da das
+Gesetz konkrete Vorgaben nicht enthält, nur mit der Erwägung rechtfertigen, dass
+auf andere Weise den Vorgaben an eine sorgfältige Unternehmensleitung nicht
+Rechnung getragen werden kann. Dies kann nicht allgemein für jede in Betracht
+kommende Fallgestaltung angenommen werden, wenngleich die schriftliche
+Dokumentation der Geschäftsverteilung bzw. Ressortaufteilung innerhalb der
+Geschäftsführung regelmäßig das naheliegende und geeignete Mittel für eine klare
+Aufgabenzuweisung und sorgfältige Unternehmensorganisation darstellt (Kleindiek
+in Lutter/Hommelhoff, § 37 Rn. 37; Buck-Heeb in Gehrlein/Born/Simon, § 37 Rn. 28;
+Jacoby in Bork/Schäfer, § 37 Rn. 6; Leuering/Dornhegge, NZG 2010, 13 [15];
+MünchHdbGesRIII/Marsch-Barner/Diekmann, § 44 Rn. 87). Eine schriftliche
+Dokumentation kann daher geboten sein, wenn den Geboten der Klarheit und
+Eindeutigkeit der Aufgabenverteilung im Hinblick auf die konkreten Verhältnisse der
+Gesellschaft oder die Art der Verteilung der Geschäfte bzw. Aufteilung der Ressorts
+selbst nicht genügend Rechnung getragen werden kann (vgl. Goette, ZHR 175, 388,
+397 f.; Dreher, ZGR 1992, 22 [59 f.]).
+24(b) Ein Schriftformerfordernis lässt sich auch nicht daraus ableiten, dass ohne
+schriftliche Dokumentation der Aufgabenverteilung die Gefahr droht, dass jeder
+Geschäftsführer auf die Verantwortlichkeit eines anderen verweist (vgl. für die
+steuerrechtliche Verantwortlichkeit: BFHE 141, 443 [447] = DStR 1984, 756 = NJW
+1985, 400 Ls.; ferner auch MüKoGmbHG/Fleischer, § 43 Rn. 115; Michalski/Ziemons,
+§ 43 Rn. 338). Mit dieser Erwägung ist nicht die Frage einer klaren
+Zuständigkeitsverteilung, sondern das Risiko angesprochen, dass die Mitglieder der
+Geschäftsführung sich im Streitfall ungeachtet einer solchen wechselseitig auf ihre
+Unzuständigkeit berufen könnten. Für den hier in Rede stehenden Bereich der
+zivilrechtlichen Haftung der Geschäftsführer genügt es, diese mit dem Risiko zu
+belasten, dass sie im Streitfall den Nachweis einer nur eingeschränkten, nämlich auf
+Überwachung des Mitgeschäftsführers gerichteten Verantwortung führen müssen
+(Kleindiek in Lutter/Hommelhoff, § 37 Rn. 37). Die aus dem Gebot einer sorgfältigen
+Unternehmensführung gem. § 43 I GmbHG abgeleiteten Organisationspflichten
+dienen weder dem Schutz der Gesellschaftsgläubiger noch den Beweisinteressen
+25(c) Der Senat weicht mit seiner Rechtsauffassung nicht von der Rechtsprechung
+des BFH ab. Diese betrifft die ausdrücklich den Geschäftsführern einer Gesellschaft
+mit beschränkter Haftung zur persönlichen Erfüllung zugewiesenen Aufgaben nach
+§ 34 I AO gegenüber dem Steuergläubiger und damit einen vom öffentlichen Recht
+[25 f.] = BStBl. II 1986, 384; vgl. MüKoGmbHG/Stephan/Tieves, § 37 Rn. 104).
+Ungeachtet dessen dürfen nach der Rechtsprechung des BFH Geschäfte des
+laufenden Verkehrs, die für die Gesellschaft nicht von existentieller Bedeutung sind,
+auf einen hierfür generell geeigneten Geschäftsführer übertragen werden, wenn die
+Gewähr vorhanden ist, dass bei einer auch nur entfernt zu besorgenden Gefährdung
+der Liquidität oder des Vermögens der Gesellschaft die anderen Geschäftsführer
+unverzüglich unterrichtet werden (BFHE 141, 443 [447] = DStR 1984, 756 = NJW
+1985, 400 Ls.). In einem solchen Fall soll es auch für die Haftung gegenüber dem
+Steuergläubiger auf eine schriftliche Aufgabenverteilung nicht ankommen (BFHE
+146, 23 [26] = BStBl. II 1986, 384).
+26(4) Wie das LG zutreffend erkannt hat, muss eine Aufgabenverteilung auch nicht
+zwingend ausdrücklich vereinbart werden (vgl. MüKoGmbHG/Stephan/Tieves, § 37
+Rn. 104). Dabei verkennt der Senat nicht, dass eine bloß faktische (vgl. OLG Koblenz,
+NZG 1998, 953 [954]; E. Vetter in Krieger/Schneider, Handbuch Managerhaftung, 3.
+Aufl., Rn. 22.48; Leuering/Dornhegge, NZG 2010, 13 [14]) oder stillschweigend
+im Hinblick auf die Gefahr von Missverständnissen über die konkrete Abgrenzung
+der Geschäftsführungsaufgaben typischerweise das Risiko von Missverständnissen
+in sich birgt, die den vorstehend aufgezeigten Geboten der Klarheit und Eindeutigkeit
+widersprechen. Es erscheint aber nicht ausgeschlossen, dass eine auf einer
+faktischen Arbeitsteilung oder einer stillschweigenden Übereinkunft beruhende
+Geschäftsverteilung oder Ressortaufteilung durch ihre tatsächliche Handhabung zu
+einer den oben beschriebenen Anforderungen genügenden Aufgabenzuweisung
+erstarkt.
+27bb) Das BerGer. hat von diesen Maßstäben ausgehend keine ausreichenden
+Feststellungen zu einer wirksamen Auf-
+BGH: * Anforderungen an Aufgabenzuweisung auf
+teilung der Geschäftsführungsaufgaben zwischen dem Bekl. und dem Zeugen K
+getroffen.
+28(1) Es erscheint schon zweifelhaft, ob die auf der Grundlage der Aussage des
+Zeugen K getroffenen Feststellungen über die vorgenommene Aufteilung der
+Zuständigkeiten unter den Geschäftsführern den dargestellten Anforderungen
+genügt. Zwar entspricht die Aufteilung, nach der der Bekl. allein für die
+künstlerischen Belange und der Mitgeschäftsführer für die „kaufmännische,
+organisatorische und finanzielle Seite“ des Geschäfts zuständig war, im
+Ausgangspunkt den Geboten der Klarheit und Eindeutigkeit. Den Feststellungen ist
+aber nicht zu entnehmen, dass die gewählte Organisationsform unter
+Berücksichtigung der konkreten Verhältnisse der Schuldnerin sachgerecht war, so
+dass der Bekl. auf eine ordnungsgemäße Erledigung praktisch aller wesentlichen
+Geschäftsführungsaufgaben durch den Zeugen K vertrauen konnte.
+29(2) Das BerGer. hat ferner keine Feststellungen zu der Frage getroffen, ob sich der
+Bekl. im Zusammenhang mit der Übertragung der Wahrnehmung von
+Geschäftsführungsaufgaben an den Zeugen K ausreichend vergewissert hat, dass
+dieser die erforderliche fachliche und persönliche Eignung aufweist. Entsprechend
+ist auch nicht ersichtlich, aufgrund welcher Umstände der Bekl. darauf vertrauen
+durfte, über wesentliche Angelegenheiten der Gesellschaft zuverlässig informiert zu
+werden, damit er der bei ihm verbliebenen Verantwortlichkeit als Geschäftsführer
+nachkommen konnte.
+30d) Die Erwägungen des BerGer. zu einer hinreichenden Kontrolle und
+Überwachung einer ordnungsgemäßen Aufgabenerledigung durch den Bekl. halten
+einer rechtlichen Überprüfung ebenfalls nicht stand. Ob eine ausreichende Kontrolle
+und Überwachung vorlag und hieran anknüpfend die Insolvenzreife der Schuldnerin
+für den Bekl. erkennbar war, ist revisionsrechtlich nur daraufhin zu überprüfen, ob
+der Tatrichter insoweit alle maßgeblichen Umstände berücksichtigt und nicht gegen
+Denkgesetze oder Erfahrungssätze verstoßen hat (BGH, NJW-RR 2012, 1122 = ZIP
+2012, 1557 Rn. 14 mwN). Solche Rechtsfehler liegen hier aber vor, weil das BerGer.
+nicht alle für die Erkennbarkeit der Insolvenzreife der Schuldnerin maßgeblichen
+Umstände in seine Betrachtung einbezogen hat und die strengen Anforderungen an
+die Führung des Entlastungsbeweises durch den Geschäftsführer verkannt hat.
+31aa) Im Ausgangspunkt zutreffend nimmt das BerGer. allerdings an, dass es an der
+Erkennbarkeit der Insolvenzreife fehlen kann, wenn der für die Überwachung des
+laufenden Geschäftsverkehrs zuständige Geschäftsführer seiner
+Informationspflicht gegenüber dem in Anspruch genommen Mitgeschäftsführer
+nicht nachkommt, weil dieser die für die Beurteilung der Insolvenzreife erforderlichen
+1934 [1937]). Die Erkennbarkeit wird für den Mitgeschäftsführer in diesen Fällen
+typischerweise zusätzlich erschwert, wenn diesem – wie das BerGer. im Streitfall
+angenommen hat – entsprechende Informationen bewusst vorenthalten werden.
+32bb) Das BerGer. hat im Ansatz auch erkannt, dass die Erkennbarkeit der
+Insolvenzreife auch bei einem bewussten Vorenthalten von Informationen über die
+wirtschaftliche Lage nur dann fehlt, wenn diese dem Bekl. auch bei
+ordnungsgemäßer Überwachung des Mitgeschäftsführers nicht aufgefallen wäre.
+Diesbezüglich bezieht das BerGer. indes nur ein Überprüfen der Kontostände der
+Schuldnerin in seine Überlegungen ein, die vorliegend deswegen keinen Aufschluss
+über die tatsächliche Liquidität der Schuldnerin gegeben hätten, weil sich Indizien
+zur Zahlungseinstellung daraus abgeleitet hätten, dass der Mitgeschäftsführer
+ständig einen Forderungsrückstand vor sich hergeschoben und am wirtschaftlichen
+Abgrund operiert hätte. Diese Erwägung greift zu kurz, weil eine auf die Prüfung der
+Kontostände gerichtete Kontrolle – wie das BerGer. der Sache nach selbst erkennt –
+nicht geeignet ist, die wirtschaftliche Lage der Schuldnerin festzustellen, der
+Geschäftsführer aber für eine Organisation der Geschäftsabläufe sorgen muss, die
+ihm jederzeit einen solchen Überblick ermöglicht.
+33cc) Auch die Erwägung des BerGer., die Durchführung wöchentlicher bzw. 14tägiger Besprechungen sei innerhalb eines Geschäftsjahres ohne besondere
+Hinweise für die Notwendigkeit verschärfter Kontrollen eine ausreichende
+Organisation innerhalb der Geschäftsführung, ist rechtsfehlerhaft.
+34(1) Das BerGer. hat verkannt, dass die Durchführung von Besprechungen selbst
+nur die gebotene Information durch den zuständigen Geschäftsführer ermöglicht
+und damit für sich betrachtet kein Instrument der Kontrolle einer ordnungsgemäßen
+Aufgabenerledigung im kaufmännischen Geschäftsbereich darstellt. Die Würdigung
+des BerGer. lässt nicht erkennen, dass der Bekl. sich auf der Basis der konkreten
+Besprechungsinhalte und mit gezielten Nachfragen ein eigenes Bild über den
+Geschäftsbereich gemacht hat. Dies wird regelmäßig nur möglich sein, wenn solche
+mündlichen Auskünfte zumindest im Rahmen einer Plausibilitätsprüfung mit den
+wesentlichen betriebswirtschaftlichen Kennzahlen des Unternehmens abgeglichen
+werden, die – typischerweise auch in kleineren Unternehmen – beispielsweise in
+Form von betriebswirtschaftlichen Auswertungen vorliegen.
+35(2) Zu pauschal bleiben auch die Erwägungen des BerGer. zur gebotenen
+Kontrolldichte. Ob und mit welchen konkreten Maßnahmen eine Kontrolle innerhalb
+eines Geschäftsjahres stattzufinden hat, lässt sich nur unter Würdigung der aus den
+Jahresabschlüssen ersichtlichen Geschäftszahlen der Schuldnerin und dem
+konkreten Vorbringen des Geschäftsführers dazu ableiten, dass er im Hinblick auf
+die zurückliegenden Geschäftszahlen und die Erkenntnisse von den aktuellen
+Geschäftsabläufen keinen Anlass hatte, weitergehende Kontrollen durchzuführen.
+Eine lediglich jährliche Kontrolle der Geschäftszahlen wird bei der Zuständigkeit
+eines Mitgeschäftsführers im kaufmännischen Bereich der Gesellschaft regelmäßig
+nicht genügen. Eine entsprechende Würdigung enthält das angefochtene Urteil
+ebenfalls nicht.
+36dd) Das BerGer. würdigt auch nicht umfassend, ob in der Zeit vor Ende
+August/Anfang September 2008 Anhaltspunkte für Unregelmäßigkeiten bei der
+Erledigung von Geschäftsführungsaufgaben oder Indizien für eine krisenhafte
+Entwicklung im Unternehmen vorhanden waren, die Anlass für eine verschärfte
+Kontrolle und Überwachung des Zeugen K gewesen wären. Soweit es darauf
+verweist, dass sich aus dem Parteivortrag keine Anhaltspunkte für solche Anzeichen
+ergeben hätten, verkennt es, dass tatsächlich eine krisenhafte Entwicklung bei der
+Schuldnerin vorlag und es Sache des Bekl. gewesen wäre, im Einzelnen darzulegen,
+dass diese ihm ohne eigenes Verschulden verborgen blieb. In diesem
+Zusammenhang wäre im Einzelnen darzulegen gewesen, welchen wirtschaftlichen
+Hintergrund die Verhandlungen und die Vereinbarung mit der S AG hatten und warum
+der Bekl. – wie das LG angenommen hat – von einer (dauerhaft) konsolidierten Lage
+der Schuldnerin ausgehen konnte. Dass der Bekl. dem nachgekommen wäre, ist vom
+BerGer. nicht festgestellt. Schließlich ist entgegen der Sicht des BerGer. die nur
+teilweise Zahlung der Geschäftsführervergütung ein ganz erhebliches Anzeichen für
+Unregelmäßigkeiten, die eine konkrete Aufklärung der Hintergründe durch den Bekl.
+erfordert hätten.
+37III. Das Berufungsurteil erweist sich weder ganz noch teilweise aus anderen
+Gründen als richtig.
+381. Die Rüge des Revisionsbeklagten, das BerGer. habe rechtsfehlerhaft die
+Zahlungsunfähigkeit der Schuldnerin spätestens ab dem 3.9.2008 angenommen,
+weil der Bekl. keinen Einblick in die einzelnen Geschäftsvorfälle der Schuldnerin
+gehabt habe und deswegen nicht in der Lage sei, zu den vom Kl. behaupteten
+Verbindlichkeiten der Schuldnerin im Einzelnen vorzutragen, ist unbegründet. Der
+Bekl.
+BGH: * Anforderungen an Aufgabenzuweisung auf
+kann sich nicht darauf berufen, eigene Kenntnisse zu den behaupteten
+Verbindlichkeiten lägen im Hinblick auf die Ressortzuständigkeit des Zeugen K nicht
+vor. Als Geschäftsführer war der Bekl. zwar nach § 41 GmbHG nicht zur
+eigenhändigen Buchführung verpflichtet. Die Zuständigkeit für die Buchführung
+konnte unter den oben dargestellten Voraussetzungen auch auf den
+Mitgeschäftsführer übertragen werden. Das enthebt den Bekl. aber nicht von seiner
+grundsätzlichen Verantwortlichkeit, für eine ordnungsgemäße Buchführung zu
+Auferlegung der Last eines substanziierten Bestreitens wird vom Bekl. auch nichts
+Unmögliches verlangt, denn er ist berechtigt, Einsicht in die Buchhaltung der
+Gesellschaft zu nehmen (vgl. BGH, DStR 2016, 923 = ZIP 2016, 615 Rn. 25; NJW
+2018, 1089 = ZIP 2018, 283 Rn. 23, zVb in BGHZ).
+392. Es kann auch nicht davon ausgegangen werden, dass der Zeuge K mit seiner
+Zahlung iHv 25.000 Euro auf den mit dem Kl. geschlossenen Vergleich die
+verfahrensgegenständlichen Forderungen anteilig erfüllt hat und dies gem. § 422 I 1
+BGB zugunsten des Bekl. wirkt. Dies hat das BerGer. für den zugesprochenen Teil
+der Klage zwar angenommen. Die Feststellungen des BerGer. tragen diese Annahme
+aber nicht, so dass diese Frage für den im Revisionsverfahren anhängigen Teil der
+Klage schon aus diesem Grund nicht abschließend beurteilt werden kann.
+40a) In der Sache zutreffend nimmt das BerGer. an, dass mehrere Geschäftsführer,
+die der Gesellschaft zum Ersatz von Zahlungen gem. § 64 II GmbHG aF verpflichtet
+sind, als Gesamtschuldner haften (vgl. MüKoGmbHG/H-F Müller, 3. Aufl., § 64 Rn.
+167; Haas in Baumbach/Hueck, § 64 Rn. 43).
+41b) Die Feststellungen des BerGer. erlauben jedoch nicht die Schlussfolgerung,
+dass die Zahlung des Zeugen K iHv 25.000 Euro gem. § 362 I, § 422 I 1 BGB teilweise
+zum Erlöschen der gegen den Bekl. gerichteten Ansprüche geführt hat. Die
+Beurteilung, die Zahlung des Zeugen K habe zur anteiligen Tilgung der gegen diesen
+insgesamt gerichteten Forderungen von 565.784,35 Euro geführt, ist unter
+Berücksichtigung des festgestellten Sachverhalts rechtsfehlerhaft.
+42aa) Aus dem Vergleich selbst kann nicht abgeleitet werden, ob und gegebenenfalls
+in welchem Umfang die Zahlung des Zeugen etwaige, im vorliegenden Verfahren
+gegen den Bekl. gerichtete Forderungen getilgt hat. Dem Gläubiger steht es im
+Grundsatz zwar frei, mit einem Gesamtschuldner einen Einzelvergleich
+abzuschließen und in diesem eine Bestimmung darüber zu treffen, welche
+Ansprüche oder Forderungspositionen er sich abgelten lässt (BGH, WM 1978, 348
+zwischen dem Kl. und dem Zeugen K geschlossenen Vergleich keine entsprechende
+Verrechnungsabrede enthalten ist, sondern lediglich die Erlasswirkung des
+Vergleichs entsprechend § 423 BGB gegenüber dem Bekl. ausgeschlossen wurde.
+43bb) Im Ausgangspunkt zutreffend hat das BerGer. anknüpfend daran für die Frage,
+welche Einzelforderungen durch die Zahlung getilgt wurden, die Regelung des § 366
+BGB herangezogen, weil im Verhältnis zum Bekl., zu dessen Gunsten der Vergleich
+keine Wirkung entfaltet, eine Teilleistung auf mehrere Forderungen erfolgt ist. Zu
+MüKoBGB/Fetzer, 7. Aufl., § 366 Rn. 12) – Leistungsbestimmung des Zeugen K nach
+§ 366 I BGB hat das BerGer. keine Feststellungen getroffen. Die anschließende
+Erwägung, die Zahlung habe nach § 366 II BGB zu einer anteiligen Tilgung der Schuld
+geführt, ist rechtsfehlerhaft. Eine verhältnismäßige Tilgung der Schuld nach § 366 II
+Fall 5 BGB kommt erst dann in Betracht, wenn sämtliche vorhergehenden
+Anrechnungen in der gesetzlichen Tilgungsreihenfolge ausscheiden (BGHZ 134, 224
+übersehen, dass im vorliegenden Fall diejenigen Forderungen, hinsichtlich derer
+allein eine Haftung des Zeugen K in Betracht kam, dem Kl. geringere Sicherheit boten
+44IV. Das Berufungsurteil ist aufzuheben und die Sache zur neuen Verhandlung und
+Entscheidung an das BerGer. zurückzuverweisen (§§ 562 I, 563 I 1 ZPO). Die Sache
+ist nicht entscheidungsreif. Das BerGer. wird, gegebenenfalls nach ergänzendem
+Vortrag der Parteien und weiteren Feststellungen, unter Beachtung der vom Senat
+aufgezeigten Maßstäbe erneut zu würdigen haben, ob der Bekl. mit der Sorgfalt eines
+ordentlichen Geschäftsmanns gehandelt hat.
+Anmerkung der Redaktion
+Heft). – Zu der unter anderem im Leitsatz zitierten Entscheidung BFHE 141, 443 =
+Steuerschulden bei unterschiedlichen Zuständigkeitsbereichen) s. die Anm. Wilcke,
+GmbHR 1985, 30.

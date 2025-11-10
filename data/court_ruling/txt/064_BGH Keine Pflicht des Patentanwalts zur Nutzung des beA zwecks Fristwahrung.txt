@@ -1,0 +1,146 @@
+Keine Pflicht des Patentanwalts zur Nutzung des beA zwecks Fristwahrung
+ZPO § 233; PatG § 113 
+Ein Patentanwalt, der kurz vor Ablauf der dafür maßgeblichen Frist feststellt, dass die
+Telefax-Übermittlung einer Berufungsbegründung in einem
+Patentnichtigkeitsverfahren wegen nicht von ihm zu vertretender technischer
+Probleme voraussichtlich scheitern wird, ist nicht verpflichtet, nach einem
+Rechtsanwalt zu suchen, der den Versand für ihn über das besondere elektronische
+Anwaltspostfach vornehmen kann.
+BGH, Beschluss vom 28.4.2020 – X ZR 60/19
+Zum Sachverhalt
+Die Kl. wandte sich gegen die erstinstanzliche Abweisung einer
+12451). Zur Begründung ihrer fristgerecht eingelegten Berufung hat einer ihrer
+Prozessbevollmächtigten, ein Patentanwalt, am letzten Tag der bis 4.11.2019
+verlängerten Frist per Telefax einen Schriftsatz an die Geschäftsstelle des Senats
+übermittelt. Von den insgesamt 39 Seiten dieses Dokuments sind lediglich 35 Seiten
+vor 0.00 Uhr des Folgetags eingegangen, die weiteren vier Seiten einschließlich der
+letzten Seite mit der Unterschrift erst kurz danach.
+Die Kl. trägt im Wesentlichen vor, der mit der Sache befasste Patentanwalt habe die
+Übertragung des Schriftsatzes gegen 22.40 Uhr unter Nutzung des funktionsfähigen
+elektronischen Fax-Systems der Kanzlei veranlasst. Der Übermittlungsvorgang habe
+um 22.59 Uhr begonnen. Der Patentanwalt habe aufgrund von Erfahrungen mit
+vergleichbaren Schriftsätzen mit einer Übertragungszeit von 20 Minuten gerechnet. Als
+um 23.30 Uhr der Versand noch nicht erfolgreich abgeschlossen gewesen sei, habe er
+nach alternativen Möglichkeiten zur Übersendung per Telefax gesucht. Nach einigen
+Mühen habe er einen Internet-Anbieter ausfindig gemacht, der keine vorherige
+Registrierung verlange. Um 23.54 Uhr habe er über diesen Dienst einen zweiten
+Sendevorgang gestartet. Die Kl. beantragte Wiedereinsetzung in den vorigen Stand. Der
+Antrag hatte Erfolg.
+Aus den Gründen
+4II. Der Antrag auf Wiedereinsetzung ist zulässig und begründet.
+51. Das Gesuch ist nach den in Patentnichtigkeitsverfahren in der Berufungsinstanz
+entsprechend anzuwendenden §§ 233 ff. ZPO (BGH GRUR 2000, 1010 = NJW-RR 2001,
+1335 Ls. – Schaltmechanismus; BGH GRUR 2001, 271 – Kreiselpumpe) statthaft und
+innerhalb der Monatsfrist des § 234 I 2 ZPO eingelegt worden. Eine erneute
+Übermittlung der Berufungsbegründung war nicht erforderlich, weil diese, wenn auch
+nach Ablauf der hierfür maßgeblichen Frist, bereits zuvor eingereicht worden ist.
+62. Die Kl. hat hinreichend dargetan und glaubhaft gemacht, dass die Versäumung der
+Frist nicht auf einem eigenen oder einem ihr gem. § 85 II ZPO zurechenbaren
+Verschulden ihrer Prozessbevollmächtigten beruht.
+7a) Nach der ständigen Rechtsprechung des BGH dürfen Verfahrensbeteiligte die ihnen
+vom Gesetz eingeräumten prozessualen Fristen bis zu ihrer Grenze ausnutzen (vgl. nur
+8 Bei einer Übermittlung per Telefax hat der Versender mit der ordnungsgemäßen
+Nutzung eines funktionsfähigen Sendegeräts und der korrekten Eingabe der
+Empfängernummer das seinerseits Erforderliche zur Fristwahrung getan, wenn er so
+rechtzeitig mit der Übermittlung begonnen hat, dass unter normalen Umständen mit
+ihrem Abschluss vor 0.00 Uhr zu rechnen gewesen ist. Das ist in der Regel der Fall,
+wenn eine Übermittlungszeit von 30 Sekunden pro Seite angesetzt wird (BGH NJW
+2005, 678 [679]; NJW-RR 2018, 1398 Rn. 21) und der sich daraus ergebende Wert im
+Hinblick auf die Möglichkeit einer anderweitigen Belegung des Empfangsgeräts sowie
+schwankende Übertragungsgeschwindigkeiten um einen Sicherheitszuschlag von
+9Hat der Versender diese Vorgaben eingehalten, trifft ihn kein Verschulden, wenn die
+Übermittlung wegen technischer Störungen am Empfangsgerät oder auf dem
+Übermittlungsweg einen längeren Zeitraum beansprucht (BGH NJW-RR 2018, 1398 Rn.
+20). Allerdings darf er angezeigte Störungen nicht vorschnell zum Anlass nehmen, von
+weiteren Sendeversuchen abzusehen. Vielmehr ist er gehalten, ihm erkennbar
+gewordene Übermittlungsfehler bis zum Fristablauf zu beheben und zumindest weitere
+Übermittlungsversuche zu unternehmen, um auszuschließen, dass die
+Übermittlungsschwierigkeiten in seinem Bereich liegen (BGH NJOZ 2012, 935 Rn. 9).
+10b) Im Streitfall ergibt sich aus dem Vorbringen der Kl. und den zur Glaubhaftmachung
+vorgelegten Unterlagen, dass der mit der Sachbearbeitung befasste Patentanwalt die
+vom BGH für die Übersendung von Schriftsätzen bereitgestellte Fax-Nummer benutzt
+und der erste Übermittlungsvorgang um 22.59 Uhr begonnen hat.
+11Die damit zur Verfügung stehende Zeit von gut einer Stunde war ausreichend. Bei
+Einbeziehung des üblichen Sicherheitszuschlags von 20 Minuten wäre der Schriftsatz
+selbst dann noch rechtzeitig eingegangen, wenn die Übermittlung für jede Seite eine
+Minute in Anspruch genommen hätte. Der Patentanwalt hat auch pflichtgemäß einen
+weiteren Übermittlungsversuch unternommen, nachdem er festgestellt hatte, dass der
+erste Versuch ungewöhnlich viel Zeit in Anspruch nimmt. Seine Entscheidung, die
+zweite Übermittlung mit einem anderen System vorzunehmen, ist nicht zu
+beanstanden. Ein erneuter Versuch mit dem kanzleieigenen System hätte das sichere
+Scheitern des ersten, noch ohne Fehlermeldung laufenden Übermittlungsvorgangs zur
+Folge gehabt, aber keine Gewähr dafür geboten, das ein erneuter Versuch erfolgreicher
+verläuft.
+12Dem Patentanwalt gereicht es auch nicht zum Verschulden, dass er sich nicht schon
+früher um einen weiteren Übermittlungsvorgang bemüht hat. Unter üblichen
+Verhältnissen war mit einem Abschluss des Übermittlungsvorgangs nicht vor 23.20
+Uhr zu rechnen. Da bis dahin kein Übertragungsfehler angezeigt wurde, durfte der
+Patentanwalt jedenfalls bis 23.30 Uhr darauf vertrauen, dass die Übermittlung bis
+Mitternacht abgeschlossen sein würde. Dass er im Anschluss daran einige Zeit
+benötigte, um eine neue Übermittlungsmöglichkeit zu schaffen, ist ebenfalls nicht als
+schuldhaft anzusehen. Er war nicht verpflichtet, von vornherein zwei voneinander
+unabhängige Faxsysteme vorzuhalten, wenn zuvor keine für einen Defekt des eigenen
+Systems sprechenden Anhaltspunkte vorhanden waren. Solche Anhaltspunkte sind
+hier nicht ersichtlich.
+13 c) Ein der Kl. zurechenbares Verschulden ergibt sich auch nicht daraus, dass der mit
+der verantwortlichen Sachbearbeitung betraute Patentanwalt das Dokument nicht über
+ein besonderes elektronisches Anwaltspostfach (beA) versendet hat.
+14Dabei kann dahingestellt bleiben, ob ein Rechtsanwalt in vergleichbarer Lage
+verpflichtet wäre, einen Sendeversuch über dieses Medium zu unternehmen. Ein
+Patentanwalt, der nicht über ein besonderes elektronisches Anwaltspostfach verfügt,
+ist jedenfalls nicht verpflichtet, kurz vor Fristablauf nach einem Rechtsanwalt zu
+suchen, der den Versand für ihn vornehmen kann.
+15aa) Nach der Rechtsprechung des BGH dürfen die Gerichte die Anforderungen an die
+den Prozessbevollmächtigten im Rahmen des § 233  ZPO obliegende Sorgfalt nicht
+überspannen. Von einem Prozessbevollmächtigten, der
+sich und seine organisatorischen Vorkehrungen darauf eingerichtet hat, einen
+Schriftsatz per Telefax zu übermitteln, kann daher beim Scheitern der gewählten
+Übermittlungen in Folge eines Defekts des Empfangsgeräts oder wegen
+Leitungsstörungen nicht verlangt werden, dass er unter Aufbietung aller nur denkbaren
+Anstrengungen innerhalb kürzester Zeit eine andere als die gewählte Zugangsart
+sicherstellt (BGH NJW-RR 2017, 1084 Rn. 13 ff.).
+16Vor diesem Hintergrund erscheint zweifelhaft, ob ein Rechtsanwalt, der sich für den
+Versand per Telefax entschieden hat, bei technischen Problemen kurz vor Fristablauf
+einen Übermittlungsversuch über das besondere elektronische Anwaltspostfach
+Dieses Medium steht zwar gem. § 31 a I BRAO jedem Rechtsanwalt zur Verfügung. Die
+relativ hohe Zahl an Störungsmeldungen, die für dieses System veröffentlicht werden,
+begründet aber Zweifel daran, ob es in seiner derzeitigen Form eine höhere Gewähr für
+eine erfolgreiche Übermittlung kurz vor Fristablauf bietet als ein Telefax-Dienst. So sind
+auf der Internetseite der Bundesrechtsanwaltskammer
+Störungsmeldungen veröffentlicht, von denen sich vier auf Wartungsarbeiten und acht
+auf Anmeldeprobleme unbekannten Ursprungs beziehen.
+17bb) Für die Entscheidung des Streitfalls bedarf diese Frage keiner abschließenden
+Beantwortung. Ein Patentanwalt ist jedenfalls deshalb nicht verpflichtet, kurz vor
+Fristablauf von Telefax zu beA zu wechseln, weil ein solches Postfach nur für
+Rechtsanwälte eingerichtet ist.
+18Gemäß § 31 a I 1 BRAO wird ein besonderes elektronisches Anwaltsverzeichnis nur
+für in das Gesamtverzeichnis eingetragene Mitglieder der Rechtsanwaltskammern
+eingerichtet. In das Gesamtverzeichnis werden gem. § 31 I BRAO nur Rechtsanwälte
+eingetragen.
+19Ein Patentanwalt könnte ein Dokument danach allenfalls in der Weise über das
+besondere elektronische Anwaltspostfach versenden, dass er einen Rechtsanwalt
+bittet, den Versand für ihn vorzunehmen oder ihm eine Sendeberechtigung für sein
+Postfach einzuräumen. Derartiges ist einem Patentanwalt jedenfalls in einer Situation,
+in der eine geplante Übermittlung per Telefax sich kurz vor Fristablauf als erfolglos
+erweist, nicht zuzumuten.
+20Gemäß § 113  PatG müssen sich die Parteien in Patentnichtigkeitsverfahren vor
+dem BGH durch einen Rechtsanwalt oder einen Patentanwalt als Bevollmächtigten
+vertreten lassen. Diese Regelung eröffnet den Parteien die Möglichkeit, sich auch in
+zweiter Instanz allein durch einen Patentanwalt vertreten zu lassen (BT-Drs. 16/11339,
+23 f.; dazu auch Hall/Nobbe in Benkard, Patentgesetz, 11. Aufl. 2015, § 113 Rn. 3;
+BeckOK PatentR/Kubis, 15. Ed. 15.1.2020, § 113 Rn. 2; Mes, Patentgesetz, 5. Aufl.
+2020, § 113 Rn. 2). Dies setzt voraus, dass der Patentanwalt eigenverantwortlich tätig
+werden kann.
+21 Diese eigenverantwortliche Stellung würde konterkariert, wenn einem Patentanwalt
+angesonnen würde, sich bei unmittelbar vor Fristablauf auftretenden Problemen im
+Zusammenhang mit der Übermittlung fristgebundener Schriftsätze der Hilfe eines
+Rechtsanwalts zu bedienen. Dies gilt auch dann, wenn der Patentanwalt in einer
+gemeinsamen Sozietät mit Rechtsanwälten tätig ist oder wenn die Partei wie im
+Streitfall auch Rechtsanwälte als Prozessbevollmächtigte bestellt hat. Auch in solchen
+Konstellationen darf ein Patentanwalt seine Tätigkeit grundsätzlich
+eigenverantwortlich ausüben.
+Anmerkung der Redaktion
+S. zu dem in Rn. 13 ff. angesprochenen beA das Editorial von Schafhausen NJW H.
+30/2020 (in diesem Heft); außerdem die Besprechung in NJW-Spezial 2020, 415. –
+einer technischen Störung des Gerichtsfaxgeräts keine Pflicht – allerdings des
+Rechtsanwalts – zur Nutzung des beA angenommen. Anderer Ansicht waren das OLG

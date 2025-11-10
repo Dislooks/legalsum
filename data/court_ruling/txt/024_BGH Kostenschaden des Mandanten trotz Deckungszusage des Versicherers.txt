@@ -1,0 +1,153 @@
+Kostenschaden des Mandanten trotz Deckungszusage des Versicherers
+BGB §§ 280, 675 I; VVG § 86 I 1
+Der Deckungsanspruch gegen seinen Rechtsschutzversicherer schließt die Annahme
+eines (Kosten-)Schadens des Mandanten in Folge einer Beratungspflichtverletzung
+des Rechtsanwalts auch dann nicht aus, wenn der Mandant nur einen Auftrag unter
+der Bedingung einer Deckungszusage erteilt.
+BGH Urteil vom 29.9.2022 – IX ZR 204/21
+Zum Sachverhalt
+Der Kl. nimmt den beklagten Rechtsanwalt aus abgetretenem Recht seines
+Rechtsschutzversicherers auf Ersatz eines Kostenschadens in Anspruch. Der Schaden
+soll dadurch entstanden sein, dass der Bekl. einen von vornherein aussichtslosen
+Rechtsstreit geführt habe. Der Bekl. erwirkte in 2009 im Auftrag des Kl. gegen K. A. ein
+Versäumnisurteil über eine Hauptforderung iHv 30.000 EUR nebst Zinsen. Im Oktober
+2011 beauftragte der Kl. den Bekl., gegenüber der Bank des A. als Drittschuldnerin
+vorzugehen und hierfür bei dem Rechtsschutzversicherer des Kl. eine Deckungszusage
+zu erwirken. Nachdem der Rechtsschutzversicherer die Deckungszusage erteilt hatte,
+beantragte der Bekl. den Erlass eines Pfändungs- und Überweisungsbeschlusses
+bezüglich angeblicher Ansprüche des A. gegen die Bank „aus allen bestehenden
+Geschäftsverbindungen, sämtlicher Art und Rechtsnatur“, der antragsgemäß erlassen
+wurde. Nach Zustellung des Beschlusses erklärte die Bank, eine Kontoverbindung zu
+A. würde nicht mehr bestehen. Der Bekl. erhob Klage gegen die Bank, gerichtet auf
+Auskunft und Zahlung.
+Das LG Dresden (Urt. v. 20.5.2020 – 8 O 3028/18) wies die Klage ab. Das OLG erteilte
+einen Hinweis gem. § 522 II ZPO, dass die Berufung keine Aussicht auf Erfolg habe, da
+die gepfändete Forderung in dem Pfändungs- und Überweisungsbeschluss nicht
+hinreichend bestimmt sei. Mit Beschluss vom 10.12.2012 wies das OLG Dresden (10
+Kl. hatte Erfolg und führte zur Aufhebung und Zurückverweisung der Sache an das
+BerGer.
+Aus den Gründen
+6I. Das BerGer. hat gemeint, der Rechtsschutzversicherer des Kl. habe keine
+Schadensersatzforderung gegen den Bekl. erlangt, die er an den Kl. hätte abtreten
+können.
+7Der Rechtsschutzversicherer habe nur im Wege des gesetzlichen
+Forderungsübergangs nach § 86 I VVG einen Schadensersatzanspruch des Kl. gegen
+den Bekl. wegen Verletzung anwaltlicher Pflichten erlangen können, den er sodann an
+den Kl. hätte zurückabtreten können. Es könne dahinstehen, ob der Bekl. seine
+Pflichten aus dem Anwaltsvertrag verletzt habe, da dem Kl. jedenfalls kein Schaden
+entstanden sei. Erbringe der Versicherungsnehmer vor der Deckungszusage des
+Rechtsschutzversicherers weder Zahlungen noch erteile er einen unbedingten Auftrag
+an den Rechtsanwalt, erleide der Versicherungsnehmer zu keinem Zeitpunkt einen
+Vermögensschaden. Ein Schaden entstehe allenfalls dem Rechtsschutzversicherer,
+der die Kosten des Rechtsstreits zu tragen habe. Es sei auch kein übergangsfähiger
+Schaden des Versicherungsnehmers zu fingieren, da der Rechtsschutzversicherer
+selbst die Erfolgsaussichten einer Klage zu prüfen habe und den Eintritt eines
+Schadens vermeiden könne.
+
+8II. Diese Ausführungen halten rechtlicher Nachprüfung nicht stand.
+9Ein unter dem Gesichtspunkt der Rechtsanwaltshaftung in Betracht kommender und
+für das Revisionsverfahren zu unterstellender Schadensersatzanspruch des Kl. gegen
+den Bekl. wäre auf den Rechtsschutzversicherer des Kl. übergegangen (§ 86 I VVG).
+Dieser Anspruch konnte an den Kl. zurückabgetreten werden.
+101. Die Rechtsschutzversicherung ist eine Schadensversicherung, für die § 86 I 1 VVG
+gilt. Nach dieser Regelung geht ein dem Versicherungsnehmer gegen einen Dritten
+zustehender Ersatzanspruch auf den Versicherer über, soweit dieser den Schaden
+ersetzt. Hierbei handelt es sich um einen gesetzlichen Anspruchsübergang iSv § 412
+Anspruchsübergang sind erfüllt.
+11a) Der streitgegenständliche Schadensersatzanspruch des Kl. gegen den Bekl. ist
+ein Ersatzanspruch iSd § 86 I 1 VVG.
+12aa) Der Annahme eines Ersatzanspruchs gem. § 86 I 1 VVG steht der
+versicherungsvertragliche Deckungsanspruch nicht entgegen. Dieser schließt die
+Annahme eines (Kosten-)Schadens des Versicherungsnehmers nicht aus (vgl. BGH
+NZA 2022, 593 Rn. 19 mwN). Die Auffassung des BerGer., der Kl. habe bezüglich der
+angefallenen Rechtsverfolgungskosten zu keinem Zeitpunkt einen Vermögensschaden
+erlitten, der eine Schadensersatzforderung gegen den Bekl. begründen würde, die nach
+§ 86 I VVG auf den Rechtsschutzversicherer habe übergehen können, ist nicht zu teilen.
+13bb) Ausgangspunkt einer Schadensberechnung ist die sogenannte
+Differenzhypothese. Hiernach beurteilt sich die Frage, ob und inwieweit ein nach den
+§§ 249 ff. BGB zu ersetzender Vermögensschaden vorliegt, nach einem Vergleich der
+in Folge des haftungsbegründenden Ereignisses eingetretenen Vermögenslage mit
+derjenigen, die ohne jenes Ereignis eingetreten wäre. Erforderlich ist ein
+Gesamtvermögensvergleich, der alle von dem haftungsbegründenden Ereignis
+betroffenen finanziellen Positionen umfasst (BGH NJW-RR 2022, 1236 = ZIP 2022,
+1647 Rn. 13 mwN). Diese Differenzrechnung muss stets einer normativen Kontrolle
+unterzogen werden, weil sie eine wertneutrale Rechenoperation darstellt. Dabei ist
+einerseits das konkrete haftungsbegründende Ereignis als Haftungsgrundlage zu
+berücksichtigen. Andererseits ist die darauf beruhende Vermögensminderung unter
+Berücksichtigung aller maßgeblichen Umstände sowie der Verkehrsauffassung in die
+Betrachtung einzubeziehen. Erforderlich ist also eine wertende Überprüfung des
+anhand der Differenzhypothese gewonnenen Ergebnisses gemessen am Schutzzweck
+3041 Rn. 20).
+14cc) In der Rechtsschutzversicherung stellt der Anspruch auf Kostenbefreiung die
+Hauptleistung des Versicherers dar. Die Kosten der Rechtsverfolgung bilden den
+Schaden, dessen Deckung der Rechtsschutzversicherer übernommen hat (vgl. BGH
+15dd) Entschließt sich der Versicherungsnehmer in Wahrnehmung seiner rechtlichen
+Interessen zu einem gerichtlichen Vorgehen, handelt es sich bei den für das Verfahren
+auch dann, wenn – wie das BerGer. annimmt – der Mandant nur einen Auftrag unter
+der Bedingung einer Deckungszusage erteilt.
+16b) Der Rechtsschutzversicherer hat die Kosten des Rechtsstreits aufgrund der dem
+Kl. erteilten Deckungszusage getragen. Dass die Deckungszusage in dem Wissen
+erteilt worden sei, ein Deckungsanspruch bestehe nicht, ist weder festgestellt noch
+172. Die Geltendmachung des Schadensersatzanspruchs durch den
+Rechtsschutzversicherer aus übergegangenem Recht verstößt nicht gegen Treu und
+Glauben (§ 242 BGB). Die Rechtsverfolgung ist nicht deshalb ausgeschlossen, weil der
+Rechtsschutzversicherer die Deckungsanfrage des Bekl. geprüft und die zur
+Begründung des Schadensersatzanspruchs des Kl. geltend gemachte
+Aussichtslosigkeit der Rechtsverfolgung selbst hätte erkennen können (vgl. BGH NJW
+2021, 3324 Rn. 23 mwN).
+18 III. Das Urteil ist aufzuheben und die Sache an das BerGer. zurückzuverweisen (§ 562 I, § 563 I ZPO). Eine eigene Sachentscheidung kann der Senat nicht treffen, weil
+die Sache nicht zur Endentscheidung reif ist (§ 563 III ZPO).
+191. Aus revisionsrechtlicher Sicht nicht zu beanstanden ist die tatrichterliche
+Würdigung des BerGer., dass der Kl. das Abtretungsangebot des
+Rechtsschutzversicherers angenommen und dieser auf eine Annahmeerklärung des Kl.
+verzichtet hat.
+202. Für die Beurteilung der Frage, ob der Bekl. dem Kl. aus übergegangenem und
+nachfolgend abgetretenem Recht zur Zahlung von Schadensersatz verpflichtet ist,
+kommt es darauf an, ob es bei einem pflichtgemäßen Handeln des Bekl. im
+Ausgangsverfahren zur Durchführung des Klage- und Berufungsverfahrens gekommen
+213. Eine mandatsbezogene Pflicht, einen von Anfang an aussichtslosen Rechtsstreit
+nicht zu führen, gibt es als solche nicht. Maßgeblich ist, ob der Rechtsanwalt seiner
+Pflicht zur Beratung des Mandanten über die Erfolgsaussichten des in Aussicht
+genommenen Rechtsstreits genügt hat. Für den Inhalt dieser Pflicht ist es ohne
+Bedeutung, ob der Mandant eine Rechtsschutzversicherung unterhält oder nicht.
+Verletzt der Rechtsanwalt die ihm obliegende Beratungspflicht, kommt es darauf an,
+wie sich der Mandant im Falle pflichtgemäßer Unterweisung verhalten hätte. Erst hier
+kann von Bedeutung sein, ob eine Rechtsschutzversicherung besteht (vgl. BGH NJW
+2021, 3324 Rn. 26).
+22a) Soweit der Mandant nicht eindeutig zu erkennen gibt, dass er des Rates nur in
+einer bestimmten Richtung bedarf, ist der Rechtsanwalt grundsätzlich zur allgemeinen,
+umfassenden und möglichst erschöpfenden Beratung des Auftraggebers verpflichtet.
+Unkundige muss er über die Folgen ihrer Erklärungen belehren und vor Irrtümern
+bewahren. In den Grenzen des Mandats hat der Rechtsanwalt dem Mandanten
+diejenigen Schritte anzuraten, die zu dem erstrebten Ziel zu führen geeignet sind, und
+Nachteile für den Auftraggeber zu verhindern, soweit solche voraussehbar und
+vermeidbar sind. Dazu hat er dem Auftraggeber den sichersten und gefahrlosesten
+Weg vorzuschlagen und ihn über mögliche Risiken aufzuklären, damit der Mandant zu
+mwN).
+
+23b) Die Pflicht des Rechtsanwalts zur Beratung über die Erfolgsaussichten eines in
+Aussicht genommenen Rechtsstreits gilt gleichermaßen sowohl gegenüber einem
+nicht rechtsschutzversicherten Mandanten als auch gegenüber einem Mandanten mit
+24c) Fällt dem Rechtsanwalt eine schuldhafte Verletzung der ihm obliegenden
+Beratungspflicht zur Last, kommt es darauf an, wie sich der Mandant im Falle
+pflichtgemäßer Unterweisung verhalten hätte. Insoweit kann von Bedeutung sein, ob
+der Mandant eine Rechtsschutzversicherung unterhält (vgl. BGH NZA 2022, 593 Rn.
+35 ff. mwN).
+25Die Beantwortung der Frage, ob im Fall sachgerechter Aufklärung aus der
+(verobjektivierten) Sicht eines vernünftig urteilenden Mandanten eindeutig eine
+bestimmte tatsächliche Reaktion nahegelegen hätte, obliegt dem Tatrichter. Dieser
+muss in seine Überlegungen auch einbeziehen, ob das Risiko des Mandanten, im Falle
+einer Niederlage die Kosten des Rechtsstreits tragen zu müssen, durch einen
+bestehenden Deckungsanspruch aus einer Rechtsschutzversicherung oder eine
+Rn. 38 mwN).
+26Die Wirkungen des versicherungsvertraglichen Kostenschutzes auf die Frage des
+Eingreifens des Anscheinsbeweises finden jedoch ihre Grenze, wenn die (weitere)
+Rn. 39 mwN). Auch über die Aussichtslosigkeit der Rechtsverfolgung hat der Tatrichter
+274. Das BerGer. hat keine Feststellungen dazu getroffen, wann der Kl. Kenntnis von
+den die geltend gemachte Schadensersatzforderung begründenden Umständen und
+der Person des Bekl. als Anspruchsschuldner erlangt hat. Mit Blick auf die durch den
+Bekl. erhobene Verjährungseinrede wird das BerGer. bei Bejahung eines
+Schadensersatzanspruchs diese Feststellungen nachzuholen haben.
+Anmerkung der Redaktion
+Zum verstoßabhängigen Versicherungsfall bei einer Rechtsschutzversicherung s. BGH
+Rechtsschutzversicherung s. ferner OLG Schleswig NJW-RR 2022, 1118.

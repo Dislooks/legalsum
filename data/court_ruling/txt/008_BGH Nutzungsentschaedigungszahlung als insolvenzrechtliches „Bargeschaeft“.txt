@@ -1,0 +1,265 @@
+Nutzungsentschädigungszahlung als insolvenzrechtliches „Bargeschäft“
+InsO aF §§ 142; BGB § 546a I Fall 1
+1. Zahlt der Mieter nach wirksamer Kündigung des Mietvertrags für die Dauer der
+Vorenthaltung der Mietsache die vereinbarte Miete, kommt die Annahme eines
+Bargeschäfts in Betracht. Denn die zur Annahme eines Bargeschäfts notwendige
+Verknüpfung von Leistung und Gegenleistung im Mietverhältnis entfällt ebenso wenig
+wie wenn die vom Vermieter erklärte Kündigung unwirksam ist. (Satz 2 des Leitsatzes
+von der Redaktion)
+2. Mangels abweichender Vereinbarung ist davon auszugehen, dass die
+Mietvertragsparteien stillschweigend eine Abwicklung des gekündigten
+Mietverhältnisses nach Maßgabe von § 546a BGB einbezogen haben; die Abwicklung
+beruht insoweit auf der getroffenen Vereinbarung. (Leitsatz 2 von der Redaktion)
+BGH Urteil vom 17.10.2024 – IX ZR 244/22
+Zum Sachverhalt
+Der Kl. ist Verwalter in dem auf Eigenantrag vom 24.11.2015 am 12.2.2016 eröffneten
+Insolvenzverfahren über das Vermögen der Schuldnerin. Er verlangt vom Bekl.
+(Vermieter) unter dem Gesichtspunkt der Insolvenzanfechtung die Rückgewähr von
+zehn Zahlungen, insgesamt 101.487,40 EUR, welche die Schuldnerin monatlich als
+Miete nach Kündigung des zugrunde liegenden Mietvertrags zwischen dem 10.2.2015
+und dem 10.11.2015 an den Bekl. gezahlt hat. Der Bekl. hat hilfsweise die Aufrechnung
+erklärt mit Ansprüchen von insgesamt 29.353,37 EUR auf Zahlung von Miete oder
+Nutzungsentschädigung einerseits und aus § 170 I 2 InsO andererseits. Gegenstand
+des Mietvertrags war eine Gewerbeimmobilie, in der die Schuldnerin zuletzt ein
+Restaurant betrieb und von der sie einen Teil untervermietete. Nach dem Vertrag war
+die Zahlung der Miete bis spätestens am dritten Werktag eines jeden Monats
+geschuldet. Außerdem war vereinbart, dass die Schuldnerin bestimmte Betriebs- und
+Nebenkosten (ua Wasserversorgung, Entwässerung, Grundsteuer, Müllabfuhr) direkt
+gegenüber dem entsprechenden Gläubiger zu tragen hatte.
+Mit Schreiben vom 19.12.2013 kündigte der Bekl. den Mietvertrag ordentlich zum
+30.6.2014. Weitere Kündigungen folgten. Die Schuldnerin und der Bekl. stritten über die
+Wirksamkeit der Kündigungen. Der Bekl. erhob eine Räumungsklage gegen die
+Schuldnerin, die er im ersten Rechtszug verlor und im zweiten gewann. Die Schuldnerin
+erhob Beschwerde gegen die Nichtzulassung der Revision im berufungsgerichtlichen
+Urteil. Das Verfahren vor dem BGH wurde durch Eröffnung des Insolvenzverfahrens
+über das Vermögen der Schuldnerin unterbrochen. Die Immobilie wurde im Zug einer
+im Juni 2016 zwischen dem Kl., dem Bekl. und der neuen Mieterin getroffenen
+Vereinbarung an den Bekl. zurückgegeben.
+Die im Mietvertrag vorgesehene direkte Entrichtung von Betriebs- und Nebenkosten
+nahm die Schuldnerin ab Dezember 2014 nicht mehr vor. Der dadurch entstandene
+Zahlungsrückstand betrug 3.606,24 EUR (Dezember 2014) und 10.958,18 EUR (Mai
+2015). Im Februar 2016 war der Rückstand auf 16.722,36 EUR angewachsen. Die
+angefochtenen Mietzahlungen für die Monate Februar bis November 2015 leistete
+Schuldnerin jeweils einige (höchstens elf) Tage nach dem vereinbarten Zeitpunkt.
+Das LG Berlin (Urt. v. 26.10.2021 – 45 O 46/20) hat die streitgegenständlichen
+Anfechtungsansprüche für begründet gehalten. Die Hilfsaufrechnung des Bekl. hatte
+wegen des Anspruchs auf Zahlung von Miete oder Nutzungsentschädigung (10.594,96
+des Bekl. ist erfolglos geblieben. Die vom Senat zugelassene Revision hatte Erfolg und
+führte zur Abweisung der Klage.
+Aus den Gründen
+7I. Das BerGer. hat ausgeführt, das LG habe mit im Wesentlichen zutreffenden
+Ausführungen den dem Kl. zustehenden Zahlungsanspruch gem. §§ 143, 129, 133 I
+InsO aF (Art. 103j EGInsO) bejaht und eine aufrechenbare Forderung aus § 170 I 2 InsO
+verneint.
+8Die Schuldnerin habe mit Gläubigerbenachteiligungsvorsatz gehandelt, weil sie im
+Zeitpunkt der angefochtenen Zahlungen von Februar bis November 2015 wegen
+Zahlungseinstellung zumindest gegenüber dem Bekl. und insoweit auch für ihn
+erkennbar zahlungsunfähig gewesen sei. Nicht erforderlich sei, dass die Schuldnerin
+auch bei optimistischer Prognose gewusst habe, ihre weiteren Gläubiger künftig nicht
+befriedigen zu können. Die diesbezügliche Neuausrichtung der Rechtsprechung
+betreffe die (drohende) Zahlungsunfähigkeit bei kongruenten Leistungen und
+erfordere, wenn zur Prognose nichts vorgetragen werde, weitere Indizien für die
+Annahme des Gläubigerbenachteiligungsvorsatzes. Diese Indizien lägen vor.
+9Ein Bargeschäft schließe die Vorsatzanfechtung nach § 133 I InsO aF schon nach
+dem Wortlaut des § 142 InsO aF nicht aus. Allerdings seien die kongruenten
+Mietzahlungen in bargeschäftsähnlicher Lage und Zug um Zug gegen die zur
+Fortsetzung des Geschäftsbetriebs unentbehrliche entgeltliche Nutzungsüberlassung
+der Räume, die den Gläubigern im Allgemeinen genutzt habe, erfolgt. Dies habe indiziell
+– auch aus der Sicht des Bekl. – gegen den Gläubigerbenachteiligungsvorsatz
+sprechen können. Dem stehe jedoch entgegen, dass die Schuldnerin ab Dezember
+2014 ihrer Verpflichtung zur (direkten) Abführung der Betriebs- und Nebenkosten nicht
+mehr nachgekommen sei und insoweit eine Zahlungseinstellung vorgelegen habe. Da
+die Nebenkostenvorauszahlungen Teil der Mietzahlungs-
+/Nutzungsentschädigungsverpflichtung gewesen seien und die Schuldnerin zur
+Fortführung ihres Geschäftsbetriebs zwingend auf die Nutzung der Gewerbeimmobilie
+angewiesen gewesen sei, rechtfertige sich der Schluss auf die von der Schuldnerin
+erkannte Zahlungsunfähigkeit und auch trotz der bargeschäftsähnlichen Lage auf ihren
+Gläubigerbenachteiligungsvorsatz. Die Nichtzahlung der Betriebs- und Nebenkosten
+sei auch in Anbetracht des laufenden Räumungsrechtsstreits unverständlich. Bei
+bestehender Zahlungsfähigkeit hätte es nahegelegen, die Betriebs- und Nebenkosten
+zu zahlen, um dem Bekl. nicht weitere Kündigungsgründe zu bieten.
+10II. Das hält rechtlicher Prüfung nicht stand. Die streitgegenständlichen Zahlungen
+sind nicht nach § 133 I InsO in der auf den Streitfall anwendbaren (Art. 103j I EGInsO)
+bis zum 4.4.2017 geltenden Fassung anfechtbar. Auch andere
+Anfechtungstatbestände sind nicht verwirklicht. Da die Kla-
+
+„Bargeschäft“(NJW-RR 2025, 143)
+ge unbegründet ist, kommt es auf die vom Bekl. erklärten Hilfsaufrechnungen nicht an.
+111. Die streitgegenständlichen Zahlungen sind nicht nach § 133 I InsO anfechtbar. Die
+Schuldnerin hat nicht mit Gläubigerbenachteiligungsvorsatz gehandelt. Auf die
+weiteren Voraussetzungen des Anfechtungstatbestands kommt es nicht mehr an.
+12a) Der Gläubigerbenachteiligungsvorsatz des Schuldners ist eine innere, dem Beweis
+nur eingeschränkt zugängliche Tatsache. Er kann daher in aller Regel nur mittelbar aus
+objektiven (Hilfs-)Tatsachen hergeleitet werden. Es ist Aufgabe des Tatrichters, die ihm
+unterbreiteten Hilfstatsachen auf der Grundlage des Gesamtergebnisses der
+mündlichen Verhandlung und einer etwaigen Beweisaufnahme umfassend und
+widerspruchsfrei zu würdigen. Dabei hat er die Rechtsprechung des BGH zu den für
+und gegen den Gläubigerbenachteiligungsvorsatz sprechenden Beweisanzeichen zu
+berücksichtigen. Die einzelnen Beweisanzeichen dürfen dabei nicht schematisch
+13b) Diesen Anforderungen genügt die Entscheidung des BerGer. nicht.
+14aa) Beweisanzeichen, die den Gläubigerbenachteiligungsvorsatz begründen
+könnten, lassen sich den Feststellungen des BerGer. nicht entnehmen.
+15(1) Zu den Beweisanzeichen, die für die subjektiven Voraussetzungen der
+Vorsatzanfechtung und damit auch für den Gläubigerbenachteiligungsvorsatz des
+Schuldners sprechen, zählt die erkannte Zahlungsunfähigkeit. Kennt der Schuldner
+seine Zahlungsunfähigkeit, weiß er, dass sein Vermögen nicht ausreicht, um sämtliche
+Gläubiger zu befriedigen. Begleicht der Schuldner in dieser Lage Forderungen einzelner
+Gläubiger, kann dies auch und insbesondere im Fall der Gewährung einer kongruenten
+Deckung dafür sprechen, dass er zumindest billigend die Benachteiligung anderer
+Gläubiger in Kauf nimmt. Die Gewährung einer inkongruenten Deckung ist ein
+eigenständiges Beweisanzeichen. Dieses ist schon dann zu berücksichtigen, wenn die
+Wirkungen der Rechtshandlung zu einem Zeitpunkt eintraten, als zumindest aus der
+Sicht des Empfängers der Leistung Anlass bestand, an der Liquidität des Schuldners
+16Der Schluss allein von der erkannten Zahlungsunfähigkeit auf den
+Gläubigerbenachteiligungsvorsatz fügt sich im Fall der Gewährung einer kongruenten
+Deckung nicht ohne Bruch in die Systematik der Anfechtungstatbestände ein.
+Entsprechendes gilt für die Systematik des § 133 InsO selbst. Die Annahme der
+subjektiven Voraussetzungen der Vorsatzanfechtung allein aufgrund erkannter
+Zahlungsunfähigkeit lässt vor diesem Hintergrund einen entsprechenden Willen des
+Gesetzgebers zweifelhaft erscheinen. Es kommt hinzu, dass die erkannte
+Zahlungsunfähigkeit für sich genommen in einer nicht zu vernachlässigenden Zahl der
+Fälle nicht mit hinreichender Gewissheit (§ 286 ZPO) auf die subjektiven
+Voraussetzungen der Vorsatzanfechtung schließen lässt. Dies gilt insbesondere dann,
+wenn der Schuldner aus der maßgeblichen Sicht ex ante trotz eingetretener
+Zahlungsunfähigkeit berechtigterweise davon ausgehen durfte, noch alle seine
+Gläubiger befriedigen zu können. Das hat der Senat mit Grundsatzurteil vom 6.5.2021
+17Der Senat hat deshalb entschieden, dass im Fall der Gewährung einer kongruenten
+Deckung nicht mehr allein von der erkannten Zahlungsunfähigkeit auf den
+Gläubigerbenachteiligungsvorsatz geschlossen werden kann. Ist der Schuldner im
+Zeitpunkt der angefochtenen Rechtshandlung erkanntermaßen zahlungsunfähig,
+kommt es vielmehr zusätzlich darauf an, ob er wusste oder jedenfalls billigend in Kauf
+nahm, seine anderen Gläubiger auch zu einem späteren Zeitpunkt nicht vollständig
+18(2) Das BerGer. ist von einer Zahlungseinstellung der Schuldnerin ausgegangen. Es
+fehlt jedoch an Tatsachen, aus denen geschlossen werden könnte, dass die
+Schuldnerin zumindest billigend in Kauf nahm, ihre anderen Gläubiger auch zu einem
+späteren Zeitpunkt nicht vollständig befriedigen zu können.
+19Das BerGer. hat nicht für erforderlich gehalten, dass die Schuldnerin auch bei
+optimistischer Prognose wusste, ihre anderen Gläubiger auch künftig nicht befriedigen
+zu können. Dies hat es damit begründet, dass weitere Indizien die Annahme des
+Gläubigerbenachteiligungsvorsatzes begründeten. Das beruht auf einem unrichtigen
+Verständnis der Neuausrichtung der Rechtsprechung zur Vorsatzanfechtung.
+20Das BerGer. ist mit Recht davon ausgegangen, dass es sich bei den angefochtenen
+Mietzahlungen um kongruente Deckungshandlungen handelte. Der Bekl. konnte die
+Zahlungen unabhängig von der Wirksamkeit der ausgesprochenen Kündigungen
+beanspruchen. Waren die Kündigungen unwirksam, ergab sich der Anspruch des Bekl.
+aus dem fortbestehenden Mietvertrag. War der Mietvertrag beendet, konnte der Bekl.
+die Zahlungen nach § 546a I Fall 1 BGB beanspruchen.
+21Da es sich um kongruente Deckungshandlungen handelte, reichte die erkannte
+Zahlungsunfähigkeit im Zeitpunkt der angefochtenen Rechtshandlungen zur Annahme
+des Gläubigerbenachteiligungsvorsatzes nicht aus. Zwar kann die im Moment der
+angefochtenen Rechtshandlung bestehende Deckungslücke zwischen dem liquiden
+Vermögen des Schuldners und seinen Verbindlichkeiten von Bedeutung auch für die zu
+gewinnende Überzeugung sein, dass der Schuldner wusste oder jedenfalls billigend in
+Kauf nahm, seine anderen Gläubiger auch zu einem späteren Zeitpunkt nicht
+NZI 2024, 537 Rn. 18). Eine solche Deckungslücke kann aber in der Regel nicht allein
+aus den zur Begründung einer Zahlungseinstellung herangezogenen Verbindlichkeiten
+des Schuldners abgeleitet werden (Senat NZI 2024, 537 Rn. 20 ff.).
+Anderes lässt sich den vom BerGer. getroffenen Feststellungen nicht entnehmen (vgl.
+Senat NZI 2024, 537 Rn. 22).
+22bb) Die angefochtenen Zahlungen sind jedenfalls in bargeschäftsähnlicher Lage
+erfolgt, was der Annahme eines Gläubigerbenachteiligungsvorsatzes entgegensteht.
+23(1) Nach der Rechtsprechung des BGH zu § 133 I InsO aF, die nach der
+Neuausrichtung der Rechtsprechung zur Vorsatzanfechtung fortgilt, kann der
+Schuldner in Fällen kongruenter Leistungen trotz der Indizwirkung einer erkannten
+Zahlungsunfähigkeit nicht mit Gläubigerbenachteiligungsvorsatz handeln, wenn er
+seine Leistung Zug um Zug gegen eine zur Fortführung seines Unternehmens
+unentbehrliche Gegenleistung erbracht hat, die den Gläubigern im All-
+
+„Bargeschäft“(NJW-RR 2025, 143)
+2038 Rn. 46 mwN).
+24Die bargeschäftsähnliche Lage findet ihre Grundlage in den Regeln des Bargeschäfts
+nach § 142 InsO aF. Fehlt es an einer bargeschäftlichen Abwicklung, besteht auch
+keine bargeschäftsähnliche Lage. Umgekehrt kann es trotz bargeschäftlicher
+Abwicklung an einer bargeschäftsähnlichen Lage fehlen, weil diese gegenüber einem
+Bargeschäft nach § 142 InsO aF engere Voraussetzungen aufweist. Die im Weg
+bargeschäftlicher Abwicklung in das Vermögen des Schuldners gelangende
+Gegenleistung muss über die Anforderungen des § 142 InsO aF hinaus zur Fortführung
+des Unternehmens unentbehrlich sein und den Gläubigern im Allgemeinen nutzen (vgl.
+25(2) Im Streitfall sind die Voraussetzungen eines Bargeschäfts gegeben. Zudem hat
+das BerGer. mit Recht angenommen, dass die angefochtenen Zahlungen zur Abgeltung
+der weiteren Nutzung der Gewerbeimmobilie erfolgten, die zur Fortführung des
+Unternehmens der Schuldnerin, dem Betrieb des Restaurants und der Untervermietung,
+unentbehrlich war und den Gläubigern im Allgemeinen nutzte.
+26(a) Der Annahme einer bargeschäftlichen Abwicklung steht nicht entgegen, dass der
+Mietvertrag in den Zeitpunkten der angefochtenen Zahlungen wirksam gekündigt
+gewesen und die Zahlungen demzufolge eine gem. § 546a I Fall 1 BGB geschuldete
+Nutzungsentschädigung gewesen sein könnte.
+27Eine Bardeckung ist eine Leistung des Schuldners, für die unmittelbar eine
+gleichwertige Gegenleistung in das Schuldnervermögen gelangt ist. Durch die Worte
+„für die“ wird ausgedrückt, dass eine Bardeckung nur vorliegt, wenn Leistung und
+Gegenleistung durch Parteivereinbarung miteinander verknüpft sind. Nur eine der
+Parteivereinbarung entsprechende Leistung ist kongruent und geeignet, den
+mwN).
+28Die angefochtenen Zahlungen wären ohne Zweifel durch eine Parteivereinbarung mit
+der Nutzung der Gewerbeimmobilie verknüpft, wenn die vom Bekl. ausgesprochenen
+Kündigungen des zugrunde liegenden Mietvertrags unwirksam waren. Dann wäre der
+Bekl. verpflichtet gewesen, der Schuldnerin den Gebrauch an der Gewerbeimmobilie zu
+gewähren (§ 535 I 1 BGB). Die Schuldnerin wäre verpflichtet gewesen, die vereinbarte
+Miete zu entrichten (§ 535 II BGB). Gebrauchsüberlassung und Zahlungspflicht wären
+durch den weiterhin wirksamen Mietvertrag miteinander verknüpft gewesen.
+29Durch eine (unterstellt) wirksame Kündigung entfällt die zur Annahme eines
+Bargeschäfts notwendige Verknüpfung von Leistung und Gegenleistung nicht. Die
+dann bestehende Pflicht der Schuldnerin, für die Dauer der Vorenthaltung der Immobilie
+die vereinbarte Miete zu bezahlen (§ 546a I Fall 1 BGB), findet hinreichenden Ausdruck
+in der ursprünglich getroffenen Parteivereinbarung. Die Regelungen des § 546a BGB
+sind grundsätzlich abdingbar (vgl. BeckOGK BGB/Zehelein, 2024, BGB § 546a Rn. 113;
+MüKoBGB/Bieber, 9. Aufl., BGB § 546a Rn. 25; Schmidt-Futterer/Streyl Mietrecht, 16.
+Aufl., BGB § 546a Rn. 108; vgl. auch BGH (VIII. ZS) NZM 2004, 354 = NJW-RR 2004, 558
+(559 f.)). Treffen die Parteien des Mietvertrags keine von § 546a BGB abweichenden
+Regelungen, beziehen sie stillschweigend eine Abwicklung des gekündigten
+Mietverhältnisses nach Maßgabe des § 546a BGB in ihre Vereinbarung ein. Die
+Abwicklung beruht insoweit auf der getroffenen Vereinbarung. Dem entspricht es, dass
+der Anspruch aus § 546a I BGB vertragsähnlicher Natur ist. Er gewährt einen Ausgleich
+dafür, dass der Mieter die Nutzungsmöglichkeit der Mieträume nach Beendigung des
+Mietverhältnisses weiterhin für sich in Anspruch nimmt. Der Entschädigungsanspruch
+tritt daher im Rahmen des Abwicklungsschuldverhältnisses als vertraglicher Anspruch
+eigener Art an die Stelle des Anspruchs auf die Miete (vgl. BGH (XII. ZS) NJW-RR 2003,
+Anknüpfung an die ursprünglich getroffene Parteivereinbarung kommt auch dadurch
+zum Ausdruck, dass nach § 546a I Fall 1 BGB die vereinbarte Miete geschuldet ist und
+sich auch die Fälligkeit des Anspruchs nach dem Mietvertrag richtet (vgl. BGHZ 107,
+30Die Anknüpfung an die ursprüngliche Parteivereinbarung und der vertragsähnliche
+Charakter des Anspruchs ermöglichen einen bargeschäftlichen Austausch von
+weiterer Nutzung der Mietsache und Entrichtung der Entschädigung gem. § 546a I Fall
+1 BGB. Im Schrifttum wird eine Anwendung von § 142 InsO auch auf gesetzliche
+Abwicklungsverhältnisse für möglich gehalten (vgl. Jaeger/Henckel InsO, InsO § 142
+Rn. 8; Uhlenbruck/Borries/Hirte InsO, 15. Aufl., InsO § 142 Rn. 18; vgl. auch
+Prütting/Bork/Jacoby/Bartels InsO, 2019, InsO § 142 Rn. 53). Das trifft jedenfalls zu,
+wenn das Abwicklungsverhältnis – wie hier – einen hinreichenden Bezug zu einer
+Parteivereinbarung aufweist. Ansonsten wäre mit der Kündigung des
+Mietverhältnisses ein unbilliges Anfechtungsrisiko für den Vermieter verbunden, wenn
+der Mieter ihm die Mietsache vorenthält.
+31(b) Die weiteren Voraussetzungen eines Bargeschäfts liegen vor. Insbesondere
+erfolgten alle angefochtenen Zahlungen binnen 30 Tagen nach Fälligkeit (vgl. Senat
+32(3) Auch im Fall eines bargeschäftsähnlichen Leistungsaustauschs kann sich der
+Schuldner der eintretenden mittelbaren Gläubigerbenachteiligung allerdings dann
+bewusst werden, wenn er weiß, dass er trotz Belieferung zu marktgerechten Preisen
+fortlaufend unrentabel arbeitet und deshalb bei der Fortführung seines Geschäfts
+mittels der durch bargeschäftsähnliche Handlungen erworbenen Gegenstände weitere
+Verluste anhäuft, welche die Befriedigungsaussichten der Gläubiger weiter mindern,
+ohne dass auf längere Sicht Aussicht auf Ausgleich besteht (vgl. Senat NZI 2017, 620
+= ZInsO 2017, 1366 Rn. 7; NZI 2019, 74 = ZInsO 2018, 2519 Rn. 3). Das ist vom
+Insolvenzverwalter darzulegen und zu beweisen, dem im Grundsatz die Darlegungsund Beweislast für sämtliche Voraussetzungen der Anfechtbarkeit einer
+Rechtshandlung obliegt (vgl. BGH NZI 2019, 74 = ZInsO 2018, 2519 Rn. 4 mwN).
+33Umstände, die mit der gem. § 286 ZPO erforderlichen Gewissheit für ein fortlaufend
+unrentables Arbeiten der Schuldnerin im Anfechtungszeitraum sprächen, sind weder
+festgestellt noch sonst ersichtlich. Der Umstand, dass die Schuldnerin ab Dezember
+2014 die Betriebs- und Nebenkosten nicht mehr zahlte, mag eine Zahlungseinstellung
+begründet haben, für eine fortlaufend unrentable Geschäftstätigkeit sprach dies jedoch
+für sich genommen nicht. Die bargeschäftsähnliche Lage erlangt ihre Bedeutung erst
+dann, wenn der Schuldner seine Zahlungsunfähigkeit erkannt hat. Es bedarf weiterer
+Umstände, aus denen geschlossen werden
+
+„Bargeschäft“(NJW-RR 2025, 143)
+kann, dass die Zahlungsunfähigkeit auf einer fortlaufend unrentablen
+Geschäftstätigkeit beruht und diese andauert. Solche Umstände sind nicht gegeben.
+Auch der von der Revisionserwiderung angeführte Gästeschwund reicht nicht aus, um
+von einer fortlaufend unrentablen Geschäftstätigkeit auszugehen.
+342. Andere Anfechtungstatbestände sind nicht verwirklicht. Insbesondere scheitert
+eine Anfechtung der in den letzten drei Monaten vor dem Antrag auf Eröffnung des
+Insolvenzverfahrens geleisteten Zahlungen nach § 130 I 1 Nr. 1 InsO an § 142 InsO aF
+(vgl. Rn. 25 ff.).
+353. Da die Klage unbegründet ist, ist die Bedingung für eine Entscheidung über die
+Hilfsaufrechnungen des Bekl. nicht eingetreten.
+Anmerkung der Redaktion
+Die Entwicklungslinien zur Behandlung der Mieterinsolvenz stellt Flatow NZM 2022, 26
+dar. Zum begrenzten Schutz des Untermieters vgl. weiter Flatow NZM 2024, 769.

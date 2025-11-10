@@ -1,0 +1,326 @@
+Mieterhöhung nach energetischer Modernisierung – Prognose mittels
+BGB idF bis 31.12.2018 § 559; BGB §§ 555b Nr. 1, 555c, 559b, 812; IMHRG § 3
+Der Vermieter einer Wohnung kann eine Mieterhöhung gem. § 559 I BGB aF in
+Verbindung mit § 555b Nr. 1 BGB (energetische Modernisierung) verlangen, wenn
+nach dem Abschluss der zu Modernisierungszwecken vorgenommenen Arbeiten zum
+(ex-ante-)Zeitpunkt der Abgabe der Mieterhöhungserklärung eine (allein) durch die
+erfolgte bauliche Veränderung hervorgerufene messbare und dauerhafte Einsparung
+von Endenergie zu erwarten ist. Dies hat der Tatrichter unter Berücksichtigung der
+baulichen Gegebenheiten – gegebenenfalls mit sachverständiger Hilfe – zu
+beurteilen, wobei auch auf anerkannte Pauschalwerte zurückgegriffen werden kann.
+BGH Versäumnisurteil vom 26.3.2025 – VIII ZR 283/23
+Zum Sachverhalt
+Die Kl. waren von Juli 2011 bis Ende August 2019 Mieter einer in einem
+Mehrfamilienhaus gelegenen Wohnung der Bekl. Mit Schreiben vom 15.3.2017
+kündigte ihnen die Bekl. die Modernisierung der im Haus befindlichen Heizungsanlage
+durch den erstmaligen Einbau einer Gaszentralheizung einschließlich zentraler
+Warmwasseraufbereitung anstelle der bis dahin in den Wohnungen vorhandenen
+Einzelöfen (Kombithermen) an und informierte sie unter anderem über die Einzelheiten
+der geplanten Arbeiten. Nach Durchführung der Arbeiten erklärte die Bekl. mit
+Schreiben vom 26.10.2017 den Kl. gegenüber eine Erhöhung der monatlichen
+Grundmiete ab 1.1.2018 um 59 EUR auf 546,33 EUR. Die Kl. zahlten diesen
+Erhöhungsbetrag bis zum Ende des Mietverhältnisses.
+Mit der vorliegenden Klage haben die Kl., soweit für das Revisionsverfahren von
+Bedeutung, die Erstattung ihrer Ansicht nach wegen der
+Modernisierungsmieterhöhung überzahlter Miete von 1.180 EUR nebst Zinsen begehrt.
+Das AG Bremen (Urt. v. 3.11.2020 – 18 C 97/20) hat der Klage, eine formelle
+Unwirksamkeit des Mieterhöhungsverlangens annehmend, stattgegeben.
+Die Berufung der Bekl. hat das LG Bremen (Urt. v. 9.11.2023 – 2 S 232/20) – nach
+Einholung eines Sachverständigengutachtens – zurückgewiesen, weil das
+Mieterhöhungsverlangen materiell unberechtigt ausgebracht worden sei. § 555b Nr. 1
+BGB setze nämlich voraus, dass die Bekl. bauliche Veränderungen vorgenommen habe,
+durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart werde. Diese
+Voraussetzungen seien vorliegend nicht erfüllt, was nach Durchführung der
+Beweisaufnahme zur Überzeugung der Kammer feststehe: Der Sachverständige habe
+in den Jahren nach der baulichen Maßnahme, also in den Jahren 2018 bis 2022, eine
+Einsparung von Endenergie gegenüber dem Zeitraum vor der Maßnahme mangels
+Vorliegens von Angaben über den tatsächlichen Verbrauch für den Zeitraum vor dem
+Einbau der neuen Heizungsanlage nicht feststellen können. Angaben über den
+tatsächlichen Verbrauch seien jedoch zur Beurteilung, ob durch den Austausch der
+Heizungsanlage nachhaltig Endenergie eingespart werde, unerlässlich. Eine
+nachhaltige Einsparung liege nur dann vor, wenn überhaupt eine messbare Einsparung
+erzielt werde und diese auch dauerhaft sei. Die Einsparung von Endenergie könne
+mithin allein anhand eines Vergleichs des tatsächlichen Verbrauchs vor und nach der
+Maßnahme festgestellt werden, wobei die Kammer davon ausgehe, dass aufgrund
+jährlicher Schwankungen im Energieverbrauch insofern jedenfalls ein Zeitraum von
+jeweils vier bis fünf Jahren einen belastbaren Durchschnittswert für den jährlichen
+Energieverbrauch vor und nach der Maßnahme gewährleiste. Tatsächliche
+Verbrauchswerte aus den Jahren vor der Maßnahmenrealisierung hätten nicht
+vorgelegen. Den vom Sachverständigen für das Jahr 2016 angegebenen Wert habe
+dieser der von der Bekl. vorgelegten Berechnung der Energieeinsparung entnommen.
+Dessen Herkunft habe der Sachverständige nicht herleiten können, sondern davon
+ausgegangen, dass es sich um eine theoretische Berechnung auf der Grundlage eines
+Vergleichsgebäudes handele. Ob Vergleichbarkeit bestehe, habe der Sachverständige
+nicht einschätzen können, so dass ihm eine Aussage dazu, ob nach der
+Heizungsmodernisierung Endenergie eingespart werde, nicht möglich gewesen sei.
+Mit der vom BerGer. unter dem Gesichtspunkt, ob die Nachhaltigkeit der Einsparung
+von Endenergie iSv § 555b Nr. 1 BGB anhand des Vergleichs des tatsächlichen
+jährlichen Durchschnittsverbrauchs in einem gewissen Zeitraum vor und nach der
+Maßnahme zu beurteilen ist, zugelassenen Revision hat die Bekl. insoweit ihr
+Klageabweisungsbegehren bezüglich des vorbezeichneten Rückerstattungsanspruchs
+weiterverfolgt. Die Revision hatte im Umfang ihrer Einlegung Erfolg und führte zur
+Aufhebung und Zurückverweisung insoweit, als hinsichtlich des auf Rückzahlung von
+Mieterhöhungsbeträgen nebst Zinsen gerichteten Begehrens zum Nachteil der Bekl.
+erkannt worden ist.
+Über das Rechtsmittel hat der Senat antragsgemäß durch Versäumnisurteil
+entschieden, da die Kl. in der mündlichen Revisionsverhandlung trotz
+ordnungsgemäßer Ladung nicht anwaltlich vertreten waren. Inhaltlich beruht das Urteil
+indessen nicht auf ihrer Säumnis, sondern auf einer Sachprüfung. Nach Auskunft des
+BGH vom 21.5.2025 ist das Verfahren rechtskräftig abgeschlossen.
+Das gilt auch für die mit Versäumnisurteilen ebenfalls vom 26.3.2025 entschiedenen
+sind.
+Aus den Gründen
+18II. Mit der vom BerGer. gegebenen Begründung kann ein Anspruch der Kl. auf
+Rückzahlung der geleisteten Mieterhöhungsbeträge gem. § 812 I 1 Alt. 1 BGB nebst
+Zinsen nicht bejaht werden. Das BerGer. hat der Prüfung, ob es mangels einer
+nachhaltigen Einsparung von Endenergie aufgrund des von der Bekl. veranlassten
+Einbaus einer neuen Heizungsanlage an einer zu einer Mieterhöhung gem. § 559 I BGB
+in der hier gem. Art. 229 § 49 I EGBGB anzuwendenden, bis 31.12.2018 geltenden
+Fassung (im Folgenden: aF) berechtigenden Modernisierungsmaßnahme iSv § 555b
+Nr. 1 BGB in der bis 30.11.2021 geltenden Fassung – inhaltlich identisch mit heutiger
+Fassung, daher im Folgenden (aF) – und damit an einem Rechtsgrund für die von den
+Kl. geleisteten Mieterhöhungsbeträge fehlt, einen falschen rechtlichen Maßstab
+zugrunde gelegt. Auch die vom BerGer. diesbezüglich angenommene Verteilung der
+Darlegungs- und Beweislast ist von durchgreifenden Rechtsfehlern beeinflusst.
+191. Das BerGer. hat noch frei von Rechtsfehlern angenommen, dass das
+Mieterhöhungsverlangen der Bekl. den formellen Begründungsanforderungen des § 559b BGB gerecht wird (zu den Anforderungen im Allgemeinen vgl. Senat NJW-RR
+BerGer. zu Recht davon ausgegangen, dass es einer Aufschlüsselung der für die hier
+durchgeführte Modernisierungsmaßnahme („Modernisierung der Heizungsanlage“)
+entstandenen Gesamtkosten in der der Erhöhungserklärung beigefügten, als
+„Kostenzusammenstellung und Berechnung der Mieterhöhung“ bezeichneten Anlage
+nach einzelnen Gewerken nicht bedurfte (vgl. Senat NJW-RR 2022, 1455 Rn. 32 = NJW
+Rn. 25; NJW-RR 2023, 371 Rn. 15).
+202. Nicht frei von Rechtsfehlern sind hingegen die Feststellungen des BerGer. zur
+materiellen Berechtigung des Mieterhöhungsverlangens der Bekl.
+21a) Gemäß § 559 I BGB aF kann der Vermieter die jährliche Miete um 11 Prozent der
+für die Wohnung aufgewendeten Kosten erhöhen, wenn er
+Modernisierungsmaßnahmen iSd §§ 555b Nr. 1, Nr. 3, Nr. 4, Nr. 5 oder Nr. 6 BGB
+durchgeführt hat. Modernisierungsmaßnahmen im Sinne der Vorschrift des § 555b Nr.
+1 BGB (aF) sind bauliche Veränderungen, durch die in Bezug auf die Mietsache
+Endenergie nachhaltig eingespart wird (energetische Modernisierung).
+22Die Beurteilung der Frage, ob eine solche Modernisierungsmaßnahme vorliegt, ist
+zwar das Ergebnis einer tatrichterlichen Würdigung, die in der Revisionsinstanz nur
+eingeschränkt darauf überprüft werden kann, ob das BerGer. Rechtsbegriffe verkannt
+oder sonst unzutreffende rechtliche Maßstäbe angelegt hat, ob es Denkgesetze und
+allgemeine Erfahrungssätze hinreichend beachtet hat oder ob ihm von der Revision
+gerügte Verfahrensverstöße unterlaufen sind, indem es etwa wesentliche
+Tatumstände übersehen oder nicht vollständig gewürdigt hat (stRspr; vgl. nur Senat
+mwN).
+23b) Solche Fehler sind dem BerGer. indes unterlaufen.
+24aa) Im Ausgangspunkt noch zutreffend hat das BerGer., wenn auch
+unausgesprochen, angenommen, dass der hier erfolgte erstmalige Einbau einer
+Gaszentralheizung einschließlich Warmwasseraufbereitung eine bauliche
+Veränderung iSv § 555b Nr. 1 BGB (aF) darstellt. Denn der Begriff der baulichen
+Veränderungen ist weit auszulegen und erfasst nicht nur Eingriffe in die bauliche
+auch – wie hier – Veränderungen der Anlagentechnik des Gebäudes (vgl. BT-Drs.
+17/10485, 18; s. auch Senat NJW-RR 2023, 1250 Rn. 22).
+25bb) Auch hat das BerGer. noch zutreffend erkannt, dass es für die Einordnung einer
+Baumaßnahme als energetische Modernisierung iSv § 555b Nr. 1 BGB und damit für
+eine nachhaltige Einsparung von Endenergie lediglich darauf ankommt, dass überhaupt
+eine messbare Einsparung erzielt wird und diese dauerhaft ist, nicht jedoch auf deren
+MHRG)
+26cc) Das BerGer. hat jedoch mit seiner Annahme, eine nachhaltige Einsparung von
+Endenergie könne allein anhand des tatsächlichen Verbrauchs in dem Gebäude, in
+welchem sich das Mietobjekt befindet, innerhalb eines Zeitraums von vier bis fünf
+Jahren vor und nach der vom Vermieter ergriffenen Maßnahme festgestellt werden,
+den Maßstab für die Ermittlung einer solchen Einsparung verkannt. Diese Annahme des
+BerGer. findet bereits im Wortlaut des Gesetzes (§ 555b Nr. 1 BGB) keine Stütze. Sie
+steht überdies im Widerspruch sowohl zur Gesetzessystematik der Vorschriften der §§ 555c, 559b BGB als auch zu der vom Gesetzgeber mit den Vorschriften der §§ 555b ff.
+BGB, §§ 559 ff. BGB über die Duldung und die Umlegbarkeit von (energetischen)
+Modernisierungskosten verfolgten Zielsetzung.
+27Der Vermieter kann eine Mieterhöhung gem. § 559 I BGB aF iVm § 555b Nr. 1 BGB
+(aF) vielmehr bereits dann verlangen, wenn nach Abschluss der zu
+Modernisierungszwecken vorgenommenen Arbeiten zum (ex-ante-)Zeitpunkt der
+Abgabe der Mieterhöhungserklärung eine (allein) durch die erfolgte bauliche
+Veränderung hervorgerufene messbare und dauerhafte Einsparung von Endenergie zu
+erwarten ist.
+28Bereits die vom BerGer. befürwortete generelle Anknüpfung (allein) an den
+tatsächlichen Energieverbrauch zur Feststellung der durch die Maßnahme
+verursachten Einsparung von Endenergie ist rechtsfehlerhaft. Dies gilt erst recht
+hinsichtlich des vom BerGer. herangezogenen Betrachtungszeitraums von vier bis fünf
+Jahren.
+29(1) Bei der Beurteilung, ob durch die bauliche Veränderung in Bezug auf die
+Mietsache Endenergie nachhaltig eingespart wird (§ 555b Nr. 1 BGB), kann entgegen
+der Auffassung des BerGer. grundsätzlich nicht ausschließlich auf den tatsächlichen
+Energieverbrauch im Gebäude abgestellt werden (aA BeckOK Mietrecht/Müller,
+1.2.2025, BGB § 555b Rn. 14.1).
+30(a) Der Begriff der Endenergie wird in § 555b BGB nicht näher bestimmt. Nach der
+Gesetzesbegründung ist hierunter die Menge an Energie zu verstehen, die der
+Anlagentechnik eines Gebäudes (Heizungsanlage, raumlufttechnische Anlage,
+Warmwasserbereitungsanlage) zur Verfügung stehen muss, um die für den
+„Endverbraucher“ (also insbes. den Mieter) erforderliche Nutzenergie sowie die
+Verluste der Anlagentechnik bei Übergabe, Verteilung, Speicherung und Erzeugung im
+Gebäude zu decken (vgl. BT-Drs. 17/10485, 19). Die zur Versorgung eines Gebäudes
+benötigte Endenergie wird an der „Schnittstelle“ Gebäudehülle gemessen und dort
+etwa in Form von Heizöl, Erdgas, Braunkohlebriketts, Holzpellets, Strom oder
+Fernwärme übergeben. Der Begriff der Endenergie ist somit weiter als derjenige der
+Nutzenergie. Unter Nutzenergie wird diejenige Menge an Energie verstanden, die für
+eine bestimmte Energiedienstleistung am Ort des Verbrauchs (zB erwärmter Raum,
+warmes Wasser etc.) erforderlich ist, wobei hier weder die Umwandlungsverluste der
+Anlagentechnik (zB Heizkessel) und des Verteilungssystems (zB Leitungssystem einer
+Zentralheizung) noch die für den Betrieb der Anlagentechnik benötigte Hilfsenergie (zB
+Pumpenstrom) Berücksichtigung finden (vgl. BT-Drs. 17/10485, 19).
+31(b) Eine Einsparung der so verstandenen Endenergie wird nach der Vorstellung des
+Gesetzgebers zum einen typischerweise dann erzielt, wenn zur Erbringung derselben
+Energiedienstleistung am Ort des Verbrauchs (zum Bezug der Einsparung zur
+Mietsache vgl. BT-Drs. 17/10485, 14; s. auch Hinz NZM 2013, 209 (212);
+Spielbauer/Schneidert/Ettl Mietrecht, 2. Aufl., BGB § 555b Rn. 3) weniger Nutzenergie
+als vor der Modernisierung erforderlich ist (bspw. durch Wärmedämmung der
+Gebäudehülle oder einen Fenstertausch). Zum anderen ist eine solche Einsparung zu
+verzeichnen, wenn die Nutzenergie mit größerer Effizienz (bspw. durch Erneuerung des
+Heizkessels oder die Verringerung der Wärmverluste zwischen Heizkessel und
+Heizkörpern) zur Verfügung gestellt wird (BT-Drs. 17/10485, 14), also für die gleiche
+Menge Nutzenergie weniger „zu bezahlende“ Endenergie aufgewandt werden muss
+(BT-Drs. 17/10485, 14; vgl. BeckOK BGB/Schlosser, 1.2.2025, BGB § 555b Rn. 10;
+MüKoBGB/Artz, 9. Aufl., BGB § 555b Rn. 5).
+32(c) Nach dem eindeutigen Wortlaut der Vorschrift des § 555b Nr. 1 BGB (aF) muss
+die Endenergieeinsparung „durch“ die bauliche Veränderung herbeigeführt, also von
+dieser verursacht worden sein. Hingegen wird der vom BerGer. als Maßstab
+herangezogene tatsächliche Energieverbrauch in einem Gebäude vor und nach einer
+solchen Maßnahme nicht allein durch die jeweilige bauliche Veränderung, sondern
+durch eine Vielzahl von Parametern bestimmt (zu den Angaben in der
+Modernisierungsankündigung vgl. Börstinghaus/Meyer Das neue GEG/Börstinghaus,
+1. Aufl., § 3 Rn. 26), die sich im Regelfall jedoch weder im Vorfeld sicher abschätzen
+Austausch von Fenstern) noch im Nachhinein (vollständig) aufklären und feststellen
+43 – Dämmmaßnahmen, Austausch von Fenstern). So wird der tatsächliche Verbrauch
+von Endenergie in einem Gebäude, worauf die Revision zutreffend verweist,
+insbesondere auch durch das Wetter, den Leerstand einzelner Mietwohnungen, die
+Anzahl der Bewohner und deren Nutzerverhalten beeinflusst (vgl. Börstinghaus/Meyer
+Das neue GEG/Börstinghaus, 1. Aufl., § 3 Rn. 26; zum Verbrauchsverhalten des
+betroffenen Mieters s. auch, zu § 554 II BGB aF, LG Berlin (67. ZK) 27.11.2006 – 67 S
+555b Rn. 14). Allein durch den Vergleich des tatsächlichen Energieverbrauchs in dem
+Gebäude vor und nach der baulichen Veränderung lässt sich daher – auch bei
+Vornahme einer sogenannten Witterungsbereinigung, wie sie im vorliegenden Fall
+durch den vom BerGer. beauftragten Sachverständigen durchgeführt worden ist – nicht
+sicher abschätzen, ob und inwieweit Endenergie gerade durch die bauliche
+Veränderung eingespart worden und ob diese Einsparung von Dauer ist.
+33(d) Vor diesem Hintergrund hat der Gesetzgeber in den – unter
+gesetzessystematischen Gesichtspunkten in den Blick zu nehmenden – Vorschriften
+von § 555c III BGB und § 559b I 3 BGB eine Erleichterung hinsichtlich der Darlegung
+der Energieeinsparung vorgenommen. Er hat, um die Darlegung der mit der
+Modernisierungsmaßnahme verbundenen Energieeinsparung für den Vermieter zu
+vereinfachen, bestimmt, dass der Vermieter sowohl bei deren Ankündigung gem. § 555c III BGB in der hier anwendbaren, bis 31.12.2018 geltenden Fassung – inhaltlich
+identisch mit heutiger Fassung, daher im Folgenden (aF) – als auch im Rahmen der
+Mieterhöhungserklärung – § 559b I 3 BGB iVm
+§ 555c III BGB (aF) – auf anerkannte Pauschalwerte Bezug nehmen kann (vgl. BT-Drs.
+17/10485, 14, 17, 20 f., 25; MüKoBGB/Artz, 9. Aufl., BGB § 555c Rn. 22). Diese
+Bemühungen um eine Vereinfachung liefen aber ins Leere, wenn für die Bestimmung
+der Energieeinsparung letztlich doch der tatsächliche Verbrauch herangezogen werden
+müsste. Diesen anerkannten Pauschalwerten kann deshalb nicht mit Erfolg ein
+individuelles Nutzerverhalten entgegengesetzt werden (vgl. Schmidt-
+Futterer/Eisenschmid Mietrecht, 16. Aufl., BGB § 555c Rn. 58).
+34(e) Die vom BerGer. befürwortete Anknüpfung an den tatsächlichen
+Energieverbrauch liefe demgegenüber auch dem Ziel des Gesetzgebers zuwider, durch
+die Neuregelung des Rechts der Duldung von Erhaltungs- und
+Modernisierungsmaßnahmen in §§ 555a ff. BGB unter Abstimmung mit dem
+Mieterhöhungsrecht nach Modernisierung (§ 559 BGB bis § 559b BGB) neben der
+bestmöglichen Entfaltung der Ziele der Ressourcenschonung und des Klimaschutzes
+die Interessen von Vermietern und Mietern fair auszutarieren. Nach dem erklärten
+Willen des Gesetzgebers sollen einerseits die Mieter vor überzogenen Mieterhöhungen
+geschützt werden. Andererseits müssen für die Vermieter angemessene Bedingungen
+für die wirtschaftliche Verwertung ihres Eigentums bestehen (vgl. BT-Drs. 17/10485,
+13). An einem solchen angemessenen Interessenausgleich fehlte es jedoch, wenn –
+entsprechend der Auffassung des BerGer. – lediglich auf den tatsächlichen Verbrauch
+zur Bemessung der Einsparung von Endenergie abgestellt würde. Denn für den
+Vermieter besteht grundsätzlich keine Möglichkeit, das Nutzerverhalten der Mieter vor
+und nach der baulichen Maßnahme zu beeinflussen. Dies gilt auch für den einzelnen
+Mieter mit Blick auf das Nutzerverhalten der anderen Bewohner in dem von ihm
+bewohnten Gebäude.
+35(f) Der Vermieter könnte in Anbetracht dessen vor Beginn der von ihm geplanten
+Modernisierungsmaßnahme bei einem Abstellen auf den tatsächlichen Verbrauch nur
+schwer absehen, ob er deren Kosten im Weg einer Mieterhöhung zumindest teilweise
+auf die Mieter umlegen kann. Das gilt im besonderen Maß dann, wenn – wie im
+vorliegenden Fall – mit der Modernisierung erstmals eine zentrale Versorgung
+installiert wird und dem Vermieter daher tatsächliche Verbrauchsdaten für den
+Zeitraum vor der Modernisierung insoweit nicht vorliegen.
+36Aufgrund dieser Unwägbarkeiten bestünde für den Vermieter nicht der mit der
+Vorschrift des § 559 BGB bezweckte Anreiz, angesichts der gesetzlich vorgesehenen
+Möglichkeit der Umlage der auf eine Verbesserung der Mietsache entfallenden Kosten
+auf den Mieter diese Modernisierungsmaßnahmen vorzunehmen (vgl. BT-Drs.
+14/4553, 58; zu § 3 MHRG BT-Drs. 7/2011, 11; s. auch Senat NZM 2020, 795 Rn. 44 =
+WuM 2020, 493; NZM 2021, 297 Rn. 25 = WuM 2021, 109; NJW-RR 2022, 877 Rn. 44).
+37(2) Erst recht ist deshalb die Annahme des BerGer., ein belastbarer
+Durchschnittswert für den jährlichen Energieverbrauch könne dadurch ermittelt
+werden, dass der tatsächliche Energieverbrauch innerhalb eines bestimmten
+Zeitraums vor und nach der Maßnahme, den das BerGer. mit jeweils vier bis fünf Jahren
+bemessen hat, zur Bestimmung des Durchschnittswerts herangezogen wird,
+unzutreffend. Eine solche auf mehrere Jahre erstreckte Datengrundlage mag zwar
+Schwankungen aufgrund des Nutzerverhaltens ausgleichen (zu § 19 III 1 Hs. 2 EnEV
+aF vgl. Theobald/Kühling/Söfker Energierecht, 126. EL Juli 2024, EnEV § 19 Rn. 15).
+Der Vermieter hätte in diesem Fall aber erst nach Ablauf dieses Zeitraums Gewissheit,
+ob er eine Modernisierungsmieterhöhung gegenüber dem Mieter mit Erfolg geltend
+machen kann.
+38Eine solche „Sperrfrist“ für die Geltendmachung der Modernisierungsmieterhöhung
+sieht das Gesetz, worauf die Revision zu Recht hinweist, indes nicht vor. Dem Wortlaut
+des § 559 I BGB aF lässt sich in zeitlicher Hinsicht lediglich entnehmen, dass der
+Vermieter eine Mieterhöhung nach Durchführung der Modernisierungsmaßnahme, das
+NJW-RR 2021, 735 Rn. 14; jew. zu § 559b BGB), verlangen kann; eine über diesen
+Zeitpunkt hinausgehende Frist zur Geltendmachung der Mieterhöhung geht aus dieser
+Regelung ebenso wenig hervor wie aus der Bestimmung des § 559b BGB über die
+formellen Voraussetzungen der Mieterhöhungserklärung.
+39Auch würde eine solche Frist zu einer unverhältnismäßigen Belastung des
+Vermieters führen, wenn bei ihm zwar die Kosten der Modernisierung anfielen, er diese
+aber nach Abschluss der Arbeiten nicht zeitnah – wenigstens teilweise – auf den
+Mieter umlegen könnte, sondern bis zu fünf Jahre mit der Abgabe der
+Mieterhöhungserklärung warten müsste. Dies würde weder dem vom Gesetzgeber
+angestrebten Ziel, die Interessen der Vermieter, Mieter sowie die
+gesamtgesellschaftlichen Interessen an einer (energetischen) Modernisierung von
+Gebäuden miteinander in Einklang zu bringen (vgl. BT-Drs. 17/10485, 13), noch dem –
+bereits unter II 2 b cc (1) (f) erwähnten – gesetzgeberischen Bestreben, dem Vermieter
+einen Anreiz für die Vornahme der Modernisierungsmaßnahme zu geben, gerecht.
+40(3) Dementsprechend kann der Vermieter, was das BerGer. verkannt hat, eine
+Mieterhöhung gem. § 559 I BGB aF iVm § 555b Nr. 1 BGB (aF) bereits dann verlangen,
+wenn nach Abschluss der zu Modernisierungszwecken vorgenommenen Arbeiten zum
+(ex-ante-)Zeitpunkt der Abgabe der Mieterhöhungserklärung eine (allein) durch die
+erfolgte bauliche Veränderung hervorgerufene messbare und dauerhafte Einsparung
+von Endenergie zu erwarten ist. Dies hat der Tatrichter unter Berücksichtigung der
+baulichen Gegebenheiten – ggf. mit sachverständiger Hilfe – zu beurteilen, wobei auch
+auf anerkannte Pauschalwerte, wie etwa diejenigen in der (zum hier maßgeblichen
+Zeitpunkt geltenden) Bekanntmachung der Regeln zur Datenaufnahme und
+Datenverwendung im Wohngebäudebestand vom 7.4.2015 (BAnz AT v. 21.5.2015 – B
+2 (jetzt v. 8.10.2020 – BAnz AT v. 4.12.2020 – B 1)); hierzu BT-Drs. 17/10485, 20 f., 25),
+zurückgegriffen werden kann. Die Feststellung einer solchen Einsparung nur mithilfe
+eines Vergleichs der tatsächlichen Jahresverbrauchswerte vor und nach der
+Maßnahme kommt dagegen aus den vorstehend aufgezeigten Gründen grundsätzlich
+nicht in Betracht.
+41dd) Darüber hinaus hat das BerGer., was der Senat auch ohne ausdrückliche
+rechtsfehlerhaft angenommen, dass die Bekl. die Darlegungs- und Beweislast für die
+Voraussetzungen einer Modernisierungsmieterhöhung gem. § 559 I BGB aF im
+Rahmen des von den Kl. vorliegend geltend gemachten Anspruchs auf Rückzahlung
+der Mieterhöhungsbeträge gem. § 812 I 1 Alt. 1 BGB treffe.
+42(1) Erklärt der Vermieter gem. § 559 I BGB, § 559b I 1 BGB eine Erhöhung der Miete,
+trifft ihn zwar nach allgemeinen Regeln grundsätzlich die Darlegungs- und Beweislast
+dafür, dass die Voraussetzungen für die Erhöhung der Miete vorliegen (vgl. Senat NZM
+NJW-RR 2023, 371 Rn. 20). Dies gilt jedoch nicht, wenn der Mieter – wie hier – die
+Rückzahlung der von ihm geleisteten Erhöhungsbeträge gem. § 812 I 1 Alt. 1 BGB
+verlangt (vgl. Hinz MDR 2021, 1436 Rn. 43). Denn die Darlegungs- und Beweislast für
+die tatsächlichen Voraussetzungen eines Anspruchs auf Herausgabe einer
+ungerechtfertigten Bereicherung – und somit auch für das Nichtbestehen eines
+Rechtsgrunds der erbrachten Leistung – trägt grundsätzlich der Anspruchsteller (vgl.
+Verteilung der Darlegungs- und Beweislast bei vertraglichen und
+bereicherungsrechtlichen Ansprüchen s. auch BGH (XI. ZS) WM 2012, 746 Rn. 6 =
+Darlegungslast. Der Anspruchsteller muss daher nur denjenigen Rechtsgrund
+ausräumen, der sich aus dem Vortrag des Leistungsempfängers ergibt (vgl. BGH NJW
+43(2) Ausgehend hiervon hat das BerGer. zu Unrecht angenommen, die fehlende
+Aufklärbarkeit des vorliegenden Sachverhalts dahingehend, ob nach der von der Bekl.
+vorgenommenen Heizungsmodernisierung Endenergie eingespart werde, gehe
+zulasten der Bekl. als Vermieterin. Denn bei der von der Bekl. erklärten
+Modernisierungsmieterhöhung gem. § 559 I BGB aF handelt es sich im vorliegenden
+Fall um den möglichen Rechtsgrund für die von den Kl. geleisteten Zahlungen der
+Mieterhöhungsbeträge, so dass das Fehlen der Voraussetzungen einer solchen
+Mieterhöhung von den Kl. darzulegen und zu beweisen ist und die Bekl. insoweit nur
+eine sekundäre Darlegungslast trifft.
+44III. Nach alledem kann das angefochtene Urteil in dem aus dem Tenor ersichtlichen
+Umfang keinen Bestand haben; es ist daher insoweit aufzuheben (§ 562 I ZPO). Die
+nicht entscheidungsreife Sache ist im Umfang der Aufhebung zur neuen Verhandlung
+und Entscheidung an das BerGer. zurückzuverweisen (§ 563 I 1 ZPO), damit dieses die
+nach den obigen Ausführungen erforderlichen Feststellungen zur materiellen
+Berechtigung der streitgegenständlichen Mieterhöhung treffen kann. Vorsorglich weist
+der Senat darauf hin, dass das bereits eingeholte Sachverständigengutachten zur
+Beurteilung des Vorliegens einer energetischen Modernisierung iSv § 555b Nr. 1 BGB
+(aF) nach Maßgabe der Rechtsauffassung des Senats nicht geeignet ist.
+Anmerkung der Redaktion
+berichtigt (hier enthalten). S. hierzu Pramataroff/Bordt FD-MietR 2025, 808663. Im
+nach dem Einbau der neuen Heizungsanlage und lag in einzelnen Jahren nach
+Realisierung der Maßnahme niedriger als in einzelnen Jahren davor; infolgedessen
+stand das Merkmal der Dauerhaftigkeit in Rede.

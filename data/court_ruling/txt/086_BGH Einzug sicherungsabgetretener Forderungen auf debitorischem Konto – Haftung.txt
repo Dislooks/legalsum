@@ -1,0 +1,335 @@
+Haftung
+* Einzug sicherungsabgetretener Forderungen auf debitorischem Konto –
+Haftung
+GmbHG § 64 II; InsO § 35
+1. Der Einzug von Forderungen, die an die Bank zur Sicherheit abgetreten waren, auf
+einem debitorischen Konto der GmbH und die anschließende Verrechnung mit dem
+Sollsaldo ist grundsätzlich keine vom Geschäftsführer einer GmbH veranlasste
+masseschmälernde Zahlung im Sinn von § 64 GmbHG, wenn vor Insolvenzreife die
+Sicherungsabtretung vereinbart und die Forderung der Gesellschaft entstanden und
+werthaltig geworden ist.
+2. Eine Zahlung kann auch ausscheiden, soweit infolge der Verminderung des
+Debetsaldos durch die Einziehung und Verrechnung einer Forderung weitere
+sicherungsabgetretene Forderungen frei werden.
+BGH, Urteil vom 23.6.2015 – II ZR 366/13
+Zum Sachverhalt
+Die Bekl. war Geschäftsführerin der S-GmbH (im Folgenden: Schuldnerin), über deren
+Vermögen am 16.6.2009 auf Eigenantrag vom 11.6.2008 das Insolvenzverfahren
+eröffnet wurde. Der Kl. ist zum Insolvenzverwalter bestellt. Die Schuldnerin unterhielt
+unter anderem bei der Sparkasse N. ein Kontokorrentkonto mit einer Kreditlinie von
+150.000 Euro. Durch Globalzessionsvertrag vom 11.12.2003 trat die Schuldnerin der
+Sparkasse zur Sicherung aller Forderungen aus der bankmäßigen
+Geschäftsverbindung sämtliche bestehenden und künftigen Forderungen aus
+Warenlieferungen und Leistungen gegen Dritte mit Ausnahme der Anfangsbuchstaben
+X und Y sicherungshalber ab. Zwischen dem 2.5.2008 und dem 10.6.2008 wurden auf
+das Kontokorrentkonto der Schuldnerin, das durchgängig im Soll geführt wurde,
+Zahlungseingänge in Höhe von insgesamt 41.116,12 Euro gebucht, davon zwei
+Rücklastschriften in Höhe von zusammen 1067,24 Euro. Die Sparkasse hat nach einer
+insolvenzrechtlichen Anfechtung 9979,74 Euro an den Kl. ausbezahlt.
+Mit der Klage hat der Kl. von der Bekl. Zahlung von 30.069,14 Euro nach § 64 II GmbHG
+aF verlangt, die Summe der auf dem Kontokorrentkonto gebuchten Eingänge iHv
+41.116,12 Euro abzüglich der Rücklastschriften iHv 1067,24 Euro und der von der
+Sparkasse geleisteten 9979,74 Euro.
+abgewiesen. Auf die Berufung des Kl. hat das OLG Düsseldorf (Urt. v. 16.10.2013 – I-
+Zinsen verurteilt und ihr vorbehalten, nach Erstattung des Verurteilungsbetrags an die
+Masse ihre Gegenansprüche, die sich nach Rang und Höhe mit den Beträgen decken,
+welche die durch die verbotswidrigen Zahlungen begünstigten Gesellschaftsgläubiger
+im Insolvenzverfahren erhalten hätten, gegen den Kl. als Insolvenzverwalter zu
+verfolgen. Die vom erkennenden Senat zugelassene Revision der Bekl. hatte Erfolg. Sie
+führte zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das
+BerGer.
+Aus den Gründen
+02145) hat ausgeführt, die Bekl. sei dem Kl. wegen Verletzung ihrer
+Massesicherungspflicht durch Zahlungen nach Eintritt der Insolvenzreife der
+Schuldnerin gem. § 64 II 1 GmbHG aF zum Schadensersatz verpflichtet. Seit Ende März
+2008 sei die Schuldnerin zahlungsunfähig und damit insolvenzreif gewesen.
+8Der vom Geschäftsführer einer insolvenzreifen GmbH veranlasste Einzug von
+Forderungen auf ein debitorisches Bankkonto der GmbH sei grundsätzlich als eine ihm
+zuzurechnende, gem. § 64 II GmbHG aF verbotene Zahlung zu qualifizieren, weil
+dadurch das Aktivvermögen der Gesellschaft zu Lasten ihrer Gläubigergesamtheit (und
+zum Vorteil der Bank) geschmälert werde. Der Geschäftsführer müsse in diesem
+Stadium, wenn er schon seiner Insolvenzantragspflicht gem. § 64 I GmbHG aF nicht
+rechtzeitig nachkomme, auf Grund seiner Masseerhaltungspflicht wenigstens dafür
+sorgen, dass entsprechende Zahlungen als Äquivalent für dadurch erfüllte
+Gesellschaftsforderungen der Masse zugute kämen. Die primär auf Masseerhaltung
+zielende Sorgfaltspflicht des Geschäftsführers gebiete es, in einer derartigen Situation
+ein neues, kreditorisch geführtes Konto bei einer anderen Bank zu eröffnen und den
+aktuellen Gesellschaftsschuldnern die geänderte Bankverbindung unverzüglich
+bekanntzugeben. Die Bekl. habe ein solches Konto nicht eröffnet und hafte deshalb auf
+Schadensersatz.
+9An dieser Rechtsfolge vermöge der Umstand nichts zu ändern, dass die Einzahlungen
+auf das debitorisch geführte Konto der Schuldnerin bei der Sparkasse im Rahmen einer
+bereits am 11.12.2003 erfolgten Globalabtretung aller der Schuldnerin gegenwärtig
+und zukünftig zustehenden Forderungen an die Bank erfolgt seien. Ob zugelassene
+Gutschriften auf einem debitorischen Konto für den Geschäftsführer einer
+insolvenzreifen GmbH im Falle einer Globalzession ausnahmsweise unschädlich seien,
+könne offengelassen werden, weil die Sparkasse bei Eingang der Zahlungen auf das
+bei ihr debitorisch geführte Konto und deren Verrechnung mit ihren
+Kontokorrentforderungen iSd § 130 II InsO Kenntnis von den Umständen gehabt habe,
+die auf eine Zahlungsunfähigkeit der Schuldnerin zumindest ab Mai 2008 schließen
+ließen und damit jedenfalls der Tatbestand einer (weitergehenden) Insolvenzanfechtung nach Maßgabe des § 130 I Nr. 1 InsO gegeben wäre. Die Sparkasse habe
+kein anfechtungsfestes Absonderungsrecht (§ 51 Nr. 1 InsO) erworben. Sie habe
+anlässlich eines Bankgesprächs im März 2008 aus einem Kurzgutachten gewusst,
+dass die Schuldnerin bereits zu diesem Zeitpunkt faktisch infolge Zahlungsunfähigkeit
+insolvenzreif gewesen sei, weil die Kontokorrentkredite ausgelastet gewesen seien, die
+bestehenden Liquiditätsengpässe aus den Einkünften aus dem operativen Geschäft
+kurzfristig nicht hätten beseitigt werden können und die Sparkasse ihrerseits zu einer
+Ausweitung der Kreditlinie oder Umschuldung der Kreditvolumina nicht bereit gewesen
+sei.
+10II. Das Berufungsurteil hält der revisionsrechtlichen Nachprüfung nicht stand.
+111. Zutreffend ist das BerGer. davon ausgegangen, dass der Einzug von Forderungen
+einer insolvenzreifen GmbH auf ein debitorisches Konto grundsätzlich eine
+masseschmälernde Zahlung iSv § 64 II GmbHG aF (§ 64  GmbHG nF) ist, weil
+dadurch das Aktivvermögen der Gesellschaft zu Gunsten der Bank geschmälert wird
+(BGH, NZG 2014, 1069 = ZIP 2014, 1523 Rn. 16; NJW-RR 2007, 984 = NZG 2007, 462 =
+auf das debitorische Konto eingezahlte Betrag wird auf Grund der Kontokorrentabrede
+mit dem Sollsaldo bzw. mit dem Kreditrückzahlungsanspruch der Bank verrechnet und
+damit mit Gesellschaftsmitteln an einen Gläubiger, hier die Bank, gezahlt. Insoweit liegt
+der Fall im Ergebnis nicht anders als wenn die GmbH mit Barmitteln, die von einem ihrer
+Schuldner in ihre Kasse gelangt sind, einen Gläubiger durch Barzahlung befriedigt.
+122. Der Einzug von Forderungen, die an die Bank zur Sicherheit abgetreten waren, auf
+einem debitorischen Konto der GmbH und die anschließende Verrechnung mit dem
+Sollsaldo stellen aber keine vom Geschäftsführer einer GmbH veranlasste
+masseschmälernde Zahlung iSv § 64 II GmbHG aF (§ 64  GmbHG nF) dar, wenn vor
+Insolvenzreife die Sicherungsabtretung vereinbart und die Forderung der Gesellschaft
+entstanden und werthaltig geworden ist.
+13a) Der Einzug von Forderungen auf einem debitorischen Konto, die an die Bank zur
+Sicherheit abgetreten waren, ist grundsätzlich keine vom Geschäftsführer einer GmbH
+veranlasste masseschmälernde Zahlung iSv § 64 II GmbHG aF (§ 64  GmbHG nF).
+§ 64 II GmbHG aF meint mit „Zahlung“ eine Leistung der Schuldnerin, durch welche die
+den Gläubigern zur Verfügung stehende Vermögensmasse geschmälert wird. Soweit
+durch einen Vorgang die den Gläubigern zur Verwertung zur Verfügung stehende
+Masse nicht geschmälert wird, liegt keine Zahlung vor. § 64 II GmbHG aF soll wie die
+Parallelvorschrift § 130 a I HGB im Interesse einer Gleichbehandlung der Gläubiger
+lediglich eine Schmälerung der Masse nach Eintritt der Insolvenzreife ausgleichen
+(stRspr, BGH, NJW-RR 2015, 418 = NZG 2015, 149 = ZIP 2015, 71 Rn. 9 mwN [zur Veröff.
+bestimmt in BGHZ]).
+BGH: * Einzug sicherungsabgetretener Forderungen auf debitorischem
+14Die Verrechnung des infolge der Einzahlung auf dem Konto gutgeschriebenen
+Betrags schmälert die Masse nicht, weil die zur Sicherheit an die Bank abgetretene und
+eingezogene Forderung den Gläubigern nicht zur Verwertung zur Verfügung steht und
+der Geschäftsführer die Verwertung zu Gunsten der Bank als ordentlicher
+Geschäftsmann nicht verhindern muss.
+15aa) Sicherungsabgetretene Forderungen eines Schuldners zählen zwar zur
+Insolvenzmasse iSv § 35 InsO, die der Verwaltungsbefugnis des Insolvenzverwalters
+unterliegen. Sie stehen aber nicht als freie Masse den Gläubigern zur gleichmäßigen
+Befriedigung zur Verfügung, sondern nur dem Zessionar. Der Zessionar hat ein
+Absonderungsrecht (§ 51 Nr. 1 InsO). Auch der Insolvenzverwalter muss nach einer
+Verwertung den absonderungsberechtigten Gläubiger befriedigen (§ 170 I 2 InsO).
+Dass die Kosten der Feststellung und der Verwertung vorweg zu entnehmen sind (§ 170 I 1 InsO), führt nicht zu einer Teilverwertung zu Gunsten aller Gläubiger, weil damit
+nur die durch die Verwertung verursachten Kosten gedeckt werden sollen.
+16bb) Der Geschäftsführer einer GmbH muss die sicherungsabgetretene Forderung
+auch nicht durch Einziehung auf ein neu eröffnetes, kreditorisch geführtes Konto bei
+einer anderen Bank der Einziehung und Verrechnung auf dem debitorischen Konto
+entziehen (vgl. Strohn, NZG 2011, 1161 [1166]). Besteht keine Globalzession zu
+Gunsten der Bank, muss der Geschäftsführer einer GmbH nach der Rechtsprechung
+des BGH allerdings dafür Sorge tragen, dass Schuldner nicht auf ein debitorisches
+Bankkonto einzahlen und obliegt es ihm, eine Zahlung iSv § 64 II GmbHG aF an die
+Bank etwa durch Eröffnung eines kreditorisch geführten Bankkontos oder
+Vereinbarung von Barzahlung zu vermeiden (vgl. BGH, NJW-RR 2007, 984 = NZG 2007,
+17Ist die Forderung im Rahmen einer Globalzession an die Bank abgetreten, kann der
+Geschäftsführer die Zahlung zu Gunsten der Bank zwar ebenfalls durch Vereinbarung
+einer Barzahlung oder Eröffnung eines Kontos bei einer anderen Bank und Umleitung
+der Zahlung auf dieses Konto verhindern. Durch Umleitung der Zahlung des jeweiligen
+Kunden auf die sicherungszedierte Forderung auf ein Konto bei einer anderen Bank
+wäre die Forderung der Schuldnerin auch mit Wirkung gegenüber der Zessionarin
+erloschen, zugleich das an der Forderung bestehende Absonderungsrecht. Die
+Sicherungsnehmerin hätte kein Ersatzabsonderungsrecht entsprechend § 48 InsO
+erworben, da der Einzug auf Grund der Einzugsermächtigung berechtigt gewesen wäre
+2015, 585 Rn. 12 f.). Die Schuldnerin war nach 9.1 der Globalabtretungsvereinbarung
+zur Einziehung im ordnungsgemäßen Geschäftsbetriebe berechtigt, wie dies
+regelmäßig bei der Sicherungszession vereinbart wird. Unberechtigt kann der
+Forderungseinzug auf anderem Wege zwar sein, wenn das Konto bei der Zessionarin
+als Zielkonto vereinbart ist (vgl. MüKoInsO/Ganter, 3. Aufl., vor §§ 49–52 Rn. 171 u.
+173 a); eine solche Vereinbarung über einen Forderungseinzug nur auf das Konto der
+Bank enthält die Globalabtretungsvereinbarung aber nicht.
+18Die Umleitung der Zahlungen auf ein anderes Konto entspräche aber nicht einem
+ordentlichen Geschäftsgebaren. Wenn der Gegenwert der abgetretenen Forderung
+nicht bei der Zessionarin, sondern unmittelbar beim Zedenten eingeht, ist die
+Schuldnerin meist jedenfalls auf Verlangen der Bank zur Weiterleitung verpflichtet, wie
+hier auch in 9.2 der Globalabtretungsvereinbarung vorgesehen ist. Die Weiterleitung ist
+dem Geschäftsführer nicht nach § 64 II 2 GmbHG aF/§ 64  GmbHG nF verboten,
+weil bereits die Einziehung mit der Verpflichtung zur Weiterleitung verbunden ist und er
+insoweit jedenfalls mit der Sorgfalt eines ordentlichen Geschäftsmanns handelt (vgl.
+eingezogene Forderung infolge der Sicherungsabtretung nicht mehr als freie Masse
+den Gläubigern zur gleichmäßigen Befriedigung zur Verfügung stand, verlangt auch der
+Zweck des Zahlungsverbots, die vorhandene Masse zu sichern, nicht, die Zahlung
+einzubehalten. Die Masse würde durch den Einzug von sicherungsabgetretenen
+Forderungen ohne Weiterleitung nicht nur erhalten, sondern vergrößert.
+19b) Eine masseschmälernde Leistung durch die Zahlung liegt aber vor, wenn die zur
+Sicherheit abgetretene Forderung erst nach Eintritt der Insolvenzreife entstanden ist
+oder zwar vor Eintritt der Insolvenzreife entstanden, aber erst danach werthaltig
+geworden ist und der Geschäftsführer dies verhindern konnte. Der Geschäftsführer
+kann zwar nach Insolvenzreife nicht verhindern, dass der Zessionar die ihm zur
+Sicherheit abgetretene Forderung verwertet. Er darf aber nicht bewirken, dass der
+Zessionar zu Lasten der Masse nach Insolvenzreife noch eine werthaltige Forderung
+erwirbt, § 64 II GmbHG aF.
+20aa) Die Bewirkung einer masseschmälernden Leistung kann bereits darin liegen,
+dass die Gesellschaft eine Forderung an einen ihrer Gläubiger abtritt und so die
+Forderung aus ihrem Vermögen absondert. Eine Sicherungszession, die erst nach
+Eintritt der Insolvenzreife vereinbart wird, steht daher einer Bewertung der dadurch
+verursachten Einziehungen von Forderungen auf ein debitorisches Konto als
+masseschmälernde Leistung nicht entgegen. Die Masseschmälerung tritt endgültig
+zwar erst mit dem Einzug der Forderung zu Gunsten des Zessionars ein, wenn der
+Schuldner zahlt und der Zessionar die Zahlung verrechnet. Die Verkürzung der Masse
+ist aber bereits unwiderruflich mit der Abtretung veranlasst. Die masseschmälernde
+Leistung durch den Geschäftsführer liegt in diesem Fall bereits in der
+Abtretungsvereinbarung, für die der Geschäftsführer danach gem. § 64 II GmbHG aF
+haftet, wenn die Forderung später zu Gunsten des Gläubigers eingezogen wird.
+21bb) Eine masseschmälernde Leistung wird dem entsprechend auch an die Bank als
+Zessionar bewirkt, wenn die Sicherungsabtretung zwar bereits vor Insolvenzreife
+vereinbart worden ist, die Forderung aber erst nach Insolvenzreife entsteht oder
+werthaltig gemacht wird.
+22Im Falle der Abtretung einer künftigen Forderung ist der Verfügungstatbestand mit
+dem Zustandekommen des Abtretungsvertrags abgeschlossen. Der Rechtsübergang
+auf den Gläubiger vollzieht sich jedoch erst mit dem Entstehen der Forderung (BGHZ
+– wie hier – die Abtretung bereits vor der Insolvenzreife für künftige Forderungen
+vereinbart ist, liegt die Ursache für die Masseschmälerung nicht in der
+Abtretungsvereinbarung, sondern darin, dass die sicherungsabgetretene Forderung
+nicht mehr zu Gunsten des Vermögens der GmbH, sondern zu Gunsten des Zessionars
+entsteht. Wenn der Geschäftsführer der GmbH die Zession – etwa durch die Kündigung
+des Kontokorrentvertrags – oder das Entstehen der Forderung nach Eintritt der
+Insolvenzreife verhindern kann, liegt daher im Ergebnis eine von ihm veranlasste
+Leistung an die Bank
+BGH: * Einzug sicherungsabgetretener Forderungen auf debitorischem
+vor, wenn die Forderung nach der Sicherungsabtretung an die Bank entsteht und von
+ihr verwertet wird. Das betrifft vor allem Verträge, die die Schuldnerin nach Eintritt der
+Insolvenzreife eingeht und bei denen der Anspruch auf die Gegenleistung für eine
+Leistung der Schuldnerin auf Grund der Sicherungsabtretung der Bank zusteht.
+23Das gleiche gilt, wenn der Anspruch auf die Gegenleistung rechtlich zwar bereits
+entstanden ist, zu Lasten des Vermögens der Schuldnerin aber erst nach Eintritt der
+Insolvenzreife werthaltig gemacht wird, etwa indem die Schuldnerin die von ihr
+vertraglich zugesagte Leistung erbringt. Die Masseschmälerung liegt in diesen Fällen
+darin, dass die abgetretene Forderung zu Gunsten des Gläubigers werthaltig gemacht
+worden ist. Die Wertschöpfung geschieht dann zu Lasten der Gläubigergesamtheit
+bzw. der Masse und zu Gunsten des gesicherten Gläubigers (vgl. zur
+36).
+24Dass der Geschäftsführer durch das „Zahlungsverbot“ des § 64 II GmbHG aF daran
+gehindert wird, das Unternehmen nach Insolvenzreife fortzuführen, ist ein Reflex dieser
+Vorschrift. § 64 II GmbHG aF soll in erster Linie im Interesse einer Gleichbehandlung
+der Gläubiger eine Schmälerung der Masse nach Eintritt der Insolvenzreife ausgleichen
+(stRspr, BGH, NJW-RR 2015, 418 = NZG 2015, 149 = ZIP 2015, 71 Rn. 9 mwN [zur Veröff.
+bestimmt in BGHZ]; NZG 2015, 101 = ZIP 2015, 68 Rn. 8). Damit wird der
+Geschäftsführer angehalten, nach Insolvenzreife die Masse zur Verwertung durch die
+Das verbietet es ihm, das Unternehmen auf Kosten und Gefahr der
+Gläubigergesamtheit mit dem Risiko weiterer Masseminderungen fortzuführen. Soweit
+ausnahmsweise eine konkrete Chance auf Sanierung und Fortführung im
+Insolvenzverfahren zunichte gemacht werden würde, wenn der Betrieb ohne
+Begründung neuer Forderungen oder ihrer Werthaltigmachung eingestellt werden
+müsste, können Zahlungen zur Vermeidung noch größerer Nachteile mit der Sorgfalt
+eines ordentlichen Geschäftsmanns vereinbar sein und damit das Verschulden
+NZG 2001, 361; BGH, NJW-RR 2008, 495 = NZG 2008, 75 = ZIP 2008, 72 Rn. 6).
+253. Eine Zahlung kann zwar auch ausscheiden, soweit infolge der Verminderung des
+Debetsaldos durch die Einziehung und Verrechnung einer Forderung weitere
+sicherungsabgetretene Forderungen frei geworden sind. Auf das Freiwerden von
+Sicherheiten hat sich die Bekl. aber nicht berufen.
+26Wenn eine Zahlung an einen absonderungsberechtigten, durch eine
+Gesellschaftssicherheit besicherten Gläubiger geleistet wird, liegt ein Aktiventausch
+vor, soweit infolge der Zahlung die Gesellschaftssicherheit frei wird und der
+Verwertung zu Gunsten aller Gläubiger zur Verfügung steht. Bei einem solchen
+Aktiventausch entfällt im wirtschaftlichen Ergebnis eine masseschädliche Zahlung
+(vgl. BGH, NJW-RR 2015, 418 = NZG 2015, 149 = ZIP 2015, 71 Rn. 9 mwN [zur Veröff.
+bestimmt in BGHZ]). Wenn die Sicherheit in der Abtretung von Forderungen besteht,
+bewirkt eine Zahlung an den Zessionar einen solchen Aktiventausch, soweit infolge
+dieses Vorgangs sicherungsabgetretene werthaltige Forderungen frei werden und in
+das zur gleichmäßigen Befriedigung aller Gläubiger bestimmte Vermögen der
+Gesellschaft gelangen (vgl. auch zum umgekehrten Fall BGH, NZG 2011, 303 = ZIP
+2011, 422 Rn. 26). Dafür, dass infolge der Einzahlungen auf das debitorisch geführte
+Konto von der Globalzession erfasste Forderungen der Schuldnerin frei geworden
+wären, bestehen keine Anhaltspunkte.
+274. Soweit danach infolge des Bestehens eines Absonderungsrechts der Bank im
+Einzug der Forderungen auf das debitorisch geführte Konto keine masseschmälernde
+Leistung liegt, ändert sich am Fehlen eines Anspruchs nach § 64 II GmbHG aF
+entgegen der Rechtsauffassung des BerGer. nichts, wenn die Bank kein
+anfechtungsfestes Absonderungsrecht erworben hat.
+28a) Nach der Rechtsprechung des BGH ist eine Verrechnung auf dem Konto nach § 96 I Nr. 3 InsO unzulässig, wenn die Bank die Möglichkeit zu der Verrechnung
+anfechtbar erworben hat. Bei der Einziehung einer Forderung auf ein Bankkonto, die
+von einer Globalzession zu Gunsten der Bank erfasst wird, ist die erforderliche
+objektive Gläubigerbenachteiligung gegeben, wenn die Bank an vor dem Eingang des
+Eröffnungsantrags entstandenen oder werthaltig gewordenen Forderungen kein
+430 Rn. 13). Der anfechtbare Erwerb der Verrechnungslage hat zur Folge, dass eine vor
+Insolvenzeröffnung erfolgte Verrechnung des Sollsaldos mit dem gutzuschreibenden
+Betrag nach § 96 I Nr. 3 InsO mit der Verfahrenseröffnung insolvenzrechtlich
+unwirksam ist (vgl. BGH, NJW-RR 2004, 846 = ZIP 2003, 2370 [2371]; NJW-RR 2005,
+125 = ZIP 2004, 1912 [1913]; NJW-RR 2005, 1138 = ZIP 2005, 1334 [1335]; BGHZ 169,
+Insolvenzverwalter kann den Hauptanspruch – den aus der Gutschrift folgenden
+Herausgabeanspruch nach § 667 BGB gegen die Bank – geltend machen und den
+Aufrechnungs- oder Verrechnungseinwand mit der Gegeneinrede der Anfechtbarkeit
+78 Rn. 16; BGH, NZG 2013, 511 = ZIP 2013, 588 Rn. 8).
+29b) Dass der Insolvenzverwalter auf Grund der Anfechtbarkeit des
+Absonderungsrechts den Hauptanspruch auf Auskehr des erlangten Betrags gegen die
+Bank so geltend machen kann, als sei keine Verrechnung erfolgt, führt aber entgegen
+der Auffassung des BerGer. nicht zum rückwirkenden Entstehen eines Anspruchs nach
+§ 64 II GmbHG aF. Ein Vorgang, der keine masseschmälernde Zahlung ist, kann nicht
+nachträglich durch die Eröffnung des Insolvenzverfahrens zu einer
+masseschmälernden Zahlung werden und aus einem entschuldigten Verhalten (§ 64 II 2 GmbHG aF) kann kein schuldhaftes Verhalten werden. Der Anspruch nach § 64 II
+GmbHG aF setzt im Gegensatz zur Insolvenzanfechtung nicht eine Insolvenzeröffnung,
+2000, 1896 [1897 f.]; NZI 2011, 73 = ZIP 2010, 2107 Rn. 13 ff.; NZG 2015, 101 = ZIP
+2015, 68 Rn. 8).
+30c) Im Übrigen würde die erfolgreiche Geltendmachung des Herausgabeanspruchs
+durch den Insolvenzverwalter gegen die Bank dazu führen, dass ein gegebenenfalls
+zuvor bestehender Anspruch nach § 64 II GmbHG aF entfällt. Der Erstattungsanspruch
+gegen das Organ entfällt, wenn es dem Insolvenzverwalter gelingt, durch eine
+Insolvenzanfechtung eine Rückerstattung der Zahlung zu erreichen und so die
+2014, 1069 = ZIP 2014, 1523 Rn. 14; NJW-RR 2015, 418 = NZG 2015, 149 = ZIP 2015,
+71 Rn. 9 [zur Veröff. bestimmt in BGHZ]). Soweit der Kl. Anfechtungserlöse erzielt hat,
+hat er sie auch von der errechneten Forderung in Abzug gebracht.
+315. Soweit nach dem Vorstehenden trotz der Globalzession die Zahlungen auf das
+debitorische Konto zu einer Masseschmälerung geführt haben können, entfällt der
+Ersatzanspruch entgegen der Rechtsauffassung der Revision nicht schon dadurch
+teilweise, dass die Bank nach den Zahlungs
+BGH: * Einzug sicherungsabgetretener Forderungen auf debitorischem
+eingängen Verfügungen über das Konto zugelassen hat und zu Lasten des Kontos
+Zahlungen an Gläubiger der Gesellschaft geleistet wurden.
+32Wenn mit der Zahlung auf das debitorische Konto zugleich ermöglicht wird, andere
+Gläubiger mit den Mitteln dieses debitorischen Kontos zu befriedigen, ändert das
+nichts daran, dass die auf das debitorische Konto gelangte Zahlung am Ende in der
+2014, 1069 = ZIP 2014, 1523 Rn. 17). Die Masseschmälerung durch die Verrechnung
+wird nicht durch einen Massezufluss ausgeglichen. Die Möglichkeit, auf Grund der
+Einzahlungen auf dem Konto einen zuvor ausgeschöpften Kreditrahmen in Anspruch
+zu nehmen, bewirkt noch keinen Zufluss von Vermögensmitteln (vgl. BGH, NJW-RR
+2015, 418 = NZG 2015, 149 = ZIP 2015, 71 Rn. 16 f. [zur Veröff. bestimmt in BGHZ]).
+Wird die Kreditlinie später dadurch in Anspruch genommen, dass an Gläubiger der
+Gesellschaft Zahlungen geleistet werden, liegt ein Gläubigertausch, aber kein
+Massezufluss vor (vgl. BGH, NZG 2014, 1069 = ZIP 2014, 1523 Rn. 15). Wenn aus einem
+debitorisch geführten Bankkonto eine Gesellschaftsschuld beglichen wird, wird
+lediglich der befriedigte Gläubiger durch die Bank als Gläubigerin ersetzt. An die Stelle
+der mit Kreditmitteln erfüllten Forderungen des Gesellschaftsgläubigers tritt eine
+entsprechend höhere Gesellschaftsverbindlichkeit gegenüber der Bank. Die
+verteilungsfähige Vermögensmasse wird davon grundsätzlich nicht berührt (vgl. BGHZ
+2007, 462 = ZIP 2007, 1006 Rn. 8). Nur wenn die Bank über freie Sicherheiten verfügt,
+die sie zu einer abgesonderten Befriedigung nach §§ 50 f. InsO berechtigen, wird die
+Masse vermindert (BGH, NZG 2011, 303 = ZIP 2011, 422 Rn. 26).
+33Zu einem Ausgleich für die vorangegangene Masseschmälerung durch die
+Einzahlung auf das debitorische Konto kommt es dagegen, wenn die Mittel nicht für
+Zahlungen an einzelne Gläubiger verwendet werden, sondern für die Masse gesichert
+werden, etwa durch Abhebung zu Gunsten der Barkasse oder Überweisung auf ein
+kreditorisch geführtes Konto der Gesellschaft. Dann fehlt der in der Zahlung auf das
+debitorische Konto liegende Vermögenszufluss der Masse im wirtschaftlichen
+Endergebnis nicht. Das gleiche gilt, wenn die eröffnete Kreditlinie zwar zur Zahlung an
+einen (Neu-)Gläubiger verwendet wird, damit aber im Gegenzug ein werthaltiger
+Gegenstand in die Masse gelangt, etwa durch einen mit den Kreditmitteln finanzierten
+Kauf. Wenn ein solcher Massezufluss mit dem Zahlungseingang auf dem
+debitorischen Konto noch in unmittelbarem wirtschaftlichen Zusammenhang steht,
+kann der Ersatzanspruch wegen eines Aktiventausches entfallen (vgl. BGH, NJW-RR
+2015, 418 = NZG 2015, 149 = ZIP 2015, 71 Rn. 9 [zur Veröff. bestimmt in BGHZ]). Wenn
+im unmittelbaren Zusammenhang mit der Zahlung auf ein debitorisches Konto aus der
+neu eröffneten Kreditlinie ein werthaltiger Gegenstand für die Masse erworben wird,
+fehlt der mit der Zahlung verbundene Vermögenszufluss der Masse am Ende des
+Vorgangs ebenso wenig wie bei dem Erwerb des Gegenstands mit Mitteln, die ein
+Gesellschaftsschuldner zuvor bar in die Gesellschaftskasse eingezahlt hat.
+34III. Die Sache ist zur neuen Verhandlung und Entscheidung zurückzuverweisen, weil
+sie noch nicht zur Endentscheidung reif ist. Das BerGer. muss nach ergänzendem
+Vortrag der Parteien die erforderlichen Feststellungen zu den Zahlungseingängen
+treffen. Da Zahlungseingänge auf dem debitorischen Konto grundsätzlich als
+masseschmälernde Zahlungen anzusehen sind, liegt die Darlegungs- und Beweislast
+dafür, dass die eingezogenen Forderungen von der Globalzession erfasst sind und vor
+Insolvenzreife entstanden sind bzw. werthaltig wurden, bei der beklagten
+Geschäftsführerin.
+Anmerkung der Redaktion
+Zu der mehrfach zitierten Entscheidung BGH, NJW-RR 2015, 418 = NZG 2015, 149
+(keine Ersatzpflicht des Organs der Gesellschaft für Zahlungen nach Insolvenzreife,
+soweit die durch die Zahlung verursachte Schmälerung der Masse in einem
+unmittelbaren Zusammenhang mit ihr ausgeglichen wird) s. die Besprechungen von
+Mock, LMK 2015, 366679; H.-F. Müller, WuB II G. § 130 a HGB 1.15; Kiesel, FD-InsR
+2015, 365589; Tischler/Loszynski, GWR 2015, 17 sowie die Anm. Kruth, NZI 2015, 135.

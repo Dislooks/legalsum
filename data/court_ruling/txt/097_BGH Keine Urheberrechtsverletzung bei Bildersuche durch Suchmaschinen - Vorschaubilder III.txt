@@ -1,0 +1,853 @@
+Vorschaubilder III
+Keine Urheberrechtsverletzung bei Bildersuche durch Suchmaschinen -
+Vorschaubilder III
+UrhG § 15 II
+Bietet der Betreiber einer Internetseite eine Suchfunktion in Form eines
+elektronischen Verweises (Links) auf eine Suchmaschine an, mit der Besucher seiner
+Internetseite durch die Eingabe von Suchbegriffen in eine Suchmaske von der
+Suchmaschine gespeicherte Vorschaubilder urheberrechtlich geschützter Fotografien
+anzeigen lassen können, stellt dies eine öffentliche Wiedergabe im Sinne von § 15 II
+UrhG dar, wenn die von der Suchmaschine gefundenen Fotografien ohne Erlaubnis
+des Rechtsinhabers im Internet eingestellt waren und der Anbieter der Suchfunktion
+vom Fehlen der Erlaubnis des Rechtsinhabers wusste oder vernünftigerweise wissen
+musste. Auch wenn der Anbieter der Suchfunktion mit Gewinnerzielungsabsicht
+handelt, besteht keine Vermutung, dass er vom Fehlen der Erlaubnis des
+Rechtsinhabers Kenntnis hatte.
+BGH, Urteil vom 21.9.2017 – I ZR 11/16
+NJW-Übersicht
+NJW-Übersicht
+Rn.
+Keine Haftung der Beklagten für etwaige Rechtsverletzung
+11 – 77
+Klagebefugnis trotz Rechtspfändung
+
+Anwendbares Recht
+
+Inländerbehandlung des tschechischen Fotografen
+
+Aktivlegitimation
+
+Keine öffentliche Zugänglichmachung nach § 19 a UrhG
+17 – 21
+Keine öffentliche Wiedergabe nach § 15 II UrhG
+22 – 71
+Richtlinienkonforme Auslegung gem. Art. 3 RL 2001/29/EG
+
+Anwendungsbereich des Art. 3 RL 2001/29/EG
+25 – 27
+Begriff der öffentlichen Wiedergabe
+28 – 36
+– Handlung der Wiedergabe durch Einbindung einer Suchmaschine
+29 – 33
+– Öffentliche Wiedergabe der Fotografien
+34 – 36
+Kein anderes technisches Verfahren
+37 – 40
+Zugänglichmachung der Fotografien für ein neues Publikum
+41 – 52
+– Beweislast für unbeschränkten Zugang
+47 – 49
+– Beweislast für Umfang der Zustimmung des Urhebers
+50 – 52
+Keine Erkennbarkeit der Rechtswidrigkeit der Ursprungsnutzung
+53 – 71
+– Keine Kenntnisvermutung für Suchmaschine oder Link auf Suchmaschine
+58 – 59
+– Keine Nachforschungspflicht für Anbieter von Suchdiensten
+60 – 63
+– Positive Kenntnis nicht feststellbar
+64 – 66
+– Handlungspflicht nach Inkenntnissetzung
+
+– Zumutbarkeit des Wortfilters
+68 – 69
+Keine Störerhaftung
+72 – 77
+Prüfpflicht nach Inkenntnissetzung
+
+Keine Notwendigkeit der EuGH-Vorlage
+
+Zum Sachverhalt
+Die in Kalifornien geschäftsansässige Kl. betreibt die Internetseite „www. ...“, auf der
+sie erotische Fotografien anbietet. Bestimmte Inhalte ihres Internetauftritts können nur
+von registrierten Kunden gegen Zahlung eines Entgelts und nach Eingabe eines
+Passworts genutzt werden. Die Kunden dürfen die im passwortgeschützten Bereich
+eingestellten Aktfotografien auf ihre Rechner herunterladen. Die Bekl. betreibt unter
+dem Domainnamen „www. ...“ ein Internetportal, auf dem sie verschiedene
+Dienstleistungen anbietet. Dazu zählt die kostenfreie Durchführung einer
+Bilderrecherche anhand von Suchbegriffen, die Nutzer in eine Suchmaske auf der
+Webseite der Bekl. eingeben können. Für die Durchführung der Bilderrecherche greift
+die Bekl. auf den Internetsuchdienst der Google Inc. (im Folgenden Google) zurück, zu
+dem sie auf ihrer Webseite einen elektronischen Verweis (Link) gesetzt hat. Die
+Suchmaschine Google ermittelt die im Internet vorhandenen Bilddateien, indem
+Computerprogramme (sog. Crawler) die Internetseiten in regelmäßigen Zeitabständen
+nach dort eingestellten Bildern durchsuchen. Dabei können die Crawler nur Bilder
+aufspüren, die auf frei zugänglichen Internetseiten eingestellt sind. Die aufgefundenen
+Bilder werden in einem automatisierten Verfahren nach Suchbegriffen indexiert und als
+kleinformatige Vorschaubilder auf den Servern von Google gespeichert. Geben die
+Internetnutzer in die Suchmaske der Bekl. einen Suchbegriff ein, werden die von Google
+hierzu indexierten Vorschaubilder abgerufen und auf der Webseite der Bekl. in
+Ergebnislisten angezeigt. Bei Eingabe der Suchbegriffe „A. C.“ und „Al. L.“ in die
+Suchmaske der Bekl. wurden am 9. und 11.6.2009 unter der Kopfzeile „A. Bildersuche
+Suchergebnisse“ jeweils vier verkleinerte Aktfotografien von zwei unter diesen
+Pseudonymen auftretenden Models als Vorschaubilder angezeigt. Die
+Bildersuchmaschine Google hatte die Fotografien auf den Internetseiten „www. ...“ und
+„www. ...“ aufgefunden. Die Suchmaske der Bekl. war zu dieser Zeit mit dem Vermerk
+„A-Suche“ und dem Hinweis „powered by Google“ versehen. Die Kl. mahnte die Bekl.
+mit Schreiben vom 16.6.2009 unter Berufung auf ihre ausschließlichen
+urheberrechtlichen Nutzungsrechte an den Fotografien ab. Die Bekl. sperrte daraufhin
+die Namen „A. C.“ und „Al. L.“ als Suchbegriffe, ohne eine strafbewehrte
+Unterlassungserklärung abzugeben.
+Die Kl. hat behauptet, sie habe die ausschließlichen Nutzungsrechte an den acht
+Fotografien erworben und diese, versehen mit der Aufschrift „P.“ und einem Copyright-
+Vermerk, in den passwortgeschützten Bereich ihrer Internetseite eingestellt. Von dort
+hätten Kunden die Bilder heruntergeladen und unerlaubt auf den von der Suchmaschine
+Google aufgefundenen Internetseiten veröffentlicht. Drei der Fotografien seien noch
+am 16. bzw. 21.7.2010 und sieben der Fotografien noch am 7.9.2015 auf der Webseite
+der Bekl. als Vorschaubilder angezeigt worden. Die Kl. hat geltend gemacht, durch die
+Anzeige der Vorschaubilder auf der Internetseite der Bekl. sei ihr ausschließliches
+Recht zur öffentlichen Zugänglichmachung der Lichtbilder verletzt worden. Für diese
+Verletzung hafte die Bekl. als Täter, zumindest aber als Störer. Die Kl. hat zuletzt
+beantragt, die Bekl. unter Androhung von Ordnungsmitteln zu verurteilen, es zu
+unterlassen, die mit den Nr. 1–8 versehenen Fotografien in der Bundesrepublik
+Deutschland öffentlich zugänglich zu machen oder öffentlich zugänglich machen zu
+lassen. Ferner hat sie die Bekl. im Wege der Stufenklage auf Auskunftserteilung und
+Schadensersatz in Anspruch genommen.
+Klage abgewiesen. Die Berufung der Kl. ist vor dem OLG Hamburg (Urt. v. 10.12.2015
+zugelassenen Revision verfolgte die Kl. ihre Klageanträge weiter. Zum
+Unterlassungsantrag beantragte sie hilfsweise, die Bekl. unter Androhung von
+Ordnungsmitteln zu verurteilen, es zu unterlassen, es Dritten zu ermöglichen, die
+Fotografien in der Bundesrepublik Deutschland öffentlich zugänglich zu machen oder
+öffentlich zugänglich machen zu lassen. Zum Antrag auf Auskunftserteilung und
+Schadensersatz beantragte sie hilfsweise Leistung an den durch Entscheidung des
+United States District Court, Central District of California, Western Division vom
+24.2.2017 eingesetzten Receiver, Rechtsanwalt DJP, P. & P., zu erbringen. Die Revision
+hatte keinen Erfolg.
+Aus den Gründen
+11B. (…) Das BerGer. hat im Ergebnis mit Recht angenommen, dass die mit der Klage
+geltend gemachten An-
+
+sprüche unbegründet sind, weil die Bekl. für etwaige Verletzungen des
+ausschließlichen Rechts zur öffentlichen Wiedergabe der Fotografien nicht haftet.
+12I. Die Kl. ist befugt, die Klageansprüche gerichtlich geltend zu machen. Ihrer
+Prozessführungsbefugnis steht nicht entgegen, dass der United States District Court,
+Central District of California, Western Division, mit Order vom 24.2.2017 zur
+Vollstreckung eines gegen die Kl. erwirkten Urteils einen Zwangsverwalter (Receiver)
+bestellt hat, der sämtliche urheberrechtlichen Ansprüche der Kl. pfänden und verwerten
+soll. Die Bekl. hat nicht dargelegt, dass der Zwangsverwalter nach der Order des USamerikanischen Gerichts ermächtigt ist, auch die von der Kl. im vorliegenden
+Rechtsstreit geltend gemachten urheberrechtlichen Ansprüche wegen einer Verletzung
+von in Deutschland nach dem Urheberrechtsgesetz geschützten Rechten an den
+Fotografien zu pfänden und zu verwerten. Der von der Bekl. vorgelegten Order vom
+24.2.2017 ist dies nicht zu entnehmen. Im Übrigen bliebe die Prozessführungsbefugnis
+der Kl. selbst bei einer Pfändung und Überweisung dieser Ansprüche bestehen. Wird
+eine streitbefangene Forderung rechtsgeschäftlich oder im Wege der
+Zwangsvollstreckung auf einen Dritten übertragen, so hat dies gem. § 265 II 1 ZPO auf
+den Prozess keinen Einfluss. Der Rechtsvorgänger behält weiter seine
+Prozessführungsbefugnis und darf den Rechtsstreit als Partei im eigenen Namen in so
+13II. Die von der Kl. geltend gemachten Ansprüche sind nach deutschem Recht zu
+beurteilen. Nach Art. 8 I der VO (EG) Nr. 864/2007 über das auf außervertragliche
+Schuldverhältnisse anzuwendende Recht (Rom-II-VO) ist auf außervertragliche
+Schuldverhältnisse aus einer Verletzung von Rechten des geistigen Eigentums das
+Recht des Staates anzuwenden, für den der Schutz beansprucht wird. Nach diesem
+Recht sind das Bestehen des Rechts, die Rechtsinhaberschaft des Verletzten, Inhalt
+und Umfang des Schutzes sowie der Tatbestand und die Rechtsfolgen einer
+WRP 2015, 347 Rn. 24 – Hi Hotel II; BGH, GRUR 2016, 1048 = WRP 2016, 1114 Rn. 24
+– An Evening with Marlene Dietrich, jew. mwN). Da Gegenstand der Klage allein
+Ansprüche wegen Verletzungen urheberrechtlich geschützter Rechte an Fotografien
+sind, für die die Kl. im Inland urheberrechtlichen Schutz beansprucht, ist im Streitfall
+deutsches Urheberrecht anzuwenden.
+14III. Das BerGer. hat im Ergebnis zu Recht angenommen, dass die von der Kl. gegen
+die Bekl. erhobenen Ansprüche auf Unterlassung der öffentlichen Wiedergabe der
+Fotografien im Inland (§ 97 I 1 UrhG), Auskunftserteilung (§ 242 BGB) und
+Schadensersatz (§ 97 II UrhG) nicht begründet sind und die Stufenklage daher
+insgesamt abzuweisen ist (vgl. dazu BGH, NJW-RR 2011, 189 Rn. 24 mwN). Durch die
+Anzeige der Fotografien als Vorschaubilder auf ihrer Internetseite hat die Bekl. weder
+das Recht der öffentlichen Zugänglichmachung iSv § 19 a UrhG (dazu B III 3) oder ein
+unbenanntes Recht der öffentlichen Wiedergabe iSv § 15 II UrhG (dazu B III 4)
+täterschaftlich verletzt noch hat sie für eine solche Verletzung unter dem
+Gesichtspunkt der Störerhaftung einzustehen (dazu B III 5).
+151. Das BerGer. ist rechtsfehlerfrei davon ausgegangen, dass die Fotografien
+jedenfalls als Lichtbilder iSv § 72 UrhG den Schutz des Urheberrechtsgesetzes
+genießen. Anknüpfungspunkt für den urheberrechtlichen Schutz eines Werks ist die
+Staatsangehörigkeit des Urhebers, nicht die Staatsangehörigkeit desjenigen, der
+Ls. – La Bohème; Katzenberger/Metzger in Schricker/Loewenheim, Urheberrecht, 5.
+Aufl., § 120 UrhG Rn. 10). Das BerGer. hat es als erwiesen erachtet, dass die
+Fotografien von einem tschechischen Fotografen angefertigt worden sind. Nach § 120
+II Nr. 2 UrhG stehen Staatsangehörige eines anderen Mitgliedstaates der Europäischen
+Union deutschen Staatsangehörigen gleich und genießen daher wie diese nach § 120
+I 1 UrhG den urheberrechtlichen Schutz für alle ihre Werke, gleichviel, ob und wo die
+Werke erschienen sind. Die Bestimmung des § 120 UrhG ist nach § 124 UrhG für den
+Schutz von Lichtbildern (§ 72 UrhG) sinngemäß anzuwenden.
+162. Das BerGer. hat ohne Rechtsfehler angenommen, dass die Kl. als Inhaberin der
+ausschließlichen urheberrechtlichen Nutzungsrechte an den Aufnahmen berechtigt ist,
+urheberrechtliche Ansprüche wegen einer Verletzung dieser Rechte geltend zu machen
+= ZUM-RD 2013, 514 Rn. 23). Nach den Feststellungen des BerGer. hat der Fotograf der
+Kl. die ausschließlichen Nutzungsrechte an seinen Aufnahmen für Deutschland
+eingeräumt. Die Berechtigung der Kl. zur Geltendmachung von Ansprüchen wegen
+einer Verletzung dieser Rechte ist nicht dadurch entfallen, dass der United States
+District Court mit Order vom 24.2.2017 einen Zwangsverwalter bestellt hat, der ihre
+urheberrechtlichen Ansprüche pfänden und verwerten soll. Es ist nicht ersichtlich, dass
+sich diese Order auf die hier in Rede stehenden urheberrechtlichen Ansprüche wegen
+einer Verletzung von in Deutschland nach dem Urheberrechtsgesetz geschützten
+Rechten an den Fotografien bezieht (vgl. Rn. 12). Selbst wenn die streitbefangenen
+Forderungen durch den Zwangsverwalter gepfändet worden wären, hätte die Kl. der
+damit veränderten materiellen Rechtslage entsprochen, indem sie mit ihrem
+Hilfsantrag hinsichtlich der Ansprüche auf Auskunft und Zahlung Leistung an den
+Hinsichtlich des Unterlassungsanspruchs bedurfte es keiner Umstellung des
+Klageantrags, weil die Verurteilung zur Unterlassung schlechthin und nicht gegenüber
+einem bestimmten Berechtigten zu erfolgen hat (BGHZ 197, 196 = GRUR 2013, 713 Rn.
+55 – Fräsverfahren). Letztlich kann offen bleiben, wer zur Geltendmachung der
+Ansprüche berechtigt ist, da diese Ansprüche ohnehin nicht bestehen.
+173. Das BerGer. hat im Ergebnis mit Recht angenommen, dass die Bekl. nicht in das
+ausschließliche Recht zur öffentlichen Zugänglichmachung der Lichtbilder (§ 15 II 1
+und 2 Nr. 2, § 19 a UrhG) eingegriffen hat.
+18a) Das BerGer. hat es im Ausgangspunkt für möglich gehalten, dass die Bekl. durch
+die Anzeige der Fotografien als Vorschaubilder eine Handlung der öffentlichen
+Zugänglichmachung als Täter oder Mittäter vorgenommen habe. Es sei zwar davon
+auszugehen, dass die Vorschaubilder ausschließlich auf den Servern von Google
+gespeichert seien und die Bekl. auf diese Daten keinen Zugriff habe. Dadurch, dass die
+Bekl. die von Google absprachegemäß überspielten Suchergebnisse in ihren
+Internetauftritt integriert und (auch) als eigenes Angebot präsentiert habe, könne sie
+aber eine eigene Tathandlung der öffentlichen Zugänglichmachung wegen
+Zueigenmachens der von Google gelieferten Bilddateien oder
+
+aufgrund bewussten und gewollten Zusammenwirkens mit Google begangen haben.
+Diese Beurteilung hält der rechtlichen Nachprüfung nicht stand. Die
+Revisionserwiderung macht zutreffend geltend, dass auf der Grundlage der vom
+BerGer. getroffenen Feststellungen ein öffentliches Zugänglichmachen der Lichtbilder
+durch die Bekl. von vornherein ausscheidet.
+19b) Eine öffentliche Zugänglichmachung iSv § 19 a UrhG erfordert, dass Dritten der
+Zugriff auf ein urheberrechtlich geschütztes Werk eröffnet wird, das sich in der
+WRP 2011, 88 Rn. 23 – Session-ID; BGH, GRUR 2013, 818 = WRP 2013, 1047 Rn. 8 –
+Die Realität II). Die Anzeige von Lichtbildern in der Trefferliste einer Suchmaschine
+stellt eine eigene Nutzungshandlung des öffentlichen Zugänglichmachens dar, wenn
+der Betreiber der Suchmaschine die Lichtbilder auf einem eigenen Rechner – und damit
+unabhängig von der ursprünglichen Quelle – vorhält und auf diese Weise die Kontrolle
+Vorschaubilder I). Die Verknüpfung eines auf einer fremden Internetseite
+bereitgestellten Lichtbilds mit der eigenen Internetseite mittels eines elektronischen
+Verweises (Links) stellt dagegen keine urheberrechtliche Nutzungshandlung des
+öffentlichen Zugänglichmachens dar, weil allein der Betreiber der fremden
+Internetseite, der das Lichtbild ins Internet gestellt und dadurch öffentlich zugänglich
+gemacht hat, darüber entscheidet, ob es der Öffentlichkeit zugänglich bleibt (vgl. BGHZ
+24 – Session-ID; GRUR 2013, 818 Rn. 24 – Die Realität I; GRUR 2016, 171 Rn. 14 – Die
+Realität II).
+20c) Das BerGer. hat angenommen, die auf der Webseite der Bekl. als Ergebnisse einer
+Bildersuche angezeigten Vorschaubilder seien ausschließlich auf den Servern von
+Google gespeichert. Die Vermutung der Kl., die Bekl. habe Zugriff auf die Bilddateien,
+sei mangels tatsächlicher Anknüpfungspunkte als unsubstanziiert anzusehen. Gegen
+diese Beurteilung erhebt die Revision keine Rügen. Danach hat die Bekl. den
+Tatbestand der öffentlichen Zugänglichmachung nicht selbst verwirklicht. Entgegen
+der Ansicht des BerGer. kommt es nicht darauf an, ob die Bekl. sich die von Google
+gelieferten Vorschaubilder durch die Einbettung in ihre Internetseite zu eigen gemacht
+Tatbestand der öffentlichen Zugänglichmachung wird durch das tatsächliche
+Vorhalten eines Lichtbilds zum Abruf verwirklicht und nicht dadurch, dass der für den
+Internetauftritt Verantwortliche den – unzutreffenden – Eindruck erweckt, er halte das
+Ls. – Die Realität I).
+21d) Entgegen der Ansicht des BerGer. kann die Bekl. die Lichtbilder auch nicht
+mittäterschaftlich öffentlich zugänglich gemacht haben, weil sie mit Google vereinbart
+hat, dass sie die Vorschaubilder von deren Servern abruft und auf ihrer Webseite
+anzeigt. Ein bewusstes und gewolltes Zusammenwirken mit einem Dritten bei einer
+Urheberrechtsverletzung setzt eine Kenntnis von konkret drohenden
+– Kinderhochstühle im Internet III). Die Vorschaubilder werden in einem
+automatisierten Verfahren angezeigt, ohne dass sie der Bekl. vorher zur Kenntnis
+gelangen. Eine mittäterschaftliche Haftung der Bekl. kann auch nicht mit der vom
+BerGer. gegebenen Begründung angenommen werden, wegen der Funktionsweise der
+Google-Suchmaschine lasse sich eine urheberrechtswidrige Anzeige von Fotografien
+prinzipiell nie sicher ausschließen. Der Umstand, dass die Bekl. mit gelegentlichen
+Urheberrechtsverletzungen bei der Präsentation von Vorschaubildern gerechnet haben
+mag, begründet keine Kenntnis von einer urheberrechtswidrigen Anzeige gerade der in
+Rede stehenden Fotografien.
+224. Die Bekl. hat durch die Anzeige der Fotografien als Vorschaubilder auf ihrer
+Internetseite kein unbenanntes ausschließliches Recht der Kl. zur öffentlichen
+Wiedergabe der Lichtbilder (§ 15 II UrhG) täterschaftlich verletzt.
+23a) Gemäß § 15 II 1 UrhG hat der Urheber das ausschließliche Recht, sein Werk in
+unkörperlicher Form öffentlich wiederzugeben (Recht der öffentlichen Wiedergabe).
+Dieses Recht umfasst nach § 15 II 2 UrhG insbesondere das Vortrags-, Aufführungsund Vorführungsrecht (§ 19 UrhG), das Recht der öffentlichen Zugänglichmachung (§ 19 a UrhG), das Senderecht (§ 20 UrhG), das Recht der Wiedergabe durch Bild- oder
+Tonträger (§ 21 UrhG) sowie das Recht der Wiedergabe von Funksendungen und von
+öffentlicher Zugänglichmachung (§ 22 UrhG). Die Vorschrift des § 15 II UrhG enthält
+keine abschließende, sondern eine beispielhafte („insbesondere“) Aufzählung der dem
+Urheber vorbehaltenen Verwertungsrechte und lässt deshalb die Anerkennung
+unbenannter Verwertungsrechte der öffentlichen Wiedergabe zu (vgl. BGHZ 156, 1 [13]
+Die Realität II).
+24Insofern ist zu berücksichtigen, dass § 15 II UrhG die Bestimmung des Art. 3 I der RL
+2001/29/EG zur Harmonisierung bestimmter Aspekte des Urheberrechts und der
+verwandten Schutzrechte in der Informationsgesellschaft umsetzt, durch die das Recht
+der öffentlichen Wiedergabe vollständig harmonisiert worden ist (vgl. EuGH,
+Svensson/Retriever Sverige). Ein unbenanntes Recht der öffentlichen Wiedergabe ist
+daher in richtlinienkonformer Auslegung von § 15 II UrhG anzunehmen, soweit Art. 3 I
+der RL 2001/29/EG weitergehende Rechte als die in § 15 II 2 UrhG benannten Rechte
+2273 Ls. – Die Realität II; BGH, GRUR 2017, 514 = WRP 2017, 569 Rn. 17 – Cordoba).
+Nach Art. 3 I der RL 2001/29/EG sehen die Mitgliedstaaten vor, dass den Urhebern das
+ausschließliche Recht zusteht, die drahtgebundene oder drahtlose öffentliche
+Wiedergabe ihrer Werke einschließlich der öffentlichen Zugänglichmachung der Werke
+in der Weise, dass sie Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl
+zugänglich sind, zu erlauben oder zu verbieten.
+25b) Die hier in Rede stehende Wiedergabe fällt in den Anwendungsbereich von Art. 3
+I der RL 2001/29/EG.
+26aa) Das Recht zur öffentlichen Wiedergabe iSv Art. 3 I der RL 2001/29/EG umfasst
+nur die Wiedergabe an eine Öffentlichkeit, die nicht an dem Ort anwesend ist, an dem
+die Wiedergabe ihren Ursprung nimmt (vgl. Erwägungsgrund 23  der RL). Nicht
+erfasst sind direkte Aufführungen und Darbietungen von Werken vor einer
+Öffentlichkeit,
+
+die sich in unmittelbarem körperlichen Kontakt mit der Person befindet, die dieses
+Werk aufführt oder darbietet (EuGH, ECLI:EU:C:2011:631 = Slg. 2011, I-09083 = GRUR
+und Murphy; EuGH, ECLI:EU:C:2011:772 = Slg. 2011, I-12031 [12033] = GRUR Int 2012,
+156 Rn. 35 f. – UCMR- ADA/Zirkus Globus; BGH, GRUR 2017, 514 Rn. 19 – Cordoba).
+27bb) Bei der vorliegend in Rede stehenden Anzeige der Fotografien als Vorschaubilder
+auf der Webseite der Bekl. hat kein unmittelbarer körperlicher Kontakt zwischen den
+ein Werk aufführenden oder darbietenden Personen und einer durch diese Wiedergabe
+erreichten Öffentlichkeit bestanden. Es hat daher eine Wiedergabe an eine
+Öffentlichkeit vorgelegen, die an dem Ort, an dem die Wiedergabe ihren Ursprung
+genommen hat, nicht anwesend war.
+28c) Der Begriff der „öffentlichen Wiedergabe“ erfordert eine individuelle Beurteilung.
+Er hat zwei Tatbestandsmerkmale, nämlich eine Handlung der Wiedergabe (dazu B III
+4 d) und die Öffentlichkeit dieser Wiedergabe (dazu B III 4 e). Ferner sind eine Reihe
+weiterer Kriterien zu berücksichtigen, die unselbstständig und miteinander verflochten
+sind (dazu B III 4 f). Da diese Kriterien im jeweiligen Einzelfall in sehr unterschiedlichem
+Maß vorliegen können, sind sie einzeln und in ihrem Zusammenwirken mit den anderen
+1152 = WRP 2016, 1347 Rn. 32-34 – GS Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300
+Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 = WRP 2017, 936 Rn. 23–
+25 – Stichting Brein/XS 4ALL). Bei der danach gebotenen individuellen Beurteilung des
+Streitfalls hat die Bekl. durch die Anzeige der Fotografien als Vorschaubilder auf ihrer
+Internetseite das ausschließliche Recht zur öffentlichen Wiedergabe nicht verletzt.
+29d) Die Bekl. hat durch die verkleinerte Anzeige der Fotografien auf ihrer Internetseite
+eine Handlung der Wiedergabe der Lichtbilder vorgenommen.
+30aa) Der Begriff der Wiedergabe ist im Blick auf das Hauptziel der RL 2001/29/EG, ein
+hohes Schutzniveau für die Urheber sicherzustellen (vgl. Erwägungsgründe 4 und 9 der
+RL), weit zu verstehen (vgl. Erwägungsgrund 23 der RL; EuGH, ECLI:EU:C:2014:76 =
+ECLI:EU:C:2016:644 = GRUR 2016, 1152 Rn. 29 – GS Media/Sanoma ua). Er erfasst
+jede Übertragung eines geschützten Werks unabhängig vom eingesetzten technischen
+156 Rn. 186 u. 193– Football Association Premier League und Murphy; EuGH,
+ECLI:EU:C:2014:110 = GRUR 2014, 473 = WRP 2014, 418 Rn. 23 u. 25– OSA/Léčebné
+Training/GEMA). Eine Wiedergabe setzt voraus, dass der Nutzer in voller Kenntnis der
+Folgen seines Verhaltens – also absichtlich und gezielt – Dritten einen Zugang zum
+geschützten Werk verschafft, ohne dass es darauf ankommt, ob die Dritten den Zugang
+Svensson/Retriever Sverige; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 36 –
+Stichting Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 31 –
+Stichting Brein/XS 4ALL). Ein solcher Zugang wird geschaffen, wenn auf einer
+Internetseite anklickbare Links zu geschützten Werken bereitgestellt werden, die auf
+einer anderen frei zugänglichen Internetseite veröffentlicht sind (vgl. EuGH,
+Svensson/Retriever Sverige; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 37 –
+Stichting Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 32 –
+Stichting Brein/XS 4ALL).
+31bb) Nach diesen Kriterien ist der von der Bekl. zur Verfügung gestellte elektronische
+Verweis auf den Bildersuchdienst Google als Handlung der Wiedergabe einzustufen.
+Durch die Bereitstellung der Suchfunktion hat die Bekl. in voller Kenntnis der Folgen
+ihres Verhaltens – also absichtlich und gezielt – den Nutzern ihrer Internetseite
+ermöglicht, mithilfe der Eingabe von Suchbegriffen die auf den Servern von Google
+gespeicherten Vorschaubilder aufzurufen (vgl. EuGH, ECLI:EU:C:2017:456 = GRUR
+2017, 790 Rn. 36 – Stichting Brein/XS 4ALL). Dabei kommt es nicht darauf an, ob die
+Nutzer diesen Zugang tatsächlich genutzt haben (vgl. BGH, GRUR 2016, 171 Rn. 23 =
+32cc) Die Revisionserwiderung macht ohne Erfolg geltend, die Bekl. habe den
+Internetnutzern den Zugang speziell zu den streitgegenständlichen Fotografien nicht
+bewusst und in voller Kenntnis ihres Verhaltens vermittelt. Sie habe ihre Suchmaske
+lediglich über einen allgemeinen Link mit der Suchmaschine Google verbunden, die
+ihrerseits in einem automatisch-technischen Prozess eine Vielzahl von Webseiten
+überprüft und die aufgefundenen Fotografien anhand von Suchbegriffen indexiert
+habe. Durch die Eingabe der indexierten Suchbegriffe auf der Webseite der Bekl. hätten
+die Internetnutzer die Vorschaubilder ohne deren Kenntnis und Kontrolle aufgerufen.
+33Nach der Rechtsprechung des EuGH genügt es für eine Handlung der Wiedergabe,
+dass der Nutzer Dritten wissentlich und willentlich ermöglicht, auf urheberrechtlich
+geschützte Werke zuzugreifen (vgl. EuGH, ECLI:EU:C:2012:141 = GRUR 2012, 597 Rn.
+2017, 610 Rn. 41 – Stichting Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017,
+790 Rn. 36 – Stichting Brein/XS 4ALL). Er muss keine konkrete Kenntnis von den
+einzelnen zugänglich gemachten Werken besitzen (vgl. v. Ungern-Sternberg in
+Schricker/Loewenheim, § 15 UrhG Rn. 79; ders., GRUR 2012, 576 [578]; Ohly, GRUR
+2016, 1155 [1156]; Leistner, ZUM 2016, 980 [982]; Neubauer/Soppe, GRUR 2017, 615
+[616]).
+34e) Die Wiedergabe der Fotografien als Vorschaubilder auf der Internetseite der Bekl.
+ist iSv Art. 3 I der RL 2001/29/EG öffentlich erfolgt.
+35aa) Der Begriff der Öffentlichkeit ist nur bei einer unbestimmten Zahl potenzieller
+Adressaten und recht vielen Personen erfüllt. Hinsichtlich des letztgenannten
+Kriteriums ist die kumulative Wirkung zu beachten, die sich aus der
+Zugänglichmachung der Werke bei den potenziellen Adressaten ergibt. Daher kommt
+es nicht nur darauf an, wie viele Personen gleichzeitig Zugang zu demselben Werk
+haben, sondern auch, wie viele von ihnen nacheinander Zugang zu diesem Werk haben
+(vgl. EuGH, ECLI:EU:C:2006:764 = Slg. 2006, I-11519 [11543] = GRUR 2007, 225 Rn. 37 f.
+WRP 2013, 618 Rn. 32 f. – ITV Broadcasting/TVC; EuGH, ECLI:EU:C:2014:76 = NJW
+2014, 759 = GRUR 2014, 360 Rn. 21 – Svensson/
+
+Retriever Sverige; EuGH, ECLI:EU:C:2016:644 = GRUR 2016, 1152 Rn. 36 – GS
+Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 44 – Stichting
+Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 41 – Stichting
+Brein/XS 4ALL).
+36bb) Die Bekl. verschafft einer unbestimmten und recht großen Zahl von Personen
+Zugang zu den Fotografien. Die Lichtbilder können durch alle Internetnutzer, die die
+passenden Suchbegriffe in die Suchmaske auf der Webseite der Bekl. eingeben,
+wahrgenommen werden. Die Revisionserwiderung macht vergeblich geltend, die
+Anzeige der Vorschaubilder beruhe auf einem individuellen Suchvorgang des
+jeweiligen Nutzers. Entscheidend ist, dass die Bekl. diesen Suchvorgang einer
+unbestimmten Vielzahl von Internetnutzern ermöglicht.
+37f) Geht der Tathandlung der öffentlichen Wiedergabe eine öffentliche Wiedergabe
+voraus, so ist für ihre Einstufung als erlaubnispflichtige „öffentliche Wiedergabe“ iSv
+Art. 3 I der RL 2001/29/EG erforderlich, dass das geschützte Werk unter Verwendung
+eines technischen Verfahrens, das sich von dem bisher verwendeten unterscheidet,
+oder – ansonsten – für ein neues Publikum wiedergegeben wird. Erfolgt die
+nachfolgende öffentliche Wiedergabe nach einem spezifischen technischen Verfahren,
+das sich von demjenigen der ursprünglichen öffentlichen Wiedergabe unterscheidet,
+braucht nicht geprüft zu werden, ob das Werk für ein neues Publikum wiedergegeben
+wird; in einem solchen Fall bedarf die öffentliche Wiedergabe ohne Weiteres der
+Erlaubnis des Urheberrechtsinhabers (vgl. EuGH, ECLI:EU:C:2006:764 = GRUR 2007,
+2012, 156 Rn. 197 – Football Association Premier League und Murphy; EuGH,
+ECLI:EU:C:2013:147 = GRUR 2013, 500 Rn. 39 u. 24-26– ITV Broadcasting/TVC; EuGH,
+1441 Rn. 14 – BestWater International/Mebes und Potsch; EuGH, ECLI:EU:C:2017:300
+= GRUR 2017, 610 Rn. 33 – Stichting Brein/Wullems; EuGH, ECLI:EU:C:2017:456 =
+GRUR 2017, 790 Rn. 28 – Stichting Brein/XS 4ALL).
+38aa) Im Streitfall sind die Fotografien nicht nach einem technischen Verfahren
+wiedergegeben worden, das sich von demjenigen der ursprünglichen Wiedergabe
+unterscheidet.
+39(1) Erfolgen die ursprüngliche und die nachfolgende Wiedergabe im Internet, handelt
+759 = GRUR 2014, 360 Rn. 24 – Svensson/Retriever Sverige; EuGH,
+2016, 1152 Rn. 42 – GS Media/Sanoma ua).
+40(2) Bevor die Aufnahmen auf der Webseite der Bekl. als Vorschaubilder angezeigt
+worden sind, waren sie im Internetportal der Kl. und auf den Internetseiten „www. ...“
+und „www. ...“ eingestellt und dort für eine unbestimmte Vielzahl von Nutzern
+einsehbar. Auf den zuletzt genannten Internetseiten sind sie von der Suchmaschine
+Google aufgefunden, auf deren Servern als Vorschaubilder gespeichert, von dort im
+Zuge von Suchvorgängen abgerufen und auf der Webseite der Bekl. angezeigt worden.
+Die beanstandete öffentliche Wiedergabe und die vorherigen öffentlichen Wiedergaben
+sind damit jeweils im Internet und daher nach demselben technischen Verfahren
+erfolgt.
+41bb) Das BerGer. hat – in anderem Zusammenhang – angenommen, die Bekl. habe
+die Fotografien nicht öffentlich wiedergegeben, weil sie diese keinem neuen Publikum
+zugänglich gemacht habe. Diese Beurteilung hält der rechtlichen Nachprüfung nicht
+stand. Eine öffentliche Wiedergabe der Fotografien iSv Art. 3 I der RL 2001/29/EG kann
+im Streitfall auf der Grundlage der vom BerGer. getroffenen Feststellungen nicht mit
+der Begründung verneint werden, die Bekl. habe die Fotografien nicht für ein neues
+Publikum wiedergegeben.
+42(1) Eine öffentliche Wiedergabe für ein neues Publikum setzt voraus, dass sie sich
+an ein Publikum richtet, an das der Inhaber des Urheberrechts nicht dachte, als er die
+ursprüngliche öffentliche Wiedergabe erlaubte (vgl. EuGH, ECLI:EU:C:2014:76 = NJW
+2014, 759 = GRUR 2014, 360 Rn. 24 – Svensson/Retriever Sverige; EuGH,
+International/Mebes und Potsch; EuGH, ECLI:EU:C:2016:644 = GRUR 2016, 1152 Rn. 37
+– GS Media/Sanoma ua).
+43Das kann der Fall sein, wenn auf einer Internetseite anklickbare Links zu
+urheberrechtlich geschützten Werken gesetzt werden, die auf der anderen Internetseite
+aufgrund beschränkender Maßnahmen nur einem begrenzten Publikum zugänglich
+sind. Ermöglicht der Link es den Internetnutzern, die beschränkenden Maßnahmen zu
+umgehen, so sind diese Nutzer als neues Publikum anzusehen, das der
+Urheberrechtsinhaber nicht erfassen wollte, als er die ursprüngliche öffentliche
+360 Rn. 31 – Svensson/Retriever Sverige; EuGH, ECLI:EU:C:2016:644 = GRUR 2016,
+1152 Rn. 50 – GS Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn.
+– Session-ID).
+44Etwas anderes gilt, wenn auf einer Webseite anklickbare Links zu urheberrechtlich
+geschützten Werken bereitgestellt werden, die auf einer anderen Webseite mit
+Erlaubnis des Urheberrechtsinhabers für alle Internetnutzer frei zugänglich sind. In
+einem solchen Fall ist davon auszugehen, dass der Rechtsinhaber bei seiner Erlaubnis
+alle potenziellen Besucher dieser Webseite und damit alle Internetnutzer vor Augen
+hatte. Werden die dort eingestellten Werke den Nutzern einer anderen Webseite über
+einen anklickbaren Link zugänglich gemacht, sind diese Nutzer als potenzielle
+Adressaten der ursprünglichen Wiedergabe und damit als Mitglieder der Öffentlichkeit
+anzusehen, die der Urheberrechtsinhaber erfassen wollte, als er die ursprüngliche
+Wiedergabe erlaubte. Eine solche Wiedergabe erfolgt nicht gegenüber einem neuen
+Publikum und bedarf daher nicht nach Art. 3 I der RL 2001/29/EG der Erlaubnis des
+148 = GRUR 2014, 1196 Rn. 15 f. – BestWater International/Mebes und Potsch; EuGH,
+Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 48 – Stichting
+Brein/Wullems).
+45(2) Von diesen Grundsätzen ist auch das BerGer. ausgegangen. Es hat
+angenommen, da die Fotografien auf den Internetseiten „www. ...“ und „www. ...“ frei
+auffindbar
+
+gewesen seien, liege eine rechtsverletzende Nutzungshandlung der Bekl. nur vor, wenn
+die Kl. die Fotografien durch die Einstellung in ihr Internetportal lediglich einem
+begrenzten Nutzerkreis habe zugänglich machen wollen und die Aufnahmen von ihrem
+Internetportal unter Verletzung von Nutzungsbeschränkungen der Besucher ins frei
+zugängliche Internet gelangt seien. Für diesen Umstand sei die Kl. darlegungs- und
+beweisbelastet, weil die Wiedergabe für ein neues Publikum ein
+anspruchsbegründendes Tatbestandsmerkmal der öffentlichen Wiedergabe darstelle
+und es sich bei den Beschränkungen der Nutzungsmöglichkeit und den Bedingungen
+für die Nutzung des Internetportals der Kl. um Interna handele, die sie – anders als die
+Bekl. – ohne Weiteres darlegen und beweisen könne. Die Kl. habe zwar substanziiert
+dargelegt, dass die Fotografien nur in dem für registrierte Nutzer zugänglichen und
+passwortgesicherten Bereich ihres Internetangebots eingestellt gewesen seien und sie
+ihren Kunden das Recht zur Speicherung der Bilddateien auf den eigenen Rechnern,
+aber nicht zur Einstellung in andere Internetseiten eingeräumt habe. Ein
+entsprechender Beweis sei ihr aber nicht gelungen. Nach dem Ergebnis der
+Beweisaufnahme bleibe die Möglichkeit bestehen, dass die Bilddateien mit Billigung
+der Kl. ins frei zugängliche Internet gelangt seien. Diese Beurteilung ist nicht frei von
+Rechtsfehlern.
+46(3) Die Revision macht allerdings ohne Erfolg geltend, da die Bekl. die Suchfunktion
+als Teil ihres Geschäftsmodells anbiete, sei nach der Rechtsprechung des EuGH zu
+vermuten, dass die als Vorschaubilder angezeigten Fotografien auf den von der
+Suchmaschine Google aufgefundenen Internetseiten unbefugt veröffentlicht worden
+seien. Der Gerichtshof ist für Hyperlinks, die in Gewinnerzielungsabsicht zu anderen
+Webseiten mit unbefugt veröffentlichten Werken gesetzt worden sind, von einer
+widerleglichen Vermutung ausgegangen, dass die Links in voller Kenntnis einer
+fehlenden Erlaubnis der Urheberrechtsinhaber gesetzt worden sind (vgl. EuGH,
+Rn. 49 – Stichting Brein/Wullems). Gegenstand der Vermutung ist danach nicht das
+Fehlen der Erlaubnis des Urheberrechtsinhabers, sondern die Kenntnis des Nutzers von
+der fehlenden Erlaubnis des Rechtsinhabers.
+47(4) Das BerGer. ist aber zu Unrecht davon ausgegangen, die Kl. treffe die Beweislast
+dafür, dass sie die Fotografien ausschließlich in den passwortgeschützten Bereich
+ihres Internetportals eingestellt hat. Entgegen der Ansicht des BerGer. trägt die Bekl.
+die Beweislast dafür, dass die Bilder in den frei zugänglichen Bereich des
+Internetportals der Kl. eingestellt waren. Danach kann auf der Grundlage der vom
+BerGer. getroffenen Feststellungen nicht davon ausgegangen werden, dass die Kl. die
+in Rede stehenden Fotografien bereits allen Internetnutzern frei zugänglich gemacht
+und die Bekl. die Lichtbilder auf ihrer Webseite daher nicht für ein neues Publikum
+wiedergegeben hat.
+48Die Bestimmung des Art. 3 I der RL 2001/29/EG sieht vor, dass jede Handlung der
+öffentlichen Wiedergabe eines Werks vom Urheberrechtsinhaber erlaubt werden muss
+Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 47 – Stichting
+Brein/Wullems). Die Kl. hat vorgetragen, die Bekl. habe die Fotografien als
+Vorschaubilder auf ihrer Internetseite veröffentlicht. Damit hat sie eine Handlung der
+öffentlichen Wiedergabe dargelegt, die nach Art. 3 I der RL 2001/29/EG der Erlaubnis
+der Kl. als ausschließlich Nutzungsberechtigter bedurfte. Die Bekl. hat eingewandt,
+eine Erlaubnis der Kl. sei nicht erforderlich gewesen, weil diese die Fotografien in ihrem
+Internetportal bereits für alle Internetnutzer einsehbar veröffentlicht habe und die
+Vorschaubilder deshalb nicht für ein neues Publikum wiedergeben würden. Für die
+tatsächlichen Voraussetzungen dieser rechtshindernden Einwendung ist nach
+allgemeinen Grundsätzen die Bekl. beweisbelastet (zu § 17 II UrhG vgl. BGH, GRUR
+= GRUR 2005, 505 [506] = WRP 2005, 622 – Atlanta; zu § 24 I MarkenG vgl. EuGH,
+Ls. – Van Doren ua/Lifestyle [Stüssy]; BGH, GRUR 2000, 879 [880] = WRP 2000, 1280 –
+stüssy; GRUR 2012, 626 = WRP 2012, 81 Rn. 26 u. 30– CONVERSE I).
+49Eine andere Verteilung der Beweislast ergibt sich entgegen der Ansicht des BerGer.
+nicht daraus, dass es sich bei der Anmeldung im Internetportal der Kl. und den
+eingerichteten Zugangsbeschränkungen um Umstände aus ihrer Geschäftssphäre
+handelt. Hat die primär darlegungspflichtige Partei keine nähere Kenntnis der
+maßgeblichen Umstände und keine Möglichkeit zur weiteren Sachverhaltsaufklärung,
+während dem Prozessgegner nähere Angaben dazu ohne Weiteres möglich und
+zumutbar sind, so trifft den Gegner zwar regelmäßig eine sekundäre Darlegungslast
+Darlegungslast nicht nach, gilt der Vortrag der primär darlegungsbelasteten Partei
+nach § 138 III ZPO als zugestanden (vgl. BGH, NJW-RR 2006, 552 Rn. 11; GRUR 2012,
+626 Rn. 28 – CONVERSE I). Die sekundäre Darlegungslast führt jedoch nicht zu einer
+BerGer. ist zutreffend davon ausgegangen, dass die Kl. die Einrichtung eines
+passwortgesicherten Bereichs in ihrem Internetportal und die Einstellung der
+Fotografien in diesen Bereich substanziiert dargelegt hat. Ihr Vortrag genügt daher den
+Anforderungen an eine sekundäre Darlegungslast. Dann aber bleibt die Bekl. dafür
+beweisbelastet, dass die Lichtbilder auch im frei zugänglichen Bereich der Internetseite
+der Kl. eingestellt waren.
+50(5) Mit der vom BerGer. gegebenen Begründung kann auch nicht angenommen
+werden, die Bekl. habe die Lichtbilder auf ihrer Webseite nicht für ein neues Publikum
+wiedergegeben, weil die Kl. den Nutzern ihres Internetportals das Recht zur Einstellung
+der Fotografien in andere Internetseiten – und so auch in die von der Suchmaschine
+Google aufgefundenen Webseiten „www. ...“ und „www. ...“ – eingeräumt habe.
+Entgegen der Ansicht des BerGer. hat nicht die Kl. zu beweisen, dass sie ihren Kunden
+keine Erlaubnis zur Einstellung der Fotografien ins Internet erteilt hat, sondern obliegt
+der Bekl. der Nachweis, dass die Kl. eine solche Erlaubnis erteilt hat.
+51Nach Art. 3 I der RL 2001/29/EG bedarf jede Handlung der öffentlichen Wiedergabe
+eines Werks der Erlaubnis des Urheberrechtsinhabers. Die Frage, ob der Rechtsinhaber
+der öffentlichen Wiedergabe des geschützten Werks zugestimmt hat, betrifft ein
+Tatbestandsmerkmal, das einen Eingriff in sein Ausschließlichkeitsrecht verhindert
+2016, 370 [372]; Leistner in Schricker/Loewenheim, § 97 UrhG Rn. 25; aA OLG München,
+GRUR-RR 2016, 495 = WRP 2016, 1415 Rn. 26; vgl.
+
+auch Rauer/Ettig, WRP 2016, 1319 Rn. 18). Wer eine Handlung der öffentlichen
+Wiedergabe vornimmt, hat daher darzulegen und erforderlichenfalls zu beweisen, dass
+diese Handlung durch eine vom Rechtsinhaber erteilte Erlaubnis gedeckt ist (vgl. BGHZ
+= WRP 2011, 913 = NJOZ 2011, 1729 Rn. 29 – Der Frosch mit der Maske; BGH, NJOZ
+2014, 296 = ZUM-RD 2013, 514 Rn. 24).
+52Die Bekl. hat eine Handlung der öffentlichen Wiedergabe vorgenommen, indem sie
+Fotografien auf ihrer Webseite als Vorschaubilder angezeigt hat. Das BerGer. hat
+rechtsfehlerfrei angenommen, die Kl. sei der Behauptung der Bekl., sie gestatte ihren
+Kunden, die aus dem passwortgeschützten Bereich heruntergeladenen Fotografien ins
+frei zugängliche Internet einzustellen, substanziiert entgegengetreten. Unter diesen
+Umständen obliegt der Bekl. der Beweis für die behauptete Erlaubnis der Kl. Entgegen
+der Ansicht des BerGer. besteht keine tatsächliche Vermutung, dass die Einstellung
+von urheberrechtlich geschützten Werken auf frei zugänglichen Internetseiten vom
+– Vorschaubilder II).
+53g) Die Annahme des BerGer., die Bekl. habe das ausschließliche Recht der Kl. zur
+öffentlichen Wiedergabe der Lichtbilder nicht verletzt, stellt sich aber aus anderen
+Gründen als richtig dar (§ 561 ZPO). Die Anzeige der Vorschaubilder auf der
+Internetseite der Bekl. ist nicht als rechtsverletzend anzusehen, weil für die Bekl. nicht
+erkennbar war, dass die von der Bildersuchmaschine Google aufgefundenen
+Fotografien unbefugt im frei zugänglichen Internet veröffentlicht waren.
+54aa) Das Setzen von Hyperlinks auf eine Internetseite mit geschützten Werken, die
+auf einer anderen Internetseite ohne Erlaubnis des Urheberrechtsinhabers frei
+zugänglich sind, stellt nur dann eine „öffentliche Wiedergabe“ iSv Art. 3 I der RL
+2001/29/EG dar, wenn der Verlinkende die Rechtswidrigkeit der Veröffentlichung der
+Werke auf der anderen Internetseite kannte oder vernünftigerweise kennen konnte (vgl.
+Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 49 – Stichting
+Brein/Wullems).
+55Diese Einschränkung beruht auf der Erwägung, dass das Internet für die durch Art. 11 GRCh gewährleistete Meinungs- und Informationsfreiheit von besonderer
+Bedeutung ist und Hyperlinks zum guten Funktionieren des Internets und zum
+Meinungs- und Informationsaustausch in diesem Netz beitragen, das sich durch die
+Verfügbarkeit immenser Informationsmengen auszeichnet (vgl. EuGH,
+ua). Die unübersehbare Informationsfülle im Internet könnte ohne den Einsatz von
+Hyperlinks zur Verknüpfung der dort zugänglichen Dateien nicht erschlossen werden
+für Einzelpersonen, die Links auf frei zugängliche andere Webseiten setzen wollen,
+kann es schwierig sein zu überprüfen, ob die auf den anderen Webseiten eingestellten
+Werke mit Zustimmung der Urheberrechtsinhaber im Internet veröffentlicht sind (vgl.
+Media/Sanoma ua). Die Funktionalität des Internets würde unangemessen
+beeinträchtigt, wenn die Internetnutzer Hyperlinks zu auf anderen Webseiten frei
+zugänglichen Werken zögerlicher setzten, weil sie sich dem Risiko einer Klage wegen
+einer Urheberrechtsverletzung ausgesetzt sähen (vgl. Schlussanträge des
+80592 – GS Media/Sanoma ua). Im Blick darauf ist die Bereitstellung eines Hyperlinks
+nur dann als „öffentliche Wiedergabe“ iSv Art. 3 I der RL 2001/29/EG anzusehen, wenn
+der Betreffende wusste oder hätte wissen müssen, dass der von ihm gesetzte Link
+Zugang zu einem unbefugt im Internet veröffentlichten Werk schafft, etwa weil er vom
+Urheberrechtsinhaber zuvor darauf hingewiesen wurde (vgl. EuGH, ECLI:EU:C:2016:644
+ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 49 – Stichting Brein/Wullems).
+56Die vorgenannten Erwägungen gelten in besonderem Maße für Hyperlinks, die – wie
+im Streitfall der von der Bekl. gesetzte Link – den Internetnutzern Zugang zu
+Suchmaschinen verschaffen. Suchmaschinen leisten als Hilfsmittel zum Auffinden von
+Inhalten im Internet einen wesentlichen Beitrag zur Informationsvermittlung. Sie
+gewährleisten im Interesse der Informationsgesellschaft die Funktionsfähigkeit des
+Internets. Ohne die Inanspruchnahme von Suchdiensten wäre die sinnvolle Nutzung
+der unübersehbaren Informationsfülle im Internet praktisch ausgeschlossen (vgl.
+nach Texten, sondern auch für die Suche nach Bildern (vgl. v. Ungern-Sternberg, GRUR
+2009, 369 [372]).
+57bb) Nach diesen Maßstäben stellt die Anzeige der Vorschaubilder auf der
+Internetseite der Bekl. keine die ausschließlichen Nutzungsrechte der Kl. verletzende
+öffentliche Wiedergabe iSv Art. 3 I der RL 2001/29/EG dar. Die Bekl. musste nicht
+vernünftigerweise damit rechnen, dass die Fotografien in die von der Suchmaschine
+Google aufgefundenen Webseiten unbefugt eingestellt worden waren.
+58(1) Die Revision macht erfolglos geltend, nach der Rechtsprechung des EuGH sei zu
+vermuten, dass die Bekl. die von der Suchmaschine Google aufgefundenen
+Vorschaubilder auf ihrer Webseite in Kenntnis ihrer unbefugten Veröffentlichung im frei
+zugänglichen Internet wiedergegeben habe.
+59(2) Der EuGH ist bei mit Gewinnerzielungsabsicht gesetzten Hyperlinks auf
+bestimmte andere Internetseiten, in die urheberrechtlich geschützte Werke
+rechtswidrig eingestellt sind, von einer widerleglichen Vermutung ausgegangen, dass
+die Hyperlinks in voller Kenntnis der fehlenden Erlaubnis des Urheberrechtsinhabers
+zur Veröffentlichung der geschützten Werke im Internet gesetzt worden sind. Diese
+Bewertung beruht auf der Annahme, dass von demjenigen, der Hyperlinks mit
+Gewinnerzielungsabsicht setzt, erwartet werden kann, dass er vor der öffentlichen
+Wiedergabe die erforderlichen Nachprüfungen vornimmt, um sich zu vergewissern,
+dass die betreffenden Werke auf den anderen Internetseiten nicht unbefugt
+2016, 1152 Rn. 51 – GS Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017,
+610 Rn. 49 – Stichting Brein/Wullems). Das gilt auch, wenn der Verlinkende nicht
+gerade durch die Linksetzung auf die fraglichen Werke, sondern mit seiner Internetseite
+insgesamt Gewinn – etwa in Form von Werbeeinnahmen – erzielen will (vgl. EuGH,
+ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 46 – Stichting
+
+Brein/XS 4ALL; LG Hamburg, GRUR-RR 2017, 216 Rn. 26; Volkmann, CR 2017, 36 [38];
+aA Fricke/Gerecke, AfP 2017, 25 [26 f.]; Neubauer/Soppe, GRUR 2017, 615 [616]; v.
+Ungern-Sternberg in Schricker/Loewenheim, § 15 UrhG Rn. 106).
+60(3) Die vom EuGH herangezogene Vermutung greift bei der gebotenen individuellen
+47 – GS Media/Sanoma ua; EuGH, ECLI:EU:C:2017:300 = GRUR 2017, 610 Rn. 28 –
+Stichting Brein/Wullems; EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 23 –
+Stichting Brein/XS 4ALL) unter Berücksichtigung der besonderen Bedeutung von
+Suchmaschinen für die Informationsvermittlung im Internet und damit die
+Funktionsfähigkeit des Internets nicht für Hyperlinks ein, die von einer mit
+Gewinnerzielungsabsicht betriebenen Internetseite zu einer Suchmaschine gesetzt
+werden. Vom Anbieter einer Suchmaschine kann vernünftigerweise nicht erwartet
+werden, dass er sich vergewissert, ob die von den Suchprogrammen aufgefundenen
+Abbildungen von Werken oder Lichtbildern rechtmäßig ins Internet eingestellt worden
+sind, bevor er diese Abbildungen als Vorschaubilder wiedergibt. Für einen
+Internetanbieter wie die Bekl., der den Besuchern seiner Webseite die Suchfunktion im
+Wege eines Links auf die Server des Suchmaschinenbetreibers zur Verfügung stellt, gilt
+nichts anderes.
+61Einer Pflicht des Anbieters einer Suchfunktion, Nachforschungen zur
+Rechtmäßigkeit der Veröffentlichung der von Suchmaschinen aufgefundenen
+Abbildungen anzustellen, stehen Aufgabe und Funktionsweise der Suchmaschinen
+entgegen. Der Zugriff einer Suchmaschine auf andere Internetseiten erfolgt nicht in der
+Weise, dass – wie in den vom EuGH entschiedenen Fällen – absichtlich und gezielt
+einzelne Hyperlinks auf bestimmte andere Internetseiten gesetzt werden.
+Suchmaschinen durchsuchen das frei zugängliche Internet in einem automatisierten
+Verfahren unter Einsatz von Computerprogrammen, wobei sie nicht danach
+unterscheiden können, ob der aufgefundene Inhalt von einem Berechtigten oder einem
+2012, 602 Rn. 28 – Vorschaubilder II). Eine (widerlegliche) Vermutung, dass der
+Betreiber eines Suchdienstes Kenntnis von der Rechtswidrigkeit der Veröffentlichung
+der aufgefundenen Werke hat, würde dazu führen, dass ihm eine allgemeine Pflicht zur
+Kontrolle der durch die Suchmaschine indexierten Inhalte auferlegt würde (vgl.
+Schlussanträge des Generalanwalt beim EuGH Szpunar vom 8.2.2017,
+62Eine allgemeine Kontrollpflicht wäre im Blick auf die Aufgabe von
+Internetsuchmaschinen unangemessen. Wegen ihrer essenziellen Bedeutung für die
+Nutzung des Internets dürfen keine Prüfpflichten statuiert werden, die den Betrieb von
+Suchmaschinen gefährden oder unverhältnismäßig erschweren (vgl. BGHZ 194, 339 =
+Haftung für Hyperlinks). Die Annahme einer – praktisch kaum zu bewerkstelligenden
+– allgemeinen Kontrollpflicht würde die Existenz von Suchmaschinen infrage stellen,
+weil sich die Betreiber dem unübersehbaren Risiko einer Inanspruchnahme durch eine
+Vielzahl von Urheberrechtsinhabern ausgesetzt sähen (vgl. Volkmann, CR 2017, 36
+[41]). Das würde dem Ziel der RL 2001/29/EG zuwiderlaufen, die Entwicklung der
+Informationsgesellschaft zu fördern (vgl. Erwägungsgrund 2 der RL).
+63Im Blick darauf kann die Kenntnis des Anbieters einer Suchfunktion, dass die von der
+Suchmaschine aufgefundenen Inhalte unbefugt ins Internet eingestellt worden sind,
+nicht vermutet werden, auch wenn das Angebot mit Gewinnerzielungsabsicht erfolgt
+GRUR 2016, 1155 [1157]; Rauer/Ettig, WRP 2016, 1319 Rn. 24; Volkmann, CR 2017, 36
+[41]). Vielmehr muss positiv festgestellt werden, dass der Anbieter der Suchfunktion
+von der fehlenden Erlaubnis des Rechtsinhabers zur Veröff. der Werke wusste oder
+hätte wissen müssen (vgl. EuGH, ECLI:EU:C:2017:456 = GRUR 2017, 790 Rn. 45 –
+Stichting Brein/XS 4ALL und die Schlussanträge des Generalanwalt beim EuGH
+Brein/XS 4ALL).
+64(4) Das BerGer. ist davon ausgegangen, es könne nicht festgestellt werden, dass die
+Bekl. bei der Wiedergabe der Fotografien als Vorschaubilder auf ihrer Internetseite am
+9. und 11.6.2009 wusste oder hätte wissen müssen, dass diese rechtswidrig ins frei
+zugängliche Internet eingestellt worden waren. Diese Beurteilung hält den Angriffen der
+Revision stand.
+65Die Revision macht erfolglos geltend, die Kl. habe bereits Ende 2008 die USamerikanische Muttergesellschaft der Bekl. in mehreren DMCA-Complaints darüber
+informiert, dass die Fotografien unter Verletzung ihrer ausschließlichen
+Nutzungsrechte als Vorschaubilder angezeigt worden seien. Das BerGer. hat es nicht
+als belegt angesehen, dass die DMCA-Complaints die hier in Rede stehenden
+Lichtbilder betrafen und sich auch auf ihre öffentliche Wiedergabe in Deutschland
+bezogen. Zudem könne aus den gesellschaftsrechtlichen Verknüpfungen nicht ohne
+Weiteres geschlossen werden, dass auch die Bekl. über die in den DMCA-Complaints
+mitgeteilten Informationen verfügt habe. Soweit die Revision dies anders sieht, ersetzt
+sie die tatrichterliche Beurteilung durch ihre eigene Einschätzung, ohne einen
+Rechtsfehler des BerGer. aufzuzeigen.
+66Die Revision führt vergeblich an, die Rechtswidrigkeit der Veröffentlichungen sei
+daran ersichtlich gewesen, dass die Fotografien nach dem von der Kl. gehaltenen
+Vortrag mit Copyright-Vermerken versehen gewesen seien. Es kann offenbleiben, ob in
+einem solchen Vermerk ein wirksamer Hinweis darauf gesehen werden kann, dass der
+Rechtsinhaber seine Zustimmung zur öffentlichen Wiedergabe der Fotografie auf die
+öffentliche Wiedergabe auf dieser Internetseite beschränkt (BGH, GRUR 2016, 171 Rn.
+Bekl. nicht erkennbar, weil die Suche, der Abruf und die Anzeige der Vorschaubilder in
+einem automatisierten Verfahren erfolgt sind.
+67(5) Danach hat die Bekl. erst durch die Abmahnung vom 16.6.2009 erfahren, dass
+die Fotografien ohne Erlaubnis der Kl. im frei zugänglichen Internet veröffentlicht
+waren. Hat der Nutzer Kenntnis davon erlangt, dass die öffentliche Wiedergabe der
+geschützten Werke unter Verletzung von Urheberrechten erfolgt ist, und arbeitet er
+nach Erlangung dieser Kenntnis nicht redlich darauf hin, den rechtswidrigen Zustand
+abzustellen, kann sein Verhalten so verstanden werden, dass er die Fortsetzung der
+widerrechtlichen Zugänglichmachung billigt, und als öffentliche Wiedergabe in
+Kenntnis der fehlenden Erlaubnis des Urheberrechtsinhabers angesehen werden (vgl.
+Schlussanträge des Generalanwalt beim EuGH Szpunar vom 8.2.2017,
+
+Brein/XS 4ALL). Von einem solchen Verhalten der Bekl. kann auf der Grundlage der
+vom BerGer. getroffenen Feststellungen nicht ausgegangen werden.
+68Das BerGer. hat angenommen, der Bekl. seien Prüf- oder Überwachungspflichten zur
+Verhinderung einer erneuten Anzeige der Fotografien auf ihrer Internetseite nicht
+zumutbar. Durch die Sperrung der Künstlernamen der abgebildeten Models als
+Suchbegriffe hätten die Lichtbilder nur in sehr geringem Maß herausgefiltert werden
+können. Soweit die Kl. den Einsatz einer Bilderkennungssoftware für angezeigt halte,
+habe sie nicht hinreichend dargelegt, dass eine solche Software mit einer gewissen
+Verlässlichkeit bestimmte Bilddateien erkennen sowie in funktionstüchtiger Weise in
+den Ablauf der Suchvorgänge und deren Anbindung an das Internetangebot der Bekl.
+integriert werden könnte. Diese Beurteilung hält der rechtlichen Nachprüfung im
+Ergebnis stand.
+69Soweit das BerGer. eine Pflicht der Bekl. zur Sperrung von Suchbegriffen verneint
+hat, weil dadurch die Anzeige der fraglichen Bilddateien nicht verlässlich verhindert
+werden könne, ist diese Annahme nicht frei von Rechtsfehlern. Die Eignung eines
+Wortfilters für die Erkennung von Urheberrechtsverletzungen wird nicht dadurch
+beseitigt, dass damit Verletzungshandlungen nicht vollständig erfasst werden können
+= ZUM-RD 2013, 514 Rn. 61). Die Bekl. hat jedoch einen Wortfilter in der Weise
+eingesetzt, dass sie die Pseudonyme der auf den Lichtbildern angezeigten Models als
+Suchbegriffe gesperrt hat.
+70Die Revision macht erfolglos geltend, das BerGer. habe die Anforderungen an einen
+schlüssigen Sachvortrag der Kl. zum Einsatz einer Bildfiltersoftware überspannt. Bei
+der Zumutbarkeit von Überwachungsmaßnahmen des Betreibers einer
+Internetplattform handelt es sich um eine anspruchsbegründende Voraussetzung,
+deren tatsächliche Grundlage regelmäßig der Anspruchsteller darzulegen hat (vgl.
+Bekl. hat eingewandt, sie könne eine Begrenzung der angezeigten Lichtbilder nur
+insoweit bewirken, als sie bestimmte Suchbegriffe sperre und dadurch verhindere,
+dass die Anfrage an die Suchmaschine Google weitergeleitet werde. Auf die
+technischen Abläufe der Crawlersuche, die vom Suchdienst Google technisch
+generierten Ergebnisse, die Indexierung der Inhalte und die – nicht bild-, sondern
+textgesteuerten – Bildersuchprozesse selbst könne sie keinen Einfluss nehmen. Unter
+diesen Umständen hätte es näherer Darlegungen der Kl. bedurft, in welcher Weise die
+Bekl. durch den Einsatz einer Bilderkennungssoftware den Zugriff auf bestimmte auf
+den Servern von Google gespeicherte Vorschaubilder hätte unterbinden können. Dass
+die von der Kl. angeführte Bilderkennungssoftware auf diese technischen
+Gegebenheiten zugeschnitten ist, ist nicht ersichtlich und macht auch die Revision
+nicht geltend.
+71Im Übrigen hat das BerGer. angenommen, die Kl. habe nicht bewiesen, dass nach
+der Inkenntnissetzung der Bekl. von der unerlaubten Einstellung der Fotografien ins frei
+zugängliche Internet die Lichtbilder erneut mithilfe der von dieser angebotenen
+Suchfunktion angezeigt worden sind. Die von der Kl. vorgelegten Internetausdrucke
+vom 16. und 21.7.2010 und vom 7.9.2015 ließen wegen der geringen Größe der
+gezeigten Vorschaubilder und der abweichenden Bildausschnitte keine verlässliche
+Beurteilung zu, dass es sich um dieselben Fotografien handelte. Bei den in den
+Screenshots vom 7.9.2015 gezeigten Bildausschnitten könne zudem nicht davon
+ausgegangen werden, dass sie unter Zuhilfenahme der von der Bekl. angebotenen
+Suchfunktion ermittelt worden seien. Gegen diese tatrichterliche Beurteilung hat die
+Revision keine Rügen erhoben.
+725. Die Revision wendet sich erfolglos gegen die Annahme des BerGer., die Bekl. hafte
+nicht als Störer für Verletzungen der ausschließlichen Nutzungsrechte der Kl., die Dritte
+durch die Einstellung der Fotografien ins frei zugängliche Internet begangen haben
+mögen.
+73a) Durch die Wendung „öffentlich zugänglich machen zu lassen“ im
+Unterlassungsantrag kommt entgegen der Ansicht des BerGer. hinreichend zum
+Ausdruck, dass die Kl. die Bekl. auch als Störer in Anspruch nimmt (vgl. BGH, NJW
+2013, 3245 = GRUR 2013, 1030 Rn. 20 – File-Hosting-Dienst). Das BerGer. hat jedoch
+mit Recht angenommen, dass die Voraussetzungen für eine Störerhaftung der Bekl.
+nicht vorliegen.
+74b) Als Störer kann bei der Verletzung absoluter Rechte in Anspruch genommen
+werden, wer – ohne Täter oder Teilnehmer zu sein – in irgendeiner Weise willentlich
+und adäquat-kausal zur Verletzung des geschützten Rechtsguts beiträgt. Als Beitrag
+kann auch die Unterstützung oder Ausnutzung der Handlung eines eigenverantwortlich
+handelnden Dritten genügen, sofern der in Anspruch Genommene die rechtliche und
+tatsächliche Möglichkeit zur Verhinderung dieser Handlung hatte. Da die Störerhaftung
+nicht über Gebühr auf Dritte erstreckt werden darf, die weder als Täter noch als
+Teilnehmer für die begangene Urheberrechtsverletzung in Anspruch genommen
+werden können, setzt die Haftung des Störers nach der Rechtsprechung des Senats die
+Verletzung von Prüf- oder Überwachungspflichten voraus. Deren Umfang bestimmt
+sich danach, ob und inwieweit dem als Störer in Anspruch Genommenen nach den
+Umständen des Einzelfalls eine Prüfung oder Überwachung zur Verhinderung von
+Verletzungshandlungen Dritter zuzumuten ist. Das richtet sich nach den jeweiligen
+Umständen des Einzelfalls unter Berücksichtigung der Funktion und Aufgabenstellung
+des als Störer in Anspruch Genommenen sowie mit Blick auf die Eigenverantwortung
+desjenigen, der die rechtswidrige Beeinträchtigung selbst unmittelbar vorgenommen
+= GRUR 2017, 617 = WRP 2017, 705 Rn. 11 – WLAN-Schlüssel).
+75c) Das BerGer. hat zutreffend angenommen, dass die Bekl. nicht als Störer haftet,
+weil sie keine Prüf- oder Überwachungspflichten verletzt hat.
+76aa) Die Bekl. traf im Blick auf eine Störerhaftung keine allgemeine – praktisch nicht
+umzusetzende – Überwachungspflicht, weil die angebotene Suchfunktion auf
+vielfältige Weise ohne eine Verletzung von Urheberrechten nutzbar ist und die Bekl.
+nicht durch eigene Maßnahmen die Gefahr einer rechtsverletzenden Nutzung durch
+andere Internetnutzer gefördert hat (vgl. Rn. 60–63; vgl. ferner BGHZ 194, 339 = NJW
+des Access-Providers). Eine Prüfpflicht der Bekl. konnte deshalb erst aus Anlass der
+Abmahnung vom 16.6.2009 entstehen, mit der sie davon in Kenntnis gesetzt worden
+ist, dass die Veröffentlichung der
+
+Fotografien im frei zugänglichen Internet die ausschließlichen Nutzungsrechte der Kl.
+77bb) Das BerGer. hat zu Recht angenommen, dass die Bekl. ihre durch die Abmahnung
+ausgelöste Prüfpflicht nicht verletzt hat. Es ist rechtsfehlerfrei davon ausgegangen,
+dass die Bekl. alle ihr technisch zumutbaren Maßnahmen ergriffen hat, um eine erneute
+Anzeige der Fotografien als Vorschaubilder auf ihrer Internetseite zu unterbinden, und
+nach der Abmahnung die Fotografien nicht mehr über die von der Bekl. angebotene
+Suchfunktion wiedergegeben worden sind (vgl. Rn. 67–71).
+78C. Ein Vorabentscheidungsersuchen an den EuGH nach Art. 267 III AEUV ist nicht
+veranlasst. Im Streitfall stellt sich keine entscheidungserhebliche Frage zur Auslegung
+der RL 2001/29/EG, die nicht durch die Rechtsprechung des EuGH geklärt oder
+zweifelsfrei zu beantworten ist (vgl. EuGH, ECLI:EU:C:1982:335 = Slg. 1982, 3415 =
+1152 Rn. 43 – AIFA/Doc Generici). Es ist anhand der vom Gerichtshof aufgestellten
+Beurteilungskriterien nicht zweifelhaft, dass eine öffentliche Wiedergabe
+urheberrechtlich geschützter Werke iSv Art. 3 I der RL 2001/29/EG durch den Anbieter
+einer Suchfunktion, der einen Link auf eine Suchmaschine setzt, nur in Betracht kommt,
+wenn der Urheberrechtsinhaber die Veröffentlichung der Werke im frei zugänglichen
+Internet nicht erlaubt hat und feststeht, dass der Anbieter der Suchfunktion davon
+Kenntnis hatte oder vernünftigerweise hätte haben können.
+79D. Danach ist die Revision gegen das Berufungsurteil auf Kosten der Kl. (§ 97 I ZPO)
+zurückzuweisen.
+Anmerkung
+Mit seinem Urteil setzt der BGH seine Rechtsprechung zur Anzeige von
+Vorschaubildern durch Suchmaschinen fort. Diese Entscheidung ist jedoch über den
+ihr zugrunde liegenden Sachverhalt hinaus von Bedeutung. Denn der BGH vollzieht jetzt
+bei der Auslegung des Rechts der öffentlichen Wiedergabe endgültig den vom EuGH
+vorgegebenen Paradigmenwechsel. Die zu § 15 II UrhG entwickelte Dogmatik ist
+Geschichte. Das Recht der öffentlichen Wiedergabe ist vollständig harmonisiert
+worden. Was eine öffentliche Wiedergabe ist, muss deshalb ausschließlich anhand der
+Kriterien ermittelt werden, die der EuGH zur Interpretation von Art. 3 der RL 29/2001/EG
+(Informationsgesellschafts-RL) entwickelt hat. Dies macht der BGH nun im
+vorliegenden Urteil. Im Grunde geht es dabei – anders als der Titel des Urteils nahelegt
+– aber nicht in erster Linie um die rechtliche Einordnung von Vorschaubildern, sondern
+um die Beurteilung der Verlinkung auf Vorschaubilder, die eine Suchmaschine
+bereitstellt. Der BGH stützt seine Erwägungen deshalb zutreffend vor allem auf die
+Entscheidungen, in denen der EuGH sich zur urheberrechtlichen Qualität von Links und
+Framings geäußert hat. Allerdings nimmt der BGH auf der Grundlage dieser
+Rechtsprechung eine „individuelle Betrachtung“ vor, mit der er der aus seiner Sicht
+besonderen Bedeutung von Suchmaschinen Rechnung tragen will.
+Der EuGH hat zu Recht entschieden, dass bei einer Verlinkung, die in
+Gewinnerzielungsabsicht erfolgt, ein strengerer Maßstab anzulegen ist als bei der
+Verlinkung auf urheberrechtlich geschützte Inhalte ohne eine solche Absicht.
+Ausgehend von dem Grundsatz, dass bei der Auslegung des Rechts der öffentlichen
+Wiedergabe ein hohes Schutzniveau für die Urheber sicherzustellen ist, hat der EuGH
+entschieden, dass die Verlinkung auf eine rechtswidrige Quelle im Internet eine
+(unzulässige) öffentliche Wiedergabe ist und dass bei einer Verlinkung in
+Gewinnerzielungsabsicht eine widerlegliche Vermutung besteht, dass der
+Linksetzende das Fehlen der Zustimmung des Rechteinhabers kannte. Der BGH hat in
+dem Urteil Vorschaubilder III jetzt entschieden, dass den Betreiber einer Suchmaschine
+eine solche Pflicht zur Nachforschung nicht treffe.
+Wenn Suchmaschinen auf diese Weise von Haftungsrisiken befreit werden, dann darf
+dies gleichwohl nicht dazu führen, dass die Rechte der Urheber verkürzt werden. Es
+muss deshalb gewährleistet sein, dass Rechteinhaber von Suchmaschinen in
+einfachen und schnellen Verfahren umgehend die Entfernung ihrer Werke aus den
+Suchergebnissen verlangen können, wenn sie eine rechtswidrige Nutzung im Internet
+festgestellt haben. Ob die Prozesse, die die Suchmaschinenbetreiber hierfür zur
+Verfügung stellen, diesen Anforderungen gerecht werden, ist fraglich.
+Der Markt für die Internetsuche wird von einem Unternehmen dominiert, dessen
+marktbeherrschende Stellung inzwischen von der Europäischen Kommission
+festgestellt worden ist. Die Rechtsprechung zum Urheberrecht darf das nicht
+ausblenden. Die Feststellung des BGH, dass Suchmaschinen eine besondere
+Bedeutung für das Internet haben und ihre Funktionsfähigkeit durch
+Nachforschungspflichten nicht beeinträchtigt werden darf, findet ihre Grenze deshalb
+jedenfalls dort, wo marktmächtige Unternehmen sehr wohl über hinreichende
+Ressourcen verfügen, um die Rechte der Urheber angemessen zu wahren, und diese
+Ressourcen nicht in der gebotenen Weise einsetzen. Das Urteil des BGH darf deshalb
+nicht als Freifahrtschein für Suchmaschinen missverstanden werden. Stattdessen
+wirft es ein Licht auf die im Kern nach wie vor ungelöste Frage nach der Verantwortung
+großer Internet-Plattformen für die öffentliche Wiedergabe fremder Werke, durch die
+diese Plattformen einen (erheblichen) eigenen wirtschaftlichen Vorteil erzielen.
+Rechtsanwalt Dr. Ole Jani, Berlin

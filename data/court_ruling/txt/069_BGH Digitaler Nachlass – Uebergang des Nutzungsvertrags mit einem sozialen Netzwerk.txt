@@ -1,0 +1,965 @@
+Netzwerk
+* Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem sozialen
+Netzwerk
+BGB §§ 1922 I, 307 I, II; TKG § 88; DS-GVO Art. 6 I, 99 I
+Beim Tod des Kontoinhabers eines sozialen Netzwerks geht der Nutzungsvertrag
+grundsätzlich nach § 1922 BGB auf dessen Erben über. Dem Zugang zu dem
+Benutzerkonto und den darin vorgehaltenen Kommunikationsinhalten stehen weder
+das postmortale Persönlichkeitsrecht des Erblassers noch das Fernmeldegeheimnis
+oder das Datenschutzrecht entgegen.
+BGH, Urteil vom 12.7.2018 – III ZR 183/17
+NJW-Übersicht
+NJW-Übersicht
+Rn.
+Anspruch auf Zugang
+
+Schuldrechtlicher Vertrag über Account
+
+Anwendbarkeit deutschen Rechts
+
+Übergang des Vertrags auf die Erben, § 1922 BGB
+
+– Vererbbarkeit nicht vertraglich ausgeschlossen
+
+– Keine Unvererbbarkeit aus Wesen des Vertrags
+
+– Keine Differenzierung nach Inhalt des Kontos
+
+Kein entgegenstehendes postmortales Persönlichkeitsrecht
+
+Anspruch scheitert nicht an Fernmeldegeheimnis
+
+Andere im Sinne des § 88 III TKG
+
+Erbe als Beteiligter der Kommunikation
+
+Vergleich mit analogen oder gespeicherten digitalen Daten
+
+Datenschutzrecht steht Anspruch nicht entgegen
+
+Anwendbarkeit der DS-GVO
+
+Keine datenschutzrechtlichen Belange der Erblasserin
+
+Keine entgegenstehenden datenschutzrechtlichen
+Belange der Kommunikationspartner
+
+– Datenverarbeitung durch Plattformbetreiberin
+
+– Zulässigkeit der Datenverarbeitung
+
+Art. 6 I Buchst. b und f DS-GVO als jeweils eigenständige Erlaubnistatbestände
+
+Kein Ausschluss wegen Allgemeinem Persönlichkeitsrecht der Kommunikationspartner
+
+Zum Sachverhalt
+Die Parteien streiten über den Zugang zum Benutzerkonto eines so genannten sozialen
+Netzwerks, das die Bekl. betreibt. Die Kl. beansprucht, den Zugang zu dem bei der Bekl.
+unterhaltenen Konto ihrer verstorbenen, minderjährigen Tochter und „den darin
+vorgehaltenen Kommunikationsinhalten“ zu gewähren. Sie ist neben deren Vater
+Mitglied der Erbengemeinschaft. Beide Elternteile waren zu Lebzeiten die gesetzlichen
+Vertreter der Erblasserin.
+Über das Netzwerk können die Nutzer miteinander internetbasiert über die Server der
+Bekl. kommunizieren und Inhalte austauschen. Dies umfasst etwa das Hochladen,
+Speichern und Teilen von Bildern, Videos oder Links zu anderen Webseiten, das
+Veröffentlichen („Posten“) von Kommentaren und Statusmeldungen sowie den
+Austausch und das Speichern von Nachrichten. Für die Nutzung des Netzwerks ist
+nach einer Registrierung die Eingabe von Kontozugangsdaten in Form von
+Benutzername und Passwort erforderlich. Die Dienste des sozialen Netzwerks werden
+durch die F mit Sitz in den USA und die Bekl. mit Sitz in Irland erbracht. Nach den
+Allgemeinen Geschäftsbedingungen von F ist die Bekl. Vertragspartnerin der Nutzer
+mit Wohnsitz außerhalb der USA.
+Am 4.1.2011 registrierte sich die Erblasserin im Alter von 14 Jahren mit Einverständnis
+ihrer Eltern beim sozialen Netzwerk der Bekl. und unterhielt dort ein Benutzerkonto
+(„Account“). Am Abend des 3.12.2012 verunglückte sie unter bisher ungeklärten
+Umständen tödlich, als sie in einem U-Bahnhof von einem einfahrenden Zug erfasst
+wurde.
+Die Kl. versuchte hiernach, sich unter Verwendung der Zugangsdaten ihrer Tochter in
+das Benutzerkonto der Erblasserin einzuloggen. Dies gelang jedoch nicht, weil die Bekl.
+das Konto nach Mitteilung des Todes der bisherigen Nutzerin durch einen Dritten am
+9.12.2012 in den so genannten Gedenkzustand versetzt hatte. In diesem ist ein Zugang
+zu dem Benutzerkonto auch mit den zutreffenden Zugangsdaten nicht mehr möglich.
+Das Konto an sich einschließlich der auf den Servern der Bekl. gespeicherten Inhalte
+bleibt aber bestehen, und die vom Verstorbenen geteilten Inhalte sind für die
+Zielgruppe, mit der sie geteilt wurden, weiterhin sichtbar. Die Kommunikationspartner
+(„Freunde“) des Verstorbenen können – abhängig von den Privatsphäreeinstellungen
+des Kontos – in der in den Gedenkzustand versetzten Chronik Erinnerungen teilen. Im
+Übrigen hat jedoch außer der Bekl. niemand mehr Zugriff auf den Kontoinhalt, zum
+Beispiel die gespeicherten Fotos und Nachrichten. Die Regelungen zum
+Gedenkzustand sind im Hilfebereich der Internetseite der Bekl. abrufbar. In den
+allgemeinen Nutzungsbedingungen wird hierauf nicht verwiesen.
+Die Kl. trägt vor, die Erbengemeinschaft benötige den Zugang zu dem Benutzerkonto,
+um Aufschluss darüber zu erhalten, ob die Erblasserin kurz vor ihrem Tod
+Suizidabsichten gehegt habe. Ferner benötige sie den Zugang, um
+Schadensersatzansprüche des U-Bahn-Fahrers abzuwehren. Die persönlichen
+Kommunikationsinhalte im Benutzerkonto ihrer Tochter seien an die
+Erbengemeinschaft vererbt worden. Dem stehe auch nicht der Schutz des
+Fernmeldegeheimnisses aus § 88 TKG entgegen, weil diese Regelung auf die Bekl.
+weder in persönlicher noch in sachlicher Hinsicht anwendbar sei. Jedenfalls sei die
+Beseitigung der durch den Gedenkzustand bewirkten Zugangssperre gerechtfertigt.
+Der Datenschutz zugunsten der Kommunikationspartner der Erblasserin trete im
+Rahmen der praktischen Konkordanz der betroffenen Grundrechtspositionen hinter
+den Zugangsanspruch der Erben zurück. Schließlich seien die Nutzungsbestimmungen
+zum Gedenkzustand, soweit überhaupt wirksam einbezogen, gem. § 307 I 1 BGB
+unwirksam.
+Das LG Berlin (ZD 2016, 182 = FamRZ 2016, 738) hat die Bekl. verurteilt, der
+Erbengemeinschaft Zugang zu dem vollständigen Benutzerkonto der Erblasserin und
+den darin vorgehaltenen Kommunikationsinhalten zu gewähren. Auf die Berufung der
+Bekl. hat das KG (ZD 2017, 386 = FamRZ 2017, 1348) die Klage abgewiesen. Mit der
+vom BerGer. zugelassenen Revision verfolgte die Kl. ihr Klagebegehren weiter. Die
+Revision der Kl. hatte Erfolg; sie führte zur Aufhebung des angefochtenen Urteils und
+zur Zurückweisung der Berufung der Bekl. und damit zur Wiederherstellung des
+klagezusprechenden Ersturteils.
+Aus den Gründen
+9I. Das BerGer. (KG, ZD 2017, 386 = FamRZ 2017, 1348) hat offen gelassen, ob die
+Erbengemeinschaft aus erbrechtlicher Sicht nach § 1922 BGB einen Anspruch auf
+Zugang zu dem Benutzerkonto der Erblasserin habe. Jedenfalls verbiete § 88 III 3 TKG
+der Bekl., den Eltern der Erblasserin den Inhalt und die Umstände der über das
+Benutzerkonto abgewickelten und auf den Servern der Bekl. noch gespeicherten
+Kommunikation mitzuteilen.
+10Als Betreiberin des sozialen Netzwerks sei die Bekl. Diensteanbieterin nach § 3 Nr.
+6 TKG, wenn hierüber Nachrichten und Inhalte ausgetauscht oder geteilt würden. Sie
+übertrage zwar nicht selbst Signale, müsse sich aber die fremde
+Signalübertragungsleistung der Telekommunikationsunternehmen zurechnen lassen.
+Außerdem sei die Bekl. Diensteanbieterin gem. § 2  Nr. 1 TMG, so dass – über § 3
+III Nr. 1, 2 und 4 TMG – nach § 7 III 2 TMG die Regelungen in § 88 III TKG Anwendung
+fänden.
+11Der Schutzbereich des § 88 TKG umfasse den Inhalt und die Umstände der über den
+Dienst der Bekl. ausgetauschten privaten Nachrichten und der mit einem begrenzten
+Nutzerkreis geteilten Inhalte. Dies gelte unabhängig von der Kenntnisnahme durch den
+Empfänger, solange der Kommunikationsinhalt auf den Servern der Bekl. gespeichert
+sei.
+12Insbesondere fehle es an einer gesetzlichen Erlaubnis zur Weitergabe von
+Telekommunikationsinhalten an die Erben nach § 88 III 3 TKG, die sich ausdrücklich
+auf Telekommunikationsvorgänge beziehe. Diese Voraussetzungen würden weder § 1922 BGB noch §§ 91 ff. TKG erfüllen. Die Erben seien auch nicht am
+Kommunikationsvorgang beteiligt und daher „andere“ iSv § 88 III 3 TKG. Das
+Fernmeldegeheimnis
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+müsse zudem nicht im Wege der praktischen Konkordanz hinter die Interessen der
+Erben zurücktreten, weil dieses keine Rechtfertigung für einen Eingriff ohne
+entsprechendes Gesetz biete.
+13Die Zugangsgewährung sei auch nicht aufgrund einer Einwilligung der
+Kommunikationsteilnehmer möglich. Ungeachtet dessen, ob die Erblasserin eine
+solche Einwilligung erteilt habe, fehle jedenfalls eine konkludente oder mutmaßliche
+Einwilligung ihrer Kommunikationspartner in die Weitergabe von
+Kommunikationsinhalten an die Erben.
+14Schließlich bestehe auch kein Schadensersatzanspruch nach §§ 280, 1922 BGB auf
+Rückgängigmachung des Gedenkzustands, weil die Bekl. zu dessen Einrichtung
+berechtigt gewesen sei. Das elterliche Sorgerecht habe mit dem Tod der Erblasserin
+geendet, und aus dem Totenfürsorgerecht lasse sich ein Zugangsanspruch ebenfalls
+nicht herleiten. Dies gelte auch für das allgemeine Persönlichkeitsrecht der Eltern und
+ihren Wunsch, Gewissheit über die Umstände und Hintergründe des Todes ihres Kindes
+zu erlangen. Da sich der Schutz- und Wirkungsbereich des BDSG auf lebende Personen
+beschränke, bestehe auch kein Auskunftsanspruch analog § 34 BDSG.
+15II. Das Berufungsurteil hält den Angriffen der Revision nicht stand.
+161. Zutreffend haben die Vorinstanzen im Ergebnis die Zulässigkeit der Klage bejaht
+(zur internationalen Zuständigkeit s. jedoch Art. 17 I Buchst. c, II iVm Art. 18 I Var. 2 der
+VO [EU] Nr. 1215/2012 des Europäischen Parlaments und des Rates v. 12.12.2012 über
+die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von
+Entscheidungen in Zivil- und Handelssachen – Brüssel Ia-VO; ABl. 2012 L 351, 1). Die
+Bekl. erhebt insoweit auch keine Rügen mehr.
+172. Entgegen der Auffassung des BerGer. ist die Klage begründet. Die Kl. ist
+berechtigt, von der Bekl. zu verlangen, der Erbengemeinschaft Zugang zum
+Benutzerkonto der Erblasserin sowie den darin enthaltenen Inhalten zu gewähren. Ein
+solcher Anspruch ist vererblich, und es stehen ihm weder das postmortale
+Persönlichkeitsrecht noch das Fernmeldegeheimnis, datenschutzrechtliche
+Regelungen oder das allgemeine Persönlichkeitsrecht der Kommunikationspartner der
+Erblasserin entgegen (ebenso zB BeckOK BGB/Müller-Christmann, 1.5.2018, § 1922
+Rn. 101; BeckOGK/Preuß, 1.6.2018, § 1922 BGB Rn. 387 ff.; MüKoBGB/Leipold, 7. Aufl.,
+§ 1922 Rn. 25 ff.; Biermann, ZErb 2017, 210; Bock, AcP 217, 370; Herzog, ZErb 2017,
+205; Herzog/Pruns, Der digitale Nachlass in der Vorsorge- und Erbrechtspraxis, §§ 4
+und dies., ZErb 2016, 157; Lieder/Berneith, FamRZ 2016, 743; Litzenburger, FD-ErbR
+2017, 392155; Ludyga, JM 2016, 442 und ders., ZEV 2018, 1; Salomon, NotBZ 2016,
+324; Seidler, Digitaler Nachlass, 2016, 114 ff.; Solmecke/Köbrich/Schmitt, MMR 2015,
+291; Willems, ZfPW 2016, 494 [502 ff.]; aA Staudinger/Kunz, BGB, Neubearb. 2017, § 1922 Rn. 596.6 ff.; Brinkert/Stolze/Heidrich, ZD 2013, 153; Leeb, K & R 2014, 693;
+Martini, JZ 2012, 1145).
+18a) Der Anspruch auf Zugang zu dem Benutzerkonto und den dort gespeicherten
+Inhalten ergibt sich aus dem auf die Erben übergegangenen schuldrechtlichen Vertrag
+zwischen der Erblasserin und der Bekl.
+19aa) Das BerGer. ist zutreffend davon ausgegangen, dass die Bekl. und die
+Erblasserin mit Einwilligung ihrer gesetzlichen Vertreter (§ 107 BGB) einen
+schuldrechtlichen Vertrag über die Einrichtung und Nutzung eines „Accounts“
+geschlossen haben (vgl. Redeker in Hoeren/Sieber/Holznagel, HdB Multimedia-Recht,
+Febr. 2018, Teil 12 Rn. 424; Redeker, IT-Recht, 6. Aufl., D. Rn. 1174; Kosmides in
+Schneider, HdB EDV-Recht, 5. Aufl., W. Rn. 525 ff.; Staudinger/Klumpp, § 107 Rn. 30;
+Kutscher, Der digitale Nachlass, 2015, 45 f.). Die Rechtsnatur dieses Vertrags (vgl.
+hierzu Redeker in Hoeren/Sieber/Holznagel, Teil 12 Rn. 424; Kutscher, 45 f.; Seidler,
+129 ff.; Bräutigam, MMR 2012, 635) kann dahingestellt bleiben, da diese für die hier
+relevanten Rechtsfragen nicht erheblich ist.
+20bb) Zu Recht und ohne dass dies von den Parteien angegriffen wird, haben die
+Vorinstanzen auf das Vertragsverhältnis deutsches Recht angewandt. Der Vertrag
+unterliegt nach Art. 3 I, 6 II der VO (EG) Nr. 593/2008 des Europäischen Parlaments und
+des Rates vom 17.6.2008 über das auf vertragliche Schuldverhältnisse anzuwendende
+Recht (Rom I-VO; ABl. 2008 L 177, 6) dem von den Parteien gewählten deutschen Recht.
+Dessen Anwendbarkeit ergäbe sich zudem nach Art. 6 I Rom I-VO, weil ein
+Verbrauchervertrag vorliegt.
+21cc) Das Vertragsverhältnis mit seinen Rechten und Pflichten ist mit dem Tod der
+Erblasserin nach § 1922 I BGB auf die Erben übergegangen, die hierdurch in dieses
+eingetreten sind und deshalb als Vertragspartner einen Anspruch auf Zugang zu dem
+Benutzerkonto der Erblasserin sowie den darin enthaltenen vermögensrechtlichen und
+höchstpersönlichen (digitalen) Inhalten haben.
+22Nach § 1922 I BGB geht das Vermögen als Ganzes auf die Erben über. Hierzu
+gehören grundsätzlich auch Ansprüche und Verbindlichkeiten aus schuldrechtlichen
+Verträgen wie dem hier vorliegenden Nutzungsvertrag, wobei der Erbe in die
+vertragliche Rechtsstellung mit sämtlichen Rechten und Pflichten eintritt (vgl.
+MüKoBGB/Leipold, § 1922 Rn. 20 u. 25; BeckOGK/Preuß, § 1922 BGB Rn. 173 ff.).
+23Die Vererbbarkeit des aus dem Nutzungsvertrag folgenden Anspruchs auf Zugang
+zu dem Benutzerkonto ist weder durch die vertraglichen Bestimmungen
+ausgeschlossen (hierzu unter [1]) noch lässt sich ein Ausschluss der Vererbbarkeit aus
+dem Wesen des Vertrags ableiten (hierzu unter [2]). Auch eine Differenzierung nach der
+Art des Inhalts der auf dem Konto gespeicherten Daten ist abzulehnen (hierzu unter
+[3]).
+24(1) Die Vererbbarkeit von Ansprüchen kann vertraglich ausgeschlossen werden (vgl.
+MüKoBGB/Leipold, § 1922 Rn. 21; BeckOGK/Preuß, § 1922 BGB Rn. 173). Dies ist hier
+indes nicht der Fall.
+25(1.1) Die Nutzungsbedingungen der Bekl. enthalten keine Regelung zur Vererbbarkeit
+des Benutzungsvertrags und der Inhalte des Benutzerkontos. Zwar ist dieses hiernach
+unter einem realen Namen einzurichten (Nr. 4) und die Weitergabe von Zugangsdaten
+oder des Benutzerkontos an Dritte nicht zulässig (Nr. 3.5, 4.1, 4.8 und 4.9). Zutreffend
+hat das BerGer. hierzu jedoch ausgeführt, dass sich diese Regelungen lediglich auf das
+Verhalten des Nutzers zu Lebzeiten beziehen und keine Aussage für den Todesfall
+enthalten. Offen bleiben kann dementsprechend, ob die Vererbbarkeit des
+vertraglichen Nutzungsverhältnisses und des daraus folgenden Kontozugangsrechts
+in Allgemeinen Geschäftsbedingungen grundsätzlich wirksam ausgeschlossen
+werden kann (befürwortend im Rahmen einer Einzelfallbetrachtung MüKoBGB/Leipold,
+§ 1922 Rn. 29; MAH ErbR/Biermann, 5. Aufl., § 50 Rn. 58 ff.; Staudinger/Kunz, § 1922
+Rn. 596.22 ff.; Bock, AcP 2017, 370 [411 ff.]; Lange/Holtwiesche, ZErb 2016, 125
+[127 ff.]; Raude, ZEV 2017, 433 [437]; ablehnend unter Hinweis auf § 1922 BGB Gloser,
+NachfolgeR/Herzog, Kap. 9 Rn. 92; Pruns, AnwZert ErbR 16/2016 Anm. 2 mwN).
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+26(1.2) Eine Unvererblichkeit ergibt sich auch nicht aus den Regelungen der Bekl. zum
+Gedenkzustand.
+27(1.2.1) Diese finden hier schon deshalb keine Anwendung, weil die Bestimmungen
+nicht Bestandteil des Nutzungsvertrags geworden sind, § 305 II BGB (vgl.
+Herzog/Pruns, § 5 Rn. 18 ff.; Ludyga, ZEV 2018, 1 [3]; Pruns, AnwZert ErbR 16/2016
+Anm. 2; Willems, ZfPW 2016, 494 [509]). Die dem Vertrag zwischen der Erblasserin und
+der Bekl. zugrunde liegenden Nutzungsbedingungen enthalten keine Regelungen zum
+Gedenkzustand. Vielmehr befanden sich diese lediglich im Hilfebereich des sozialen
+Netzwerks, ohne dass hierauf in den Nutzungsbedingungen oder auf andere Weise bei
+Vertragsschluss verwiesen oder Bezug genommen wurde, wie es gem. § 305 II Nr. 1
+und 2 BGB erforderlich gewesen wäre, um die Regelungen Vertragsbestandteil werden
+zu lassen.
+28(1.2.2) Die Regelungen zum Gedenkzustand schließen ungeachtet dessen auch
+nach Maßgabe von § 307 I, II Nr. 1 BGB die Vererbbarkeit des aus dem
+Nutzungsverhältnis folgenden Kontozugangsrechts nicht wirksam aus (für eine
+Unwirksamkeit der Regelungen zum Gedenkzustand auch MüKoBGB/Leipold, § 1922
+Rn. 29; NK-NachfolgeR/Herzog, Kap. 9 Rn. 95; Deusch, ZEV 2016, 189 [195]; Gloser,
+DNotZ 2016, 537 [548 f.]; Kutscher, 126 ff.; Litzenburger, FD-ErbR 2017, 392155;
+Ludyga, JM 2016, 442 [446]; ders., ZEV 2018, 1 [3]; Pruns, AnwZert ErbR 16/2016 Anm.
+2; Raude, RNotZ 2017, 17 [23]; offen: Lange/Holtwiesche, ZErb 2016, 125 [129]; aA im
+Hinblick auf § 88 TKG: Staudinger/Kunz, § 1922 Rn. 596.26 f.). Sie verändern
+nachträglich die Leistungspflichten der Bekl. Diese müsste nach Mitteilung des Todes
+zwar weiterhin die Kommunikationsplattform für das Benutzerkonto der Erblasserin
+zur Verfügung stellen, allerdings den Erben als neuen Vertragspartnern keinen Zugang
+zu dem Konto und den dort gespeicherten nicht öffentlichen Inhalten mehr gewähren.
+29(1.2.2.1) Entgegen der Auffassung des BerGer. unterliegen diese Regelungen der
+Inhaltskontrolle nach § 307 I und II BGB. Es handelt sich nicht um nach § 307 III 1 BGB
+der Inhaltskontrolle entzogene Leistungsbestimmungen. Die Freistellung von der
+Inhaltskontrolle gilt nur für Abreden über den unmittelbaren Leistungsgegenstand,
+während Regelungen, die die Leistungspflicht des Verwenders einschränken,
+verändern, ausgestalten oder modifizieren, inhaltlich zu kontrollieren sind (ausf. und
+Leistungsbeschreibung verbleibt nur der enge Bereich von Regelungen, ohne deren
+Vorliegen mangels Bestimmtheit oder Bestimmbarkeit des wesentlichen
+Vertragsinhalts ein wirksamer Vertrag nicht mehr angenommen werden kann (Senat,
+Fall. Sie stellen nicht eine zum Kernbereich der Vereinbarung gehörende Abrede über
+den unmittelbaren Leistungsgegenstand dar, sondern eine nachträgliche Änderung des
+bestehenden Leistungsumfangs. Die grundsätzlich unbeschränkt bestehende
+vertragliche Hauptleistungspflicht der Bekl., dem Nutzer den Zugang zu seinem Konto
+und den dort gespeicherten Inhalten sowie die Verfügungsmöglichkeit hierüber zu
+gewähren, wird hierdurch gegenüber den Erben für die Zeit nach Mitteilung des Todes
+eingeschränkt und damit ein wesentlicher Inhalt der Ansprüche aus dem
+Nutzungsvertrag modifiziert.
+30(1.2.2.2.) Im Hinblick auf die erhebliche Einschränkung der vertraglichen Rechte der
+in den Nutzungsvertrag eingetretenen Erben liegt eine unangemessene
+Benachteiligung iSv § 307 I, II BGB vor. Die Klauseln verhindern zwar die Vererbung des
+Nutzungsverhältnisses als solches nicht, sie höhlen dieses aber aus, indem den Erben
+als Vertragspartnern nach der Mitteilung des Todes durch einen beliebigen Dritten das
+Recht des Zugangs zu dem Konto verwehrt wird und sie damit einen
+Hauptleistungsanspruch verlieren. Dies widerspricht iSv § 307 II Nr. 1 BGB den
+wesentlichen Grundgedanken des § 1922 BGB, der den Übergang eines
+Schuldverhältnisses mit allen Rechten und Pflichten auf den Erben vorsieht. Weiterhin
+ist zu berücksichtigen, dass der Grundsatz der Universalsukzession auch der
+eindeutigen Zuordnung des Vermögens und damit der Rechtssicherheit der Beteiligten
+dient (Pruns, AnwZert ErbR 16/2016 Anm. 2). Dies wäre nicht gewährleistet, wenn
+durch den Gedenkzustand ein „Datenfriedhof“ geschaffen würde, auf den bis auf die
+Bekl. niemand einen Zugriff erhält. Entgegen einer im Schrifttum vertretenen
+Auffassung besteht auch kein berechtigtes Interesse der Bekl. an dieser Regelung im
+Hinblick auf das Fernmeldegeheimnis, weil sie bei Zugangsgewährung gerade nicht
+gegen die in § 88 TKG statuierten Verhaltenspflichten verstößt (hierzu unten 2 c; aA
+Staudinger/Kunz, § 1922 Rn. 596.27).
+31Zugleich liegt ein Verstoß gegen § 307 II Nr. 2 BGB vor, da das Versetzen in den
+Gedenkzustand dazu führt, dass die wesentlichen Rechte aus dem Vertragsverhältnis,
+nämlich der Zugang zu dem Benutzerkonto, der Zugriff auf die dort gespeicherten
+Inhalte und die Verfügungsbefugnis hierüber, entfallen, so dass die Erreichung des
+Vertragszwecks nicht mehr möglich ist (vgl. Gloser, DNotZ 2016, 537 [548 f.]; Kutscher,
+126 ff.; Raude, RNotZ 2017, 17 [23]).
+32Auf sich beruhen kann, ob die Regelungen zum Gedenkzustand auch nach § 308 Nr.
+4 BGB unwirksam sind, weil die Bekl. sich darin vorbehält, Inhalte „möglicherweise“ und
+„in seltenen Fällen“ trotz der Versetzung eines Kontos in diesen Zustand
+herauszugeben.
+33(2) Auch aus dem Wesen des Vertrags ergibt sich eine Unvererbbarkeit nicht.
+34Eine solche kann ohne vertragliche Regelung anzunehmen sein, wenn unter
+Berücksichtigung des sich aus § 399 BGB sowie § 38 BGB ergebenden
+Rechtsgedankens der Inhalt des Rechts in einem solchen Maß auf die Person des
+Berechtigten oder des Verpflichteten zugeschnitten ist, dass bei einem Subjektwechsel
+die Leistung in ihrem Wesen verändert würde (MüKoBGB/Leipold, § 1922 Rn. 21;
+Staudinger/Kunz, § 1922 Rn. 596.10 f.). Das ist hier nicht der Fall.
+35(2.1) Die Pflichten der Vertragsparteien – der Bekl. und des jeweiligen Nutzers – sind
+nicht höchstpersönlicher Natur. Nicht die Leistungen der Bekl., die bei jedem Nutzer
+gleich sind, sondern nur die – von der Vertragsgestaltung unabhängigen – Inhalte, die
+von den Nutzern geschaffen und kommuniziert werden, sind persönlichkeitsrelevant
+(zB das Gestalten der Profilseite oder das Versenden von Nachrichten; vgl. Kutscher,
+157). Die Bekl. verpflichtet sich gegenüber ihrem Vertragspartner, die
+Kommunikationsplattform zur Verfügung zu stellen und entsprechend dem Auftrag
+des Nutzers Inhalte zu veröffentlichen oder Nachrichten an ein anderes Benutzerkonto
+zu übermitteln sowie die übermittelten Nachrichten bzw. die mit diesem Konto
+geteilten Inhalte zugänglich zu machen. Insoweit handelt es sich um rein technische
+Leistungen der Bekl., die nicht personenbezogen sind. Diese können – anders als etwa
+bei einem Behandlungsvertrag mit einem Arzt – unverändert auch gegenüber den
+Erben erbracht werden (Staudinger/Kunz, § 1922 Rn. 596.11; Herzog/Pruns, § 4 Rn. 42;
+Lange/Holtwiesche, ZErb 2016, 125 [129 f.]; Raude, ZEV 2017, 433 [436]; iErg. auch
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+36Zutreffend ist zwar, dass das Vertragsverhältnis insoweit auf den Kontoberechtigten
+zugeschnitten und damit personenbezogen ist, als nur dieser unter seinem Konto
+Inhalte veröffentlichen („posten“) und Nachrichten schreiben darf. Dies führt aber nicht
+zu dessen Unvererbbarkeit, sondern könnte allenfalls dazu führen, dass – wie beim
+die aktive Weiternutzung des Kontos des Erblassers durch den Erben, die in der Praxis
+ohnehin regelmäßig nicht beabsichtigt sein wird, nicht von seinem Erbrecht umfasst
+RNotZ 2017, 17 [20]). Vorliegend kann dies auf sich beruhen, denn Gegenstand des
+Rechtsstreits ist lediglich die Bereitstellung der vorhandenen Kontoinhalte zum Abruf
+durch die Erben. Der Inhalt dieser Leistung der Bekl. hängt aber nicht von der Person
+ab, der gegenüber sie erbracht wird, so dass in dieser Hinsicht gerade kein
+schutzwürdiges Interesse der Bekl. daran besteht, sie nicht gegenüber den Erben
+erbringen zu müssen.
+37Im Hinblick darauf, dass vorliegend als erbrechtliche Position nicht die – von der Kl.
+wie regelmäßig von den Erben auch nicht beabsichtigte – Fortführung des Kontos
+durch aktive Nutzung in Rede steht, ist auch nicht erheblich, ob die Bekl. – wie von ihr
+in der Berufungsinstanz vorgetragen – über interne Verfahren verfügt, um die Identität
+ihrer Nutzer regelmäßig zu prüfen, und ob sie eine derartige Prüfung vornimmt. Auch
+dies würde keine die Vererbbarkeit in diesem Sinne ausschließende
+Höchstpersönlichkeit begründen. Denn die gegenüber dem Erben geschuldete
+Leistungserbringung in Form der Zugangsgewährung zu dem bestehenden Kontoinhalt
+hat als solche keinen höchstpersönlichen Bezug.
+38(2.2) Die höchstpersönliche, eine Vererbbarkeit ausschließende Natur des Vertrags
+ergibt sich auch nicht daraus, dass die Nutzer der Bekl. die „nicht-exklusive,
+übertragbare, unterlizensierbare, gebührenfreie, weltweite Lizenz für die Nutzung
+jeglicher IP-Inhalte“ (Nr. 2.1. der AGB) gewähren. Zwar erhält die Bekl. hierdurch – die
+Wirksamkeit der Klausel vorausgesetzt – Rechte auf individuelle, personenbezogene
+Daten. Diese bleiben aber ungeachtet des erbrechtlichen Übergangs bestehen. Denn
+durch den Erbfall wird die Datenbasis, über die die Bekl. vertragsgemäß verfügen darf,
+nicht verändert. Die im Zeitpunkt des Erbfalls vorhandenen Daten bleiben nutzbar,
+weitere persönliche Daten kommen nicht hinzu, da der Anspruch der Kl. nicht auf die
+aktive Fortführung des Kontos und das Erstellen von Inhalten, sondern auf den Zugang
+zu dem bestehenden Konto und dessen Inhalten zielt. Insofern ist für die Bekl. ein
+Wechsel der Person des Kontoberechtigten nicht unzumutbar.
+39(2.3) Der höchstpersönliche Charakter und damit der vertragliche Ausschluss der
+Vererbbarkeit des Zugangsrechts zu dem Benutzerkonto folgt auch nicht aus im
+Nutzungsvertrag stillschweigend vorausgesetzten und damit immanenten Gründen
+des Schutzes der Persönlichkeitsrechte der Kommunikationspartner der Erblasserin.
+Zwar mag der Abschluss eines Nutzungsvertrags mit dem Betreiber eines sozialen
+Netzwerks in der Erwartung erfolgen, dass Nachrichten zwischen den Teilnehmern des
+Netzwerks und sonstige nicht öffentlich geteilte Inhalte jedenfalls grundsätzlich
+vertraulich bleiben und durch die Bekl. dritten Personen gegenüber nicht offengelegt
+werden. Es besteht jedoch nach den vertraglichen Regeln und den zugrunde liegenden
+technischen Bedingungen kein schutzwürdiges Vertrauen, dass diese Diskretion des
+Austauschs zwischen dem verstorbenen Nutzer und den übrigen Teilnehmern des
+Netzwerks – auch über den Tod hinaus – gegenüber den Erben gewährleistet ist.
+40(2.3.1) Die vertragliche Verpflichtung der Bekl. zur Übermittlung und Bereitstellung
+von Nachrichten und sonstigen Inhalten ist von vornherein kontobezogen.
+41Die Pflicht der Bekl. bezieht sich nicht darauf, die Nachrichten und sonstigen Inhalte
+an eine bestimmte Person zu übermitteln bzw. für diese zugänglich zu machen,
+sondern auf die Übermittlung bzw. Bereitstellung für das angegebene Benutzerkonto.
+Angesichts der systemimmanenten, dem verständigen Nutzer bewussten und von der
+Bekl. nicht kontrollierbaren Anonymität des sich jeweils bei dem Benutzerkonto
+anmeldenden Nutzers kann nicht von einer Verpflichtung der Bekl. zur Übermittlung an
+eine bestimmte Person, sondern nur zur Übermittlung an bzw. Bereitstellung für das
+ausgewählte Benutzerkonto ausgegangen werden (vgl. Herzog, ZErb 2017, 205 [208];
+NK-NachfolgeR/Herzog, Kap. 9 Rn. 68; Herzog/Pruns, § 4 Rn. 61). So ist weder für die
+Bekl. noch für den Versender einer Nachricht oder Teilenden eines Inhalts prüfbar, ob
+die sich mit den Benutzerdaten anmeldende Person mit der als Empfänger benannten
+Person identisch ist. Ebenso wenig ist für den Übermittler der Nachricht erkennbar, ob
+die als Empfänger genannte Person tatsächlich Inhaber des Benutzerkontos ist.
+Vielmehr ist Identifikationsmerkmal des Adressaten ein von dem Versender
+ausgewähltes Benutzerkonto. An dieses sollen die Nachrichten übermittelt werden
+bzw. für dieses sollen die geteilten Inhalte freigegeben werden. Zugang erhält damit
+bestimmungsgemäß derjenige, der sich mit den zutreffenden Kontozugangsdaten bei
+dem jeweiligen Benutzerkonto anmeldet. Das Risiko, dass das Benutzerkonto unter
+falschem Namen geführt wird, trägt der Kommunikationspartner (vgl. hierzu Graulich
+in Arndt/Fetzer/Scherer/Graulich, TKG, 2. Aufl. 2015, § 88 Fernmeldegeheimnis, Rn.
+65). Gleiches gilt hinsichtlich der Gefahr, dass ein Dritter die Nachrichten und sonstigen
+Inhalte lesen kann, weil er durch Weitergabe der Zugangsdaten seitens des
+Kontoinhabers Zugriff auf den Inhalt des Benutzerkontos hat oder weil der
+Kontoberechtigte die Inhalte an Dritte weiterleitet oder diesen zeigt. Insoweit gilt nichts
+anderes als bei analogen Kommunikationswegen – das Briefe zustellende
+Unternehmen ist nur für den Einwurf in den richtigen Briefkasten verantwortlich, nicht
+aber dafür, ob auch die als Empfänger benannte Person den Brief öffnet oder ob sie
+diesen Dritten zeigt. Dem verständigen und durchschnittlichen Nutzer eines sozialen
+Netzwerks ist ebenso wie dem Absender eines Briefs bewusst, dass er nach dem
+Versenden einer Nachricht nicht mehr kontrollieren kann, wer letztlich von deren Inhalt
+Kenntnis nimmt, und dass er grundsätzlich keine Möglichkeit hat, die übermittelte
+Nachricht bzw. den Inhalt zurückzufordern. Er begibt sich insoweit der
+Verfügungsbefugnis über die Nachrichten (vgl. NK-NachfolgeR/Herzog, Kap. 9 Rn. 68;
+Bock, AcP 217, 370 [408]; Herzog/Pruns, § 4 Rn. 84; Kutscher, 145; Pruns, NWB 2014,
+2175 [2182 f.]).
+42Die Bekl. erfüllt ihre vertragliche Verpflichtung somit, indem sie eine Nachricht an
+das benannte Benutzerkonto übermittelt, deren jederzeitigen Abruf durch den mit den
+zutreffenden Kontozugangsdaten bei dem Benutzerkonto angemeldeten Nutzer
+ermöglicht und sonstige Inhalte für die ausgewählten Benutzerkonten zur Verfügung
+stellt. Die geschützte Kommunikation umfasst demnach die Speicherung,
+Bereitstellung und Übermittlung von Inhalten für denjenigen, der sich mit den
+zutreffenden Daten bei dem Benutzerkonto anmeldet. Greift nicht der
+Kontoberechtigte, sondern ein anderer mit den Zugangsdaten hierauf zu, ist eine
+derartige Kenntnisnahme allein der durch die Kommunikationsteilnehmer
+beherrschten und bei verständiger Würdigung bekannten Risikosphäre zuzuordnen.
+Trägt der Kommunikationspartner des Kontoinhabers bereits das Risiko, dass zu
+dessen Lebzeiten Dritte Kenntnis von den dort gespeicherten Inhalten erlangen, gilt
+dies erst recht für den Zugriff der Erben des Nutzers auf diese.
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+43Der Auftrag zur Übermittlung einer Nachricht an das vom Absender benannte
+Benutzerkonto wirkt dabei – vorbehaltlich einer dem Versender in Grenzen möglichen
+vorherigen Festlegung des Zeitpunkts, an dem die Nachricht ausgeblendet werden soll
+– zeitlich unbegrenzt auch über den Todesfall hinaus und umfasst die Möglichkeit, die
+auf dem Server der Bekl. gespeicherte Nachricht durch den Nutzer des
+Empfängerkontos abzurufen, solange dieses besteht. Bestimmungsgemäß befinden
+sich an ein konkretes Benutzerkonto gesendete Nachrichten nicht mehr im
+Zugriffsbereich des Absenders, sondern in dem des Berechtigten des
+Empfängerkontos, der einen Anspruch gegen das soziale Netzwerk hat, ihm jederzeit
+und dauerhaft den Zugriff hierauf zu ermöglichen. Deshalb kann der Absender nach der
+Übermittlung grundsätzlich auch nicht mehr verlangen, dass die Nachricht vom
+Empfängerkonto gelöscht wird, worauf die Bekl. in ihrem Hilfebereich hinweist.
+Insoweit ist die Situation ebenfalls vergleichbar mit analogen Übermittlungswegen –
+auch dort besteht keine Möglichkeit mehr, das übermittelte Dokument
+zurückzufordern, sobald es in den Zugriffsbereich des Adressaten gelangt ist, also zum
+Beispiel in seinen Briefkasten eingeworfen wurde.
+44Der Absender einer Nachricht kann mithin zwar darauf vertrauen, dass seine
+Nachricht von der Bekl. nur für das von ihm ausgewählte Empfängerkonto
+bereitgestellt wird. Er muss aber damit rechnen, dass Dritte dennoch Kenntnis vom
+Inhalt seiner Nachricht erhalten können. Dies gilt sowohl zu Lebzeiten des
+Kontoberechtigten im Hinblick auf die von diesem jederzeit veranlassbare
+Zugangsgewährung an Dritte als auch im Todesfall im Hinblick auf die Vererbung des
+Vertragsverhältnisses. Denn er muss damit rechnen, dass sein
+Kommunikationspartner versterben könnte und Dritte das Benutzerkonto erben, in das
+Vertragsverhältnis eintreten und damit als neue Kontoberechtigte Zugang auf die
+Kontoinhalte haben.
+45Für mit dem Benutzerkonto des Erblassers geteilte Inhalte anderer Nutzer gilt
+Entsprechendes, solange der Teilende die Berechtigung für dieses nicht ändert oder
+den geteilten Inhalt löscht. Insoweit muss der Teilende in gleicher Weise damit
+rechnen, dass weitere Personen sowohl zu Lebzeiten als auch nach dem Tod des
+Berechtigten des Empfängerkontos Kenntnis von dem geteilten Inhalt erlangen. Er hat
+es allerdings in der Hand, die Berechtigung zur Einsicht in den geteilten Inhalt zu ändern
+und damit den Erben für die Zukunft vom Zugang hierauf auszuschließen.
+46(2.3.2.) Überdies kann der Kommunikationspartner des Kontoinhabers eines
+sozialen Netzwerks keine berechtigte Erwartung haben, dass der Empfänger einer
+Nachricht diese auf dem Server des Netzwerkbetreibers belässt und nicht auf dem
+eigenen Computer oder einem anderen Medium (zB USB-Stick) lokal abspeichert oder
+auf Papier ausdruckt. In diesem Fall würde der Erbe ohne Weiteres Zugang zum Inhalt
+der Nachrichten erhalten, was auch dem Versender bewusst sein muss.
+47(3) Die im Schrifttum teilweise befürwortete Differenzierung der Vererbbarkeit des
+Kontozugangs nach dem Inhalt des Benutzerkontos ist abzulehnen. Nach dieser
+Auffassung sollen zwar E-Mails bzw. Nachrichten in einem sozialen Netzwerk mit
+vermögensrechtlichem Bezug vererbbar sein, nicht hingegen solche mit
+nichtvermögensrechtlichem, insbesondere höchstpersönlichem Inhalt (Hoeren, NJW
+2005, 2113 [2114]; Martini, JZ 2012, 1145 [1152]; Brinkert/Stolze/Heidrich, ZD 2013,
+153 [155]; hierzu auch Bräutigam, Stellungnahme des DAV zum Digitalen Nachlass, 16,
+24 f.). Die für das Andenken an den Verstorbenen und sein postmortales
+Persönlichkeitsrecht erheblichen Informationen seien nicht dem Erben, sondern den
+Diskutiert wird hierbei zur Wahrung des postmortalen Persönlichkeitsrechts eine
+„Infektion“ des gesamten Benutzerkontos aufgrund der Existenz von
+höchstpersönlichen Inhalten (zu diesem Ansatz zB Bräutigam, 24 f.; Rott/Rott, NWB-EV
+2013, 160 [164]; Kutscher, 105 f.) und die von einem Dritten durchzuführende Trennung
+zwischen vermögensrechtlichen und höchstpersönlichen Inhalten (Martini, JZ 2012,
+1145 [1152]).
+48Selbst nach dieser Auffassung wäre hier der Zugang zu gewähren, weil die Kl. und
+der Vater der Kontoinhaberin nicht nur deren Erben, sondern auch deren nächste
+Angehörige sind. Unabhängig davon lehnt das überwiegende Schrifttum eine solche
+Differenzierung zu Recht ab (BeckOK BGB/Müller-Christmann, § 1922 Rn. 100;
+BeckOGK/Preuß, § 1922 BGB Rn. 387 f.; MüKoBGB/Leipold, § 1922 Rn. 26; NK-
+NachfolgeR/Herzog, Kap. 9 Rn. 38 ff.; Staudinger/Kunz, § 1922 Rn. 596.6 ff.; Biermann,
+ZErb 2017, 210 [213 f.]; Bock, AcP 217, 370 [383 ff.]; Bräutigam in Burandt/Rojahn,
+3745 [3748 f.]; ders., ZErb 2017, 205; Herzog/Pruns, § 4 Rn. 11; Klas/Möhrke-
+125; Lieder/Berneith, FamRZ 2016, 743; Litzenburger, FD-ErbR 2017, 392155; Ludyga,
+jM 2016, 442 [444 ff.] und ders., ZEV 2018, 1 [4]; Salomon, NotBZ 2016, 324 [326 f.];
+Solmecke/Köbrich/Schmitt, MMR 2015, 291; Steiner/Holzer, ZEV 2015, 262).
+49Nach der gesetzgeberischen Wertung gehen auch Rechtspositionen mit
+höchstpersönlichen Inhalten unabhängig von einem Vermögenswert auf die Erben
+über, wie sich aus § 2047 II und § 2373  BGB ergibt. Zwar enthalten diese
+Bestimmungen keine unmittelbare Regelung über die Vererbbarkeit
+höchstpersönlicher Rechtspositionen. Allerdings setzen sie diese voraus und gebieten
+damit den Rückschluss auf deren Vererbbarkeit sowie darauf, dass das Gesetz
+insoweit nicht zwischen höchstpersönlichem und vermögenswertem Nachlass
+differenziert. So hat der Gesetzgeber in § 2047 II BGB geregelt, dass Schriftstücke, die
+sich auf die persönlichen Verhältnisse des Erblassers beziehen, nicht verteilt werden,
+sondern gemeinschaftlich bleiben (vgl. hierzu Mugdan, Die gesammten Materialien
+zum BGB für das Deutsche Reich, V, 371, 507). § 2373  BGB regelt, dass
+Familienschriften und Familienbilder beim Erbschaftskauf nicht als mitverkauft
+anzusehen sind (vgl. Mugdan, II, 197). Beide Vorschriften setzen voraus, dass diese
+höchstpersönlichen Dokumente zur Erbmasse gehören. Unstreitig werden
+dementsprechend höchstpersönliche analoge Dokumente, zum Beispiel Tagebücher
+und Briefe, vererbt.
+50Es besteht aus erbrechtlicher Sicht kein Grund dafür, digitale Inhalte anders zu
+behandeln, da das entscheidende Kriterium der Höchstpersönlichkeit bei analogen und
+digitalen Inhalten gleichermaßen betroffen ist (s. NK-NachfolgeR/Herzog, Kap. 9 Rn.
+40; Herzog, ZErb 2017, 205 [206 f.]; Herzog/Pruns, § 2 Rn. 43 ff.; Litzenburger, FD-ErbR
+2017, 392155; Steiner/Holzer, ZEV 2015, 262 [263]). Auf das Speicher- bzw.
+Trägermedium kommt es dabei nicht an. Eine Differenzierung danach, ob der digitale
+Inhalt auf einem lokalen Speichermedium wie einer Festplatte oder einem USB-Stick
+gespeichert ist oder sich auf Servern eines Diensteanbieters befindet, wäre inkohärent
+und durch das Gesetz nicht veranlasst (vgl. Herzog/Pruns, § 4 Rn. 9 f.; Kutscher, 115 f.,
+iErg. auch Staudinger/Kunz, § 1922 Rn. 596.8 f.; jew mwN zur aA). Denn die
+Höchstpersönlichkeit ergibt sich nicht aus der Art der Verkörperung und Speicherung,
+sondern aus dem Inhalt. Ein Unterschied besteht lediglich in der Art und Weise der
+Vererbbarkeit: Während bei Schriftstücken oder Speichermedien im Eigentum bzw.
+Besitz des Erb-
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+lassers diese Rechtspositionen auf die Erben übergehen, treten bei – wie hier – auf
+Servern befindlichen Inhalten die Erben in das Vertragsverhältnis ein. Eine
+unterschiedliche Behandlung im Hinblick auf die Vererbbarkeit an sich rechtfertigt dies
+nicht.
+51Letztlich würde eine Differenzierung zwischen höchstpersönlichen und sonstigen
+Inhalten zu erheblichen kaum zu bewältigenden praktischen Problemen führen. Da E-
+Mail- und Benutzerkonten – oder sogar einzelne E-Mails oder Nachrichten –
+regelmäßig nicht ausschließlich höchstpersönlichen oder vermögensrechtlichen
+Zwecken dienen, wäre eine Durchsicht und Zuordnung sämtlicher digitaler Inhalte
+erforderlich. Es ist nicht ersichtlich, wer diese vornehmen sollte und rechtlich dürfte (s.
+auch Bräutigam in Burandt/Rojahn, § 1922 BGB Anhang Digitaler Nachlass, Rn. 10;
+Biermann, ZErb 2017, 210 [213]; Bock, AcP 217, 370 [392 f.]; Kutscher, 105 f., 113 f.;
+Lange/Holtwiesche, ZErb 2016, 157 [161]). Darüber hinaus sind die Grenzen zwischen
+höchstpersönlichen und vermögenswerten Inhalten unscharf und klare und eindeutige
+Abgrenzungskriterien kaum zu definieren, zumal auch höchstpersönliche Inhalte beim
+Erbgang vermögensrechtliche Relevanz erlangen können (Bräutigam in
+Burandt/Rojahn, § 1922 BGB Anhang Digitaler Nachlass, Rn. 10; Lange/Holtwiesche,
+ZErb 2016, 157 [161]).
+52b) Entgegen einer im Schrifttum vertretenen Auffassung (MüKoBGB/Rixecker, § 12
+Brinkert/Stolze/Heidrich, ZD 2013, 153 [155]) steht das postmortale
+Persönlichkeitsrecht der Erblasserin der Vererbbarkeit digitaler höchstpersönlicher
+Inhalte nicht entgegen.
+53Dieses wird aus dem Grundrecht der Unantastbarkeit der Menschenwürde gem. Art. 1 I GG hergeleitet und dient dem Schutz des allgemeinen Achtungsanspruchs, der dem
+Menschen kraft seines Personseins zusteht, und des sittlichen, personalen und
+sozialen Geltungswerts, den die Person durch ihre eigene Lebensleistung erworben hat
+dessen immaterielle Bestandteile können die nächsten Angehörigen des Verstorbenen
+Abwehrrechte in Form von Unterlassungs- und Widerrufsansprüchen geltend machen
+605, jew. mwN; MüKoBGB/Rixecker, § 12 Anh. Rn. 49, 55; MüKoBGB/Leipold, § 1922
+Rn. 123; Staudinger/Kunz, § 1922 Rn. 596.8; Bock, AcP 217, 370 [389]). Ein dem
+Erbrecht vorgehendes Recht der nächsten Angehörigen an den höchstpersönlichen
+digitalen Inhalten begründet dies nicht (vgl. Bräutigam in Burandt/Rojahn, § 1922 BGB
+Anhang Digitaler Nachlass, Rn. 10; BeckOGK/Preuß, § 1922 BGB Rn. 387 f.;
+MüKoBGB/Leipold, § 1922 Rn. 26; Staudinger/Kunz, § 1922 Rn. 596.7 ff.;
+Herzog/Pruns, § 2 Rn. 56 ff. und § 4 Rn. 43; Ludyga, ZEV 2018, 1 [5]; Bock, AcP 217,
+370 [391 ff.]; Solmecke/Köbrich/Schmitt, MMR 2015, 291 [292]; aA
+MüKoBGB/Rixecker, § 12 Anh. Rn. 160; Martini, JZ 2012, 1145 [1150 ff.]; Hoeren, NJW
+2005, 2113 [2114]; Brinkert/Stolze/Heidrich, ZD 2013, 153 [155]), weshalb es im
+vorliegenden Zusammenhang nicht entscheidungserheblich ist, dass hier die Erben
+ohnedies zugleich die nächsten Angehörigen der Verstorbenen sind.
+54c) Entgegen der Auffassung des BerGer. scheitert ein Anspruch der
+Erbengemeinschaft auf Zugang zu dem vollständigen Benutzerkonto der Erblasserin
+und den darin vorgehaltenen Inhalten auch nicht an § 88 III TKG. Das
+Fernmeldegeheimnis schützt weder den Erblasser noch den jeweiligen
+Kommunikationspartner vor einer Kenntnisnahme des Erben vom Inhalt des
+Benutzerkontos. Dies gilt sowohl für die zum Zeitpunkt des Todes durch den Erblasser
+noch nicht abgerufenen als auch hinsichtlich der bereits zur Kenntnis genommenen,
+auf den Servern der Bekl. zwischen- bzw. endgespeicherten Inhalte.
+55Nach § 88 III 1 TKG ist es Diensteanbietern untersagt, sich oder anderen über das
+für die geschäftsmäßige Erbringung der Telekommunikationsdienste einschließlich
+des Schutzes ihrer technischen Systeme erforderliche Maß hinaus Kenntnis vom Inhalt
+oder den näheren Umständen der Telekommunikation zu verschaffen.
+56Es kann dahingestellt bleiben, ob und bezüglich welcher Leistungen die Bekl.
+Anbieterin von Telekommunikationsdiensten oder Telemediendiensten ist (s. dazu
+ausf. Grünwald/Nüßing, MMR 2016, 91; Karg/Fahl, K & R 2011, 453 [456 ff.];
+Kühling/Schall, CR 2016, 185; Schneider, ZD 2014, 231 [235]). Ein Verstoß gegen § 88
+III TKG liegt jedenfalls deshalb nicht vor, weil der Erbe eines Kommunikationspartners
+entgegen der Auffassung des BerGer. nicht „anderer“ im Sinne dieser Vorschrift ist
+(MüKoBGB/Leipold, § 1922 Rn. 27; Biermann, ZErb 2017, 210 [215]; Herzog, ZErb 2017,
+205 [208]; Herzog/Pruns, § 4 Rn. 60; Litzenburger, FD-ErbR 2017, 392155; Salomon,
+NotBZ 2016, 324 [327]; Seidler, 114 f.; Steiner/Holzer, ZEV 2015, 262 [264]; Wüsthof,
+ErbR 2017, 496 [510]; Wissenschaftliche Dienste des Deutschen Bundestages, Digitaler
+Nachlass – Zum Umgang mit digitaler Hinterlassenschaft, 9; Bericht der Arbeitsgruppe
+„Digitaler Neustart“ v. 15.5.2017,
+www.jm.nrw.de/JM/schwerpunkte/digitaler_neustart/index.php, 343 ff.; aA
+Staudinger/Kunz, § 1922 Rn. 596.35 ff.; Bock, AcP 217, 370 [406]).
+57aa) Andere iSv § 88 III TKG sind Personen oder Institutionen, die nicht an dem
+geschützten Kommunikationsvorgang beteiligt sind. Die Beteiligten eines
+Telekommunikationsvorgangs sollen davor bewahrt werden, dass der Inhalt und die
+näheren Umstände der Telekommunikation Dritten, die an dem Vorgang nicht beteiligt
+sind, zugänglich werden (Beck TKG/Bock, 4. Aufl., § 88 Rn. 19; Eckhardt in
+Spindler/Schuster, Recht der elektronischen Medien, 3. Aufl., TKG § 88 Rn. 23). Dies
+entspricht dem verfassungsrechtlichen Schutz nach Art. 10 I GG, dessen Träger die –
+auch minderjährigen – tatsächlichen Kommunikationsteilnehmer sind (BVerfGE 120,
+Maunz/Dürig, GG, Jan. 2018, Art. 10 Rn. 100 f., jew mwN).
+58bb) Der Erbe ist nicht anderer in diesem Sinne, sondern vielmehr mit dem Erbfall
+Beteiligter der im Zeitpunkt des Erbfalls nicht beendeten und deshalb dem Schutz des
+Fernmeldegeheimnisses unterstehenden Kommunikationsvorgänge geworden.
+59Es kann im vorliegenden Fall unterstellt werden, dass, wovon das BerGer.
+ausgegangen ist, die auf den Servern der Bekl. unter den Benutzerkonten der
+Teilnehmer ihres Netzwerks abgespeicherten Inhalte noch dem Schutzbereich des
+Fernmeldegeheimnisses unterliegen, auch wenn der technische Übermittlungsvorgang
+abgeschlossen ist (so zB auch Biermann, ZErb 2017, 210 [214]; Bock, AcP 217, 370
+[405 f.]; Deusch, ZEV 2017, 386 [399]; Leeb, K & R 2014, 693 [696 f.]; Uhrenbacher,
+Digitales Testament und digitaler Nachlass, 176; krit. hierzu Brisch/Müller-ter Jung, CR
+144 f.).
+60Die Bereitstellung der Inhalte des Benutzerkontos für den Erben verstößt ebenso
+wenig gegen das Fernmeldegeheimnis wie die fortlaufende Bereitstellung für den ur-
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+sprünglich Kontoberechtigten. Die Bekl. macht weiterhin entsprechend ihrer
+vertraglichen Verpflichtung einerseits gegenüber dem Absender bzw. Teilenden und
+andererseits gegenüber dem Berechtigten des Empfängerkontos – nunmehr dem
+Erben – die Inhalte für das betreffende Benutzerkonto zugänglich. Die
+Zugangsgewährung für den Erben erfolgt im Rahmen des – unterstellt – durch das
+Fernmeldegeheimnis geschützten Kommunikationsvorgangs. Denn der Erbe wird mit
+dem Tod des ursprünglichen Kontoberechtigten als neuer Vertragspartner und
+Kontoberechtigter zum Teilnehmer der aufgrund der Speicherung und Bereitstellung
+der Inhalte für das Benutzerkonto fortlaufenden Kommunikationsvorgänge. Der
+Erblasser dagegen scheidet mit seinem Tod als geschützter Kommunikationspartner
+aus. Teilnehmer einer Kommunikation und damit vom Fernmeldegeheimnis geschützt
+kann begriffsnotwendig nur eine lebende Person sein (ebenso Bericht der
+Arbeitsgruppe „Digitaler Neustart“ v. 15.5.2017,
+www.jm.nrw.de/JM/schwerpunkte/digitaler_neustart/index.php, 346).
+61Aus den in den obigen Ausführungen zur Vererbbarkeit des vertraglichen
+Zugangsrechts der Verstorbenen genannten Gründen erfordert auch der Zweck des § 88 III TKG nicht, den Erben den Zugang zu dem Benutzerkonto im Hinblick auf
+schutzwürdige Interessen der Kommunikationspartner (2 a cc 2.3) oder das
+postmortale Persönlichkeitsrecht des Verstorbenen (2 b) zu versagen.
+62cc) Ein Vergleich mit der erbrechtlichen Rechtslage bei analoger Briefpost sowie
+ausgedruckten oder auf Medien des Erblassers gespeicherten digitalen Inhalten, bei
+denen ein erbrechtlicher Übergang stattfindet, bestätigt dieses Ergebnis. Bei digitalen
+Inhalten würde – sollte das Fernmeldegeheimnis auf den Erben angewendet werden –
+die Zugangsmöglichkeit für diesen davon abhängen, einerseits ob Inhalte etwa durch
+Ausdrucken verkörpert oder auf einem Medium des Erblassers gespeichert sind und
+andererseits ob diese lediglich digital auf Servern des Anbieters abrufbar sind. So
+erhielte der Erbe Zugang zu einer über den „Messenger“ der Bekl. an das Benutzerkonto
+des Erblassers gesandten Nachricht, wenn dieser sie auf einem eigenen Medium
+abgespeichert hätte, während dem Erben der Zugang zu derselben Nachricht verwehrt
+würde, wenn der Erblasser die Nachricht auf dem Server der Bekl. belassen hätte. Diese
+unterschiedliche Behandlung desselben Inhalts abhängig von dem Speichermedium
+oder der Verkörperung und damit letztlich von Zufällen ist nicht gerechtfertigt. In allen
+Fällen ist der Grad des Vertraulichkeitsinteresses sowohl des Absenders als auch des
+Empfängers gleich.
+63Ein Vertraulichkeitsinteresse hat nach den Grundsätzen der Gesamtrechtsnachfolge
+gegenüber dem Erben zurückzustehen. Die Rechtsordnung sieht, wie sich aus § 2047
+II und § 2373  BGB ergibt, einen Übergang auch höchstpersönlicher Inhalte auf den
+Erben vor, ordnet das Geheimhaltungsinteresse des Erblassers und der
+Kommunikationspartner folglich grundsätzlich dem durch Art. 14 I 1 GG geschützten
+Erbrecht unter. Der Übergang auch nichtvermögensrechtlicher Inhalte an den Erben ist
+demnach von der Rechtsordnung gebilligt und gewollt. Dies ist auch im Rahmen der
+Auslegung des Begriffs „anderen“ iSd § 88 III TKG zu berücksichtigen. Dem wird nur
+eine Interpretation, wonach ein Erbe nicht anderer im Sinne dieser Vorschrift ist,
+gerecht. Dies abweichend zu beurteilen, würde ohne nachvollziehbaren Grund zu einer
+Durchbrechung des erbrechtlichen Grundsatzes der Universalsukzession führen, ohne
+dass dies im TKG eine Anknüpfung findet (vgl. Biermann, ZErb 2017, 210 [215];
+Herzog/Pruns, § 4 Rn. 60). Die – im Unterschied zur analogen Post oder zu auf einem
+Medium des Erblassers gespeicherten digitalen Inhalten – bei serverbasierten
+Speicherungen fortbestehende Zugriffsmöglichkeit des Betreibers kann zwar dazu
+führen, dass der Diensteanbieter weiter zur Wahrung des Fernmeldegeheimnisses
+verpflichtet ist und damit eine Weitergabe an außerhalb des
+Kommunikationsverhältnisses stehende Dritte unzulässig bleibt. Die fortlaufende
+Zulässigkeit der Bereitstellung für das auf den Erben übergegangene Benutzerkonto
+wird hierdurch aber nicht berührt.
+64d) Schließlich steht dem Anspruch der Kl. auch Datenschutzrecht nicht entgegen.
+65aa) Der Senat hat zur Beurteilung dieser Frage die seit dem 25.5.2018 unmittelbar
+geltende VO (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27.4.2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der RL 95/46/EG (Datenschutz-
+Grundverordnung, ABl. 2016 L 119, 1) heranzuziehen. Maßstab für die Überprüfung
+eines Berufungsurteils ist die Rechtslage im Zeitpunkt der Revisionsentscheidung. Zu
+berücksichtigen ist dabei auch ein erst nach Erlass der Berufungsentscheidung
+geltendes Gesetz, sofern es nach seinem zeitlichen Geltungswillen das streitige
+1993, 1706 [1707], insoweit nicht in BGHZ 121, 347 abgedruckt; BGHZ 36, 348 [350] =
+66Dies ist hier der Fall. Das Klagebegehren der Kl. zielt auf eine künftige Handlung der
+Bekl., die zeitlich nach dem Anwendungsbeginn der Verordnung vorzunehmen sein
+wird und deshalb an deren Vorgaben zu messen ist. Denn sie gilt gem. Art. 99 II DS-
+GVO ab dem 25.5.2018 unmittelbar in allen Mitgliedstaaten. Aus Art. 99 iVm
+Erwägungsgrund 171  der DS-GVO ergibt sich, dass sie ab diesem Zeitpunkt
+uneingeschränkt für Datenverarbeitungsvorgänge Anwendung findet. Selbst
+Verarbeitungen, die zu diesem Zeitpunkt bereits begonnen haben, sollen binnen zwei
+Jahren nach dem Inkrafttreten (24.5.2016, vgl. Art. 99 I DS-GVO), mithin bis zum
+Anwendungsbeginn, mit der Verordnung in Einklang gebracht werden. Ab diesem
+Zeitpunkt verdrängt die Verordnung in ihrem Anwendungsbereich die nationalen
+Gesetze (vgl. zum Vorrang ausdrücklich § 1 V BDSG idF des Gesetzes zur Anpassung
+des Datenschutzrechts an die VO [EU] Nr. 2016/679 und zur Umsetzung der RL
+68/2016/EU0 v. 30.6.2017, BGBl. I 2017, 2097). Die in den Instanzen umstrittene Frage,
+ob irisches oder deutsches Datenschutzrecht anwendbar ist, stellt sich damit nicht
+mehr.
+67bb) Datenschutzrechtliche Belange der Erblasserin sind nicht betroffen und werden
+von der Bekl. auch nicht geltend gemacht. Die Datenschutz-Grundverordnung bezieht
+sich – wie schon die zuvor geltenden nationalen Vorschriften – nur auf lebende
+natürliche Personen. Dies ergibt sich aus dem Erwägungsgrund 27 der Verordnung,
+worin festgehalten ist, dass die Verordnung nicht auf personenbezogene Daten
+Verstorbener anzuwenden ist.
+68cc) Auch datenschutzrechtliche Belange der Kommunikationspartner der
+Erblasserin stehen dem Anspruch der Kl. nicht entgegen.
+69(1) Mit dem Zugang zum Benutzerkonto des Erblassers erhält der Erbe die
+Möglichkeit, auf die Kommunikation oder die mit dem Erblasser geteilten Bilder und
+sonstigen Inhalte zuzugreifen. Sowohl die Nachrichten als auch die veröffentlichten
+(„geposteten“) Inhalte können personenbezogene Daten darstellen oder solche
+beinhalten. Die Bekl. als Betreiberin des sozialen Netzwerks ist in den
+Kommunikationsprozess insoweit eingebunden, als sie die Nachrichten zum Abruf für
+das Empfängerkonto bereitstellt sowie den Zugriff auf die geteilten Inhalte ermöglicht
+und die entspre-
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+chende Plattform zur Verfügung stellt. Dabei verarbeitet sie notwendigerweise die in
+den Inhalten enthaltenen sowie für die Bereitstellung erforderlichen Daten des jeweils
+kommunizierenden oder veröffentlichenden Nutzers.
+70(2) Es kann dahinstehen, ob der Anwendungsbereich der Datenschutz-
+Grundverordnung im Hinblick auf die der Zugangsgewährung für die Erben immanente
+Verarbeitung von inhaltlichen Daten der Kommunikationspartner überhaupt eröffnet ist
+(für einen umfassenden Anwendungsausschluss Bericht der Arbeitsgruppe „Digitaler
+Neustart“ v. 15.5.2017,
+www.jm.nrw.de/JM/schwerpunkte/digitaler_neustart/index.php, 348 f.). Die
+Verarbeitung der personenbezogenen Daten der Kommunikationspartner der
+Erblasserin durch die Übermittlung und dauerhafte Bereitstellung der jeweiligen Inhalte
+für die Erben ist jedenfalls sowohl nach Art. 6 I Buchst. b Var. 1 DS-GVO als auch nach
+Art. 6 I Buchst. f DS-GVO zulässig.
+71(2.1) Nach Art. 6 I Buchst. b Var. 1 DS-GVO ist eine Verarbeitung rechtmäßig, wenn
+sie für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Partei ist,
+erforderlich ist. Umfasst ist sowohl die Erfüllung der vertraglichen Leistungs- und
+Nebenpflichten als auch der diesbezüglichen gesetzlichen Verpflichtungen
+(Buchner/Petri in Kühling/Buchner, DS-GVO, BDSG, 2. Aufl., Art. 6 DS-GVO Rn. 33;
+Assion/Notel/Veil in Gierschmann/Schlender/Stentzel/Veil, DS-GVO, Art. 6 Rn. 88 ff.).
+Ob die Verarbeitung „erforderlich“ – und nicht nur zweckdienlich – ist, hängt von dem
+Vertragsinhalt und der vertragscharakteristischen Leistung des jeweiligen
+Schuldverhältnisses ab (Buchner/Petri in Kühling/Buchner, Art. 6 DS-GVO Rn. 39).
+72Die Voraussetzungen der genannten Vorschrift sind erfüllt. Die Übermittlung und
+Bereitstellung von Nachrichten und geteilten Inhalten der Kommunikationspartner an
+das Benutzerkonto der Erblasserin erfolgt auch in Erfüllung einer gegenüber diesen
+bestehenden vertraglichen Hauptleistungspflicht. Denn nach dem Inhalt des
+Nutzungsvertrags zwischen der Bekl. und ihren Nutzern ist die Bereitstellung und
+Übermittlung von Nachrichten und sonstigen Inhalten an das vom jeweiligen Absender
+benannte Empfängerkonto wesentliche Vertragspflicht der Bekl. sowohl gegenüber
+dem Absender – hier also den Kommunikationspartnern der Erblasserin – als auch
+gegenüber dem Berechtigten des Empfängerkontos. Die notwendigerweise damit
+einhergehende Verarbeitung der in den Inhalten enthaltenen oder für die Bereitstellung
+benötigten Daten der Kommunikationspartner ist für die Erfüllung dieser
+Hauptleistungspflicht erforderlich iSv Art. 6 I Buchst. b Var. 1 DS-GVO. Die Bekl. macht
+datenschutzrechtliche Bedenken für die zu Lebzeiten der Erblasserin erfolgten
+Übermittlungen und Bereitstellungen von Inhalten auch nicht geltend.
+73An der Berechtigung der Datenverarbeitung nach der genannten Vorschrift ändert
+sich durch den Eintritt des Erbfalls nichts. Die Bekl. macht weiterhin entsprechend ihrer
+Verpflichtung einerseits gegenüber dem Absender bzw. Teilenden und andererseits
+gegenüber dem Berechtigten des Empfängerkontos die Inhalte für das betreffende
+Benutzerkonto zugänglich. Denn der Auftrag der Kommunikationspartner der
+Erblasserin zur Übermittlung einer Nachricht oder eines geteilten Inhalts wirkt zeitlich
+unbegrenzt – auch über den Tod des Berechtigten des Empfängerkontos hinaus – und
+umfasst die dauerhafte Ermöglichung des Abrufs der auf dem Server der Bekl.
+gespeicherten Nachricht durch den Nutzer des Empfängerkontos, solange dieses
+besteht, bzw. bei geteilten Inhalten, solange der Absender die Berechtigung nicht
+ändert, s. hierzu oben 2 a cc 2.3.1. Wie dort ausgeführt, bezieht sich die vertragliche
+Verpflichtung der Bekl. nicht darauf, die Nachricht oder den geteilten Inhalt an eine
+bestimmte Person zu übermitteln bzw. für diese zugänglich zu machen. Vielmehr ist
+diese kontobezogen, so dass die Bekl. sie erfüllt, indem sie Nachrichten an das
+benannte Benutzerkonto übermittelt, deren jederzeitigen Abruf durch den mit den
+zutreffenden Daten bei dem Benutzerkonto angemeldeten Nutzer ermöglicht sowie
+Inhalte für die ausgewählten Benutzerkonten zur Verfügung stellt. Der Tod des
+ursprünglich Berechtigten ändert hieran nichts, da das Konto nach dem Erbfall
+fortbesteht und der Erbe damit Berechtigter wird.
+74(2.2) Abgesehen davon ist die Datenverarbeitung auch zur Wahrung der berechtigten
+Interessen der Kl. und des Vaters der Erblasserin erforderlich (Art. 6 I Buchst. f DS-
+GVO).
+75Die Frage der Zulässigkeit einer Datenverarbeitung aufgrund von berechtigten
+Interessen eines Dritten ist grundsätzlich von den konkreten Umständen des
+betroffenen Einzelfalls abhängig und dementsprechend auch einzelfallbezogen zu
+dem Art. 6 I Buchst. f DS-GVO entsprechenden Art. 7 Buchst. f der RL 95/46/EG]). Hier
+liegen berechtigte Interessen der beiden Erben vor, die eine Datenverarbeitung in Form
+der Zugangsgewährung erforderlich machen. Die Interessen, Grundrechte und
+Grundfreiheiten der betroffenen Kommunikationspartner der Erblasserin überwiegen
+diese berechtigten Interessen nicht.
+76(2.2.1) Zu den berechtigten Interessen zählen neben rechtlichen auch tatsächliche,
+wirtschaftliche oder ideelle Interessen, nicht jedoch bloße Allgemeininteressen
+(Buchner/Petri in Kühling/Buchner, Art. 6 DS-GVO Rn. 146 f.; Auernhammer/Kramer,
+DSGVO, BDSG, 5. Aufl., Art. 6 DS-GVO Rn. 30). Die in den Erwägungsgründen 47–50
+genannten Beispiele berechtigter Interessen wie die Verarbeitung zur Verhinderung von
+Betrug (EG 47 ), zum Zweck der Direktwerbung (EG 47 ), im Rahmen einer
+konzerninternen Übermittlung (EG 48 ) oder zur Verbesserung der Netz- und
+Informationssicherheit (EG 49) zeigen, dass vielfältige und unterschiedlich
+bedeutsame berechtigte Interessen berücksichtigungsfähig sind.
+77Hier bestehen berechtigte Interessen der Kl. und des Vaters der Erblasserin:
+78(2.2.1.1) Die Erbengemeinschaft kann sich auf das durch Art. 14 I 1 GG geschützte
+Erbrecht berufen und ein berechtigtes Interesse gelten machen, weil – wie dargelegt –
+das mit der Bekl. bestehende Vertragsverhältnis nach dem anzuwendenden deutschen
+Recht auf die Erben übergegangen ist und diese deshalb als Vertragspartner einen
+Primärleistungsanspruch auf Zugang zu dem Benutzerkonto der Erblasserin sowie den
+darin enthaltenen vermögensrechtlichen und höchstpersönlichen (digitalen) Inhalten
+haben. Es stellt bereits für sich genommen ein gewichtiges berechtigtes Interesse
+eines Vertragspartners dar, die Hauptleistungsansprüche aus diesem
+Vertragsverhältnis auch geltend machen zu können. Würde den Erben der Zugang
+verweigert, würden ihnen die durch den erbrechtlichen Übergang von Rechten und
+Pflichten aus dem Vertragsverhältnis entstandenen Rechtspositionen faktisch
+entzogen und der Grundsatz der Universalsukzession ausgehöhlt.
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+79(2.2.1.2) Als Erben sind die Kl. und der Vater der Erblasserin nicht nur
+Vertragspartner des Nutzungsvertrags geworden, sie haben auch etwaige
+vermögensrechtliche Ansprüche der Erblasserin geerbt und haften für deren
+Verbindlichkeiten. Informationen über derartige Ansprüche und Verbindlichkeiten
+können sich auch aus den Inhalten des Benutzerkontos ergeben, die nicht nur
+höchstpersönliche, sondern auch vermögensrechtliche Bedeutung haben können. Der
+Zugang zu dem Benutzerkonto dient deshalb regelmäßig auch dazu, um zu prüfen, ob
+sich aus dem Inhalt Ansprüche der Erblasserin gegen Dritte oder Ansprüche Dritter
+gegen die Erblasserin ergeben, die die Erben weiterverfolgen können oder müssen,
+oder ob sonstige Handlungen rechtsgeschäftlicher Art erforderlich sind. Die
+Anforderungen an ein diesbezügliches berechtigtes Interesse können nicht hoch
+angesetzt werden, weil die Erben – wie hier – regelmäßig keine Kenntnis von den
+Inhalten des Benutzerkontos haben und ihnen deshalb in der Regel eine nähere
+Darlegung der möglicherweise enthaltenen Inhalte mit vermögensrechtlichem Bezug
+nicht möglich ist.
+80Im vorliegenden Fall besteht über das allgemeine berechtigte Interesse der Erben an
+der Prüfung der Inhalte auf vermögenswerte Relevanz hinaus ein näher konkretisiertes
+derartiges Interesse deshalb, weil die Erben mit der Zugangsgewährung auch
+vermögensrechtliche Abwehrinteressen gegenüber dem U-Bahn-Fahrer verfolgen, der
+sie auf Schadensersatz in Anspruch nimmt. Die Geltendmachung, Ausübung und
+Verteidigung eigener Rechte ist ein berechtigtes Interesse für die Datenverarbeitung
+(Assion/Notel/Veil in Gierschmann/Schlender/Stentzel/Veil, Art. 6 Rn. 136;
+Sydow/Reimer, Europäische Datenschutzgrundverordnung, Art. 6 Rn. 55; vgl. für das
+berechtigte Interesse iSd Art. 7 Buchst. f der RL 95/46/EG eines Dritten, eine
+persönliche Information über einen Schädiger zu erlangen, um eine
+Schadensersatzklage zu erheben EuGH, ECLI:EU:C:2017:336 = ZD 2017, 324 = CR 2017,
+504 Rn. 29 = EuZW 2017, 912 Ls.).
+81(2.2.1.3) Als berechtigtes Interesse der Kl. und des Vaters der Erblasserin als Erben
+sowie Eltern der minderjährigen Verstorbenen ist auch anzuerkennen, dass diese durch
+den Zugang zu dem Benutzerkonto Aufschluss darüber erhalten möchten, ob die
+Erblasserin kurz vor ihrem Tod Suizidabsichten gehegt hat. Entgegen der Auffassung
+der Bekl. sind nicht nur zwingende rechtliche Interessen, sondern ist auch ein
+derartiges ideelles Interesse im Rahmen der Abwägung berücksichtigungsfähig.
+82(2.2.2) Die Datenverarbeitung ist vorliegend erforderlich, weil keine geeigneteren und
+milderen Mittel möglich sind, um die berechtigten Interessen der Erben zu erfüllen (vgl.
+Auernhammer/Kramer, Art. 6 DS-GVO Rn. 34; Plath/Plath, BDSG/DSGVO, 2. Aufl., Art. 6
+DS-GVO Rn. 23).
+83(2.2.3) Die Interessen, Grundrechte oder Grundfreiheiten der betroffenen
+Kommunikationspartner, die den Schutz personenbezogener Daten erfordern,
+überwiegen die berechtigten Interessen der Erben nicht.
+84(2.2.3.1) Aufseiten der Kommunikationspartner der Erblasserin ist das Grundrecht
+aus Art. 8 I GRCh auf Schutz ihrer personenbezogenen Daten zu berücksichtigen. Dem
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten sieht sich
+die Datenschutz-Grundverordnung verpflichtet (EG 1 und 2) und auch der EuGH hebt
+die Bedeutung des durch Art. 8 GRCh gewährleisteten Grundrechts hervor (vgl. EuGH,
+damit im Zusammenhang stehende Grundrecht auf Achtung des Privat- und
+Familienlebens und der Kommunikation gem. Art. 7 GRCh zugunsten der
+Kommunikationspartner mit in die Abwägung einzustellen (Heberlein in
+Ehmann/Selmayr, DS-GVO, Art. 6 Rn. 24; s. auch EuGH, ECLI:EU:C:2015:650 = NJW
+2015, 3151 Rn. 39). Schutzwürdig sind insoweit das Persönlichkeitsrecht im
+Allgemeinen und die informationelle Selbstbestimmung im Speziellen. Die
+Schutzbedürftigkeit ist dabei umso höher, je persönlicher die betroffenen Daten sind.
+Insoweit ist zu berücksichtigen, dass die von den Kommunikationspartnern verfassten
+Inhalte der übermittelten Nachrichten und Veröffentlichungen („Postings“) – wie die
+Revisionserwiderung geltend macht – auch höchstpersönliche oder sensible Daten, die
+besonders schutzwürdig sind, enthalten oder hierauf hinweisen könnten.
+85Als gewichtig sind nach Art. 6 I Buchst. f DS-GVO zudem die Belange betroffener
+Kinder zu berücksichtigen. Dies spiegelt sich auch in deren Erwägungsgrund 38 wider.
+Da die Erblasserin im Todeszeitpunkt selbst 15 Jahre alt war, liegt es nahe, dass ihre
+Kommunikationspartner zumindest teilweise auch noch Kinder gewesen sind. Dies
+bedeutet allerdings nicht, dass gegenüber Kindern eine Datenverarbeitung
+grundsätzlich nicht gerechtfertigt ist, sondern lediglich, dass ihre Interessen,
+entsprechend einer vom Alter abhängigen Schutzbedürftigkeit, im Vergleich zu
+Erwachsenen ein höheres Gewicht haben (Assion/Notel/Veil in
+Gierschmann/Schlender/Stentzel/Veil, Art. 6 Rn. 144; Buchner/Petri in
+Kühling/Buchner, Art. 6 DS-GVO Rn. 155; Sydow/Reimer, Art. 6 Rn. 64).
+86(2.2.3.2) Der Maßstab für die Abwägung folgt aus den in Art. 1 und Art. 5 genannten
+Grundsätzen und Leitprinzipien der Datenschutz-Grundverordnung unter
+Berücksichtigung der Wertmaßstäbe der Grundrechtecharta und des übrigen
+Primärrechts. Dabei sind unter anderem die relevanten Grundrechtsbezüge, die
+Eingriffsintensität, die Art der verarbeiteten Daten, die Art der Betroffenen, mögliche
+Aufgaben oder Pflichten und die Zwecke der Datenverarbeitung zu berücksichtigen
+(Gola/Schulz, DS-GVO, Art. 6 Rn. 53). Dabei geht es im Kern um einen Ausgleich
+zwischen den Privatheitsinteressen des Betroffenen einerseits und den
+Verwendungsinteressen der Verantwortlichen bzw. Dritten andererseits im konkreten
+Einzelfall (Buchner/Petri in Kühling/Buchner, Art. 6 DS-GVO Rn. 149; Assion/Notel/Veil
+in Gierschmann/Schlender/Stentzel/Veil, Art. 6 Rn. 140 ff.; Schaffland/Holthaus in
+Schaffland/Wiltfang, DS-GVO/BDSG, Art. 6 DS-GVO Rn. 126 ff., Okt. 2017). Es sind Art,
+Inhalt und Aussagekraft der betroffenen Daten an dem mit der Datenverarbeitung
+verfolgten Zweck zu messen und gegenüberzustellen (Buchner/Petri in
+[1890]). Teilweise wird hierbei auch mit demselben Ergebnis auf die zum Grundrecht
+auf informationelle Selbstbestimmung entwickelten Kriterien wie Anlasslosigkeit,
+Streubreite und Einschüchterungswirkung zurückgegriffen (Sydow/Reimer, Art. 6 Rn.
+87Die Erwägungsgründe zur Güterabwägung nach der Datenschutz-Grundverordnung
+präzisieren insoweit die Abwägung (Auernhammer/Kramer, Art. 6 DS-GVO Rn. 37).
+Bedeutung hat hierbei insbesondere Erwägungsgrund 47  DS-GVO, der als
+wichtigen Gesichtspunkt der Interessenabwägung „die vernünftigen Erwartungen der
+betroffenen Person, die auf ihrer Beziehung zu dem Verantwortlichen beruhen“ nennt.
+Insoweit ist auch zu berücksichtigen, ob die „betroffene Person zum Zeitpunkt der
+Erhebung der personenbezogenen Daten und angesichts der Umstände, unter
+BGH: * Digitaler Nachlass – Übergang des Nutzungsvertrags mit einem
+denen sie erfolgt, vernünftigerweise absehen kann, dass möglicherweise eine
+Verarbeitung für diesen Zweck erfolgen wird“ (EG 47 ). Maßgebend ist ein
+objektivierter Maßstab, das heißt, welche Erwartungen ein vernünftiger Dritter in der
+Person des Betroffenen hätte (Auernhammer/Kramer, Art. 6 DS-GVO Rn. 37;
+Plath/Plath, Art. 6 DS-GVO Rn. 23).
+88(2.2.3.3.) Eine nach diesen Grundsätzen durchgeführte Interessenabwägung führt
+dazu, dass die Interessen der Kommunikationspartner die berechtigten Interessen der
+Kl. und des Vaters der Erblasserin nicht überwiegen.
+89Zu berücksichtigen ist dabei zunächst, dass die relevanten Daten von den
+Kommunikationspartnern freiwillig und bewusst an die Bekl. übermittelt wurden, um
+sie für ein bestimmtes Benutzerkonto zur Verfügung zu stellen. Inhalt und Umfang der
+preisgegebenen persönlichkeitsrelevanten Daten sowie den zur Kenntnisnahme
+befugten Personenkreis kann der Nutzer selbst bestimmen. Es handelt sich also nicht
+um von der Bekl. erhobene, sondern um von den Kommunikationspartnern im Rahmen
+des bestehenden Vertrags (EG 47 ) freiwillig und selbstbestimmt sowie inhaltlich
+kontrollierbar übersandte Daten (vgl. Gola/Schulz, Art. 6 Rn. 53). Der Nutzer forciert bei
+der Kontaktaufnahme durch persönliche Nachrichten oder das Teilen von Inhalten den
+Außenkontakt und lehnt ihn nicht grundsätzlich zur Wahrung der Vertraulichkeit ab (vgl.
+Buchner/Petri in Kühling/Buchner, Art. 6 DS-GVO Rn. 150).
+90Der Absender weiß und will, dass die Bekl. die Inhalte vertragsgemäß an das
+Empfängerkonto übermittelt und für dieses bereitstellt. Dabei ist dem Nutzer zugleich
+ebenso – oder noch viel mehr – wie dem Absender eines Briefs bewusst, dass er nach
+dem Versenden einer Nachricht nicht mehr kontrollieren kann, wer nach der
+Übermittlung und Bereitstellung durch die Bekl. letztlich von deren Inhalt Kenntnis
+nimmt, und dass er grundsätzlich keine Möglichkeit hat, die übermittelte Nachricht
+bzw. den Inhalt zurückzufordern. Er begibt sich insoweit der Verfügungsbefugnis über
+die Nachrichten (vgl. hierzu oben 2 a cc 2.3; NK-NachfolgeR/Herzog, Kap. 9 Rn. 68;
+Bock, AcP 217, 370 [408]; Herzog/Pruns, § 4 Rn. 84; Kutscher, 145; Pruns, NWB 2014,
+2175 [2182 f.]). Dies gilt für erwachsene Nutzer gleichermaßen wie für minderjährige.
+Denn auch und gerade Minderjährige, die bereits selbstständig F nutzen und ein
+eigenes Benutzerkonto besitzen, kennen bei der gebotenen typisierenden
+Betrachtungsweise die vielfältigen Möglichkeiten, eine an ein bestimmtes
+Benutzerkonto gesandte Nachricht auch Dritten zugänglich zu machen.
+91Die Kommunikationspartner der Erblasserin konnten darüber hinaus
+vernünftigerweise absehen, dass die Datenverarbeitung durch Bereitstellung der
+Nachrichten und Inhalte für das Empfängerkonto auch nach dem Tod der
+ursprünglichen Kontoberechtigten fortgesetzt würde und die Erben Kenntnis von
+diesen Daten erlangen könnten (EG 47 ). Denn der Absender einer Nachricht oder
+eines sonstigen Inhalts muss damit rechnen, dass der Kontoberechtigte versterben
+könnte, Dritte das Benutzerkonto erben und in das Vertragsverhältnis eintreten und
+damit als neue Kontoberechtigte Zugang auf die Kontoinhalte haben.
+92In die Interessenabwägung einzustellen ist weiter der eng begrenzte Zweck der
+vorliegenden Datenverarbeitung. Es geht hier ausschließlich um die Übermittlung und
+Bereitstellung von personenbezogenen Daten und Inhalten für ein konkretes, vom
+Absender selbst ausgewähltes Benutzerkonto im Rahmen des zwischen den
+Kommunikationspartnern und der Bekl. bestehenden Vertragsverhältnisses (s. EG 47
+; vgl. auch Auernhammer/Kramer, Art. 6 DS-GVO Rn. 38) allein zum Zweck der
+Kenntnisnahme der bereits vorhandenen Inhalte durch die Mitglieder der
+Erbengemeinschaft. Demgegenüber erfolgt die Verarbeitung nicht zu weitergehenden
+Zwecken, etwa für Werbezwecke oder zur Erstellung eines Persönlichkeitsprofils durch
+die Bekl. (Buchner/Petri in Kühling/Buchner, Art. 6 DS-GVO Rn. 152 f.). Damit sind
+zugleich die durch die konkrete Art der Datenverarbeitung entstehenden Risiken
+begrenzt (vgl. zum risikobasierten Ansatz der DSGVO Gola/Schulz, Art. 6 Rn. 53). Denn
+die Daten werden durch die Bereitstellung für das Benutzerkonto nicht einem größeren,
+unbeherrschbaren Personenkreis oder völlig unbeteiligten Dritten bekannt, sondern nur
+dem von vornherein eng begrenzten Personenkreis, nämlich der aus zwei Personen
+bestehenden Erbengemeinschaft, die zudem nächste Angehörige der verstorbenen
+Nutzerin sind.
+93Vor diesem Hintergrund kommt den Interessen der Kommunikationspartner im
+Verhältnis zu denen der Erben keine überwiegende Bedeutung zu, unabhängig davon,
+ob diese minderjährig sind oder nicht und ob teilweise auch sensible Inhalte enthalten
+sind. Die oben dargelegten berechtigten Interessen der Kl. und des Vaters der
+Erblasserin als Erben und nahe Angehörige sind von deutlich höherem Gewicht. Die
+Interessen der Kommunikationspartner rechtfertigen es nicht, das gesetzliche Erbrecht
+der Erben teilweise auszuhöhlen. Gestützt wird dieses Ergebnis hier durch die
+besondere persönliche Interessenlage der Erben, die zugleich nächste Angehörige sind
+und ein sowohl ideelles als auch vermögenswertes Interesse an der Aufklärung der
+Umstände des Todes ihrer Tochter haben.
+94(3) Die Erlaubnistatbestände des Art. 6 I Buchst. b und f DS-GVO begründen jeweils
+eigenständig die datenschutzrechtliche Zulässigkeit der Zugangsgewährung für die Kl.
+Eine Vorlage an den EuGH gem. Art. 267 AEUV ist entbehrlich. Die richtige Anwendung
+des Europarechts ist jedenfalls im Hinblick auf Art. 6 I Buchst. f DS-GVO derart
+offenkundig, dass für vernünftige Zweifel kein Raum mehr bleibt (vgl. Senat, BGHZ 201,
+136439 Rn. 7). Fragen der Auslegung dieser Vorschrift, die eine Vorlage erforderlich
+machen könnten, stellen sich nicht mehr. Denn nach der Rechtsprechung des EuGH zur
+inhaltsgleichen Vorgängerregelung des Art. 7 Buchst. f der RL 95/46/EG steht fest,
+dass eine von den Umständen der konkreten Konstellation abhängige
+62 – acte éclairé), die auf Grundlage der vorliegenden Umstände zugunsten der Erben
+ausfällt.
+95e) Ohne Erfolg beruft sich die Bekl. in der Revisionserwiderung auch auf einen
+Ausschluss des Zugangs wegen des allgemeinen Persönlichkeitsrechts der
+Kommunikationspartner der Erblasserin. Dieses steht dem Anspruch der Kl. ebenso
+wenig entgegen wie das Fernmeldegeheimnis oder Datenschutzrecht. Die Gründe, die
+zur Verneinung einer Verletzung des Fernmeldegeheimnisses oder
+datenschutzrechtlicher Vorschriften führen, gelten auch insoweit.
+963. Das angefochtene Urteil ist demnach aufzuheben (§ 562 I ZPO).
+97Da die Sache zur Endentscheidung reif ist, kann der Senat die Berufung der Bekl.
+selbst zurückweisen (§ 563 III ZPO).
+Anmerkung der Redaktion

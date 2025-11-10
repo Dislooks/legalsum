@@ -1,0 +1,202 @@
+Verjährungsverzicht bei behauptetem Behandlungsfehler
+BGB §§ 133, 157, 199, 204
+1. Zur Auslegung einer Verjährungsverzichtserklärung.
+2. Für die Annahme, der Verjährungsverzicht führe – wie das Anerkenntnis – zu
+einem Neubeginn der Verjährung, besteht mangels Regelungslücke kein Anlass.
+3. Ein weitergehender Verzicht des Schuldners ist zwar möglich, es bedarf hierfür
+aber besonderer Anhaltspunkte, die einen über die Ermöglichung der gerichtlichen
+Geltendmachung hinausgehenden Verzichtswillen des Schuldners erkennen lassen.
+(Leitsätze 2 und 3 von der Redaktion)
+BGH, Urteil vom 10.11.2020 – VI ZR 285/19
+Zum Sachverhalt
+Die Kl. nahm die Bekl. wegen behaupteter ärztlicher Behandlungsfehler unmittelbar
+nach ihrer Geburt auf Schadensersatz in Anspruch. Die Kl., bei der vorgeburtlich ein
+Herzfehler diagnostiziert worden war, wurde am 16.4.2000 in der Klinik der Bekl.
+geboren. Es bestand bei dramatisch schlechten Apgarwerten ein
+reanimationspflichtiger Zustand (Schnappatmung ohne Atemgeräusche, Herzschlag
+40/Minute). Nach Maskenbeatmung, die über zwei Stunden vergeblich versucht wurde,
+entschloss man sich zur Intubation, die erst im fünften Anlauf gelang. Anschließend
+wurde die Kl. auf die Intensivstation verlegt und weiterhin maschinell beatmet. Nach
+der Geburt wurde festgestellt, dass die Kl. unter dem sogenannten Catch-22-Syndrom
+(Erbkrankheit mit geringer Lebenserwartung) leidet. Die Bekl. gab im Zusammenhang
+mit einem Schlichtungsverfahren am 27.11.2006 eine Verjährungsverzichtserklärung
+bis zum 31.12.2007 ab. Am 12.11.2007 wurde das Schlichtungsverfahren
+abgeschlossen. Die Klage wurde 2009 eingereicht.
+Das LG Berlin (Urt. v. 7.3.2013 – 6 O 3/09) hat die Klage abgewiesen. Auf die Berufung
+der Kl. hat das KG (Urt. v. 1.7.2019 – 20 U 103/13) die Bekl. zur Zahlung eines
+Schmerzensgeldes iHv 375.000 Euro nebst Zinsen verurteilt und deren Ersatzpflicht für
+materielle und weitere immaterielle Schäden festgestellt. Die Revision der Bekl. hatte
+Erfolg und führte zur Aufhebung und Zurückverweisung.
+Aus den Gründen
+6I. Das BerGer. hat in der über einen Zeitraum von mehr als zwei Stunden vergeblich
+versuchten Maskenbeatmung einen groben Behandlungsfehler gesehen. Die
+Kausalität zwischen Behandlungsfehler und Gesundheitsschaden hat das BerGer. im
+Hinblick auf die Umkehr der Beweislast bejaht.
+7Die seitens der Bekl. erhobene Einrede der Verjährung hat das BerGer. mit der
+Begründung zurückgewiesen, dass die Bekl. mit Schreiben vom 27.11.2006 „weiterhin“
+bis Ende 2007 auf die Einrede verzichtet habe. Das heiße, dass sie offensichtlich auch
+schon nach dem Antrag der Kl. vom 4.2.
+
+2021, 461)
+2004 auf Einleitung des Schlichtungsverfahrens eine Verzichtserklärung abgegeben
+habe. In dem Antrag habe die Kl. um Einleitung des Schlichtungsverfahrens wegen
+drohenden Eintritts der Verjährung zum 16.4.2004 gebeten und darauf hingewiesen,
+dass ein Verzicht auf die Verjährungseinrede noch nicht vorliege. Zwar werde durch ein
+Schlichtungsverfahren nur eine Hemmung der Verjährung ausgelöst, die dann bis zum
+Abschluss des Schlichtungsverfahrens dauere. Die Annahme einer Hemmung nur
+während der Dauer des Schlichtungsverfahrens mache hier aber keinen Sinn, wenn im
+Zeitpunkt des Beginns des Schlichtungsverfahrens bereits Verjährung eingetreten sei.
+Da die Bekl. und auch die Kl. ausweislich ihres Antrags auf Einleitung des
+Schlichtungsverfahrens der Auffassung gewesen seien, dass im Zeitpunkt der
+Einleitung am 4.2.2004 an sich bereits Verjährung eingetreten sei und da die Bekl.
+danach und dann wieder mit Schreiben vom 27.11.2006 „weiterhin“ auf die Einrede
+verzichtet habe, könne der Verzicht der Bekl. nur so verstanden werden, dass die Frist
+bei Einleitung des Schlichtungsverfahrens am 4.2.2004 (in einer logischen Sekunde)
+habe neu beginnen sollen und die Bekl. auch bereit gewesen sei, bis Ende 2007 auf die
+Einrede zu verzichten. Ab diesem Zeitpunkt bzw. ab Beendigung des
+Schlichtungsverfahrens mit Bescheid der Gutachterkommission vom 12.11.2007 sei
+die Frist wieder von Neuem gelaufen und dann gem. § 204 BGB durch die Einleitung
+des Klageverfahrens 2009 wiederum gehemmt worden.
+8II. Die Revision der Bekl. ist begründet.
+9Das BerGer. hat seine verjährungsrechtliche Beurteilung auf die von ihm konkret in
+Bezug genommene Erklärung der Bekl. vom 27.11.2006 gestützt, die wie folgt lautet:
+„In vorbezeichneter Angelegenheit versichern wir Ihnen, auch namens und in Vollmacht
+des hier versicherten Personenkreises, uns weiterhin bis einschließlich 31.12.2007
+nicht auf die Einrede der Verjährung zu berufen.“
+10Die Auslegung dieser Erklärung durch das BerGer. dahingehend, dass die
+Verjährungsfrist im Ergebnis ab Beendigung des Schlichtungsverfahrens im November
+2007 neu beginnen sollte, hält revisionsrechtlicher Überprüfung nicht stand.
+111. Zwar obliegt die Auslegung von Willenserklärungen grundsätzlich dem Tatrichter,
+der seine Entscheidung unter Berücksichtigung der §§ 133, 157 BGB aufgrund einer
+umfassenden Gesamtwürdigung aller Umstände zu treffen hat. Sie kann vom RevGer.
+nur daraufhin überprüft werden, ob Verstöße gegen gesetzliche Auslegungsregeln,
+anerkannte Auslegungsgrundsätze, Denkgesetze und Erfahrungssätze vorliegen oder
+ob die Auslegung auf Verfahrensfehlern beruht (stRspr; vgl. BGHZ 160, 377 [380] = NJW
+122. Solche Rechtsfehler liegen hier aber vor.
+13a) Das BerGer. hat der Auslegung der Erklärung der Bekl. vom 27.11.2006 die
+Annahme zugrunde gelegt, dass beide Parteien – ausweislich des Schlusses ihres
+Antragsschreibens auf Einleitung des Schlichtungsverfahrens vom 4.2.2004 auch die
+Kl. – davon ausgegangen seien, dass am 4.2.2004 bereits Verjährung eingetreten sei.
+Dies steht aber im Widerspruch zu der kurz zuvor getroffenen Feststellung, dass die Kl.
+am Ende ihres Antragsschreibens „um alsbaldige Einleitung des Verfahrens wegen
+drohenden Eintritts der Verjährung zum 16.4.04“ bat.
+14b) Der Begründung des angefochtenen Urteils lässt sich weiter die Auffassung des
+BerGer. entnehmen, dass der Verzicht auf die Erhebung der Verjährungseinrede bei aus
+Sicht der Parteien zuvor – nämlich schon vor Einleitung des Schlichtungsverfahrens –
+eingetretener Verjährung keinen Sinn mache, weil dann das Schlichtungsverfahren die
+Verjährung nicht mehr hemmen könne, und dass daraus zu schließen sei, dass sich die
+Bekl. mit dem Neubeginn der Verjährungsfrist bei Einleitung des
+Schlichtungsverfahrens am 4.2.2004 „(in einer logischen Sekunde)“ bzw. (wohl wegen
+Hemmung der Frist während des Schlichtungsverfahrens) ab Beendigung des
+Schlichtungsverfahrens einverstanden erklärt habe. Diese Beurteilung beruht auf
+Denkfehlern, verstößt gegen anerkannte Auslegungsgrundsätze zum
+Verjährungsverzicht und wird durch die getroffenen Feststellungen nicht getragen.
+Dabei kann dahinstehen, ob, wie vom BerGer. angenommen und von der Revision
+angegriffen, die Bekl. schon vor dem Schreiben vom 27.11.2006 eine
+Verzichtserklärung abgegeben hatte.
+15aa) Nach der Rechtsprechung des BGH wird durch einen vom Schuldner erklärten
+befristeten Verjährungsverzicht der Ablauf der Verjährung nicht beeinflusst; die
+Verjährungsvollendung wird nicht hinausgeschoben. Der Verjährungsverzicht hat
+regelmäßig nur zum Inhalt, dass die Befugnis des Schuldners, die Einrede der
+Verjährung zu erheben, bis zum Ende des vereinbarten Zeitraums ausgeschlossen wird
+Verzicht soll den Gläubiger von der Notwendigkeit der alsbaldigen gerichtlichen
+der Gläubiger nicht innerhalb der Frist Klage (wobei Einreichung der Klage mit
+Zustellung „demnächst“ genügt, § 167 ZPO analog), kann sich der Schuldner direkt
+nach Ablauf der Frist wieder auf Verjährung berufen und damit die Leistung verweigern
+Die Klageerhebung innerhalb der Verzichtsfrist hindert den Schuldner demnach auch
+über die Frist hinaus an der Erhebung der Verjährungseinrede. Für andere
+Hemmungstatbestände als die Klage gilt dies vorbehaltlich einer gegenteiligen
+Erklärung des Schuldners nicht (BeckOGK/Bach, 15.7.2020, § 214 BGB Rn. 64, 79).
+16Es ist zwar nicht ausgeschlossen, dass dem Verjährungsverzicht im Einzelfall über
+den dargestellten regelmäßigen Inhalt hinaus eine andere – größere – Reichweite
+zukommt. Hierfür bedarf es aber besonderer Anhaltspunkte, die einen über die
+Ermöglichung der gerichtlichen Geltendmachung hinausgehenden Verzichtswillen des
+Verjährungsverzicht führe – wie das Anerkenntnis (§ 212 I Nr. 1 BGB) – zu einem
+Neubeginn der Verjährung, besteht mangels Regelungslücke kein Anlass (vgl. BGH ZIP
+BeckOGK/Bach, § 214 BGB Rn. 79; MüKoBGB/Grothe, 8. Aufl., § 214 Rn. 8).
+17bb) Erst seit Inkrafttreten des Gesetzes zur Modernisierung des Schuldrechts vom
+26.11.2001 ist ein Verzicht auf die Einrede der Verjährung grundsätzlich auch vor Ein-
+
+2021, 461)
+tritt der Verjährung zulässig (vgl. § 202 I BGB idF der Bekanntmachung v. 2.1.2002;
+MüKoBGB/Grothe, § 202 Rn. 13, § 214 Rn. 5). Nach Eintritt der Verjährung konnte und
+kann der Verzicht dagegen sowohl nach altem als auch nach neuem Recht wirksam
+Gläubiger vor Ablauf der Verzichtsfrist Klage erheben muss, soll der Verzicht über das
+Fristende hinaus wirksam bleiben (s. o. II 2 b aa).
+18cc) Im Streitfall sind keinerlei besondere Anhaltspunkte festgestellt, die die
+Annahme des BerGer. tragen könnten, der vorliegende Verzicht der Bekl. auf die
+Einrede der Verjährung bis Ende 2007 habe – weit über den oben dargestellten
+regelmäßigen Inhalt hinaus und ähnlich wie beim Anerkenntnis – bedeutet, dass die
+Verjährungsfrist im Ergebnis ab Beendigung des Schlichtungsverfahrens neu beginnen
+sollte. Insbesondere würde der Verzicht entgegen der Auffassung des BerGer.
+vorliegend auch dann Sinn machen, wenn aus Sicht der Parteien schon vor Einleitung
+des Schlichtungsverfahrens Verjährung eingetreten sein sollte, das
+Schlichtungsverfahren die Verjährung also nicht mehr hemmen konnte. Denn der
+Verzicht ermöglichte es der Kl., ungeachtet bereits eingetretener Verjährung die
+Ergebnisse aus dem Schlichtungsverfahren abzuwarten und bis spätestens Ende 2007
+Klage zu erheben. Dem steht, anders als die Klagepartei meint, nicht entgegen, dass im
+Zeitpunkt der Verzichtserklärung noch nicht feststand, ob das Schlichtungsverfahren
+bis Ende 2007 beendet sein würde. Es bestand jedenfalls die Chance, dass dies der Fall
+sein würde (tatsächlich war es das auch) oder dass die Bekl. – bei fortdauerndem
+Schlichtungsverfahren – ihren Einredeverzicht verlängern würde. Notfalls hätte noch
+während des laufenden Schlichtungsverfahrens Klage erhoben werden müssen. Das
+Klageverfahren wurde aber erst 2009 und damit lange nach Ablauf der Verzichtsfrist
+eingeleitet.
+19 III. Die Sache ist an das BerGer. zurückzuverweisen, weil sie nicht iSv § 563 III ZPO
+zur Endentscheidung reif ist. Denn wie von der Revisionserwiderung zu Recht geltend
+gemacht, fehlt es schon an Feststellungen, die für die Bestimmung des Beginns der
+Verjährungsfrist erforderlich sind.
+Anmerkung
+Das Urteil ist eine deutliche Klarstellung hinsichtlich der Hemmung der Verjährung
+durch ein Verfahren vor einer Gutachter- bzw. Schlichtungsstelle einer Ärztekammer.
+Grundsätzlich beträgt die regelmäßige Verjährungsfrist bei Arzthaftungsansprüchen
+gem. § 195 BGB drei Jahre. Die Verjährung beginnt gem. § 199 I BGB mit dem Schluss
+des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den
+Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt
+oder ohne grobe Fahrlässigkeit erlangen müsste.
+In Arzthaftungssachen liegt das Problem des Verjährungsbeginns regelmäßig bei der
+Kenntnis des Patienten von den den Anspruch begründenden Umständen, denn allein
+der schlechte Ausgang der Behandlung reicht für den Beginn der Verjährung noch nicht
+aus. Der BGH hat daher statuiert, dass Voraussetzung für den Verjährungsbeginn die
+Kenntnis vom schadenskausalen Abweichen vom ärztlichen Standard oder deren grob
+fahrlässige Unkenntnis ist.
+Sofern die Voraussetzungen eines der Hemmungstatbestände der §§ 203 ff. BGB
+vorliegen, wird die Verjährung zum Zeitpunkt des Vorliegens der Voraussetzungen
+eines Hemmungstatbestands gestoppt. Sobald der Hemmungsgrund wegfällt, beginnt
+die Verjährung wieder zu laufen, allerdings nicht von vorn, sondern mit den
+verbleibenden Tagen der Verjährung, die bis vor dem Eintritt der Verjährung bestanden.
+Ein für das Arzthaftungsrecht sehr relevanter Hemmungsgrund ist § 204 I Nr. 4 BGB.
+herausgestellt, dass Verjährungshemmung nach § 204 I Nr. 4 BGB eintritt, wenn der
+Patient gegen den behandelnden Arzt Schadensersatzansprüche bei einer von der
+Ärztekammer eingerichteten Schlichtungs- oder Gutachterstelle geltend macht. Diese
+Hemmung tritt unabhängig davon ein, ob Arzt bzw. Haftpflichtversicherung dem
+Verfahren zustimmen.
+Für die Verjährung von Ansprüchen im Arzthaftungsrecht ist daneben der
+Verjährungsverzicht ein wichtiger Faktor.
+In der nun vorliegenden Entscheidung hat der BGH klargestellt, was der
+Verjährungsverzicht bewirkt und wie Verjährungsverzichtserklärungen auszulegen
+sind. So wird verdeutlicht, dass ein Verjährungsverzicht nicht den Ablauf der
+Verjährung bewirkt, sondern der Schuldner sich für den Zeitraum, für den der
+Verjährungsverzicht abgegeben wird, nicht auf die Einrede der Verjährung berufen
+kann. Sobald diese Frist abgelaufen ist, kann der Schuldner sich wieder auf die Einrede
+der Verjährung berufen. Erhebt der Gläubiger innerhalb des Zeitraums, in dem auf die
+Einrede der Verjährung verzichtet wird, Klage, bleibt der Verzicht auch nach Fristablauf
+wirksam. Dies gilt aber nicht für andere Hemmungstatbestände.
+Im vorliegenden Fall hatte das KG den Verjährungsverzicht vom 27.11.2006 fehlerhaft
+dahingehend ausgelegt, dass von einem Neubeginn der Verjährung zu Beginn des
+Schlichtungsverfahrens bzw. dessen Ende ausgegangen wurde. Grundsätzlich wäre
+dies möglich gewesen, aber dann hätte die Erklärung deutliche Hinweise auf diese
+Absicht enthalten müssen. Vielmehr hatte sie die – übliche – Wirkung, dass sich der
+Schuldner bis zum Ende des Jahres 2007 nicht auf die Einrede der Verjährung berufen
+konnte. Die Gläubigerin hätte daher bis zum Ende des Jahres 2007 Klage erheben
+müssen. Die Klageerhebung im Jahr 2009 war somit zu spät und der Anspruch damit
+verjährt.
+Da es in der Praxis gerade über die Hemmung bei Durchführung eines
+Schlichtungsverfahrens Unklarheiten und auch Unsicherheiten gab, ist diese
+Entscheidung zur Klarstellung der Auslegung, auch hinsichtlich eines
+Verjährungsverzichts, sehr zu begrüßen. Hieraus ergeben sich Haftungsfallen für
+Prozessbevollmächtigte bzw. anwaltliche Vertreter. Insofern ist stets schon bei
+Mandatsannahme auf derartige Besonderheiten zu achten, nicht nur auf
+Patientenseite, sondern auch auf Arztseite, da die Einrede der Verjährung Sache des
+Arztes und nicht von Amts wegen seitens des Gerichts zu prüfen ist.
+Rechtsanwältin Prof. Dr. Alexandra Jorzig, Düsseldorf

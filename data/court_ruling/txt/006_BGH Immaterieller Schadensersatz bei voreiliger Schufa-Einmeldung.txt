@@ -1,0 +1,270 @@
+Immaterieller Schadensersatz bei voreiliger Schufa-Einmeldung
+DS-GVO Art. 82 I
+1.Zu den Anforderungen an die Darlegung eines immateriellen Schadens im Sinne
+von Art. 82 I DS-GVO.
+2.Der Hinweis auf die Kündigung von Kreditkartenverträgen, auf die der Betroffene in
+seinem beruflichen Leben angewiesen ist, und die Androhung der Kündigung der
+gesamten Geschäftsbeziehung durch die Bank können als konkrete negative Folgen
+der Einmeldung für einen immateriellen Schaden nach Art. 82 I DS-GVO genügen.
+(Leitsatz 2 von der Redaktion)
+BGH Urteil vom 13.5.2025 – VI ZR 67/23
+Zum Sachverhalt
+Der Kl. nahm die Bekl., soweit für das Revisionsverfahren von Interesse, auf Ersatz
+immateriellen Schadens aufgrund einer Negativmeldung der Bekl. an die Schufa
+Holding AG (im Folgenden Schufa) in Anspruch. Die Bekl. ist Betreiberin eines
+Inkassounternehmens, das unter anderem Mandanten aus dem Energiesektor betreut.
+Sie meldete unter dem 16.7.2019 eine gegen den Kl. durch Vollstreckungsbescheid des
+AG Hagen vom gleichen Tag titulierte Forderung des Stromlieferanten des Kl. bei der
+Schufa. Diese löschte den aufgrund der Meldung vorgenommenen Negativeintrag am
+12.11.2019.
+Der Kl. machte geltend, die Meldung der durch den Vollstreckungsbescheid titulierten
+Forderung an die Schufa sei rechtswidrig gewesen, weil die Bekl. davor nicht zumindest
+den Ablauf der Einspruchsfrist abgewartet habe. Der infolge der Meldung der Bekl. von
+der Schufa erstellte Negativeintrag habe für ihn zu massiven wirtschaftlichen
+Konsequenzen und Nachteilen geführt, die zum Teil bis in die Gegenwart andauerten.
+Der Kl. hat erstinstanzlich unter anderem beantragt, die Bekl. zu verurteilen, an ihn
+einen angemessenen Schadensersatz zu zahlen, dessen Höhe in das pflichtgemäße
+Ermessen des Gerichts gestellt werde, mindestens jedoch 10.000 EUR zuzüglich
+Zinsen betragen solle (Klageantrag Nr. 4). Das LG Mainz (Urt. v. 12.11.2021 – 3 O
+12/20, GRUR-RS 2021, 34695) hat diesem Antrag teilweise stattgegeben und die Bekl.
+zur Zahlung von 5.000 EUR nebst Zinsen verurteilt. Hiergegen haben sowohl der Kl. als
+auch die Bekl. Berufung eingelegt, der Kl. mit dem Ziel einer Verurteilung der Bekl. zur
+Zahlung weiteren Schadensersatzes von mindestens 5.000 EUR, die Bekl. mit dem Ziel
+der vollständigen Klageabweisung.
+Berufung des Kl. zurückgewiesen und die Klage auf die Berufung der Bekl. hin
+vollständig abgewiesen. Mit seiner vom BerGer. zugelassenen Revision verfolgte der
+Kl. den von ihm geltend gemachten Schadensersatzanspruch weiter. Die Revision hatte
+teilweise Erfolg und führte insofern zur Aufhebung und Zurückverweisung.
+Aus den Gründen
+unter anderem
+ausgeführt, soweit der Kl. Schadensersatz für ihm durch die vermeintlich unberechtigte
+Einmeldung nach seiner Behauptung entstandene Schäden verlange, sei – unabhängig
+von der Frage, ob die Meldung in rechtmäßiger oder rechtswidriger Weise erfolgt sei –
+ein nach Art. 82 I der Datenschutz-Grundverordnung (DS-GVO) zu ersetzender
+immaterieller Schaden nicht erkennbar. Eine Verletzung der DS-GVO führe nicht bereits
+als solche zu einem auszugleichenden immateriellen Schaden, sondern es müsse ein
+irgendwie gearteter immaterieller Schaden tatsächlich entstanden sein. Dies habe der
+Kl. jedoch nicht hinreichend dargelegt.
+6Soweit der Kl. vortrage, es habe ein Scheitern einer Immobilienfinanzierung gedroht,
+sei festzuhalten, dass ein solcher Schaden glücklicherweise offenbar nicht eingetreten
+sei. Ein lediglich drohender oder von dem Betroffenen befürchteter materieller Schaden
+reiche für sich genommen nicht, wenn sich hieraus keine Weiterungen ergäben, was
+vorliegend nicht erkennbar und vom Kl. auch nicht substanziiert vorgetragen worden
+sei.
+7Die behauptete Kündigung von Kreditkarten seitens der D-Bank und damit für den Kl.
+verbundene Unannehmlichkeiten sowie die „Stornierung“ der eingeleiteten
+Geschäftsbeziehungen zu einem anderen Kreditkartenanbieter solle nicht in Abrede
+gestellt werden, ebenso wie die behauptete Tatsache, dass die Kündigung der
+gesamten Geschäftsbeziehung mit der D-Bank und damit auch die unmittelbare
+Fälligstellung der dort bestehenden Kreditverbindlichkeiten im Raum gestanden habe.
+Hinsichtlich der Nichtverfügbarkeit der genannten Kreditkarten sei aber schon nicht
+ersichtlich, dass und in welcher Weise dieser Umstand den Kl. tatsächlich in seiner
+wirtschaftlichen Dispositionsfreiheit beeinträchtigt habe, ob er also beispielsweise
+über weitere Kreditkarten verfügt habe, die die gewohnte finanzielle Unabhängigkeit
+auch während der (nur wenige Wochen andauernden) „angeschlagenen
+Geschäftsbeziehung“ zur D-Bank gewährleisteten. Nicht ersichtlich und vom Kl. auch
+nicht substanziiert vorgetragen sei auch, ob und in welchem Maße es – bedingt durch
+den „Verlust“ der Kreditkarten der D-Bank – im Rahmen der allgemeinen Lebensführung
+zu kompromittierenden und/oder sonstigen persönlichkeitsrechtsverletzenden
+Begebenheiten gekommen sei. Dabei werde nicht verkannt, dass derartige
+Einschränkungen und/oder Beeinträchtigungen unter Umständen nur ausgeblieben
+seien, weil der Kl. nach seinen eigenen Angaben über solide regelmäßige Einkünfte
+verfüge und insgesamt in geordneten und ungefährdeten wirtschaftlichen
+Verhältnissen lebe und gegebenenfalls nur dies bedingt habe, dass weitergehende
+Folgen der hier in Rede stehenden vermeintlichen Verletzungen der DS-GVO
+ausgeblieben seien, während ein gleichartiger Verstoß bei Personen in anderen
+Lebenslagen zu weitergehenden Beeinträchtigungen geführt hätte. Für die Frage, ob
+ein ausgleichsfähiger Schaden vorliege, seien jedoch die tatsächlichen individuellen
+Verhältnisse des „Geschädigten“ zu berücksichtigen. Es sei darauf abzustellen, wie
+sich das „Schadensereignis“ konkret bei ihm ausgewirkt habe. Insoweit genüge der Kl.
+seiner Darlegungslast nicht, wenn er vortrage, die unberechtigt weitergegebenen Daten
+seien geeignet gewesen, seine Kreditwürdigkeit erheblich herabzusetzen und seine
+Teilhabe am Wirtschaftsleben zu erschweren.
+8Gleiches gelte in Bezug auf die Behauptungen des Kl., er habe ca. 20 Stunden in
+Schriftverkehr, Telefonate usw. investiert. Unabhängig von der Tatsache, dass auch
+diese pauschale Behauptung nicht mit Substanz gefüllt sei, seien im vorliegenden Fall
+jedenfalls die besonderen Umstände zu berücksichtigen, die der Sache hier ein eigenes
+Gepräge verliehen. Das vermeintliche Unrecht, das dem Kl. in Folge der Einmeldung an
+die Schufa widerfahren sei bzw. sein könnte, resultiere nicht daraus, dass die Bekl. die
+titulierte Verbindlichkeit überhaupt gemeldet habe, sondern sei allenfalls darin zu
+sehen, dass dem Kl. nicht ausreichend Gelegenheit gegeben worden sei, dieser
+Maßnahme entgegenzuwirken, weil er – nach seiner Behauptung – nicht frühzeitig
+vorgewarnt und über die Folgen aufgeklärt worden sei. Dass es zu der
+„einmeldefähigen“ Sollstellung überhaupt gekommen sei, sei indes nicht der Bekl.
+zuzuschreiben, sondern dem Kl., der einen Ausgleich der Forderung erst nach deren
+Titulierung vorgenommen habe.
+9Bei dieser Sachlage erscheine es nicht vertretbar, jede Unannehmlichkeit und
+Mühewaltung als anspruchsbegründenden Schaden zu werten. Dass es in Fällen von
+Säumnis bei der Tilgung von Verbindlichkeiten auch zu persönlichem Ärger und zu
+Komplikationen im Verhältnis zu den Gläubigern und/oder kreditführenden Instituten
+kommen könne mit der Folge, dass die Behebung einer solchen Situation ein gewisses
+Maß an finanziellem und/oder zeitlichem Aufwand erfordere, stelle ein allgemeines
+Lebensrisiko dar, dessen Bewältigung nicht schon nach einem niederschwelligen
+schadensrechtlichen Ausgleich verlange.
+10II. Diese Erwägungen halten revisionsrechtlicher Überprüfung nicht stand. Mit der
+Begründung des BerGer. kann ein Anspruch des Kl. gegen die Bekl. auf Ersatz
+immateriellen Schadens gem. Art. 82 DS-GVO nicht verneint werden. Die das
+Berufungsurteil allein tragende Annahme, der Kl. habe den Eintritt eines immateriellen
+Schadens iSd Art. 82 I DS-GVO infolge des geltend gemachten Verstoßes der Bekl.
+gegen die Verordnung bei der Meldung der gegen den Kl. titulierten Forderung an die
+Schufa nicht hinreichend dargelegt, ist rechtsfehlerhaft.
+111. Der Begriff des „immateriellen Schadens“ ist in Ermangelung eines Verweises in
+Art. 82 I DS-GVO auf das innerstaatliche Recht der Mitgliedstaaten im Sinne dieser
+Bestimmung autonom unionsrechtlich zu definieren (stRspr, EuGH
+ECLI:EU:C:2024:536 Rn. 31 = DB 2024, 1676 = GRUR-RS 2024, 13978 – PS GbR; EuGH
+2023, 920 – Österreichische Post). Dabei soll nach Erwgr. 146  DS-GVO der Begriff
+des Schadens weit ausgelegt werden, in einer Art und Weise, die den Zielen dieser
+Verordnung in vollem Umfang entspricht. Der bloße Verstoß gegen die Bestimmungen
+der DS-GVO reicht nach der Rechtsprechung des Gerichtshofs jedoch nicht aus, um
+einen Schadensersatzanspruch zu begründen, vielmehr ist darüber hinaus – im Sinne
+einer eigenständigen Anspruchsvoraussetzung – der Eintritt eines Schadens (durch
+diesen Verstoß) erforderlich (stRspr, vgl. EuGH ECLI:EU:C:2024:536 Rn. 25 = DB 2024,
+Scraping).
+12Weiter hat der Gerichtshof ausgeführt, dass Art. 82 I DS-GVO einer nationalen
+Regelung oder Praxis entgegensteht, die den Ersatz eines immateriellen Schadens im
+Sinne dieser Bestimmung davon abhängig macht, dass der der betroffenen Person
+entstandene Schaden einen bestimmten Grad an Schwere oder Erheblichkeit erreicht
+hat (EuGH ECLI:EU:C:2024:536 Rn. 26 = DB 2024, 1676 = GRUR-RS 2024, 13978 – PS
+Gerichtshof auch erklärt, dass diese Person nach Art. 82 I DS-GVO verpflichtet ist,
+nachzuweisen, dass sie tatsächlich einen Schaden erlitten hat. Die Ablehnung einer
+Erheblichkeitsschwelle bedeutet nicht, dass eine Person, die von einem Verstoß gegen
+die DS-GVO betroffen ist, der für sie negative Folgen gehabt hat, vom Nachweis befreit
+wäre, dass diese Folgen einen immateriellen Schaden iSv Art. 82 dieser Verordnung
+darstellen (EuGH ECLI:EU:C:2024:536 Rn. 27 = DB 2024, 1676 = GRUR-RS 2024, 13978
+13Aus der im ersten Satz des 85. Erwgr. der DS-GVO enthaltenen beispielhaften
+Aufzählung der „Schäden“, die den betroffenen Personen entstehen können, geht
+hervor, dass der Unionsgesetzgeber unter den Begriff „Schaden“ insbesondere auch
+den bloßen „Verlust der Kontrolle“ über ihre eigenen Daten in Folge eines Verstoßes
+gegen die DS-GVO fassen wollte, selbst wenn konkret keine missbräuchliche
+Verwendung der betreffenden Daten zum Nachteil dieser Personen erfolgt sein sollte
+Agentsia po vpisvaniyata).
+142. Danach ist das BerGer. zwar zutreffend davon ausgegangen, dass der Betroffene,
+der Ersatz des immateriellen Schadens verlangt, geltend machen (und gegebenenfalls
+nachweisen) muss, dass der Verstoß gegen die DS-GVO negative Folgen für ihn gehabt
+hat, die einen immateriellen Schaden darstellen. Die Revision rügt aber zu Recht, dass
+das BerGer. insoweit an die Substanziierungspflicht des Kl. überzogene Anforderungen
+gestellt hat.
+15a) Der Kl. hat hinsichtlich der negativen Folgen der von ihm beanstandeten Schufa-
+Meldung der Bekl. unter anderem ausgeführt, für seine berufliche Tätigkeit sei er auf
+Kreditkarten angewiesen, ohne die er insoweit praktisch handlungsunfähig sei.
+Aufgrund des negativen Schufa-Eintrags seien ihm jedoch die Kreditkarten gesperrt
+worden. Die von der D-Bank ausgesprochene Kreditkartenkündigung sei trotz
+Löschung des Negativeintrags aufrechterhalten worden. Im Rahmen eines bei der D-
+Bank erstellten eigenen Scorewertes zur Kreditwürdigkeit werde er aufgrund des
+negativen Schufa-Eintrags weiterhin als nicht ausreichend kreditwürdig beauskunftet.
+Der von ihm zunächst mit einem anderen Anbieter geschlossene Vertrag über eine
+neue Kreditkarte sei aufgrund einer Negativauskunft der D-Bank wieder gekündigt
+worden. Die ihm von der D-Bank angedrohte Kündigung der gesamten
+Geschäftsbeziehung hätte zur Fälligstellung von Verbindlichkeiten iHv 67.000 EUR und
+zur Lohnpfändung geführt. Zwischen Eintragung und Löschung der Eintragung habe
+zudem das Scheitern einer Immobilienfinanzierung gedroht.
+16b) Mit diesem – vom BerGer. als zutreffend unterstellten – Vortrag hat der Kl. den
+Eintritt eines immateriellen Schadens iSd Art. 82 I DS-GVO in Form einer
+Beeinträchtigung seiner Kreditwürdigkeit und damit seines (wirtschaftlichen) guten
+1059 Rn. 12 = ZIP 2025, 518). Anders als das BerGer. offenbar annimmt, hat er nicht
+lediglich auf die abstrakte Geeignetheit der weitergegebenen Daten zur Herabsetzung
+seiner Kreditwürdigkeit und Erschwerung seiner Teilhabe am Wirtschaftsleben
+verwiesen, sondern insoweit mit dem Hinweis auf die Kündigung der
+Kreditkartenverträge und die Androhung der Kündigung der gesamten
+Geschäftsbeziehung durch die D-Bank konkrete negative Auswirkungen benannt, die
+seiner Behauptung nach auf die streitgegenständliche Meldung zurückzuführen sind.
+17Soweit das BerGer. die Kündigung der Kreditkartenverträge mit der Erwägung für
+irrelevant hält, es sei nicht ersichtlich, dass und in welcher Weise dieser Umstand den
+Kl. tatsächlich in seiner wirtschaftlichen Dispositionsfreiheit beeinträchtigt habe, da er
+möglicherweise über weitere Kreditkarten verfügt habe, die die gewohnte finanzielle
+Unabhängigkeit auch während der „angeschlagenen Geschäftsbeziehung“ zur D-Bank
+gewährleisteten, beanstandet die Revision mit Recht, dass diese Spekulation unter
+Verstoß gegen den Beibringungsgrundsatz keine Stütze im festgestellten Parteivortrag
+findet. Die vom Kl. geschilderten Bemühungen um einen Ersatz für die von der D-Bank
+gekündigten Kreditkartenverträge sprechen vielmehr eher gegen die Annahme, der Kl.
+sei zur Wahrung seiner wirtschaftlichen Dispositionsfreiheit nicht auf die Kreditkarten
+der D-Bank angewiesen gewesen. Im Übrigen verkennt das BerGer. bei seiner
+Argumentation, dass sich der Ansehensverlust des Kl. durch die Beeinträchtigung
+seiner Kreditwürdigkeit aufgrund der streitgegenständlichen Schufa-Meldung nach
+dem Vortrag des Kl. bereits in der Kündigung der Kreditkartenverträge und der
+Androhung der Kündigung der gesamten Geschäftsbeziehung durch die D-Bank
+manifestiert hat. Damit ist schon der Eintritt eines immateriellen Schadens iSd Art. 82
+I DS-GVO dargetan.
+18Weitere negative Folgen aufgrund der (angedrohten) Kündigungen mögen diesen
+Schaden noch vertiefen, waren hier aber nicht erforderlich, um die Voraussetzungen
+eines Schadensersatzanspruchs nach Art. 82 I DS-GVO darzulegen (vgl. insoweit zum
+immateriellen Schaden iSv Art. 82 I DS-GVO in Form des Kontrollverlustes Senat BGHZ
+242,
+Grund kann entgegen der Auffassung des BerGer. der Eintritt eines immateriellen
+Schadens auch nicht mit der Begründung verneint werden, der Kl. habe nicht
+substanziiert vorgetragen, ob und in welchem Maße es – bedingt durch den „Verlust“
+der Kreditkarten der D-Bank – im Rahmen der allgemeinen Lebensführung zu
+kompromittierenden und/oder sonstigen persönlichkeitsverletzenden Begebenheiten
+gekommen sei.
+19c) Abgesehen davon hat der Kl., indem er vorgebracht hat, dass die Bekl. unter
+Verstoß gegen die DS-GVO seine persönlichen Daten unzulässig an einen Dritten (hier
+die Schufa) übermittelt habe, der Sache nach auch einen immateriellen Schaden in
+Form des sogenannten Kontrollverlustes über seine Daten geltend gemacht (vgl. Senat
+203. Das Vorliegen eines nach Art. 82 DS-GVO ersatzfähigen immateriellen Schadens
+kann entgegen der Ansicht des BerGer. auch nicht mit der Begründung verneint werden,
+der Kl. habe die durch den Vollstreckungsbescheid titulierte Forderung erst nach
+dessen Ergehen beglichen, weshalb es ihm zuzuschreiben sei, dass es überhaupt zu
+einer „einmeldefähigen“ Sollstellung gekommen sei. Die Revision weist insoweit zu
+Recht darauf hin, dass für die Frage, ob dem Kl. ein immaterieller Schaden entstanden
+ist, eine etwaige Mitwirkung des Kl. an dessen Entstehung keine Rolle spielt.
+21III. Das Berufungsurteil war daher im tenorierten Umfang aufzuheben und die Sache
+insoweit zur neuen Verhandlung und Entscheidung an das BerGer. zurückzuverweisen
+(§§ 562 I, 563 I 1 ZPO).
+Anmerkung
+Berufungsgericht überzogene Anforderungen an die Darlegung eines immateriellen
+Schadens gestellt hat. Das Berufungsgericht prüfte weder, ob ein Verstoß des
+beklagten Inkassounternehmens vorlag, noch ob ein Schaden auf diesem Verstoß
+beruhte (Kausalität) oder die Haftung begrenzt sein könnte. Da das OLG Koblenz die
+Klage allein mit der Begründung abgewiesen hatte, es liege kein immaterieller Schaden
+vor, befasste sich auch der BGH nur mit dieser Frage. Für das Verständnis der
+Entscheidung ist dies entscheidend. Andernfalls könnte sie so verstanden werden,
+dass jede rechtswidrige Verarbeitung automatisch mit einem Schaden gleichzusetzen
+wäre.
+Zu Recht ist das erstinstanzliche Gericht davon ausgegangen, dass die
+Datenübermittlung an die Schufa rechtswidrig war. Die Übermittlung von
+Negativmerkmalen, zum Beispiel Zahlungsrückständen an Auskunfteien richtet sich
+nach Art. 6 I Buchst. f iVm Abs. 4 DS-GVO. Im Rahmen der Interessenabwägung sind
+die Wertungen des § 31 BDSG zum Scoring zu berücksichtigen. Liegen die
+Voraussetzungen des § 31 II BDSG vor, überwiegen regelmäßig die Interessen des
+Gläubigers. Etwas anderes gilt ausnahmsweise dann, wenn der Schuldner eine
+vollstreckbare Forderung innerhalb einer angemessenen Frist begleicht. Im
+vorliegenden Fall zahlte die betroffene Person innerhalb einer Woche. Hätte das
+Inkassounternehmen eine Karenzzeit bis zur Einmeldung eingehalten, wäre es wohl
+nicht zum Prozess gekommen. Wie lang eine solche Karenzzeit ist, hat das LG Mainz
+offengelassen. Angemessen dürfte ein Zeitraum von etwa vier Wochen für die
+Einmeldung sein (eine Woche Zustellung Vollstreckungsbescheid + zwei Wochen
+Einspruchsfrist + eine Woche Mitteilung an Gläubiger). Das Inkassounternehmen hatte
+es eiliger und meldete noch am Tag, an dem der Vollstreckungsbescheid erging.
+Nach Auffassung des BGH hat der Kläger den in der Folge entstandenen immateriellen
+Schaden hinreichend dargelegt. Das Berufungsgericht hat hingegen zu hohe
+Anforderungen an die Darlegungslast gestellt und daher zu Unrecht einen Schaden
+verneint. Richtig ist, dass der Kläger nicht bloß pauschal vorgetragen hat, seine
+Kreditwürdigkeit sei negativ betroffen. Vielmehr hat er mehrere konkrete
+Beeinträchtigungen geltend gemacht: gesperrte Kreditkarten, Kündigung eines
+Kreditkartenvertrags, angedrohte Beendigung der Geschäftsbeziehung zur Bank sowie
+erheblicher Zeit- und Arbeitsaufwand wegen des Vorfalls. Zwar handelt es sich um
+einen zusammenhängenden Lebenssachverhalt, so dass der Kläger auch nur einen
+die dargelegten Beeinträchtigungen isoliert daraufhin zu prüfen, ob sie als Nachweis
+eines tatsächlich eingetretenen Schadens dienen. Nur so lässt sich eine klare
+Abgrenzung zwischen bloßen Unannehmlichkeiten einerseits und ersatzfähigem
+immateriellen Schaden andererseits erreichen.
+Nach der Rechtsprechung des EuGH und BGH ist der Begriff des immateriellen
+Schadens weitgehend geklärt. Große Überraschungen sind hier nicht mehr zu erwarten.
+Offene Fragen gibt es dagegen bei der Kausalität und bei einer möglichen
+Haftungsbegrenzung nach Art. 82 II und III DS-GVO. Danach haftet jeder
+Verantwortliche nur für solche Schäden, die er durch seine Verarbeitung schuldhaft
+verursacht hat. Zweifelhaft ist insbesondere die Kausalität zwischen dem
+rechtswidrigen Negativeintrag und dem Verhalten der Bank, da die Bank einen eigenen
+Score für die Kreditwürdigkeit erstellt und dieser trotz Löschung des Schufa-Eintrags
+weiterhin negativ war. Das Gericht muss daher klären, ob das Verhalten der Bank die
+Zurechnung durchbricht. Liegen die Anspruchsvoraussetzungen des Art. 82 DS-GVO
+vor, wird das OLG Koblenz schließlich über die Höhe des geltend gemachten Anspruchs
+bestimmen müssen. Der EuGH entschied, dass der Schadensersatz nach der DS-GVO
+im Gegensatz zum Bußgeld keine abschreckende oder pönalisierende Funktion hat,
+sondern allein dem Ausgleich erlittener Nachteile dient (EuGH ECLI:EU:C:2024:531 =
+Zeitaufwand des Klägers als auch der Reputationsschaden zu berücksichtigen.
+Letzterer war jedoch zeitlich begrenzt auf fast vier Monate, nämlich auf den Zeitraum
+zwischen der Einmeldung bei der Schufa und deren Löschung. Hiervon ausgehend hat
+der Kläger mit 10.000 EUR hoch „geankert“, denn in einem vergleichbaren Fall hat das
+OLG Koblenz den Schaden lediglich mit 500 EUR beziffert (18.5.2022 – 5 U 2141/21,
+Richterin am VG Kristin Benedikt, Regensburg

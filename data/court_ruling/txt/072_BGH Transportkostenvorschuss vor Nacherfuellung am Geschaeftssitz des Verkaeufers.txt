@@ -1,0 +1,370 @@
+Verkäufers
+Transportkostenvorschuss vor Nacherfüllung am Geschäftssitz des
+Verkäufers
+BGB §§ 269, 280, 281, 437, 439, 440, 475; RL 1999/44/EG Art. 3
+1.Ein taugliches Nacherfüllungsverlangen des Käufers setzt die Zurverfügungstellung
+der Kaufsache am rechten Ort, nämlich dem Erfüllungsort der Nacherfüllung, voraus.
+Für dessen Bestimmung ist im Kaufrecht die allgemeine Vorschrift des § 269 I, II BGB
+2.Die Kostentragungsregelung des § 439 II BGB begründet in Fällen, in denen eine
+Nacherfüllung die Verbringung der Kaufsache an einen entfernt liegenden
+Nacherfüllungsort erfordert und bei dem Käufer deshalb Transportkosten zwecks
+Überführung an diesen Ort anfallen, bei einem Verbrauchsgüterkauf nicht nur einen
+Erstattungsanspruch gegen den Verkäufer; der Käufer kann nach dem Schutzzweck
+der von Art. 3 III 1, IV der Verbrauchsgüterkauf-RL geforderten Unentgeltlichkeit der
+Nacherfüllung vielmehr grundsätzlich schon vorab einen (abrechenbaren) Vorschuss
+zur Abdeckung dieser Kosten beanspruchen, auch wenn das Vorliegen des geltend
+gemachten Mangels noch ungeklärt ist. Dementsprechend liegt ein taugliches
+Nacherfüllungsverlangen des Käufers vor, wenn seine Bereitschaft, die Kaufsache
+zum Ort der Nacherfüllung zu verbringen, nur wegen der ausgebliebenen
+Vorschussleistung des Verkäufers nicht umgesetzt wird (Fortführung von Senat,
+BGH, Urteil vom 19.7.2017 – VIII ZR 278/16
+Zum Sachverhalt
+Die in Schleswig-Holstein ansässige Kl. kaufte am 14.4.2015 von der Bekl., welche in
+Berlin einen Fahrzeughandel betreibt, zum Preis von 2700 Euro einen gebrauchten Pkw,
+den die Bekl. in einem Internetportal angeboten hatte. Obwohl die Kl. unstreitig nicht
+Unternehmerin ist oder als Unternehmerin aufgetreten ist, heißt es in dem von der Bekl.
+verwendeten Kaufvertragsformular unter der Rubrik „Besondere Vereinbarungen“:
+Händlergeschäft, unter Ausschluss der Sachmängelhaftung! … Erfüllungsort beim
+Verkäufer. Am 10.5. und erneut am 12.5.2015 wandte sich die Kl. wegen eines nach
+ihrer Behauptung aufgetretenen Motordefekts an die Bekl., um mit ihr die weitere
+Vorgehensweise zur Schadensbehebung im Rahmen der Gewährleistung zu klären.
+Nachdem eine Reaktion der Bekl. ausgeblieben war, forderte die Kl. sie am 19.5.2015
+unter Fristsetzung bis zum 30.5.2015 zur Nachbesserung auf. Daraufhin bot die Bekl.
+telefonisch eine Mangelbeseitigung an ihrem Sitz in Berlin an. Die Kl. verlangte hierauf
+unter Aufrechterhaltung der gesetzten Frist mit Schreiben vom 21.5.2015 die
+Überweisung
+eines Transportkostenvorschusses von 280 Euro zwecks Transports des nach ihrer
+Behauptung nicht fahrbereiten Pkw nach Berlin bzw. die Abholung des Fahrzeugs
+durch die Bekl. auf deren Kosten. Nachdem diese sich nicht gemeldet hatte, setzte die
+Kl. ihr unter dem 2.6.2015 eine Nachfrist zur Mängelbeseitigung bis zum 10.6.2015.
+Als die Bekl. hierauf erneut nicht reagierte, machte die Kl. am 17.6.2015 dem Grunde
+nach Schadensersatz für eine nunmehr von ihr selbst zu veranlassende Reparatur des
+Fahrzeugs geltend. Nach Durchführung der Reparatur in der Werkstatt eines bei Kassel
+ansässigen Unternehmens beansprucht die Kl. von der Bekl. Schadensersatz in Höhe
+von insgesamt 2332,32 Euro nebst Zinsen, die sich in erster Linie aus den ihr dafür in
+Rechnung gestellten und von ihr ausgeglichenen Beträgen sowie aus Transport- und
+Reisekosten zusammensetzen.
+Die auf Zahlung dieses Schadensersatzes gerichtete Klage hatte in den Vorinstanzen
+(AG Berlin-Pankow/Weißensee, Urt. v. 9.12.2015 – 2 C 271/15; LG Berlin, Urt. v.
+8.11.2016 – 88 S 14/16) keinen Erfolg. Die vom BerGer. zugelassene Revision der Kl.
+war erfolgreich und führte zur Aufhebung und Zurückverweisung der Sache an das
+BerGer.
+Aus den Gründen
+15II. Mit der vom BerGer. gegebenen Begründung kann ein Anspruch der Kl. auf Ersatz
+der Kosten und Einbußen, die sie aufgrund der von ihr im Wege der Selbstvornahme
+veranlassten Reparatur des gekauften Pkw geltend macht, nicht verneint werden. Denn
+die Beurteilung des BerGer., wonach es wegen der unterlassenen Vorstellung des
+Fahrzeugs in Berlin bereits an einem für den beanspruchten Schadensersatz (§§ 437
+Nr. 3, 280 I, III, 281 I 1 BGB) gem. § 439 I BGB erforderlichen wirksamen
+Nacherfüllungsverlangen gefehlt habe, weil der Kl. auch ohne den angeforderten
+Transportkostenvorschuss eine Verbringung des Fahrzeugs dorthin zwecks
+Ermöglichung einer Untersuchung der gerügten Mängelerscheinungen zuzumuten
+gewesen sei, ist in einem entscheidenden Punkt mit Rechtsfehlern behaftet.
+161. Das BerGer. hat es – nach seinem Standpunkt folgerichtig – dahinstehen lassen,
+ob das verkaufte Fahrzeug die von der Kl. behaupteten und ihrem Ersatzbegehren
+zugrunde gelegten Motordefekte gehabt hat und aus diesem Grunde nicht mehr
+fahrbereit gewesen ist. Es ist deshalb für die revisionsrechtliche Prüfung als
+notwendige Voraussetzung sowohl des geltend gemachten Schadensersatzanspruchs
+als auch des nachstehend behandelten Transportkostenvorschussanspruchs (vgl.
+Mängel, und zwar in der nach § 476 BGB zu vermutenden Weise (dazu Senat, NJW
+2017, 1093 = WM 2017, 396 Rn. 36 ), vorgelegen und zu den Aufwendungen geführt
+haben, welche die Kl. aus Anlass der von ihr selbst veranlassten Reparatur und einer
+dadurch bedingten Unterbrechung der Nutzungsmöglichkeit als Schäden geltend
+gemacht hat.
+17Insoweit ist das BerGer. zugleich unangegriffen davon ausgegangen, dass der in die
+Kaufvertragsurkunde aufgenommene Ausschluss einer Sachmängelhaftung gem. §§ 474 I, 475 I 1 BGB unwirksam ist. Denn die Kl. ist nach dem unstreitigen Sachvortrag
+der Parteien in den Tatsacheninstanzen Verbraucherin iSv § 13 BGB und auch sonst
+nach ihrem Gesamterscheinungsbild nicht als Unternehmerin iSv § 14 I BGB
+gleichwohl im Formularvertrag vorgenommene Bezeichnung der Kl. als Firma und des
+Kaufvertrags als Händlergeschäft stellt sich deshalb als eine gem. § 475 I 2 BGB
+unzulässige Umgehung des halbzwingenden Charakters der in Satz 1 dieser
+Bestimmung aufgeführten Vorschriften dar, im Streitfall also als eine Umgehung der
+sich aus §§ 437, 439 ff. BGB ergebenden Gewährleistungsrechte der Kl., so dass der
+von ihr geltend gemachte Schadensersatzanspruch nicht schon aus diesem Grunde
+ausscheidet.
+182. Ein auf Erstattung der namentlich für Reparatur und Transport angefallenen
+Aufwendungen gerichteter Anspruch auf Schadensersatz statt der Leistung (§§ 437
+Nr. 3, 280, 281, 440 BGB), der nach dem Vorrang der Nacherfüllung bei Selbstvornahme
+der Mangelbeseitigung durch den Käufers als einziger Anspruch in Betracht kommt,
+steht – wie auch das BerGer. richtig gesehen hat – der Kl. wegen dieses
+Nacherfüllungsvorrangs nur unter den Voraussetzungen der §§ 281, 440 BGB zu; dies
+erfordert, dass die Kl. entweder der Bekl. erfolglos eine angemessene Frist zur
+Nacherfüllung bestimmt hat (§ 281 I 1 BGB) oder dass eine solche Fristsetzung gem.
+§ 281 II BGB bzw. nach § 440 BGB entbehrlich war (Senat, NJW-RR 2011, 462 = WM
+19Diese Voraussetzungen sind – anders als die Revision meint – zwar nicht schon
+deshalb gegeben, weil der Erfüllungsort für die von der Kl. geforderte Nachbesserung
+an ihrem Wohnsitz oder dem damit identischen Fahrzeugstandort anzusiedeln wäre.
+Jedoch war entgegen der Auffassung des BerGer. eine über die mit Fristsetzungen
+erhobene Mängelbeseitigungsaufforderung hinausgehende vorbehaltlose Bereitschaft
+der Kl. zum Transport des nicht fahrbereiten Pkw auf eigene Kosten an den
+Geschäftssitz der Bekl. in Berlin im Streitfall nicht noch zusätzlich zur Wirksamkeit
+dieser Aufforderung notwendig. Es war vielmehr ausreichend, dass die Kl. – wenn auch
+ohne Erfolg – zeitnah einen nicht ersichtlich unangemessenen
+Transportkostenvorschuss von der Bekl. angefordert hat sowie alternativ bereit war,
+ihr selbst die Durchführung des Transports zu überlassen bzw. – was dies
+selbstredend eingeschlossen hat – eine vorgängige Untersuchung des Fahrzeugs an
+dessen Belegenheitsort zu ermöglichen.
+20a) Eine wirksame Fristsetzung der Kl. hätte allerdings schon ungeachtet eines
+Vorschusserfordernisses vorgelegen, wenn man mit der Revision davon ausgehen
+wollte, dass der Erfüllungsort für die von der Bekl. vorzunehmende Nachbesserung am
+Sitz der Kl. anzusiedeln gewesen wäre. Denn in diesem Fall hätte sich die Bekl.
+innerhalb der ihr gesetzten Frist ohne weiteres Zutun der Kl. dorthin zwecks
+Untersuchung der gerügten Mängel und deren Beseitigung begeben müssen. Einen
+Erfüllungsort für die von der Bekl. geschuldete Nachbesserung am Wohnsitz der Kl.
+bzw. dem damit identischen Belegenheitsort des Fahrzeugs hat das BerGer. jedoch –
+und zwar im Einklang mit der in den Tatsacheninstanzen von beiden Parteien noch
+übereinstimmend vertretenen Sichtweise – rechtsfehlerfrei verneint.
+21aa) Nach der Rechtsprechung des Senats setzt ein taugliches
+Nacherfüllungsverlangen des Käufers unter anderem die Zurverfügungstellung der
+Kaufsache am rechten Ort, nämlich dem Erfüllungsort der Nacherfüllung, voraus. Für
+dessen Bestimmung ist im Kaufrecht die allgemeine Vorschrift des § 269 I, II BGB
+maßgebend mit der Folge, dass bei einem Fehlen vertraglicher Vereinbarungen über
+den Erfüllungsort auf die jeweiligen Umstände, insbesondere auf die Natur des
+Schuldverhältnisses, abzustellen ist und dass dann, wenn sich hieraus keine
+abschließenden Erkenntnisse gewinnen lassen, der Erfüllungsort letztlich an dem Ort
+anzusiedeln ist, an welchem der Schuldner zur Zeit der Entstehung des
+Schuldverhältnisses seinen Wohn- oder Geschäftssitz hatte (Senat, BGHZ 189, 196 =
+geht auch das BerGer. aus, um danach zu dem Ergebnis zu gelangen, dass Umstände,
+die in besonderer Weise zu einer Lokalisierung des Ortes der Nacherfüllung entweder
+am Wohnsitz der Kl. oder am Geschäftssitz der Bekl. Veranlassung gäben, nicht
+ersichtlich seien, so dass im Streitfall die genannte, auf eine Maßgeblichkeit des Wohnoder Geschäftssitzes des Schuldners hinauslaufende gesetzliche Auslegungsregel
+22bb) Soweit sich die Revision unter Bezugnahme auf ablehnende Stimmen im
+Schrifttum (jurisPK-BGB/Pammler, 8. Aufl., § 439 Rn. 44 ff.) namentlich mit Blick auf
+die Anforderungen in Art. 3 III 3 der RL 1999/44/EG des Europäischen Parlaments und
+des Rates vom 25.5.1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+Garantien für Verbrauchsgüter (ABl. 1999 L 171, 12; Verbrauchsgüterkaufr-RL) gegen
+eine Anwendbarkeit von § 269 I BGB wendet oder zumindest ein Transporterfordernis
+wie im Streitfall generell als eine erhebliche, für die Bestimmung des Erfüllungsortes
+anhand der Umstände ausschlaggebende Unannehmlichkeit werten und ihn deshalb
+ausschließlich am Ort der jeweiligen Belegenheit der Kaufsache ansiedeln will, hat sich
+der Senat mit diesen Gesichtspunkten in seinem Urteil vom 13.4.2011 (BGHZ 189, 196
+eingehend auseinandergesetzt. Insbesondere hat er in dieser Entscheidung zur
+Konkretisierung der Erheblichkeitsschwelle ausgeführt, dass der nationale
+Gesetzgeber in Deutschland die in Art. 3 III der Verbrauchsgüterkauf-RL enthaltenen
+Vorgaben dadurch umgesetzt hat, dass der Käufer im Falle der Unzumutbarkeit der
+Nacherfüllung gem. § 440  Alt. 3 BGB sogleich Sekundärrechte (Rücktritt,
+Minderung und Schadensersatz) geltend machen kann und sich dadurch nicht auf eine
+unerwünschte Form der Nacherfüllung einlassen muss, die für ihn – weil mit
+Rn. 46). Auch zum vorhergehend abgehandelten Merkmal einer Unentgeltlichkeit der
+Nachbesserung (Art. 3 I 1, IV der Verbrauchsgüterkauf-RL) hat der Senat
+hervorgehoben, dass insoweit das nationale Recht den erforderlichen Schutz durch den
+Kostenerstattungsanspruch nach § 439 II BGB gewährleistet, der angesichts des
+Schutzzwecks der Unentgeltlichkeit einen Vorschussanspruch des Verbrauchers
+23Darüber hinausgehende neue Gesichtspunkte, die dem Senat Veranlassung geben
+könnten, seine Auffassung zur Anwendbarkeit des § 269 I BGB oder zur Gewichtung
+der dabei zu berücksichtigenden Umstände im Sinne einer grundsätzlichen
+Verlagerung des Erfüllungsorts zum Wohnsitz des Verbrauchers oder zum
+Belegenheitsort der Kaufsache zu ändern, zeigt die Revision nicht auf. Das gilt umso
+mehr, als sich mittlerweile auch der nach dem genannten Urteil des Senats vom
+13.4.2011 ergangenen Rechtsprechung des EuGH (im Folgenden: Gerichtshof) mit der
+nötigen Deutlichkeit entnehmen lässt, dass die Erheblichkeit von Unannehmlichkeiten,
+die mit einer Nachbesserung nahezu zwangsläufig verbunden sind, in einer
+Fallgestaltung wie der Vorliegenden nicht notwendig durch eine generelle
+Lokalisierung des Erfüllungsorts am Wohnsitz des Verbrauchers oder am
+Belegenheitsort der Kaufsache ausgeglichen werden müssen. Vielmehr kann dem –
+was der Senat als von Anfang an selbstverständlich angesehen hat – etwa auch durch
+eine effektive Abwälzung der zur Kompensation solcher Unannehmlichkeiten
+anfallenden Kosten auf den Verkäufer Rechnung getragen werden. Folgerichtig hat –
+worauf auch die Revisionserwiderung zutreffend hinweist – der Gerichtshof in seinem
+und Putz) in naheliegender Fortführung der bereits in seinem Urteil vom 17.4.2008
+zur Auslegung von Art. 3 II, III der Verbrauchsgüterkauf-RL eigens hervorgehoben, dass
+es auch unter Berücksichtigung des Zwecks der Richtlinie, ein hohes
+Verbraucherschutzniveau zu gewährleisten, nicht zwingend erforderlich ist, dass der
+Verkäufer den Nacherfüllungsvorgang vollständig selbst vornimmt, sondern dass auch
+die Übernahme der entsprechenden Kosten ein taugliches Äquivalent bilden kann.
+24cc) Darüber hinaus lässt die Revision bei den von ihr mit dem Ziel einer Verlagerung
+des Nacherfüllungsortes zur Kl. hin erhobenen Rügen außer Betracht, dass es sich bei
+dem in Art. 3 III 3 der Verbrauchsgüterkauf-RL verwendeten Begriff der erheblichen
+Unannehmlichkeit um einen unbestimmten Rechtsbegriff handelt, dessen
+richtlinienkonforme Auslegung und Anwendung anhand der jeweiligen Umstände des
+Einzelfalls dem nationalen (Tat-)Richter nach Maßgabe seiner vom nationalen
+Gesetzgeber im Zuge der Richtlinienumsetzung erfahrenen Konkretisierung obliegt
+ECLI:EU:C:2012:242 = EuZW 2012, 786 = RIW 2012, 483 Rn. 22 – Invitel; EuGH,
+ECLI:EU:C:2010:659 = EuZW 2011, 27 = RIW 2010, 876 Rn. 43 f. – VB Pénzügyi Lízing).
+Dass es auslegungsrelevante Gesichtspunkte gibt, deren Beurteilung zur Frage der
+Kompensierbarkeit einer dem Käufer nachteiligen Bestimmung des
+Nacherfüllungsortes durch eine den Transportaufwand ausgleichende
+Kostenvorschusspflicht des Verkäufers über den Einzelfall hinaus der Entwicklung
+weiterer allgemeiner Kriterien bedarf, welche dem Urteil des Gerichtshofs vom
+noch nicht zu entnehmen sind und die im Streitfall zusätzlich bei der Handhabung des
+Begriffs der erheblichen Unannehmlichkeiten zu beachten wären, zeigt die Revision
+nicht auf. Sie sind auch nicht ersichtlich. Die Revision beschränkt sich vielmehr im
+Wesentlichen darauf, ihre eigene, die Relevanz von Vorschusspflichten grundsätzlich
+verneinende Sichtweise an die Stelle derjenigen des unter Berücksichtigung des
+unbestimmten Rechtsbegriffs zur Anwendbarkeit des § 269 I BGB gelangenden und
+daran anknüpfend zu dessen Auslegung berufenen Tatrichters zu setzen.
+25In diesem Rahmen ist das BerGer. zunächst einmal unangegriffen davon
+ausgegangen, dass die im Kaufvertragsformular enthaltene
+Erfüllungsortsvereinbarung sich angesichts der zuvor – wenn auch unwirksam –
+ausgeschlossenen Sachmängelgewährleistung nicht auf danach von vornherein nicht
+in Betracht zu ziehende Nachbesserungsansprüche bezieht. Eine solche zulasten der
+Bekl. als Verwenderin des Vertragsformulars gehende Auslegung liegt allein schon
+nach der Unklarheitenregel des § 305 c II BGB nahe.
+26Soweit das BerGer. bestimmte Umstände, die einer Anwendbarkeit des § 269 I BGB
+von vornherein hätten entgegenstehen können oder sonst geeignet gewesen wären,
+der Kl. ungeachtet des ausgebliebenen Vorschusses durch die Annahme eines
+auswärtigen Nacherfüllungsorts im Streitfall zusätzlich weitere Unannehmlichkeiten
+festgestellt hat, ist ein Rechtsfehler ebenfalls nicht zu erkennen.
+Im Gegenteil hat die Kl., die in den Tatsacheninstanzen durchgängig davon
+ausgegangen ist, dass die Nachbesserung am Sitz der Bekl. in Berlin erfolgen müsse,
+durch ihr Angebot, gegen Zahlung des verlangten Vorschusses den Transport des
+Fahrzeugs zur Bekl. nach Berlin zu organisieren, selbst zu erkennen gegeben, dass bei
+einem vorab zu leistenden finanziellen Ausgleich der organisatorische Aufwand für sie
+keine, zumindest keine erhebliche Unannehmlichkeit bedeutet hätte. Sonstige
+Umstände, die das BerGer. bei Anwendung des § 269 I BGB hätten veranlassen
+müssen, den Ort der Nacherfüllung am Wohnsitz der Kl. bzw. an dem damit
+übereinstimmenden Fahrzeugstandort anzusiedeln, sind ebenfalls rechtsfehlerfrei
+nicht festgestellt, so dass das BerGer. die in der Vorschrift enthaltene Auslegungsregel
+zur Anwendung bringen konnte, welche als Nacherfüllungsort den Geschäftssitz der
+Bekl. in Berlin bestimmt.
+27b) Ein taugliches Nacherfüllungsverlangen des Käufers muss nach der
+Rechtsprechung des Senats auch die Bereitschaft des Käufers umfassen, dem
+Verkäufer die Kaufsache zur Überprüfung der erhobenen Mängelrügen am rechten Ort,
+nämlich dem Erfüllungsort der Nacherfüllung, für eine entsprechende Untersuchung
+zur Verfügung zu stellen. Hierdurch soll es diesem ermöglicht werden, die verkaufte
+Sache darauf zu überprüfen, ob der behauptete Mangel besteht, ob er bereits im
+Zeitpunkt des Gefahrübergangs vorgelegen hat, auf welcher Ursache er beruht sowie
+ob und auf welche Weise er beseitigt werden kann. Dementsprechend ist der Verkäufer
+grundsätzlich nicht verpflichtet, sich auf ein Nacherfüllungsverlangen des Käufers
+einzulassen, bevor dieser ihm die Gelegenheit zu einer solchen Untersuchung der
+verstoßen. Denn entgegen der Auffassung des BerGer. war sie, ohne Nachteile für ihr
+Nachbesserungsverlangen befürchten zu müssen, nicht gehalten, der Bekl. das
+Fahrzeug an deren Geschäftssitz in Berlin zur Verfügung zu stellen, bevor der von ihr
+angeforderte Transportkostenvorschuss bei ihr eingegangen war. Ebenso war sie mit
+Ablauf der von ihr gesetzten (Nach-)Frist nicht mehr gehindert, die gerügten Mängel
+selbst beheben zu lassen und die dadurch entstandenen Kosten und Nachteile als
+Schadensersatz statt der Leistung geltend zu machen.
+29aa) Nach § 439 II BGB hat ein Verkäufer die zum Zwecke der Nacherfüllung
+erforderlichen Kosten, insbesondere Transport-, Wege-, Arbeits- und Materialkosten zu
+tragen. Hierbei handelt es sich um eine Kostentragungsregelung mit
+Anspruchscharakter, welche die von Art. 3 III 1, IV der Verbrauchsgüterkauf-RL
+erforderliche Unentgeltlichkeit der Nacherfüllung gewährleisten soll (Senat, BGHZ 201,
+Nacherfüllung die Verbringung des Fahrzeugs an einen entfernt liegenden
+Nacherfüllungsort erfordert und bei dem Käufer deshalb Transportkosten zwecks
+Überführung des Fahrzeugs an diesen Ort anfallen, aber nicht nur einen
+Erstattungsanspruch gegen den Verkäufer. Der Käufer kann nach dem Schutzzweck
+des Unentgeltlichkeitsgebots vielmehr grundsätzlich schon vorab einen
+(abrechenbaren) Vorschuss zur Abdeckung dieser Kosten beanspruchen. Denn die
+dem Verkäufer auferlegte Verpflichtung, die Herstellung des vertragsgemäßen
+Zustands der Kaufsache unentgeltlich zu bewirken, soll – wie auch schon der
+Rn. 34 – Quelle) hervorgehoben hat – den Verbraucher vor drohenden finanziellen
+Belastungen schützen, die ihn in Ermangelung eines solchen Schutzes davon abhalten
+könnten, solche Ansprüche geltend zu machen. Ein solcher Hinderungsgrund kann sich
+auch daraus ergeben, dass der Verbraucher mit entstehenden Transportkosten in
+30bb) Den auch im Streitfall bestehenden Vorschussanspruch der Kl. hat das BerGer.
+gleichwohl verneint, weil es das Risiko, die aufzuwendenden Transportkosten
+gegebenenfalls nicht erstattet zu bekommen, dem von ihr zu tragenden gewöhnlichen
+Vertragsrisiko zugeordnet und die Kl. auf die Möglichkeit verwiesen hat, diesen
+Anspruch zunächst gerichtlich durchzusetzen. Außerdem hat es die Kosten als der
+Höhe nach tragbar angesehen und auch aus diesem Grunde eine Erheblichkeit der mit
+dem Kostenaufwand verbundenen Unannehmlichkeiten verneint. Diese Sichtweise
+begegnet indes durchgreifenden rechtlichen Bedenken.
+31(1) § 439 II BGB bringt mit seiner Kostentragungsregelung auch zum Ausdruck, dass
+dem Verkäufer in Fällen, in denen sich die vom Käufer erhobene Mängelrüge als
+berechtigt erweist, zugleich das mit der Klärung einer unklaren Mängelursache
+13 f.). An diesem Risiko hat der Käufer grundsätzlich keinen Anteil, insbesondere nicht
+in der Weise, dass er zunächst einmal mit den für die Mängelklärung anfallenden
+Aufwendungen in Vorlage treten müsste. Denn dies würde nicht nur mit dem über § 439 II BGB umgesetzten Unentgeltlichkeitsgebot aus Art. 3 III 1, IV der
+Verbrauchsgüterkauf-RL kollidieren. Ein solches Erfordernis, die Kosten zunächst
+selbst vorzulegen, ist vielmehr bei Verbrauchsgüterkäufen auch grundsätzlich
+geeignet, den Käufer angesichts der damit einhergehenden Belastungen und
+Unsicherheiten über eine spätere Erstattung von einer (effektiven) Geltendmachung
+32(2) Entgegen der Auffassung des BerGer. können deshalb die Unannehmlichkeiten
+und Erstattungsrisiken, die für die dazu nicht verpflichtete Kl. mit einer gleichwohl zu
+erbringenden Vorleistung auf die Transportkosten verbunden gewesen wären,
+angesichts der gegenläufigen Schutzintentionen des europäischen Richtliniengebers
+gewöhnlichen Vertragsrisiko zugewiesen werden. Sie sollten der Kl. vielmehr genauso
+wie das Risiko erspart bleiben, einen Vorschussanspruch gerichtlich durchsetzen zu
+müssen. Zudem würde dies – dem Zweck der Vorschusspflicht zuwider – in aller Regel
+zugleich mit dem in Art. 3 III 3 der Verbrauchsgüterkauf-RL aufgestellten Gebot einer
+Nacherfüllung innerhalb einer angemessenen Frist kollidieren, für deren Lauf entgegen
+der Auffassung des BerGer. bereits auf die Stellung eines tauglichen
+Nacherfüllungsbegehrens abzustellen wäre.
+33Vor diesem Hintergrund ist es – anders als das BerGer. meint – auch ohne
+Bedeutung, ob die Kl. in der Lage gewesen wäre, die Geldmittel zur Finanzierung eines
+Transports selbst aufzubringen. Vielmehr zielt die Vorschusspflicht gerade in den
+Fällen, in denen der Erfüllungsort der Nacherfüllung am Sitz des Verkäufers liegt, darauf
+ab, dem Käufer eine vom Verkäufer geschuldete Mängelbeseitigung ohne Einsatz
+eigener Mittel und sonstiger Vorleistungen zu ermöglichen. Ob und unter welchen
+Voraussetzungen dies anders zu beurteilen sein könnte, wenn es sich etwa um einen
+fahrtüchtigen Pkw gehandelt hätte und die Entfernung zum Geschäftssitz des
+Verkäufers derart moderat gewesen wäre, dass die Frage einer Kostenerstattung
+normalerweise nicht thematisiert worden wäre, oder wenn Aufwand und Risiko sich in
+einem Rahmen gehalten hätten, der einen Käufer üblicherweise nicht von einer
+sofortigen Vorstellung seines Fahrzeugs zwecks Geltendmachung von
+Nacherfüllungsrechten abgehalten hätte (vgl. dazu etwa Senat, BGHZ 189, 196 = NJW
+2011, 2278 Rn. 55), bedarf im Streitfall keiner Entscheidung.
+34cc) Hiernach hat die Kl. durch ihre Bereitschaft, das Fahrzeug nach Zahlung eines
+dafür erforderlichen Transportkostenvorschusses zwecks Untersuchung und Nachbes
+serung der gerügten Mängel zum Geschäftsbetrieb der Bekl. in Berlin transportieren zu
+lassen, ein den Anforderungen des § 439 I BGB genügendes Nacherfüllungsverlangen
+erhoben. Die Bekl. wäre deshalb verpflichtet gewesen, der Kl. durch Zahlung des
+angeforderten Vorschusses den in Aussicht genommenen Transport zu ermöglichen.
+Dementsprechend hat mit dem Angebot der Kl., den Fahrzeugtransport in der
+vorgeschlagenen Weise zu organisieren, zugleich die bei dieser Gelegenheit noch
+einmal erneuerte und später verlängerte Frist zur Leistung der begehrten
+Nachbesserung für die Bekl. zu laufen begonnen. Nach deren fruchtlosen Ablauf und
+dem dadurch unterbliebenen Transport des Pkw zwecks Nachbesserung nach Berlin
+war die Kl. berechtigt, die von ihr gerügten Mängel selbst zu beseitigen, um die aus
+diesem Anlass angefallenen Kosten und Einbußen anschließend gem. §§ 437 Nr. 3,
+280 I, III, 281 I 1 BGB von der Bekl. als Schadensersatz statt der Leistung zu
+beanspruchen.
+35III. Nach alledem kann das Berufungsurteil keinen Bestand haben; es ist daher
+aufzuheben (§ 562 I ZPO). Der Rechtsstreit ist nicht zur Endentscheidung reif, weil zum
+Vorliegen der im Wege der Selbstvornahme beseitigten Mängel und deren
+Vorhandensein bei Übergabe des Fahrzeugs sowie zur Höhe des angesetzten
+Schadens die nunmehr erforderlichen weiteren Feststellungen zu treffen sind. Die
+Sache ist folglich an das BerGer. zurückzuverweisen (§ 563 I 1 ZPO).
+Anmerkung
+In diesem Urteil hat der BGH der Käuferin eines gebrauchten Pkw und Verbraucherin
+einen Anspruch auf Zahlung eines Transportkostenvorschusses zugestanden, wenn
+sie einen Sachmangel des Pkw behauptet und Nacherfüllung durch Reparatur verlangt
+und wenn der Verkäufer zur Begutachtung des Pkw und gegebenenfalls zur
+Durchführung der Reparatur nur an seinem weit entfernten Geschäftssitz bereit ist. Es
+handelt sich bei dem Urteil um eine autonom getroffene Entscheidung des BGH. Zwar
+ist es angesichts der verbraucherfreundlichen Linie des EuGH in den Entscheidungen
+2015, 2237) durchaus nicht fernliegend, dass auch der EuGH ähnlich entschieden
+hätte. Es kam aber gar nicht zu einer Vorlage, da bereits der BGH zugunsten der
+Verbraucherin entscheiden wollte. Die Argumentation des BGH folgt allerdings einer
+Linie, wie sie uns vom EuGH vertraut ist: Aus der Richtlinie folge die absolute
+Unentgeltlichkeit der Nacherfüllung; müsste ein Verbraucher Transportkosten
+vorschießen, könne dies abschreckend wirken und ihn davon abhalten, seine
+gesetzlichen Rechte geltend zu machen.
+Der Vorschussanspruch bewirkt jedenfalls, dass Unternehmer, die sich schon im
+Zusammenhang mit dem Vorschuss als wenig kooperativ erweisen, früh in Verzug
+gesetzt werden können, womit der Verbraucher den Mangel im Wege der
+Selbstvornahme beseitigen und die Kosten später als Verzugs- und
+Nichterfüllungsschaden geltend machen kann. Anderenfalls könnte der Verbraucher
+einen unkooperativen Verkäufer erst dann in Verzug setzen, wenn er die Sache bereits
+auf eigene Kosten zum Verkäufer transportiert hat, was die Gesamtkosten unnötig in
+die Höhe treiben würde. Angemerkt sei, dass sich dieses Problem überhaupt nicht
+stellen würde, wenn der BGH entweder für die Nacherfüllung beim
+Verbrauchsgüterkauf einen von der allgemeinen Regel des § 269 BGB abweichenden
+Erfüllungsort anerkennen oder aber von seiner rigiden Haltung zur Selbstvornahme
+abrücken würde.
+Einen Anspruch auf Transportkostenvorschuss hatte der BGH bereits 2011 bejaht
+Rn. 49 f.), und ab 1.1.2018 ergibt sich der Anspruch ausdrücklich aus § 475 VI nF iVm
+§ 439 II BGB. Bemerkenswert ist das Urteil deswegen, weil es gar nicht um einen
+erwiesenermaßen zur Nacherfüllung berechtigenden Mangel ging, sondern um die
+bloße Behauptung der Käuferin, dass ein solcher Mangel vorliege, und um die Kosten
+für die bloße Untersuchung der Kaufsache. Dabei mag es im konkret zu
+entscheidenden Fall eine Rolle gespielt haben, dass der Motordefekt relativ kurze Zeit
+nach der Übergabe zutage trat, der Verbraucherin also wohl § 476 BGB zugutekam und
+daher die Wahrscheinlichkeit, dass sie tatsächlich einen Anspruch auf Nacherfüllung
+geltend machen konnte, relativ hoch war. Der BGH stellt auf diese Umstände in seiner
+Begründung aber nicht weiter ab, so dass ein Vorschussanspruch wohl auch dann
+bejaht würde, wenn das Vorliegen eines Gewährleistungsfalls eher fraglich erscheint.
+Was der BGH nicht näher ausführt, sind die Rechtsfolgen eines Vorschussverlangens,
+wenn sich der Verdacht eines Sachmangels am Ende nicht bestätigt.
+Konsequenterweise müsste der Verkäufer, da ein Rechtsgrund für die Leistung nach § 439 II BGB gar nicht vorlag, dann einen Anspruch auf Rückzahlung aus § 812 I 1 Alt. 1
+BGB haben. Insgesamt dürfte das von Unternehmern häufig aufgebaute Drohszenario,
+dass der Verbraucher im Fall eines „Fehlalarms“ – das heißt der Behauptung eines
+Sachmangels, die sich schließlich nicht erhärten lässt – für die Kosten der
+Untersuchung der Kaufsache oder Werkleistung einzustehen habe, zu den wichtigsten
+Gründen gehören, die Verbraucher von der Geltendmachung ihrer
+Gewährleistungsrechte abhalten. Für dieses Problem eine ausgewogene Lösung zu
+finden, dürfte nicht einfach sein, weil gerade viele kleinere Unternehmer unter solchen
+Fehlalarmen leiden. War das Verlangen des Käufers im konkreten Fall als schuldhaft
+einzustufen, ist allerdings ohnehin an einen Schadensersatzanspruch wegen
+Verletzung einer (nach)vertraglichen Nebenpflicht zu denken.
+Professorin Dr. Christiane Wendehorst, Wien

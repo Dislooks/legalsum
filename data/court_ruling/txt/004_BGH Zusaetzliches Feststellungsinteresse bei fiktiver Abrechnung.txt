@@ -1,0 +1,214 @@
+Zusätzliches Feststellungsinteresse bei fiktiver Abrechnung
+BGB § 249 II 1; ZPO § 256 I
+1.Der Geschädigte eines Kraftfahrzeugsachschadens hat bei Ausübung der
+Ersetzungsbefugnis des § 249 II 1 BGB die Wahl, ob er fiktiv nach den Feststellungen
+eines Sachverständigen oder konkret nach den tatsächlich aufgewendeten Kosten
+abrechnet. Der Geschädigte kann, wenn er seinen Fahrzeugschaden zunächst fiktiv
+abgerechnet hat, später – im Rahmen der rechtlichen Voraussetzungen für eine
+solche Schadensabrechnung und der Verjährung – grundsätzlich zur konkreten
+Schadensabrechnung übergehen und Ersatz der tatsächlich angefallenen Kosten
+einschließlich Mehrwertsteuer und (gegebenenfalls zusätzlicher)
+Nutzungsausfallentschädigung verlangen.
+2.Berechnet der Geschädigte seinen Schaden zulässigerweise auf der Grundlage der
+von dem Sachverständigen ermittelten Kosten fiktiv, also ohne Durchführung der
+Reparatur und damit insbesondere ohne Umsatzsteuer, hat er – schon um der
+drohenden Verjährung zu begegnen – ein Interesse im Sinne von § 256 I ZPO an der
+Feststellung der Ersatzpflicht für zukünftige Schäden. Der Geschädigte muss nicht
+darlegen, dass er die Absicht hat, sein Fahrzeug zu reparieren. Vielmehr reicht die
+Darlegung, dass die Möglichkeit der Reparatur besteht, grundsätzlich aus. Daran
+fehlte es erst, wenn aus Sicht des Geschädigten bei verständiger Würdigung kein
+Grund bestände, mit der Reparatur wenigstens zu rechnen.
+BGH Urteil vom 8.4.2025 – VI ZR 25/24
+2025, 2619)
+Zum Sachverhalt
+Die Kl. nahm nach einem Verkehrsunfall die Bekl. als Haftpflichtversicherer – soweit
+im vorliegenden Zusammenhang relevant – auf Feststellung der Verpflichtung zur
+Erstattung sämtlichen zukünftigen materiellen Schadens in Anspruch.
+Als das bei der Bekl. haftpflichtversicherte Fahrzeug rückwärts ausgeparkt wurde, fuhr
+es auf das Fahrzeug der Kl. auf. Den Schaden an ihrem Fahrzeug rechnete die Kl. fiktiv
+auf Basis eines Sachverständigengutachtens ab. Die Bekl. erhob Einwendungen gegen
+die Höhe des geltend gemachten Schadens und regulierte diesen zum Teil.
+Vorgerichtlich und gerichtlich ist die volle Haftung der Bekl. dem Grunde nach
+unstreitig.
+zu weiterer Zahlung verurteilt und festgestellt, dass die Bekl. der Kl. sämtlichen
+zukünftigen materiellen Schaden aus dem Unfallereignis zu erstatten hat. Im Übrigen
+hat es die Klage abgewiesen. Auf die Berufung der Bekl. hat das LG Landshut (Urt. v.
+die Klage abgewiesen, soweit die Pflicht zur Erstattung zukünftigen materiellen
+Schadens festgestellt worden ist. Im Übrigen hat das BerGer. die Berufung der Bekl.
+und die Anschlussberufung der Kl. zurückgewiesen. Mit der vom BerGer. zugelassenen
+Revision verfolgte die Kl. ihren Antrag auf vollständige Zurückweisung der Berufung
+der Bekl. weiter. Das Rechtsmittel hatte Erfolg.
+Aus den Gründen
+4I. Das BerGer. hat dazu ausgeführt, soweit die Bekl. Klageabweisung bezüglich des
+Feststellungsantrags begehre, habe die Berufung Erfolg. Das Feststellungsinteresse
+werde damit begründet, dass die Kl. bei einer Reparatur des Fahrzeugs Anspruch auf
+Mehrwertsteuer sowie Nutzungsausfall habe und dass das Feststellungsinteresse
+nicht dadurch verloren gehe, dass die Haftung dem Grunde nach unstreitig sei. Im
+vorliegenden Fall sei ein Feststellungsinteresse nicht gegeben, weil die Haftung dem
+Grunde nach unstreitig sei, die Bekl. mit ihrem gesamten Regulierungsverhalten zu
+keinem Zeitpunkt Anlass gegeben habe, an ihrer 100 %igen Einstandspflicht zu
+zweifeln und das Entstehen weiterer Schadenspositionen allein von der Entscheidung
+der Kl. abhänge. Die Kl. rechne vorliegend auf fiktiver Basis ab. Die
+Schadenspositionen, die die Kl. mit dem Feststellungsantrag der Verjährung entziehen
+wolle, seien solche der konkreten Abrechnung. Diese könnte die Kl. nur geltend
+machen, wenn sie von fiktiver Abrechnung auf eine konkrete Abrechnung übergehe. Die
+Kriterien, nach denen der Übergang von fiktiver auf konkrete Abrechnung möglich sei,
+seien bislang noch nicht vollständig herausgearbeitet worden. Zwar habe der BGH in
+ausgeführt, dass ein Wechsel von fiktiver zu konkreter Abrechnung möglich sei, dieser
+Wechsel aber unter dem Vorbehalt der Verjährung stehe. Dieser Verjährungsvorbehalt
+könne nicht dazu führen, dass ein Feststellungsinteresse bestehe. Dadurch würde die
+abschließend geregelte Verjährungsfrist von bisher drei Jahren auf 30 Jahre erweitert.
+Es sei nicht zu erkennen, aus welchen Gründen dies gerechtfertigt sein könne; gerade
+wenn – wie im vorliegenden Fall – das Fahrzeug zum Zeitpunkt des Unfalls bereits 13
+Jahre alt gewesen sei, eine Laufleistung von über 250.000 km erreicht habe und der
+Eintritt weiteren Schadens allein vom Willen des Geschädigten abhänge. Es sei dem
+Geschädigten zuzumuten, die Entscheidung, ob er sein Fahrzeug reparieren lassen und
+auf konkrete Abrechnung übergehen wolle, innerhalb der Verjährungsfrist von drei
+Jahren zu treffen.
+5II. Die dagegen gerichtete Revision der Kl. hat Erfolg und führt hinsichtlich des
+Feststellungsausspruchs zur Wiederherstellung des Urteils des AG. Entgegen der
+Auffassung des BerGer. fehlt es nicht am Feststellungsinteresse der Kl.
+61. Nach § 256 I ZPO kann auf Feststellung des Bestehens oder Nichtbestehens eines
+Rechtsverhältnisses Klage erhoben werden, wenn der Kl. ein rechtliches Interesse
+daran hat, dass das Rechtsverhältnis alsbald festgestellt werde. Ein solches Interesse
+ist gegeben, wenn dem konkreten vom Feststellungsantrag betroffenen Recht des Kl.
+eine gegenwärtige Gefahr der Unsicherheit droht und der erstrebte
+Feststellungsausspruch geeignet ist, diese Gefahr zu beseitigen (vgl. Senat NJW-RR
+2022, 23 Rn. 15 mwN). Werden nach Verletzung eines absoluten Rechts weitere
+zukünftige materielle Schäden befürchtet, genügt für das Feststellungsinteresse die
+Möglichkeit, dass diese Schäden eintreten (vgl. Senat BGHZ 242, 180 Rn. 48 mwN =
+(vgl. Senat NJW-RR 2022, 23 Rn. 28 mwN). An der Möglichkeit weiterer Schäden fehlt
+es, wenn aus Sicht des Kl. bei verständiger Würdigung kein Grund besteht, mit dem
+Eintritt eines weiteren Schadens wenigstens zu rechnen (vgl. Senat NJW-RR 2022, 23
+Rn. 28 mwN).
+72. Danach kann die Kl. ihr Feststellungsinteresse darauf stützen, dass sie bei einer
+zukünftigen Reparatur ihres beschädigten Fahrzeugs einen Anspruch auf Ersatz der
+dabei anfallenden Mehrwertsteuer und des dadurch verursachten Nutzungsausfalls
+gegen die Bekl. geltend machen könnte.
+8Der Geschädigte eines Kraftfahrzeugsachschadens hat bei Ausübung der
+Ersetzungsbefugnis des § 249 II 1 BGB die Wahl, ob er fiktiv nach den Feststellungen
+eines Sachverständigen oder konkret nach den tatsächlich aufgewendeten Kosten
+Rn. 6). Zwar hat die Kl. den Schaden an ihrem Fahrzeug fiktiv abgerechnet. Allerdings
+kann der Geschädigte, wenn er seinen Fahrzeugschaden zunächst fiktiv abgerechnet
+hat, später – im Rahmen der rechtlichen Voraussetzungen für eine solche
+Schadensabrechnung und der Verjährung – grundsätzlich zur konkreten
+Schadensabrechnung übergehen und Ersatz der tatsächlich angefallenen Kosten
+einschließlich Mehrwertsteuer und (ggf. zusätzlicher) Nutzungsausfallentschädigung
+543 Rn. 20, 25; Geigel Haftpflichtprozess/Katzenstein, 29. Aufl., Kap. 3 Rn. 7, 68, 82; s.
+9Berechnet der Geschädigte seinen Schaden, wie hier, zulässigerweise auf der
+Grundlage der von dem Sachverständigen ermittelten Kosten fiktiv, also ohne
+Durchführung der Reparatur und damit insbesondere ohne Umsatzsteuer, hat er –
+schon um der drohenden Verjährung zu begegnen – ein Interesse iSv § 256 I ZPO an
+der Feststellung der Ersatzpflicht für zukünftige Schäden (vgl. zu
+Mängelbeseitigungskosten BGH NJW-RR 2024, 542 Rn. 25 mwN).
+103. Abweichendes ergibt sich nicht aus den Erwägungen des BerGer. und der
+Revisionserwiderung. Entgegen deren Auffassung entfällt das Feststellungsinteresse
+der Kl. nicht bereits deshalb, weil die volle Haftung der Bekl. dem Grunde nach bislang
+unstreitig geblieben ist. Denn allein
+2025, 2619)
+daraus ergibt sich keine einem gerichtlichen Feststellungsausspruch vergleichbare
+Sicherheit für die Kl. (vgl. dazu Senat NJOZ 2017, 1565 Rn. 9 = NZV 2017, 226).
+11Weiter ist zwar richtig, dass die von der Kl. befürchteten weiteren Schäden von ihrer
+zukünftigen Entscheidung abhängen, die Reparatur durchzuführen und zur konkreten
+Schadensberechnung überzugehen. Allerdings setzt die Möglichkeit des Eintritts
+zukünftiger weiterer Schäden (s. oben II 1) nicht voraus, dass der Geschädigte darauf
+keinen Einfluss nehmen kann. Ob und inwieweit das Verhalten des Geschädigten
+relevant ist, bestimmt das materielle Recht, das dem Geschädigten insoweit die Wahl
+des nachträglichen Übergangs von der fiktiven zur konkreten Abrechnung erlaubt (s.
+oben II 2). Daher wäre es auch nicht gerechtfertigt, – wie die Revisionserwiderung
+meint – hier die Begründetheit des Feststellungsantrags ausnahmsweise von der
+Wahrscheinlichkeit des Schadenseintritts abhängig zu machen (vgl. dazu Senat BGHZ
+Absicht hat, sein Fahrzeug zu reparieren. Vielmehr reicht die Darlegung, dass die
+Möglichkeit der Reparatur besteht, grundsätzlich aus. Daran fehlte es erst, wenn aus
+Sicht des Geschädigten bei verständiger Würdigung kein Grund bestände, mit der
+Reparatur wenigstens zu rechnen. Allein aus dem Hinweis der Revisionserwiderung auf
+das Alter des Fahrzeugs (13 Jahre) und dessen Laufleistung (über 250.000 km) ergibt
+sich dies jedoch noch nicht.
+12Entgegen der Auffassung der Revisionserwiderung besteht auch kein Widerspruch
+zur Rechtsprechung des BGH, wonach der Geschädigte kein rechtliches Interesse an
+der isolierten Feststellung der Verpflichtung zum Schadensersatz hat, um sich bei
+Geltendmachung eines Vermögensschadens nach § 826 BGB die Wahl zwischen
+großem und kleinem Schadensersatz offen zu halten, wenn ihm diese Entscheidung
+bereits bei Erhebung der Klage zumutbar ist (vgl. Senat NJW-RR 2022, 23 Rn. 16 ff. =
+VersR 2022, 1184). Denn aus dem materiellen Recht ergibt sich nicht, dass dem
+Geschädigten eine Wahl zwischen großem und kleinem Schadensersatz offengehalten
+werden soll. Demgegenüber hat hier die Kl. ihren fiktiv abgerechneten Schaden durch
+einen Leistungsantrag geltend gemacht. Sie will durch den zusätzlichen
+Feststellungsantrag nur sicherstellen, dass sie entsprechend dem materiellen Recht –
+weiterhin im Rahmen des § 249 II 1 BGB – später zur konkreten Schadensabrechnung
+übergehen kann (s. weiter zum ergänzenden Feststellungsantrag bei Geltendmachung
+des großen Schadensersatzes Senat NJW-RR 2022, 23 Rn. 5, 22, 34 = VersR 2022,
+1184; Klein NZV 2022, 49 (50); zur Bindungswirkung im Verhältnis von § 249 I und II 1
+BGB MüKoBGB/Oetker, 9. Aufl., BGB § 249 Rn. 359–361; Geigel
+Haftpflichtprozess/Katzenstein, 29. Aufl., Kap. 3 Rn. 7).
+13Schließlich trifft es zwar zu, dass nach einem Feststellungsausspruch die
+Verjährungsfrist nicht mehr drei Jahre beträgt, sondern 30 Jahre (§ 195 BGB, § 197 I
+Nr. 3 BGB). Dies ist jedoch keine Besonderheit der vorliegenden Fallkonstellation. Es
+handelt sich um eine Konsequenz der gesetzgeberischen Interessenabwägungen und
+Grundentscheidungen.
+144. Das Urteil des BerGer. ist aufzuheben, soweit es auf die Berufung der Bekl. zum
+Nachteil der Geschädigten entschieden hat (§ 562 I ZPO). Der Senat entscheidet in der
+Sache selbst, da sie zur Endentscheidung reif ist (§ 563 III ZPO).
+Anmerkung
+Der BGH hat sich in seinem Urteil den prozessualen Aspekten der konkreten und
+fiktiven Schadensberechnung im Rahmen von Ansprüchen nach einem
+Fahrzeugschaden gewidmet. Dass der Geschädigte ein Wahlrecht zwischen fiktiver
+und konkreter Abrechnung seines Schadens hat, wurde zunächst bestätigt. Rechnet
+der Geschädigte jedoch fiktiv ab, so kann er nach ständiger Rechtsprechung die
+Abrechnungsmethode auch später noch ändern und konkret nach durchgeführter
+Reparatur und auf Basis der Reparaturkostenrechnung abrechnen. Durch diese
+zulässige Umstellung der Abrechnung ergibt sich aber stets ein Nachzahlungsbetrag
+auf Schädigerseite, denn nur dann ist eine Umstellung für den Geschädigten sinnvoll.
+Eine solche Nachzahlung kann zum Beispiel aus der dann angefallenen
+Mehrwertsteuer, über dem Gutachten oder dem Kostenvoranschlag liegenden
+Reparaturkosten oder dem Nutzungsausfall folgen. Gleichzeitig unterliegt ein
+derartiger Anspruch der Verjährung.
+Bei fiktiver Abrechnung ist häufig noch unklar, was genau mit dem beschädigten
+Fahrzeug in der Zukunft passiert. Es kann also zum Beispiel sein, dass bei kleineren
+Blechschäden, welche die Verkehrssicherheit des Fahrzeugs nicht beeinträchtigen,
+zunächst keine Reparatur durchgeführt wird. Soll das Fahrzeug aber später einmal
+verkauft werden, so könnte dann eine Reparatur angezeigt sein, da eventuell ein
+unrepariertes und unfallbeschädigtes Fahrzeug deutlich schlechtere Verkaufschancen
+und damit einen deutlich geringen Verkaufspreis aufweist.
+Das Feststellungsinteresse eines Geschädigten bezog sich bislang typischerweise auf
+die Frage der Haftung, damit hier auch für zukünftig noch entstehende Schäden geklärt
+und klargestellt wurde, ob eine volle Eintrittspflicht des Schädigers oder
+gegebenenfalls nur eine teilweise Eintrittspflicht besteht. Insbesondere bei
+Personenschäden war es auch bisher bereits üblich, feststellen zu lassen, dass der
+Schädiger auch zukünftig verpflichtet ist, für alle unfallbedingten Körperschäden
+einzutreten. Im Rahmen eines solchen Feststellungsurteils kann dann, wie bei
+sonstigen Urteilen auch, 30 Jahre lang vollstreckt werden, zudem ist durch
+entsprechende gerichtliche Geltendmachung die Verjährung von Ansprüchen
+gehemmt.
+Die Besonderheiten des vorliegend zu entscheidenden Falls bestanden darin, dass die
+Haftung zu 100 % geklärt war und der Fahrzeugschaden fiktiv abgerechnet wurde.
+Gleichzeitig wurde aber ein Feststellungsantrag gestellt und damit begründet, dass ein
+Feststellungsinteresse für den Fall der späteren Umstellung der Abrechnungsmethode
+auf die konkrete Abrechnung bestünde. In der bisherigen Rechtsprechung des BGH war
+anerkannt, dass ein Wechsel der Abrechnungsmethode und der sich hieraus
+ergebenden weiteren Ansprüche der Verjährung unterliegt. Der BGH stellt nunmehr klar,
+dass dies für das Bestehen des Feststellungsinteresses unabhängig von der
+Feststellung der vollständigen Eintrittspflicht und dem Fahrzeugalter bzw. dessen
+Laufleistung ausreichend ist.
+Ferner entfällt das Feststellungsinteresse auch nicht deswegen, weil der Geschädigte
+es selbst in der Hand hat,
+2025, 2619)
+die Abrechnungsmethode zu ändern. Maßgeblich ist darauf abzustellen, dass ein
+Feststellungsinteresse nur dann entfällt, wenn bei verständiger Würdigung kein Grund
+besteht, mit weiteren Schäden zu rechnen. Dies liegt in der streitgegenständlichen
+Konstellation aber gerade nicht vor. Es ist auch nicht unbillig, dass damit die Verjährung
+solcher Ansprüche von 3 Jahren auf 30 Jahre ausgedehnt wird, denn dies ist die
+Konsequenz der gesetzgeberischen Entscheidung.
+Schließlich ist die Entscheidung auch im Einklang mit den bisherigen
+Senatsentscheidungen zum großen und kleinen Schadensersatzanspruch nach § 826
+BGB und der Versagung des Feststellungsinteresses bei zumutbarer Entscheidung bei
+Klageerhebung. Grund hierfür ist die materielle Rechtslage, welche bei großem und
+kleinem Schadensersatzanspruch, anders als bei fiktiver und konkreter Abrechnung,
+dem Geschädigten die Entscheidung nicht offen halten soll.
+Die Entscheidung des BGH ist zu begrüßen, schafft sie doch Klarheit und
+Rechtssicherheit für eine Sicherung des Wechsels der Abrechnungsmethode in der
+Zukunft. War es bislang häufig im Personenschadenbereich üblich, mit
+entsprechenden Verjährungsverzichten bzw. titelersetzenden
+Feststellungserklärungen zu arbeiten, so dürfte dies nun auch für den Bereich des
+reinen Fahrzeugschadens bei fiktiver Abrechnung zur Praxis werden.
+Rechtsanwalt Prof. Dr. Uwe Gail, Olching

@@ -1,0 +1,214 @@
+Kommunikationssystem
+Kosten der Rechts- und Patentanwälte des Streithelfers -
+Kommunikationssystem
+ZPO § 91; PatG § 143 III; RVG § 19; RVG VV Nr. 3403
+In einer Patentstreitsache sind die Einzeltätigkeiten eines beim BGH nicht
+zugelassenen Rechtsanwalts sowie eines mitwirkenden Patentanwalts im
+Nichtzulassungsbeschwerdeverfahren erstattungsfähig, wenn diese die
+Beschwerdebegründung im Auftrag eines aufseiten des Beschwerdegegners
+beigetretenen Streithelfers inhaltlich prüfen, mit ihrem Mandanten erörtern und sich
+mit den anwaltlichen Vertretern des Beschwerdegegners hinsichtlich von diesem im
+Nichtzulassungsbeschwerdeverfahren einzureichender Schriftsätze abstimmen.
+BGH, Beschluss vom 29.4.2019 – X ZB 4/17
+Zum Sachverhalt
+Die Kl. hat die Bekl. wegen Verletzung eines europäischen Patents betreffend ein
+Kommunikationssystem mit drahtlosem Zugang und ein Verfahren zum
+Transportieren von drahtlosen Verbindungen in einem solchen
+Kommunikationssystem in Anspruch genommen. Die Bekl. zu 1 betrieb ein
+Mobilfunknetz nach dem „Universal Mobile Telecommunications System“ (UMTS)-
+Standard; die Bekl. zu 2 vermittelte für die Bekl. zu 1 Kunden. Komponenten der
+Systemarchitektur des UMTS-Mobilfunknetzes stammten von den drei
+Streithelferinnen.
+Das LG hat die Klage abgewiesen. In der Berufungsinstanz ist die Streithelferin zu 3
+dem Rechtsstreit aufseiten der Bekl. beigetreten. Das BerGer. hat die Berufung
+zurückgewiesen und die Revision gegen sein Urteil nicht zugelassen. Der Senat hat die
+Nichtzulassungsbeschwerde der Kl. zurückgewiesen und die Kosten des
+Beschwerdeverfahrens einschließlich der Kosten der Streithelferinnen der Kl. auferlegt.
+Das LG Düsseldorf (Beschl. v. 15.7.2016 – 4 a O 6/09) hat die Anträge der Streithelferin
+zu 3, jeweils eine 0,8-fache Verfahrensgebühr nach Nr. 3403 VV-RVG nebst
+Auslagenpauschale und Zinsen für die Tätigkeit ihrer zweitinstanzlichen
+Prozessbevollmächtigten sowie ihres mitwirkenden Patentanwalts im
+Nichtzulassungsbeschwerdeverfahren gegen die Kl. festzusetzen, zurückgewiesen.
+Auf die sofortige Beschwerde der Streithelferin zu 3 hat das OLG Düsseldorf (Beschl.
+v. 13.3.2017 – I-2 W 22/16) dem Kostenfestsetzungsantrag stattgegeben und die
+Rechtsbeschwerde zugelassen. Die Rechtsbeschwerde hatte keinen Erfolg.
+Aus den Gründen
+4B. Die zulässige Rechtsbeschwerde ist nicht begründet.
+5I. Das BeschwGer. hat ausgeführt, der Streithelferin zu 3 sei jeweils eine 0,8-fache
+Verfahrensgebühr für sonstige Tätigkeiten ihrer zweitinstanzlichen
+Prozessbevollmächtigten sowie des mitwirkenden Patentanwalts im
+Nichtzulassungsbeschwerdeverfahren gem. § 2 II RVG iVm Nr. 3403 VV-RVG
+entstanden. Sie habe dargetan und durch anwaltliche Versicherung glaubhaft gemacht,
+dass die Rechts- und Patentanwälte nach entsprechender Mandatserteilung die
+Schriftsätze der Kl. im Nichtzulassungsbeschwerdeverfahren geprüft, mit ihr erörtert,
+ihr Empfehlungen für die weitere Verfahrensweise gegeben sowie sich inhaltlich mit
+den anwaltlichen Vertretern der Bekl. im Hinblick auf die von diesen im
+Nichtzulassungsbeschwerdeverfahren einzureichenden Schriftsätze unter anderem in
+mehreren Telefonkonferenzen abgestimmt hätten. Diesem Vorbringen der
+Streithelferin zu 3 sei die Kl. nicht, jedenfalls nicht konkret entgegengetreten. Die der
+Streithelferin zu 3 nach Nr. 3403 VV-RVG entstandenen Verfahrensgebühren seien von
+der Kl. nebst der Auslagenpauschale nach Nr. 7002 VV-RVG zu erstatten, da die von
+deren Rechts- und Patentanwälten entfalteten Tätigkeiten geeignet gewesen seien,
+deren rechtliche Interessen im Nichtzulassungsverfahren wahrzunehmen.
+6II. Die Ausführungen des BeschwGer. halten einer rechtlichen Überprüfung stand.
+71. Die Rechtsbeschwerde macht geltend, das BeschwGer. habe zu Unrecht
+angenommen, dass der Streithelferin zu 3 jeweils eine Verfahrensgebühr nach Nr. 3403
+VV-RVG für die Tätigkeiten ihrer rechts- und patentanwaltlichen Vertreter entstanden
+sei.
+8a) Sie beanstandet, das BeschwGer. habe sich, soweit es die von der Streithelferin zu
+3 vorgetragenen Tätigkeiten ihrer zweitinstanzlichen Prozessbevollmächtigten und
+ihres zweitinstanzlich mitwirkenden Patentanwalts im
+Nichtzulassungsbeschwerdeverfahren durch anwaltliche Versicherung des
+zweitinstanzlichen Prozessbevollmächtigten Rechtsanwalt M S als glaubhaft gemacht
+angesehen habe, inhaltlich nicht mit dieser Versicherung auseinandergesetzt. Damit
+kann sie nicht durchdringen.
+9b) Zwar kann die grundsätzlich dem Tatrichter vorbehaltene Würdigung von
+Beweismittel bzw. Mitteln der Glaubhaftmachung im Rechtsbeschwerdeverfahren
+darauf überprüft werden, ob die Mittel vollständig und widerspruchsfrei berücksichtigt
+worden sind (§§ 286 I 2, 294 I, 546, 576 III ZPO). Die Rechtsbeschwerde weist auch
+zutreffend darauf hin, dass Gegenstand der ersten anwaltlichen Versicherung vom
+6.1.2017 eines der zweitinstanzlichen Prozessbevollmächtigten der Streithelferin zu 3
+lediglich die Beauftragung der zweitinstanzlichen Prozessbevollmächtigten sowie des
+in zweiter Instanz mitwirkenden Patentanwalts, nicht aber die von diesen tatsächlich
+ausgeübte Tätigkeit zum Gegenstand hat. In einer zweiten anwaltlichen Versicherung
+vom 20.2.2017 hat der zweitinstanzliche Prozessbevollmächtigte dann aber über die
+erste anwaltliche Versicherung hinaus anwaltlich versichert, dass der Auftrag „gemäß
+Kostenfestsetzungsantrag vom 12.5./9.10.2015 und den [in den] Stellungnahmen dazu
+angeführten Tätigkeiten“ ausgeführt und erledigt worden sei. Das BeschwGer. hat
+beide anwaltlichen Versicherungen, die jeweils nach einem richterlichen Hinweis
+abgegeben worden sind, bei seiner Würdigung der Mittel der Glaubhaftmachung
+berücksichtigt.
+10c) Der Überprüfung im Rechtsbeschwerdeverfahren hält auch stand, dass das
+BeschwGer. die zweite anwaltliche Versicherung dahin verstanden hat, dass sich diese
+auf das gesamte tatsächliche Vorbringen der Streithelferin zu 3 im
+Kostenfestsetzungs- und Beschwerdeverfahren bezogen hat. Dieser Bezug kommt in
+der zweiten anwaltlichen Versicherung hinreichend dadurch zum Ausdruck, dass
+neben den beiden durch die Angabe des jeweiligen Datums konkretisierten
+Kostenfestsetzungsanträgen hinsichtlich der auftragsgemäß ausgeführten und
+erledigten Tätigkeiten auf „Stellungnahmen“ verwiesen wird.
+11d) Es ist zwar richtig, dass der Kostenfestsetzungsantrag vom 17.5.2016, mit dem
+erstmals die Erstattung der Verfahrensgebühr nach Nr. 3403 VV-RVG für die Tätigkeit
+eines mitwirkenden Patentanwalts beantragt worden ist, anders als der
+Kostenfestsetzungsantrag vom 9.10.2015, der allein die Erstattung der
+Verfahrensgebühr nach Nr. 3403 VV-RVG für die Tätigkeit des zweitinstanzlichen
+Prozessbevollmächtigten zum Inhalt hatte, in der zweiten anwaltlichen Versicherung
+nicht mit seinem Datum erwähnt wird. Dass das BeschwGer. die anwaltliche
+Versicherung dennoch nicht nur auf die Tätigkeit der zweitinstanzlichen
+Prozessbevollmächtigten, sondern auch auf die des mitwirkenden Patentanwalts
+bezogen hat, konnte es aber widerspruchsfrei daraus herleiten, dass sich die
+anwaltliche Versicherung vom 20.2.2017 sowohl auf die „rechtsanwaltliche“ als auch
+die „patentanwaltliche Vertretung“ bezieht, die auftragsgemäß ausgeführt worden
+seien.
+12e) Schließlich ist es unter dem Gesichtspunkt der Unmittelbarkeit der Beweismittel
+bzw. Mittel der Glaubhaftmachung nicht als verfahrensfehlerhaft anzusehen, dass sich
+das BeschwGer. allein auf die anwaltliche Versicherung des Rechtsanwalts M S
+gestützt und nicht darüber hinaus auch anwaltliche Versicherungen des Rechtsanwalts
+J G und des Patentanwalts J H als erforderlich angesehen hat, obwohl die Streithelferin
+vorgetragen hatte, dass die Zuarbeit gegenüber der Bekl. bei der Abfassung der
+Nichtzulassungsbeschwerdeerwiderung durch die beiden letztgenannten Anwälte
+erfolgt sei. Denn der Versicherung des Rechtsanwalts S ist zu entnehmen, dass dieser
+„mandatsverantwortlicher Partner der Kanzlei“ gewesen ist, was das BeschwGer. im
+Rahmen der ihm vorbehaltenen freien Würdigung der anwaltlichen Versicherung, auch
+ohne dies besonders zu erwähnen, dahin verstehen durfte, dass deren Inhalt auf
+eigenen Wahrnehmungen von den Tätigkeiten des Rechtsanwalts G und des
+Patentanwalts H beruht.
+132. Die Rechtsbeschwerde rügt weiterhin, das BeschwGer. habe das Vorbringen der
+Streithelferin zu 3 zu den angeblich in ihrem Auftrag erfolgten anwaltlichen Tätigkeiten
+im Nichtzulassungsbeschwerdeverfahren zur Grundlage seiner Entscheidung
+gemacht, ohne dieses kritisch gewürdigt zu haben. Damit kann sie nicht durchdringen.
+14a) Die Rechtsbeschwerde führt zur Begründung aus, der Vortrag der Streithelferin zu
+3 habe sich in allgemeinen und vagen Umschreibungen erschöpft und bis auf die
+Benennung der für sie tätigen Anwälte keinerlei konkrete Angaben enthalten, zu
+welchen Zeiten zu welchen konkreten Fragen welche konkreten Tätigkeiten ausgeführt
+worden seien.
+15b) Im formalisierten Kostenfestsetzungsverfahren gehen die Anforderungen an die
+Substanziierungslast des Erstattungsgläubigers grundsätzlich nicht über die im
+Zivilprozess geltenden Grundsätze hinaus (Zöller/Herget, ZPO, 32. Aufl. 2018, §§ 103,
+104 Rn. 21 Darlegung), wonach eine Partei ihrer Darlegungslast genügt, wenn sie
+Tatsachen vorträgt, die in Verbindung mit einem Rechtssatz geeignet sind, das geltend
+gemachte Recht als in ihrer Person entstanden erscheinen zu lassen (stRspr, etwa
+die Streithelferin zu 3 dargelegt hat, dass ihr eine Verfahrensgebühr nach Nr. 3403 VV-
+RVG für Einzeltätigkeiten im Nichtzulassungsbeschwerdeverfahren ihrer
+zweitinstanzlichen Prozessbevollmächtigten sowie des mitwirkenden Patentanwalts
+entstanden ist.
+16aa) Bei einer Tätigkeit des zweitinstanzlichen Prozessbevollmächtigten nach
+Zugang des Berufungsurteils ist danach zu unterscheiden, ob die Tätigkeit noch zum
+Berufungsverfahren gehört und daher mit der Verfahrensgebühr nach Nr. 3200 VV-RVG
+abgegolten ist oder eine sonstige Einzeltätigkeit ist, die eine gesonderte
+Verfahrensgebühr nach Nr. 3403 VV-RVG auslöst. Während die bloße Entgegennahme
+der Nichtzulassungsbeschwerde und ihre Mitteilung an den Auftraggeber, die
+Übermittlung der Bitte, mit der Bestellung eines beim BGH zugelassenen
+Prozessbevollmächtigten noch zu warten, die Prüfung des fristgerechten Eingangs
+eines gegnerischen Rechtsmittels, die Besprechung des Berufungsurteils mit dem
+Auftraggeber und die Belehrung über das zulässige Rechtsmittel noch dem
+Berufungsverfahren zuzuordnen und daher von der Verfahrensgebühr nach Nr. 3200
+RR 2017, 640 Rn. 4 f.), kann eine eine Gebühr nach Nr. 3403 VV-RVG auslösende
+sonstige Einzeltätigkeit vorliegen, wenn ein beim BGH nicht zugelassener
+Rechtsanwalt den Auftrag erhält, die Rücknahme der Nichtzulassungsbeschwerde
+Entscheidung berät, ob dieser sich der vonseiten des Rechtsbeschwerdegegners
+5). Eine Gebühr nach Nr. 3403 VV-RVG fällt auch an, wenn ein beim BGH nicht
+zugelassener Rechtsanwalt, wie insbesondere der zweitinstanzliche
+Prozessbevollmächtigte, im Auftrag des Rechtsbeschwerdegegners die
+Erfolgsaussichten der Nichtzulassungsbeschwerde prüft und sich sachlich damit
+148295). In Patentstreitsachen kann darüber hinaus eine weitere Gebühr nach Nr. 3403
+VV-RVG anfallen, wenn ein Patentanwalt an der Prüfung der Erfolgsaussichten und der
+sachlichen Auseinandersetzung mit der Nichtzulassungsbeschwerde im Auftrag des
+Beschwerdegegners mitwirkt (§ 143 III PatG iVm § 13 RVG). Das gilt auch dann, wenn
+in einer Patentstreitsache ein beim BGH nicht zugelassener Rechtsanwalt und ein
+mitwirkender Patentanwalt im Auftrag eines Streithelfers des Beschwerdegegners die
+Nichtzulassungsbeschwerdebegründung sachlich prüfen, mit ihrem Mandanten
+erörtern und sich mit den anwaltlichen Vertretern des Beschwerdegegners hinsichtlich
+von diesem im Nichtzulassungsbeschwerdeverfahren einzureichender Schriftsätze
+17bb) Die Rechtsbeschwerde zeigt nicht auf, dass das vom BeschwGer. zugrunde
+gelegte Vorbringen der Streithelferin zu 3 in Verbindung mit den von der
+Rechtsprechung entwickelten Grundsätzen nicht geeignet gewesen ist, eine Tätigkeit
+der Rechts- und Patentanwälte der Streithelferin zu 3 darzutun, die jeweils eine
+Verfahrensgebühr nach Nr. 3403 VV-RVG begründet hat.
+18cc) Entgegen der Meinung der Rechtsbeschwerde lässt die vom BeschwGer. seiner
+Entscheidung zugrunde gelegte Darstellung der Streithelferin zu 3 die Bewertung zu,
+dass deren sachbearbeitende Rechtsanwälte und der mitwirkende Patentanwalt die
+Nichtzulassungsbeschwerdebegründung der Kl. geprüft und sich damit sachlich
+auseinandergesetzt haben. Das BeschwGer. hat insoweit berücksichtigt, dass nach
+dem Vorbringen der Streithelferin zu 3 ihre zweitinstanzlichen Prozessvertreter sowie
+der mitwirkende Patentanwalt nach entsprechender Auftragserteilung Schriftsätze der Kl. im
+Nichtzulassungsverfahren geprüft und mit ihr erörtert, Empfehlungen für die weitere
+Vorgehensweise für sie ausgearbeitet und mit ihr bzw. ihrer Muttergesellschaft
+besprochen sowie mit den anwaltlichen Vertretern der Bekl. im Hinblick auf die von
+diesen im Nichtzulassungsbeschwerdeverfahren einzureichenden Schriftsätze
+abgestimmt haben.
+19dd) Es ist auch nicht zu beanstanden, dass das BeschwGer. das Vorbringen der
+Streithelferin zu 3 aufgrund der vorgelegten anwaltlichen Versicherungen ihres
+rechtsanwaltlichen Vertreters als glaubhaft gemacht angesehen hat. Einer
+zusätzlichen Vorlage schriftlicher Unterlagen ihrer anwaltlichen Vertreter zu deren
+Tätigwerden im Nichtzulassungsbeschwerdeverfahren bedurfte es insoweit nicht.
+20ee) Einer Zuarbeit der Anwälte der Streithelferin zu 3 aufseiten der Bekl. im
+Nichtzulassungsbeschwerdeverfahren steht auch das dortige Vorbringen der Bekl.
+nicht entgegen.
+213. Die Kl. hat der Streithelferin zu 3 die für das Tätigwerden ihrer erst- und
+zweitinstanzlichen Prozessvertreter sowie des mitwirkenden Patentanwalts
+angefallenen Gebühren nach Nr. 3403 VV-RVG sowie jeweils die Auslagenpauschale
+nach Nr. 7002 VV-RVG zu erstatten.
+22Der Kostenerstattungsanspruch nach § 91 I 1 ZPO setzt voraus, dass die
+angefallenen Kosten zur zweckentsprechenden Rechtsverfolgung oder
+Rechtsverteidigung notwendig sind. Zweckentsprechend ist eine Maßnahme, die eine
+verständige Prozesspartei bei der Führung des Rechtsstreits in dieser Lage als
+sachdienlich ansehen musste. Notwendig sind dann alle Kosten, die durch die
+9). Erstattungsfähig ist danach auch eine Verfahrensgebühr nach Nr. 3403 VV-RVG, die
+wie im vorliegenden Fall dadurch entstanden ist, dass ein beim BGH nicht zugelassener
+Rechtsanwalt im Auftrag eines Streithelfers des Beschwerdegegners die
+Nichtzulassungsbeschwerdebegründung inhaltlich geprüft, mit seinem Mandanten
+erörtert und sich mit den anwaltlichen Vertretern des Beschwerdegegners hinsichtlich
+von diesem im Nichtzulassungsbeschwerdeverfahren einzureichender Schriftsätze
+abgestimmt hat und sich – im Hinblick auf den Grundsatz der sparsamen
+Prozessführung – kein beim BGH zugelassener Rechtsanwalt für den Streithelfer
+Handelt es sich um eine Patentstreitsache, ist darüber hinaus gem. § 143 III PatG eine
+weitere Gebühr nach Nr. 3403 VV-RVG erstattungsfähig, die dem Streithelfer des Bf.
+durch die Mitwirkung eines Patentanwalts an der inhaltlichen Prüfung der
+Nichtzulassungsbeschwerdebegründung, der Erörterung mit dem Streithelfer und der
+Abstimmung mit den Anwälten des Beschwerdegegners entstanden ist (vgl. BGH,
+NJW-RR 2003, 913 = GRUR 2003, 639 zur Erstattung einer entstandenen
+Patentanwaltsgebühr in einer Kennzeichenstreitsache nach § 140 III MarkenG).
+Anmerkung der Redaktion
+S. hierzu die Praxishinweise in NJW-Spezial 2019, 571 und von Kendziur, GRUR-Prax
+2019, 365. – S. zur Entscheidung im Parallelverfahren BGH, Beschl. v. 29.4.2019 – X
+2019, 994.

@@ -1,0 +1,437 @@
+Insolvenz
+* Übergegangener Ersatzanspruch wegen Unterhaltspflichtverletzung und
+Insolvenz
+InsO § 302 Nr. 1; ZPO §§ 256, 253 II Nr. 2; BGB §§ 197 I Nr. 3, 213, 823 II; StGB § 170; FamFG § 112 Nr. 1
+1. Hat der Anspruch aus vorsätzlich begangener unerlaubter Handlung einen
+anderen Streitgegenstand als der titulierte Anspruch, kann der Schuldner
+gegenüber dem Feststellungsbegehren des Gläubigers einwenden, der Anspruch
+aus vorsätzlich begangener unerlaubter Handlung sei verjährt (Klarstellung von
+2. Rechtskräftig festgestellt sind alle materiell-rechtlichen Ansprüche, die vom
+Streitgegenstand umfasst sind, über den mit dem Titel entschieden wurde.
+3. Der Anspruch aus vorsätzlicher Verletzung der Unterhaltspflicht hat einen
+anderen Streitgegenstand als ein gesetzlicher Unterhaltsanspruch.
+4. Ansprüche auf Unterhalt und auf Schadensersatz wegen vorsätzlicher
+Verletzung der Unterhaltspflicht kann der Gläubiger gleichzeitig nebeneinander
+geltend machen; die Hemmung, die Ablaufhemmung und der erneute Beginn der
+Verjährung des einen Anspruchs erstreckt sich nicht auf den anderen Anspruch.
+5. Der Schadensersatzanspruch aus einer vorsätzlichen Verletzung der
+Unterhaltspflicht ist eine Familienstreitsache.
+BGH, Beschluss vom 3.3.2016 – IX ZB 33/14
+NJW-Übersicht
+NJW-Übersicht
+Rn.
+Zulässigkeit der Rechtsbeschwerde
+
+Vorliegen einer Familienstreitsache
+12 ff.
+Unbegründetheit der Rechtsbeschwerde
+16 ff.
+Frage des Bestehens eines Anspruchs aus unerlaubter Handlung
+18−20
+Verjährung möglicher Ansprüche der Ast. aus § 823 II BGB iVm § 170 b I StGB aF
+21−44
+Prüfung des Verjährungseinwands im Feststellungsprozess
+22−23
+Verjährung innerhalb von drei Jahren, keine Verlängerung auf 30 Jahre
+24−32
+– Streitgegenstand der von der Ast. erwirkten Titel: Leistung aus Unterhaltsverhältnis
+25−28
+– Verschiedenheit der Streitgegenstände eines Unterhaltsanspruchs und eines
+deliktischen Anspruchs aus Unterhaltspflichtverletzung
+29−32
+Keine Hemmung der Verjährung durch Anmeldung der Ansprüche zur Tabelle wegen
+bereits eingetretener Verjährung
+33−44
+– Verjährung des Anspruchs innerhalb von drei Jahren ab Kenntniserlangung,
+Verjährungseintritt spätestens Ende 2002
+34−37
+– Keine Hemmung der Verjährung durch Erlass eines Mahnbescheids, Klageerhebung
+und Strafverfahren
+
+– Keine Hemmung der Verjährung aus anderen Gründen, kein Neubeginn
+39−44
+Zum Sachverhalt
+Der Ag. war mit I verheiratet. Aus der Ehe gingen die 1987 und 1989 geborenen
+Kinder P und S hervor. Im Februar 1994 trennten sich die Eheleute. Nachdem der
+Ag. keinen Unterhalt zahlte, erhielten seine Ehefrau und seine Kinder zwischen dem
+1.6.1994 und dem 31.7.1996 von der Ast. Leistungen nach dem
+Bundessozialhilfegesetz.
+Die Ast., die dem Ag. mit Schreiben vom 1.6.1994 den Anspruchsübergang gem. § 91 III BSHG angezeigt hatte, machte Unterhaltsansprüche aus übergegangenem
+Recht gerichtlich geltend. Auf ihren Antrag erließ das AG Hagen am 3.2.1995 einen
+Vollstreckungsbescheid gegen den Ag. Danach war er verpflichtet, der Ast. für den
+Zeitraum vom 1.6.1994 bis zum 30.11.1994 rückständigen Unterhalt iHv 4308 DM
+zu zahlen. Der Ag. legte hiergegen Einspruch ein; die Ast. erweiterte daraufhin ihre
+Klage für Forderungen aus Unterhaltsansprüchen ab 1.12.1994. Mit Urteil vom
+7.9.1995 hielt das AG – FamG – Köln den Vollstreckungsbescheid aufrecht und
+verurteilte den Ag. zudem dazu, rückständigen Unterhalt für die Zeit vom 1.12.1994
+bis zum 31.3.1995 in Höhe von insgesamt 6648 DM sowie ab 1.4.1995 laufenden
+Unterhalt für die Dauer des Sozialhilfebezugs für die Ehefrau und die Kinder zu
+zahlen.
+Der Ag. zahlte keinen Unterhalt. Deshalb kam es zu einem Strafverfahren wegen
+einer Verletzung seiner Unterhaltspflicht gegenüber seinen beiden Kindern. Das LG
+Köln sprach gegen den Ag. mit Urteil vom 14.7.1999 eine Verwarnung wegen
+vorsätzlicher Verletzung der Unterhaltspflicht gem. § 170 b StGB aF aus und behielt
+sich eine Verurteilung zu einer Geldstrafe von 180 Tagessätzen zu je 60 DM vor. Es
+nahm dabei an, dass der Ag. im Zeitraum von Juni 1995 bis Januar 1999 seine
+Unterhaltspflicht gegenüber seinen Kindern verletzt habe.
+Das AG Köln eröffnete am 20.1.2011 das Insolvenzverfahren über das Vermögen
+des Ag. Die Ast. meldete eine Forderung iHv 14.445,97 Euro für
+Unterhaltsrückstände aus der Zeit vom 1.6.1994 bis zum 31.7.1996 zur
+Insolvenztabelle an und gab dabei an, dass es sich um eine Forderung aus
+vorsätzlicher unerlaubter Handlung handele. Die Forderung wurde in voller Höhe zur
+Tabelle festgestellt; der Ag. widersprach jedoch der Eigenschaft als Forderung aus
+unerlaubter Handlung.
+Das AG – FamG – Wermelskirchen (Beschl. v. 6.6.2013 – 5 F 170/12) hat den
+Widerspruch des Ag. gegen die Feststellung als Forderung aus unerlaubter
+Handlung als unbegründet angesehen. Auf die Beschwerde des Ag. hat das OLG
+Köln (NZI 2014, 272) den Antrag der Ast. abgewiesen. Die zugelassene
+Rechtsbeschwerde der Ast. hatte keinen Erfolg.
+Aus den Gründen
+7– 9II. (…) 1. Das BeschwGer. meint, der Feststellungsantrag der Ast. sei
+unbegründet, weil die Forderung aus vorsätzlich unerlaubter Handlung verjährt sei.
+Die von der Ast. erlangten Titel hätten nicht zur Hemmung bzw. zum Neubeginn der
+Verjährung geführt. (Es folgt eine Zusammenfassung der Ausführungen des OLG in
+102. Das hält rechtlicher Überprüfung stand.
+11a) Die Rechtsbeschwerde ist zulässig. Insbesondere hat die Ast. die
+Rechtsbeschwerde form- und fristgerecht eingelegt und begründet. Zwar ist die Ast.
+nicht durch einen beim BGH zugelassenen Rechtsanwalt vertreten. Da das
+BeschwGer. die Sache als Familienstreitsache gem. § 112 Nr. 1 FamFG behandelt
+hat, ergibt sich jedoch schon aus dem Grundsatz der Meistbegünstigung, dass § 114 III FamFG für die Zulässigkeit des Rechtsmittels einschlägig ist. Danach kann
+sich die Ast. in Familienstreitsachen durch eigene Beschäftigte mit der Befähigung
+zum Richteramt auch vor dem BGH vertreten lassen. Diese Voraussetzungen sind
+im Streitfall erfüllt.
+12b) Es ist durch – streitigen – Beschluss zu entscheiden, weil sich das weitere
+Verfahren nach §§ 113 ff. FamFG richtet und die Ast. auch in der mündlichen
+Verhandlung vor dem BGH wirksam vertreten war. Es handelt sich um eine
+Familienstreitsache.
+13Maßgeblich ist dafür nicht die Behandlung durch das BeschwGer., sondern ob die
+materiellen Voraussetzungen für eine Familienstreitsache vorliegen. Der
+Schutzgedanke der Meistbegünstigung gebietet es nicht, dass das Rechtsmittel auf
+dem vom vorinstanzlichen Gericht eingeschlagenen falschen Weg weitergehen
+müsste; vielmehr hat das RechtsmittelGer. das Verfahren so weiter zu betreiben,
+wie dies im Fall einer formell richtigen Entscheidung durch die Vorinstanz und dem
+danach gegebenen Rechtsmittel geschehen wäre (BGH, NJW-RR 2016, 67 = FamRZ
+2015, 2043 Rn. 22). Im Streitfall erweist sich die Behandlung als Familienstreitsache
+durch das BeschwGer. allerdings als richtig.
+14Familienstreitsachen sind gem. § 112 Nr. 1 FamFG Unterhaltssachen. Nach § 231 I FamFG zählen zu Unterhaltssachen alle Verfahren, welche die durch
+Verwandtschaft oder durch Ehe begründete gesetzliche Unterhaltspflicht betreffen.
+Hierzu gehören auch Schadensersatzansprüche, die darauf gestützt werden, dass
+die gesetzliche Unterhaltspflicht nicht erfüllt worden sei, sofern die
+Schadensersatzansprüche ihre Wurzel im unterhaltsrechtlichen Verhältnis haben
+Feststellungsbegehren, dass eine Verbindlichkeit auf einer vorsätzlich begangenen
+unerlaubten Handlung gem. § 823 II BGB iVm § 170 StGB beruht (KG, NJW-RR 2012,
+23784; OLG Celle, NJOZ 2012, 1386 = FamRZ 2012, 1838 [1839]; OLG Hamm,
+6. Aufl., § 231 FamFG Rn. 11; vgl. auch OLG Hamm, NJW-RR 2012, 967 = FamRZ
+Denn auch diese Ansprüche hängen entscheidend davon ab, ob der Schuldner eine
+gesetzliche Unterhaltspflicht verletzt hat. § 231 I Nr. 1 und 2 FamFG stellt darauf ab,
+ob die „Verfahren die (…) gesetzliche Unterhaltspflicht betreffen“. Maßgeblich ist,
+ob die Pflichtverletzung auf das Unterhaltsverhältnis zurück
+BGH: * Übergegangener Ersatzanspruch wegen
+zuführen ist (Maier in Johannsen/Henrich, § 231 FamFG Rn. 11). Ist dies der Fall,
+macht es keinen Unterschied, ob die Parteien in persönlicher Hinsicht dem Bereich
+zuzurechnen sind, der dem FamG grundsätzlich zugewiesen ist, oder – wie im
+Streitfall – als Sozialhilfeträger Ansprüche aus eigenem Recht geltend machen.
+Entscheidend ist, ob der geltend gemachte Schadensersatzanspruch darauf beruht,
+dass eine gesetzliche Unterhaltspflicht verletzt worden ist (vgl. BGHZ 71, 264
+aber das Gesetz dem Familienrichter zugewiesen, um den Gedanken einer
+Zuständigkeitskonzentration für alle ehe- und familienbezogenen Verfahren zu
+verwirklichen und den Parteien einen Richter mit der als notwendig erachteten
+1531).
+15Auf das Verfahren sind daher nicht die Bestimmungen über das
+Revisionsverfahren nach §§ 545 ff. ZPO anzuwenden. Mithin konnte sich die Ast.
+gem. § 114 III FamFG auch in der mündlichen Verhandlung vor dem BGH durch
+eigene Angestellte mit der Befähigung zum Richteramt vertreten lassen. Eine
+Säumnisentscheidung nach §§ 74 IV, 113 I FamFG iVm § 330 ZPO scheidet daher
+aus.
+16c) Die Rechtsbeschwerde hat jedoch in der Sache keinen Erfolg. Das
+Feststellungsbegehren ist unbegründet, weil – wie der Ag. mit Recht einwendet –
+mögliche Ansprüche der Ast. aus vorsätzlich begangener unerlaubter Handlung
+hinsichtlich der Unterhaltsrückstände aus der Zeit vom 1.6.1994 bis zum 31.7.1996
+verjährt sind.
+17aa) Zutreffend hat das BeschwGer. den nur gegen die Feststellung, dass die
+Forderung aus einer vorsätzlich begangenen unerlaubten Handlung stamme,
+gerichteten Widerspruch des Schuldners als zulässig angesehen (BGH, NJW-RR
+2007, 991 = ZIP 2007, 541 Rn. 10; NZI 2013, 1025 = ZIP 2013, 2265 Rn. 12).
+18bb) Das BeschwGer. nimmt weiter zutreffend an, dass das
+Feststellungsbegehren nur Erfolg hat, wenn und soweit der Ast. ein durchsetzbarer
+– insbesondere unverjährter – materiell-rechtlicher Anspruch aus einer vorsätzlich
+begangenen unerlaubten Handlung zusteht. Hierzu genügt es nicht, dass der Ag.
+der zur Tabelle angemeldeten Forderung als solcher nicht widersprochen hat.
+19Ob die von der Ast. verfolgte Forderung von der Restschuldbefreiung
+ausgenommen ist, richtet sich nach § 302 Nr. 1 InsO in der bis zum 30.6.2014
+geltenden Fassung (fortan: InsO aF), weil das Insolvenzverfahren vor dem 1.7.2014
+eröffnet worden ist (Art. 103 h EGInsO). Es kann mithin dahinstehen, ob der Ast.
+Ansprüche aus rückständigem gesetzlichen Unterhalt zustehen, den der Schuldner
+vorsätzlich pflichtwidrig nicht gewährt hat (§ 302 Nr. 1 InsO in der ab 1.7.2014
+geltenden Fassung). Es kommt im Streitfall allein darauf an, ob ein Anspruch aus
+einer vorsätzlich begangenen unerlaubten Handlung besteht.
+20Gegenstand der Feststellungsklage ist bei einem relativen Recht die jeweilige
+Forderung. § 302 Nr. 1 InsO aF stellt darauf ab, ob ein materiell-rechtlicher Anspruch
+aus einer vorsätzlich begangenen unerlaubten Handlung besteht. Nur diese
+Ansprüche werden gem. § 302 Nr. 1 InsO aF von der Restschuldbefreiung
+ausgenommen. Hingegen kommt es nicht darauf an, ob dem Gläubiger (auch) ein
+anderer, wirtschaftlich auf das Gleiche gerichteter Anspruch zusteht. Entscheidend
+ist nicht, ob der Gläubiger den zur Tabelle festgestellten Anspruch hat, sondern ob
+und in welchem Umfang der Gläubiger die zur Tabelle angemeldete Forderung auch
+aufgrund eines Anspruchs aus einer vorsätzlich begangenen unerlaubten Handlung
+des Schuldners verlangen kann. Mithin ist es unerheblich, dass
+Unterhaltsansprüche aus den Jahren 1994 bis 1996 gem. § 91 BSHG auf die Ast.
+übergegangen und zur Tabelle festgestellt sind.
+21cc) Die im Streitfall allein in Betracht kommenden Ansprüche der Ast. aus § 823 II
+BGB iVm § 170 b I StGB aF (mit Wirkung ab 1.4.1998 wörtlich identisch § 170 I
+StGB) sind jedoch – wie das BeschwGer. im Ergebnis zu Recht annimmt – verjährt.
+Ihre Verjährung richtete sich ursprünglich nach § 852 BGB aF (Art. 229 § 6 EGBGB).
+Die Verjährung war bereits abgelaufen, als die Ast. die Ansprüche zur
+Insolvenztabelle anmeldete, so dass keine Verjährungshemmung nach § 204 I Nr.
+10 BGB eintrat.
+22(1) Der Verjährungseinwand ist auch unter den Umständen des Streitfalls im
+Feststellungsprozess zu prüfen. Die Ast. beruft sich zu Unrecht auf die
+10.10.2013 (NZI 2013, 1025 = ZIP 2013, 2265). Soweit in diesen Entscheidungen
+von einem Feststellungsanspruch gesprochen wird, meint dies das prozessuale
+Feststellungsbegehren. Es genügt für den Erfolg eines solchen
+Feststellungsbegehrens jedoch nicht, dass dem Ast. ein unverjährter Anspruch auf
+eine Leistung zusteht, vielmehr muss gerade der Anspruch aus einer vorsätzlich
+begangenen unerlaubten Handlung durchsetzbar und nicht verjährt sein (vgl. BGHZ
+23Begehrt eine Partei gem. § 256 ZPO die Feststellung, es handele sich bei einer
+Forderung um eine Verbindlichkeit aus einer vorsätzlich begangenen unerlaubten
+Handlung, ist Streitgegenstand die Frage, ob ein entsprechendes Rechtsverhältnis
+zwischen Gläubiger und Schuldner besteht (vgl. Zöller/Vollkommer, ZPO, 31. Aufl.,
+Einl Rn. 77, § 322 Rn. 9). Das Gericht muss dann klären, ob dem Gläubiger ein
+durchsetzbarer – insbesondere unverjährter – materiell-rechtlicher Anspruch aus
+einer vorsätzlich begangenen unerlaubten Handlung zusteht. Es kann sich nicht
+darauf beschränken zu prüfen, ob der Schuldner im Hinblick auf die geltend
+gemachte Forderung vorsätzlich gehandelt hat. Soweit der Senat entschieden hat,
+dass ein „Feststellungsanspruch“ nicht verjährt, bezieht sich dies allein darauf, dass
+– solange der materiell-rechtliche Anspruch nicht verjährt ist – auch die
+Feststellung verlangt werden kann, dass es sich um einen Anspruch aus einer
+vorsätzlich begangenen unerlaubten Handlung handelt. Denn die Klage auf
+Feststellung, dass eine Forderung aus einer vorsätzlich begangenen unerlaubten
+Handlung vorliegt, ist eine Feststellungsklage gem. § 256 ZPO (vgl. BGHZ 152, 166
+erforderlich, dass der Kl. ein rechtliches Interesse an der Feststellung hat und das
+behauptete Rechtsverhältnis in Wirklichkeit besteht. Das Feststellungsinteresse
+ergibt sich bei einem Anspruch aus einer vorsätzlich begangenen unerlaubten
+Handlung aus den erweiterten Vollstreckungsmöglichkeiten des § 850 f II ZPO oder
+§ 302 Nr. 1 InsO. Soll – wie im Streitfall – festgestellt werden, dass eine
+Verbindlichkeit aus einer vorsätzlich begangenen unerlaubten Handlung herrührt, ist
+diese Klage nur begründet, wenn der Anspruch (weiter) durchsetzbar, insbesondere
+also nicht verjährt ist.
+24(2) Die regelmäßige Verjährungsfrist für Ansprüche aus vorsätzlich begangener
+unerlaubter Handlung beträgt drei Jahre (§ 852 I BGB aF; § 195 BGB nF). Eine
+Verlängerung der Verjährungsfrist auf 30 Jahre gem. § 197 I Nr. 3 BGB (ebenso § 218 I 1 BGB aF) ist nicht erfolgt, weil etwaige Ansprüche der Ast. aus einer
+vorsätzlichen Verletzung der Unterhaltspflicht nicht rechtskräftig festgestellt sind.
+Weder
+BGH: * Übergegangener Ersatzanspruch wegen
+der Vollstreckungsbescheid des AG Hagen vom 3.2.1995 noch das Urteil des AG
+Köln vom 7.9.1995 erstrecken sich auf diese Ansprüche.
+25(a) Für § 197 I Nr. 3 BGB genügt jedes die Leistungspflicht ganz allgemein
+feststellende Urteil (BGH, NJW-RR 1989, 215 = ZIP 1988, 1570 [1571]). Soweit eine
+zusprechende Entscheidung über den Streitgegenstand ergeht, sind die vom
+Streitgegenstand umfassten Ansprüche rechtskräftig festgestellt und verjähren in
+30 Jahren. Die Hemmung der Verjährung durch Klageerhebung erfasst alle
+materiell-rechtlichen Ansprüche, die zum Streitgegenstand gehören (BGHZ 198, 294
+2411 = WM 2015, 1322 Rn. 10 f.). Dies gilt gleichermaßen für die Verjährung der mit
+dem Urteilsausspruch rechtskräftig festgestellten Ansprüche iSd § 197 I Nr. 3 BGB.
+Rn. 11). Die Grenzen der Verjährungshemmung sind mit denen der Rechtskraft
+3 BGB abstellt, erfasst mithin den Streitgegenstand insgesamt.
+26(b) Streitgegenstand der von der Ast. erwirkten Titel sind jedoch ausschließlich
+(wiederkehrende) Leistungen aus einem Unterhaltsverhältnis. Ein Anspruch aus § 823 II BGB iVm § 170 b I StGB aF hat einen anderen Streitgegenstand als der
+Unterhaltsanspruch aus § 1601 BGB oder § 1361 BGB.
+27Der Streitgegenstand wird bestimmt durch das Rechtsschutzbegehren (Antrag),
+in dem sich die vom Kl. in Anspruch genommene Rechtsfolge konkretisiert, und den
+Lebenssachverhalt (Anspruchsgrund), aus dem der Kl. die begehrte Rechtsfolge
+herleitet (§ 253 II Nr. 2 ZPO). Zum Anspruchsgrund sind alle Tatsachen zu rechnen,
+die bei einer natürlichen, vom Standpunkt der Parteien ausgehenden und den
+Sachverhalt seinem Wesen nach erfassenden Betrachtung zu dem zur
+Entscheidung gestellten Tatsachenkomplex gehören, den eine Partei zur Stützung
+ihres Rechtsschutzbegehrens vorträgt. Vom Streitgegenstand werden damit alle
+materiell-rechtlichen Ansprüche erfasst, die sich im Rahmen des gestellten Antrags
+aus dem zur Entscheidung unterbreiteten Lebenssachverhalt herleiten lassen. Das
+gilt unabhängig davon, ob die einzelnen Tatsachen des Lebenssachverhalts von den
+28Auch wenn Ansprüche wirtschaftlich auf das Gleiche gerichtet sind und der Kl.
+die Leistung nur einmal verlangen kann, können die verschiedenen materiellrechtlichen Ansprüche unterschiedliche Streitgegenstände aufweisen; dies kommt
+insbesondere dann in Betracht, wenn die Ansprüche sowohl in ihren materiellrechtlichen Voraussetzungen als auch in ihren Folgen verschieden sind (vgl. BGHZ
+nicht abgedr.). Entscheidend ist, ob sich die dem jeweiligen Anspruch zu Grunde
+liegenden Lebenssachverhalte in wesentlichen Punkten unterscheiden oder ob es
+sich nur um marginale Abweichungen handelt, die bei natürlicher Betrachtung nach
+der Verkehrsauffassung keine Bedeutung haben. Unterschiedliche
+Streitgegenstände weisen daher etwa die auf einem Vergleich beruhende
+Zahlungspflicht und die ursprüngliche Schadensersatz- oder
+Ebenso handelt es sich bei einem abstrakten Saldoanerkenntnis im Verhältnis zur
+kausalen Saldoforderung um einen anderen Streitgegenstand (BGHZ 200, 121 =
+nachbarrechtliche Ausgleichsanspruch analog § 906 II 2 BGB stellen
+unterschiedliche Streitgegenstände dar (vgl. BGH, Urt. v. 16.7.2010 – V ZR 217/09,
+Vertragserfüllung gestützte Klage hat einen anderen Streitgegenstand als der
+[1211] = NZG 2001, 318; vgl. auch zum Schaden beim Eingehungsbetrug BGH, NJW
+2012, 601 = WM 2012, 138 Rn. 9 f.). Gleiches gilt im Verhältnis einer Klage auf
+Maklerprovision zum Schadensersatzanspruch wegen entgangener
+Maklerprovision (BGH, NJW-RR 1996, 1276 [1277 unter 5]).
+29(c) Nach diesen Maßstäben handelt es sich im Verhältnis zwischen
+Unterhaltsanspruch und deliktischem Anspruch aus einer vorsätzlichen Verletzung
+der Unterhaltspflicht um zwei verschiedene Streitgegenstände. Diese Ansprüche
+sind sowohl in ihren Voraussetzungen als auch in ihren Folgen verschieden und
+beruhen auf in wesentlichen Punkten unterschiedlichen Lebenssachverhalten. Die
+Ast. hat die Titel gegen den Ag. aus den nach § 91 I 1 BSHG in der bis zum 31.7.1996
+geltenden Fassung auf sie übergegangenen Unterhaltsansprüchen der Kinder und
+der Ehefrau des Ag. erwirkt.
+30Streitgegenstand eines Unterhaltsprozesses ist das Begehren auf – im
+Allgemeinen – wiederkehrende Leistungen aus einem Unterhaltsverhältnis.
+Demgegenüber ist Kern des Anspruchs aus § 823 II BGB iVm § 170 StGB der aus
+einem bestimmten Verhalten entstandene Schaden. Während für die Ansprüche auf
+Unterhalt neben dem die Unterhaltspflicht begründenden
+Verwandtschaftsverhältnis Bedürftigkeit des Unterhaltsgläubigers und
+Leistungsfähigkeit des Unterhaltsschuldners entscheidend sind, setzt der
+Schadensersatzanspruch aus § 823 II BGB iVm § 170 I StGB (oder – insoweit
+gleichlautend – § 170 b I StGB aF) voraus, dass der Unterhaltsschuldner einen
+bestehenden Unterhaltsanspruch nicht erfüllt und dies den Lebensbedarf des
+Unterhaltsberechtigten gefährdet oder diesen ohne die Hilfe anderer gefährdete.
+Weiter muss der Schuldner hierbei bedingt vorsätzlich im Hinblick auf
+Unterhaltspflicht, Nichterfüllung und Gefährdung des Lebensbedarfs handeln und
+dem Gläubiger hieraus ein Schaden entstanden sein. Erst Nichterfüllung,
+Gefährdung des Lebensbedarfs, hierauf bezogener Vorsatz und Schadenseintritt
+charakterisieren den Lebenssachverhalt dieses Anspruchs. Auch in den Folgen
+unterscheiden sich die Ansprüche deutlich. Der Unterhaltsanspruch besteht nur –
+und soweit – wie der Unterhaltsschuldner bedürftig ist und kann im Allgemeinen
+erst für die Zukunft verlangt werden (vgl. § 1613 I BGB), dafür aber typischerweise
+regelmäßig wiederkehrend. Der Anspruch aus § 823 II BGB iVm § 170 I StGB
+erstreckt sich über den Unterhaltsschaden hinaus auf alle übrigen adäquat kausal
+verursachten Vermögensschäden, greift jedoch nur bei einer Gefährdung des
+Lebensbedarfs und ist zudem beschränkt auf Schäden aus in der Vergangenheit
+nicht erfüllten Unterhaltsforderungen.
+31Gegenstand der von der Ast. erwirkten Vollstreckungstitel war nur ein
+Unterhaltsanspruch aus übergegangenem Recht. Die Ast. hat sowohl im
+Vollstreckungsbescheid als
+BGH: * Übergegangener Ersatzanspruch wegen
+auch im Unterhaltsurteil ausdrücklich Unterhaltsansprüche der Kinder und der
+Ehefrau des Ag. geltend gemacht. Dass zugleich über Schadensersatzansprüche
+aus § 823 II BGB iVm § 170 b StGB aF entschieden wurde, ist nicht ersichtlich.
+Weder dem Urteil des AG – FamG – Köln vom 7.9.1995 noch dem Sachvortrag der
+Ast. lässt sich entnehmen, dass die Ast. mit den Vollstreckungstiteln auch
+Schadensersatzansprüche aus eigenem oder übergegangenem Recht verfolgen
+wollte. Denn der Kl. bestimmt durch seinen Sachvortrag den Streitgegenstand einer
+Klage. Soweit der Ast. Schadensersatzansprüche nach § 823 II BGB iVm § 170 StGB
+mwN), waren diese schon deshalb nicht Streitgegenstand des
+Vollstreckungsbescheids und des Unterhaltsurteils, weil die Ast. jedenfalls nur
+fremde Ansprüche gerichtlich verfolgt hat. Bei der Frage, ob eine Klage auf eigene
+oder abgetretene Ansprüche gestützt wird, handelt es sich nicht um verschiedene
+rechtliche Begründungen desselben prozessualen Anspruchs, sondern um
+mwN).
+32(d) Mithin kann dahinstehen, ob die Ast. zum Zeitpunkt der Unterhaltsprozesse
+etwaige Schadensersatzansprüche der Ehefrau und Kinder gegen den Ag. nach § 90 I BSHG in der Fassung vom 23.3.1994 auf sich übergeleitet hat oder ob bereits
+der gesetzliche Forderungsübergang nach § 91 BSHG in der bis 31.7.1996
+geltenden Fassung Schadensersatzansprüche der Ehefrau und der Kinder nach § 823 II BGB iVm § 170 StGB erfasst. Ebenso kann offenbleiben, ob insoweit nicht ein
+gesetzlicher Forderungsübergang nach § 116 SGB X in Betracht kommt. Denn diese
+Ansprüche waren weder Streitgegenstand des Vollstreckungsbescheids vom
+3.2.1995 noch des Unterhaltsurteils vom 7.9.1995.
+33(3) Die Anmeldung der Ansprüche zur Tabelle am 11.4.2011 war nicht geeignet,
+die Verjährung des Anspruchs aus einer vorsätzlich begangenen unerlaubten
+Handlung gem. § 204 I Nr. 10 BGB zu hemmen. Ein etwaiger Anspruch aus § 823 II
+BGB iVm § 170 b I StGB aF war zu diesem Zeitpunkt bereits verjährt.
+34(a) Der Anspruch unterlag ursprünglich der Verjährungsfrist des § 852 I BGB aF.
+Danach verjährte der Anspruch auf Ersatz des Schadens in drei Jahren von dem
+Zeitpunkt an, in welchem der Verletzte von dem Schaden und der Person des
+Schädigers Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis in 30 Jahren von
+der Begehung der Handlung an.
+35Rechtsfehlerhaft meint das BerGer. allerdings, dass die Kenntnis schon mit der
+Nichtzahlung des Unterhalts im jeweiligen Monat beginne. Kenntnis von dem
+Schaden und der Person des Ersatzpflichtigen iSd § 852 I BGB aF ist erst vorhanden,
+wenn dem Geschädigten zuzumuten ist, aufgrund der ihm bekannten Tatsachen
+gegen eine bestimmte Person eine Schadensersatzklage, zumindest als
+Feststellungsklage, zu erheben, die bei verständiger Würdigung der ihm bekannten
+anspruchsbegründenden Tatsachen Erfolgsaussicht hat (stRspr, vgl. etwa BGH,
+NJOZ 2008, 2012 = VersR 2008, 129 Rn. 15 mwN). Kenntnis von der Person des
+Ersatzpflichtigen erfordert auch die Kenntnis von Tatsachen, die auf ein
+schuldhaftes Verhalten des Schädigers hinweisen (Palandt/Thomas, BGB, 61. Aufl.,
+§ 852 Rn. 11; Staudinger/Schäfer, BGB, 12. Aufl., § 852 Rn. 70 mwN). Auch insoweit
+genügt, dass der Geschädigte die objektiven Umstände kennt, die ihm die Schlüsse
+auf die subjektive Tatseite erlauben (BGH, NJW-RR 1988, 411 [412 unter II 2 b]). Der
+Verletzte muss bei kritischer Würdigung der für den Schaden ursächlichen
+Handlungen des Schädigers zu der Überzeugung gelangt sein, dieser habe
+Streitfall – nur besteht, wenn der Schuldner vorsätzlich handelt, muss der Gläubiger
+mithin auch Tatsachen kennen, die einen Schluss auf vorsätzliches Handeln
+ermöglichen.
+36Die Verjährung eines Schadensersatzanspruchs wegen vorsätzlich nicht
+erbrachter Unterhaltsleistungen aus § 823 II BGB iVm § 170 StGB beginnt daher
+nicht schon dann, wenn der Gläubiger weiß, dass der Schuldner den monatlichen
+Unterhalt nicht bezahlt. Vielmehr ist auch erforderlich, dass der Gläubiger
+Tatsachen kennt, aus denen eine entsprechende Leistungsfähigkeit des Schuldners
+folgt, weil dies Tatbestandsmerkmal des § 170 StGB ist (iErg übereinstimmend
+Fischer, StGB, 63. Aufl., § 170 Rn. 8 mwN; Lenckner/Bosch in Schönke/Schröder,
+StGB, 29. Aufl., § 170 Rn. 19 mwN). Insbesondere muss der Gläubiger Tatsachen
+kennen, aus denen sich ergibt, dass der Schuldner hinreichende Einkünfte erzielt
+oder – bei ausreichenden Bemühungen – erzielen könnte und dass der Schuldner
+bedingt vorsätzlich handelt. Im Streitfall hat das BeschwGer. zur Kenntnis solcher
+Tatsachen bereits im Jahr 1994 nichts festgestellt. Der – für den Beginn der
+Verjährungsfrist darlegungs- und beweispflichtige – Ag. trägt hierzu nichts vor.
+37Ob die Ast. schon während der ausbleibenden Unterhaltszahlungen in den Jahren
+1994 bis 1996 zu einem bestimmten Zeitpunkt hinsichtlich einzelner
+Unterhaltsraten Tatsachen kannte, die den für eine Feststellungsklage
+erforderlichen Schluss auf eine Leistungsfähigkeit und bedingten Vorsatz des
+Schuldners zuließen, kann jedoch im Streitfall dahinstehen. Eine entsprechende
+Kenntnis der Ast. mag vorgelegen haben, sobald das Unterhaltsurteil vom 7.9.1995
+rechtskräftig geworden ist und der Ag. gleichwohl keinen Unterhalt zahlte.
+Jedenfalls hatte die Ast. Kenntnis des gegen den Ast. eingeleiteten Strafverfahrens
+wegen Verletzung der Unterhaltspflicht und erfuhr noch im Jahr 1999 von der
+strafrechtlichen Verurteilung des Ag. wegen Verletzung seiner Unterhaltspflicht.
+Dies genügt, um die Verjährungsfrist des § 852 BGB aF in Gang zu setzen (vgl. BGH,
+NJW-RR 1992, 282 = WM 1991, 2135). Die dreijährige Verjährungsfrist des § 852 I
+BGB aF lief damit spätestens am 31.12.2002 ab. Die Neuregelung des
+Verjährungsrechts aufgrund des Gesetzes zur Modernisierung des Schuldrechts
+führt zu keiner Verlängerung der Verjährung (Art. 229 § 6 I, III EGBGB).
+38(b) Der Antrag auf Erlass eines Mahnbescheids Ende 1994 und die
+Klageerhebung im Jahr 1995 haben die Verjährung ebenso wenig gehemmt wie das
+gegen den Ag. wegen Verletzung der Unterhaltspflicht geführte Strafverfahren.
+Streitgegenstand der zivilrechtlichen Verfahren war allein der Unterhaltsanspruch;
+dass die Ast. in diesen Verfahren auch einen Sachverhalt zur Entscheidung
+unterbreitet hat, mit dem sie Ansprüche aus § 823 II BGB iVm § 170 b StGB aF
+verfolgte, zeigt sie nicht auf. Es lässt sich auch den Titeln nicht entnehmen. Das
+Strafverfahren hat auf die zivilrechtliche Verjährung keinen Einfluss.
+39(c) Zu Recht hat das BeschwGer. auch eine Hemmung der Verjährung analog §§ 477 III, 639 I BGB aF oder gem. § 213 BGB nF verneint.
+40Es besteht kein Anlass, die Sondervorschriften der §§ 477 III, 639 I BGB aF auf
+das Verhältnis zwischen einem Unterhaltsanspruch und einem
+Schadensersatzanspruch wegen vorsätzlicher Verletzung der Unterhaltspflicht zu
+übertragen. Ein allgemeiner Rechtsgrundsatz, dass bei mehreren alternativ
+gegebenen Ansprüchen die Hemmung der Verjäh
+BGH: * Übergegangener Ersatzanspruch wegen
+rung des einen Anspruchs auch für den anderen Anspruch wirkte, bestand nicht.
+41Auf § 213 BGB nF kommt es nicht an. Die Ast. zeigt nicht auf, dass nach dem
+Inkrafttreten des § 213 BGB nF zum 1.1.2002 ein Tatbestand verwirklicht worden
+ist, der zu einer Hemmung, einer Ablaufhemmung oder einem Neubeginn der
+Verjährung von Schadensersatzansprüchen wegen der vorsätzlichen Verletzung der
+Unterhaltspflicht im Zeitraum von Juni 1994 bis Juli 1996 geführt haben könnte.
+Unabhängig davon ist § 213 BGB nF nicht anwendbar, wenn die Ansprüche
+kumulativ verfolgt werden können (Staudinger/Peters/Jacoby, BGB, Neubearb.
+2014, § 213 Rn. 7). So liegt der Fall bei Ansprüchen auf Unterhalt und
+Schadensersatz wegen Verletzung der Unterhaltspflicht, die der Gläubiger
+gleichzeitig nebeneinander geltend machen kann. § 213 BGB setzt aber voraus,
+Rn. 26; Staudinger/Peters/Jacoby, § 213 Rn. 4, 6).
+42(d) Eine Hemmung der Verjährung nach § 207 I 2 Nr. 2 a BGB (oder § 204 
+BGB aF) kommt nicht in Betracht. Zwar gilt dieser Hemmungstatbestand auch für
+Schadensersatzansprüche von Kindern gegen ihre Eltern. Im Streitfall macht die
+Ast. jedoch Schadensersatzansprüche gem. § 823 II BGB iVm § 170 b I StGB aF aus
+eigenem Recht geltend.
+43Unabhängig davon wäre Verjährung selbst dann eingetreten, wenn die Ast.
+Schadensersatzansprüche der Kinder verfolgen würde. Denn die Hemmung nach § 207 I 2 Nr. 2 a BGB endet, sobald der Anspruch auf einen Dritten übergegangen ist
+offenbleiben, ob der Forderungsübergang nach § 91 I 1 BSHG in der bis zum
+31.7.1996 geltenden Fassung auch Schadensersatzansprüche der Kinder nach § 823 II BGB iVm § 170 b I StGB aF umfasst. Sollten solche Ansprüche bereits mit
+Zahlung der Sozialhilfe in den Jahren 1994 bis 1996 auf die Ast. übergegangen sein,
+bliebe eine Hemmung ohne Auswirkungen auf den Eintritt der Verjährung, weil die
+Verjährung solcher übergegangener Ansprüche dann bereits spätestens 1999 zu
+laufen begonnen hätte (vgl. oben unter 2 b cc [3] [a]). Dass die Ast. solche
+Ansprüche – sofern sie nicht bereits nach § 91 I 1 BSHG übergegangen sein sollten
+– etwa gem. § 90 BSHG oder § 93 SGB XII erst zu einem Zeitpunkt auf sich
+übergeleitet hat, dass eine Verjährungshemmung durch Anmeldung zur
+Insolvenztabelle noch möglich gewesen wäre, zeigt sie nicht auf.
+44(e) Ein Neubeginn der Verjährung nach § 212 I BGB scheidet aus. Gegen die
+tatrichterliche Würdigung des BeschwGer., dass die im Streitfall vorgenommenen
+Vollstreckungshandlungen und die erbrachten Teilzahlungen keinen Einfluss auf die
+Verjährung der Schadensersatzansprüche haben, wendet sich die Ast. nicht.
+Revisionsrechtlich erhebliche Fehler sind nicht ersichtlich.
+Anmerkung der Redaktion
+S. zu dieser Entscheidung die Besprechung von Krumm, NZFam 2016, 467. – Zu der
+Entscheidung der Vorinstanz (OLG Köln, NZI 2014, 272) s. die Anm. Kobel, NZI 2014,
+275, sowie die Besprechung von Pfeil, NZFam 2014, 377. Die weiterhin zitierte
+Entscheidung OLG Hamm, NJW-RR 2012, 967 = FamRZ 2012, 1741 wird besprochen
+von Schürmann, FamFR 2012, 249. – Mit einer Verletzung der Unterhaltspflicht und
+der Insolvenz des Unterhaltsschuldners befasst sich ferner die nachfolgend unter
+Nr. 4 abgedruckte Entscheidung des BGH. Die Insolvenz des selbstständig tätigen
+Unterhaltsschuldners behandelt Janlewing, FPR 2012, 163.

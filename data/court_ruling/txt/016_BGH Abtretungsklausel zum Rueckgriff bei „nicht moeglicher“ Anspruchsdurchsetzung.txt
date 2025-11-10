@@ -1,0 +1,213 @@
+Anspruchsdurchsetzung
+Abtretungsklausel zum Rückgriff bei „nicht möglicher“
+Anspruchsdurchsetzung
+BGB § 307 I
+1.Zur Wirksamkeit einer formularmäßigen Klausel, wonach der Geschädigte aufgrund
+der Abtretung seines Anspruchs auf Erstattung des Sachverständigenhonorars gegen
+den Unfallgegner an den Sachverständigen nur dann auf Zahlung des Honorars in
+Anspruch genommen werden kann, wenn eine Durchsetzung des Anspruchs „nicht
+möglich“ ist.
+2.Verbleiben nach Ausschöpfung aller in Betracht kommenden
+Auslegungsmöglichkeiten Zweifel und sind zumindest zwei Auslegungsergebnisse
+rechtlich vertretbar, geht die Unklarheit zulasten des Verwenders. Dabei ist die
+kundenfeindlichste Auslegung maßgeblich, also diejenige Auslegung, die zur
+Unwirksamkeit der Klausel und zur Anwendung des dispositiven Rechts führt.
+Allerdings bleiben solche Auslegungsmöglichkeiten außer Betracht, die zwar
+theoretisch denkbar, praktisch aber fernliegend und daher nicht ernstlich in Betracht
+3.Von einem durchschnittlichen Unfallgeschädigten muss erwartet werden, dass er
+einzelne Sätze einer Klausel nicht isoliert zur Kenntnis nimmt, sondern diese im
+Sachzusammenhang liest. (Leitsätze 2 und 3 von der Redaktion)
+BGH Urteil vom 23.1.2024 – VI ZR 357/22
+Zum Sachverhalt
+Die Kl., eine sogenannte Verrechnungsstelle, nimmt die Bekl., einen Kfz-
+Haftpflichtversicherer, aus abgetretenem Recht auf Ersatz weiterer
+Sachverständigenkosten in Anspruch. Nach einem Verkehrsunfall, für den die Bekl.
+dem Grunde nach vollständig einstandspflichtig ist, beauftragte die Unfallgeschädigte
+einen Sachverständigen mit der Begutachtung der Schäden an ihrem Fahrzeug. Das
+Auftragsformular enthielt unter der Überschrift „Abwicklung der Vergütung des
+Sachverständigen; Abtretungen der Ansprüche“ folgende Regelungen:
+„Der Sachverständige (SV) nutzt die Leistungen der D (… (Name und Anschrift der Kl.)).
+Die D (…) übernimmt die Abwicklung der nachfolgend benannten Ansprüche gegenüber
+der gegnerischen Haftpflichtversicherung bzw. dem Halter oder dem Fahrer des
+unfallbeteiligten gegnerischen Fahrzeugs für den Geschädigten und den SV. Hierzu
+vereinbaren der Geschädigte, der SV und die D (…) Folgendes:
+1.Der Geschädigte tritt seinen Anspruch auf Erstattung des
+Sachverständigenhonorars für die Erstellung des Beweissicherungsgutachtens
+gegen den Fahrer, den Halter und den Haftpflichtversicherer des unfallbeteiligten
+gegnerischen Fahrzeugs in Höhe des Honoraranspruchs des SV (Grundhonorar
+und Nebenkosten, zzgl. der USt., sofern keine Vorsteuerabzugsberechtigung
+besteht) – nachfolgend zusammenfassend „der Schadensersatzanspruch“
+genannt – an den SV ab.
+2.Durch diese Abtretung muss sich der Geschädigte nicht selbst an die
+Anspruchsgegner wenden. Nur dann, wenn eine (vollständige) Durchsetzung des
+Anspruchs gegen die Anspruchsgegner nicht möglich ist, kann der Geschädigte
+auf Zahlung des (Rest-)Honorars in Anspruch genommen werden, allerdings nur
+in Höhe des nicht regulierten Teilbetrags, und nur dann, wenn zuvor der
+vorstehend unter Nr. 1 abgetretene Schadensersatzanspruch an den
+Geschädigten zurückabgetreten wurde.
+3.Der SV nimmt die Abtretung des Schadensersatzanspruchs zu den
+vorstehenden Bedingungen an. Der SV nimmt keinerlei eigene Maßnahmen zur
+Regulierung des Schadens vor, sondern bietet hiermit der D (…) den
+Werklohnanspruch nach der vorstehenden Vereinbarung (Grundhonorar,
+Nebenkosten, Fremdkosten) sowie den an ihn abgetretenen
+Schadensersatzanspruch zur Abtretung an. Die D (…) nimmt das
+Abtretungsangebot des SV hiermit an; der SV verzichtet auf den Zugang der
+Annahmeerklärung.
+4.Für den Fall, dass die Abtretung des Schadensersatzanspruchs an den SV aus
+rechtlichen Gründen nicht möglich ist oder sich im Nachhinein als unwirksam
+erweist, so tritt der Geschädigte den Schadensersatzanspruch hilfsweise
+unmittelbar an die D (…) ab. Die D (…) nimmt die Abtretung an; der Geschädigte
+verzichtet auf den Zugang der Annahmeerklärung. Nr. 2 gilt für diesen Fall
+entsprechend.“
+Die Bekl. erstattete von den von der Kl. geltend gemachten Sachverständigenkosten
+iHv 793,49 EUR einen Betrag von 716,38 EUR.
+Die Klage, mit der die Kl. die Differenz nebst Zinsen geltend gemacht hat, hat das AG
+zurückgewiesen. Mit der vom BerGer. zugelassenen Revision verfolgte die Kl. ihr
+Klageziel weiter. Das Rechtsmittel der Kl. hatte Erfolg und führte zur Zurückverweisung
+der Sache an das BerGer.
+Aus den Gründen
+7II. (…) Die Kl. ist aktivlegitimiert. Die Klausel, bei der es sich nach den dem
+Berufungsurteil zugrundeliegenden Feststellungen um vom Sachverständigen oder
+von der Kl. dem Geschädigten gestellte Allgemeine Geschäftsbedingungen handelt, ist
+nicht wegen unangemessener Benachteiligung gem. § 307 I BGB unwirksam.
+81. Unangemessen iSv § 307 I 1 BGB ist die Benachteiligung, wenn der Verwender
+durch einseitige Vertragsgestaltung missbräuchlich eigene Interessen auf Kosten
+seines Vertragspartners durchzusetzen versucht, ohne von vornherein auch dessen
+Belange hinreichend zu berücksichtigen und ihm einen angemessenen Ausgleich
+9Nach § 307 I 2 BGB kann sich eine unangemessene Benachteiligung des
+Vertragspartners auch daraus ergeben, dass eine Bestimmung nicht klar und
+verständlich ist. Der Verwender Allgemeiner Geschäftsbedingungen ist nach den
+Grundsätzen von Treu und Glauben verpflichtet, die Rechte und Pflichten seiner
+Vertragspartner möglichst klar und durchschaubar darzustellen (Transparenzgebot).
+Die eindeutige und durchschaubare Vermittlung der mit einem beabsichtigten
+Vertragsschluss verbundenen Rechte und Pflichten ist Voraussetzung für eine
+informierte Sachentscheidung. Der Verwender muss daher einerseits die
+tatbestandlichen Voraussetzungen und Rechtsfolgen so genau beschreiben, dass für
+ihn keine ungerechtfertigten Beurteilungsspielräume entstehen. Der Vertragspartner
+soll andererseits ohne fremde
+Hilfe möglichst klar und einfach seine Rechte und Pflichten feststellen können, damit
+er die rechtliche Tragweite der Vertragsbedingungen bei Vertragsschluss hinreichend
+erfassen kann und nicht von der Durchsetzung seiner Rechte abgehalten wird. Dagegen
+ist der Verwender nicht verpflichtet, aus dem Gesetz oder aus der Rechtsnatur eines
+Vertrags folgende Rechte ausdrücklich zu regeln oder den Vertragspartner darüber zu
+belehren; das Transparenzgebot will den Verwender nicht zwingen, jede AGB-Regelung
+gleichsam mit einem umfassenden Kommentar zu versehen. Der Vertragspartner soll
+aber davor geschützt werden, infolge falscher Vorstellungen über die angebotene
+Leistung zu einem unangemessenen Vertragsabschluss verleitet zu werden. Die
+Klausel muss deshalb nicht nur in ihrer Formulierung verständlich sein, sondern auch
+die mit ihr verbundenen wirtschaftlichen Nachteile und Belastungen so weit wie
+10Eine Intransparenz kann sich nicht nur bei einzelnen Klauseln aus ihrer inhaltlichen
+Unklarheit, mangelnden Verständlichkeit oder der unzureichenden Erkennbarkeit der
+Konsequenzen ergeben, sondern auch aus der Gesamtregelung. Abzustellen ist dabei
+auf die Verständnismöglichkeiten des typischerweise bei Verträgen der geregelten Art
+zu erwartenden Durchschnittskunden. Für die Auslegung von Allgemeinen
+Geschäftsbedingungen ist in erster Linie ihr Wortlaut relevant (vgl. nur Senat NJW
+112. Es ist nicht ungewöhnlich und grundsätzlich auch für beide Seiten
+interessengerecht, dass ein Geschädigter zur Sicherung des vertraglich vereinbarten
+Vergütungsanspruchs im Rahmen des Auftrags zur Erstellung des Gutachtens seinen
+Schadensersatzanspruch gegen den Schädiger und dessen Haftpflichtversicherer auf
+Erstattung der Sachverständigenkosten an den Sachverständigen abtritt. Dies liegt
+zunächst im Interesse des Sachverständigen, der einen in der Regel zahlungsfähigen
+Schuldner, den Haftpflichtversicherer des Schädigers, erhält und diesem gegenüber
+seinen Vergütungsanspruch für seine eigene Leistung rechtfertigen kann. Die
+Abtretung entspricht – wenn sie erfüllungshalber oder an Erfüllungs statt erfolgt –
+regelmäßig auch dem Interesse des geschädigten Auftraggebers, der unter
+Beschränkung des eigenen Aufwands möglichst schnell einen Ausgleich vom
+Schädiger oder dessen Haftpflichtversicherer erhalten will. Eröffnet sich ihm die
+Möglichkeit einer Stundung der Honorarforderung des Sachverständigen oder deren
+Erfüllung ohne eigene finanzielle Vorlage und eigenes Zutun, ist er bereit, seinen
+Schadensersatzanspruch auf Erstattung der Sachverständigenkosten an den
+Sachverständigen abzutreten, damit dieser der Sache nach seine Honorarforderung
+12Eine solche Klausel muss für den durchschnittlichen Unfallgeschädigten aber
+hinreichend deutlich erkennen lassen, unter welchen Voraussetzungen er vom
+Sachverständigen trotz erfolgter Abtretung weiterhin wegen der Gutachterkosten in
+Anspruch genommen werden kann und welche Rechte er im Zusammenhang mit der
+133. Nach diesen Grundsätzen fehlt es entgegen der Ansicht des BerGer. nicht schon
+an einer wirksamen Erstabtretung der Schadensersatzforderung des Geschädigten an
+den Sachverständigen. Auch die Weiterabtretung an die Kl. ist wirksam.
+14a) Gemäß Nr. 1 der Klausel tritt der Geschädigte seinen Anspruch auf Erstattung des
+Sachverständigenhonorars gegen die Unfallgegner in Höhe des Honoraranspruchs des
+Sachverständigen an diesen ab. Nr. 2 der Klausel, wonach sich der Geschädigte
+aufgrund der Abtretung dieses Schadensersatzanspruchs nicht selbst an die
+Unfallgegner wenden muss und nur dann, wenn eine (vollständige) Durchsetzung des
+Anspruchs gegen diese nicht möglich ist, auf Zahlung des (Rest-)Honorars in Anspruch
+genommen werden kann, regelt der Sache nach eine Abtretung erfüllungshalber unter
+Stundung der Honorarforderung des Sachverständigen. Rechtlich bedeutet dies, dass
+der Sachverständige auf seine Honorarforderung gegenüber dem Geschädigten erst
+zurückgreifen darf, wenn der Versuch der anderweitigen Befriedigung aus der ihm
+erfüllungshalber übertragenen Schadensersatzforderung gegen den Schädiger und
+dessen Haftpflichtversicherer fehlgeschlagen und damit die Stundung der
+MüKoBGB/Fetzer, 9. Aufl., BGB § 364 Rn. 13; BeckOGK/Looschelders, 1.9.2023, § 364
+Rn. 38). Das Fehlschlagen dieser Verwertungsobliegenheit des Zessionars wird in Nr.
+2 umschrieben mit den Worten: „wenn eine (vollständige) Durchsetzung des Anspruchs
+gegen die Anspruchsgegner nicht möglich ist“. Dies verstößt nicht gegen § 307 I BGB.
+15aa) In Rechtsprechung (BGH NJW-RR 2019, 524 Rn. 35; OLG Nürnberg MDR 1976,
+43) und Literatur (BeckOGK/Looschelders BGB § 364 Rn. 38; MüKoBGB/Fetzer BGB § 364 Rn. 13, jew. mwN) ist anerkannt, dass dem Zessionar nur zumutbare
+Verwertungsmöglichkeiten entgegengehalten werden können; insbesondere ist er im
+Regelfall nicht gehalten, eine ihm erfüllungshalber abgetretene Forderung mit
+unsicheren Erfolgsaussichten einzuklagen. Er soll sich mit der im Verkehr
+erforderlichen Sorgfalt um Verwertung bemühen (BeckOGK/Looschelders BGB § 364
+Rn. 38; MüKoBGB/Fetzer BGB § 364 Rn. 13). Welche Maßnahmen ihm zum Zweck der
+Befriedigung aus der Abtretung erfüllungshalber zuzumuten sind, ist nach den
+Umständen des Einzelfalls zu beantworten (BGH NJW-RR 2019, 524 Rn. 36).
+16bb) Diese Einschränkungen der Verwertungsobliegenheit des Zessionars auf
+zumutbare Maßnahmen und auf die Beachtung der im Verkehr erforderlichen Sorgfalt
+enthält der in Nr. 2 der Klausel verwendete Begriff „nicht möglich“ nicht. „Nicht
+möglich“, also unmöglich, ist eine „ (vollständige) Durchsetzung des Anspruchs gegen
+die Anspruchsgegner“ nach dem eindeutigen Wortlaut und dem Verständnis des
+durchschnittlichen Unfallgeschädigten erst, wenn die Möglichkeiten der Durchsetzung
+der Forderung ausgeschöpft sind. Damit ist entgegen der Ansicht des BerGer. klar,
+dass beispielsweise allein das Scheitern einer außergerichtlichen Geltendmachung der
+Forderung es nicht rechtfertigt, wegen der Honorarforderung des Sachverständigen auf
+den Geschädigten zurückzugreifen. Darüber, welche Möglichkeiten (von der
+außergerichtlichen Geltendmachung über die gerichtliche Geltendmachung bis zur
+Vollstreckung eines erwirkten Titels) grundsätzlich bestehen, muss der Geschädigte nicht aufgeklärt werden. Durch den weiten Begriff „nicht möglich“ ist der
+Geschädigte zugleich bessergestellt als er es nach der allgemeinen Rechtslage wäre,
+so dass auch keine unangemessene Benachteiligung iSv § 307 I 1 BGB vorliegt.
+17b) Ferner lässt die Klausel, wie vom BerGer. zutreffend gesehen, den Zeitpunkt der
+Rückabtretung der Schadensersatzforderung klar erkennen, wobei der Geschädigte
+auch hier bessergestellt ist, als er es nach der allgemeinen Rechtslage wäre. Denn die
+Rückabtretung soll nicht erst, wie rechtlich geboten, Zug um Zug mit der Erfüllung der
+sondern schon vor dieser („zuvor“) erfolgen.
+18c) Ob die Regelung in Nr. 4 der Klausel (Hilfsabtretung direkt vom Geschädigten an
+die Verrechnungsstelle für den Fall, dass die Abtretung an den Sachverständigen
+rechtlich nicht möglich oder unwirksam sein sollte) wirksam ist, kann dahinstehen. Auf
+diese Klausel stützt die Kl. ihre Aktivlegitimation nach den Feststellungen des BerGer.
+nicht. Selbst wenn sie unwirksam wäre, würde dies die Wirksamkeit der Nr. 1–3 nicht
+berühren.
+19aa) Nach der Rechtsprechung des BGH können inhaltlich voneinander trennbare,
+einzeln aus sich heraus verständliche Regelungen in Allgemeinen
+Geschäftsbedingungen auch dann Gegenstand einer gesonderten
+Wirksamkeitsprüfung sein, wenn sie in einem äußeren sprachlichen Zusammenhang
+mit anderen – unwirksamen – Regelungen stehen. Nur wenn der als wirksam
+anzusehende Teil im Gesamtgefüge des Vertrags nicht mehr sinnvoll, insbesondere
+der als unwirksam beanstandete Klauselteil von so einschneidender Bedeutung ist,
+dass von einer gänzlich neuen, von der bisherigen völlig abweichenden
+Vertragsgestaltung gesprochen werden muss, ergreift die Unwirksamkeit der
+Teilklausel die Gesamtklausel. Die inhaltliche Trennbarkeit einer Klausel und damit die
+Möglichkeit ihrer Zerlegung in einen inhaltlich zulässigen und einen inhaltlich
+unzulässigen Teil ist immer dann gegeben, wenn der unwirksame Teil der Klausel
+gestrichen werden kann, ohne dass der Sinn des anderen Teils darunter leidet (sog.
+blue-pencil-test); ob beide Bestimmungen den gleichen Regelungsgegenstand
+betreffen, ist dabei unerheblich (stRspr, vgl. nur BGHZ 229, 266 Rn. 64 mwN = NJW
+2021, 2193).
+20bb) Vorliegend kann Nr. 4 der Klausel ohne Weiteres gestrichen werden, ohne dass
+der Sinn der Nr. 1–3 darunter leidet. Wäre Klausel Nr. 4 also unwirksam, würde dies die
+Wirksamkeit der Regelungen in den übrigen Nummern nicht beeinträchtigen.
+21d) Die von der Revisionserwiderung angeführten weiteren Argumente gegen die
+Wirksamkeit der Klausel greifen nicht durch. Der Senat verweist insoweit auf die
+Entscheidungsgründe des Urteils vom heutigen Tag in dem Verfahren VI ZR 230/22
+22e) Die Klausel mag für einen juristischen Laien nicht leicht zu verstehen sein, weil sie
+mehrere Rechtsverhältnisse zwischen mehreren Beteiligten und zwei Forderungen
+zum Gegenstand hat. Dies resultiert aber allein aus der Komplexität des Sachverhalts
+und nicht aus intransparenten Formulierungen. Die Klausel lässt für den Geschädigten
+deutlich erkennen, unter welchen Voraussetzungen er trotz erfolgter Abtretung
+weiterhin wegen der Gutachterkosten in Anspruch genommen werden kann und
+welche Rechte er im Zusammenhang mit der Abtretung hat. Dass der Geschädigte bei
+einer Inanspruchnahme auf Zahlung der Gutachterkosten von der Durchsetzung seiner
+Rechte abgehalten werden könnte, ist nach alledem nicht ersichtlich.
+23III. Die Sache ist nicht zur Endentscheidung reif, da Feststellungen zu der zwischen
+den Parteien streitigen Höhe des an die Kl. abgetretenen Anspruchs auf Ersatz der
+Sachverständigenkosten gegen die Bekl. nicht getroffen sind.
+Anmerkung der Redaktion
+unwirksamen Abtretung von Gewährleistungsansprüchen an einen Darlehensnehmer

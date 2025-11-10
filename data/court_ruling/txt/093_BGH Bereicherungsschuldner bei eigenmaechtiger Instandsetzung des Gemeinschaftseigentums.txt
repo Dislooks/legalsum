@@ -1,0 +1,419 @@
+Gemeinschaftseigentums
+* Bereicherungsschuldner bei eigenmächtiger Instandsetzung des
+Gemeinschaftseigentums
+BGB §§ 195, 199, 204 I, 670, 677, 683, 684, 812; WEG §§ 10 VI 2 u. 3, 14 Nr. 4, 16 II,
+21 II, IV, VIII, 27 I Nr. 3
+1. Ein Bereicherungsanspruch für eine eigenmächtige Instandsetzung oder
+Instandhaltung des Gemeinschaftseigentums kommt nur in Betracht, wenn die
+Maßnahme ohnehin hätte vorgenommen werden müssen.
+2. Wer einen solchen Bereicherungsausgleich schuldet, bestimmt sich danach, ob die
+Maßnahme im Zeitpunkt ihrer Vornahme erst noch beschlossen (dann die
+Wohnungseigentümer) oder ob sie – sei es wegen eines entsprechenden
+Beschlusses der Wohnungseigentümer, sei es wegen der Dringlichkeit – durchgeführt
+werden musste (dann die Gemeinschaft).
+3. Schuldner des Entschädigungsanspruchs nach § 14 Nr. 4 Hs. 2 WEG ist jedenfalls
+der Verband.
+BGH, Urteil vom 25.9.2015 – V ZR 246/14
+Zum Sachverhalt
+Die Kl. ist seit 2005 Mitglied der bekl. Wohnungseigentümergemeinschaft. Sie verlangt
+von dieser Ersatz von Kosten der Sanierung der Kellersohle im Bereich ihrer
+Souterrainwohnung und für den Austausch der Wohnungs(-eingangs-)türen. Als die
+Bekl. im Jahr 2003 entstand, hatte die Wohnanlage einen erheblichen Sanierungsstau.
+Auf der Eigentümerversammlung vom 4.8.2004 beschlossen die
+Wohnungseigentümer mehrheitlich einen von einem Architektenbüro vorgelegten Plan
+zur Sanierung der Anlage, jedoch mit einer Modifikation. Die dort vorgesehene
+Sanierung der Kellersohle sollte zunächst zurückgestellt und abgewartet werden, ob
+die Durchfeuchtung der Kellerwände auch ohne diese Maßnahme zu beheben sei.
+Anlass hierfür waren die hohen Kosten, aber auch Zweifel an der Verantwortlichkeit der
+Gemeinschaft. Die Kl. ließ die Kellersohle ihrer Souterrainwohnung nach dem Erwerb
+mit einem Kostenaufwand von 14.130,99 Euro sanieren. Außerdem ließ sie für weitere
+3475 Euro die Eingangs- und Innentüren ihrer Wohnung ersetzen, weil die alten als
+Folge der von der Bekl. durchgeführten Sanierungsmaßnahme an den Kellerwänden
+nicht mehr passten. Sie verlangte von der Bekl. Ersatz, was die Wohnungseigentümer
+auf ihrer Versammlung am 22.11.2007 ablehnten. Mit der am 14.3.2008 zugestellten
+Klage hat die Kl. zunächst beantragt, die Bekl. zu verurteilen, „einen Beschluss
+dahingehend zu fassen, dass an die Kl. 17.605,99 Euro nebst Zinsen iHv 5
+Prozentpunkten über dem Basiszinssatz ab dem 23.11.2007 gezahlt werden“. Am
+23.5.2013 hat sie hilfsweise beantragt, die Bekl. zur Zahlung des genannten Betrags
+nebst Zinsen an sie zu verurteilen. Die Bekl. hat die Einrede der Verjährung erhoben.
+Hilfsantrag stattgegeben. Auf die Berufung der Bekl. hat das LG Hamburg (Urt. v.
+zugelassene Revision hatte teilweise, nämlich soweit die Klage wegen eines Betrags
+von 3475 Euro nebst anteiliger Zinsen (Wohnungstüren) abgewiesen worden ist, Erfolg
+und führte insoweit zur Aufhebung und Zurückverweisung.
+Aus den Gründen
+4 I. Nach Meinung des BerGer. lässt sich die Klage nur auf ungerechtfertigte
+Bereicherung stützen.
+§ 21 II WEG scheide als Grundlage eines Erstattungsanspruchs aus, da es sich bei der
+von der Kl. durchgeführten Sanierung nicht um eine Notmaßnahme gehandelt habe.
+Auf Geschäftsführung ohne Auftrag lasse sich der Anspruch ebenfalls nicht stützen,
+weil die Maßnahmen der Kl. dem Beschluss der Wohnungseigentümer widersprochen
+hätten. Für den danach nur in Betracht kommenden Bereicherungsanspruch sei die
+Bekl. nicht passivlegitimiert. Die Instandsetzung der Wohnanlage sei ihre Aufgabe nur,
+wenn und soweit die Wohnungseigentümer solche Maßnahmen beschlossen hätten.
+Die Wohnungseigentümergemeinschaft sei durch die Maßnahmen auch nicht
+bereichert. Denn diese kämen allein dem Gemeinschaftseigentum zugute, das den
+Wohnungseigentümern und nicht dem Verband zustehe. Die Vorschrift des § 10 VI 3
+WEG komme als Grundlage eines Erstattungsanspruchs ebenfalls nicht in Betracht.
+Unabhängig hiervon sei der Erstattungsanspruch aber auch verjährt. Er sei spätestens
+im Jahr 2007 entstanden. Die an sich fristgerecht erhobene Klage habe die Verjährung
+nicht hemmen können, da sie nicht auf Zahlung an die Kl., sondern darauf gerichtet
+gewesen sei, einen entsprechenden Beschluss der Wohnungseigentümer
+herbeizuführen. Der Beschluss habe nur der Vorbereitung der Zahlungsklage, nicht der
+Durchsetzung des Zahlungsanspruchs gedient.
+5 II. Diese Erwägungen halten einer rechtlichen Prüfung nur teilweise stand.
+6 1. Zutreffend verneint das BerGer. allerdings einen Anspruch der Kl. auf Ersatz der
+Kosten für die Sanierung der Kellersohle im Bereich ihrer Souterrainwohnung iHv
+14.130,99 Euro nebst Zinsen.
+7 a) Ein Anspruch auf Ersatz dieser Kosten als Aufwand für eine Notgeschäftsführung
+scheidet aus. Nach § 21 II WEG ist zwar jeder Wohnungseigentümer berechtigt, ohne
+Zustimmung der anderen Wohnungseigentümer die Maßnahmen zu treffen, die zur
+Abwendung eines dem gemeinschaftlichen Eigentum unmittelbar drohenden
+Schadens notwendig sind. Das korrespondierende Notgeschäftsführungsrecht des
+Verwalters nach § 27 I Nr. 3 WEG berechtigt aber schon diesen nur in einer Situation
+zu einem Tätigwerden ohne vorherigen Beschluss der Wohnungseigentümer, in der
+sofortiges Handeln geboten ist und auch dann nur zu Maßnahmen, welche die
+Gefahrenlage beseitigen, nicht jedoch zur Vornahme oder Beauftragung von Arbeiten,
+die einer dauerhaften Beseitigung der Schadensursache dienen (Senat, NJW-RR 2011,
+1093 = NZM 2011, 454 Rn. 27). Das Notgeschäftsführungsrecht des einzelnen
+Wohnungseigentümers geht nicht weiter; dieser darf im Gegenteil selbst nur tätig
+werden, wenn er durch Einschaltung des Verwalters die Behebung der Notlage nicht
+Hamm, NJOZ 2009, 3761 = ZWE 2009, 369 [372]; Merle in Bärmann, WEG, 13. Aufl., § 21 Rn. 10). Diese Voraussetzungen liegen bei der Sanierung der Kellersohle nicht vor.
+Die Wohnungseigentümer haben sich mit der Behandlung der Kellersohle befasst. Die
+Verwalterin war dementsprechend tätig geworden. Die Sachlage hatte sich nicht
+verändert. Es drohte kein unmittelbarer Schaden für das Gemeinschaftseigentum. Die
+von der Kl.
+BGH: * Bereicherungsschuldner bei eigenmächtiger Instandsetzung
+beauftragten Maßnahmen dienten dazu, die Kellersohle dauerhaft zu sanieren. Sie
+waren von ihrem Notgeschäftsführungsrecht nicht gedeckt.
+8 b) Auch ein Anspruch aus Geschäftsführung ohne Auftrag gem. §§ 677, 683 , 670
+BGB scheidet aus. Zwar schließt das Notgeschäftsführungsrecht einen solchen
+Anspruch des Wohnungseigentümers nicht aus (OLG Hamburg, ZMR 2007, 129 = OLG-
+21914; Merle in Bärmann, § 21 Rn. 20; Heinemann in Jennißen, WEG, 4. Aufl., § 21 Rn.
+31 mwN; Vandenhouten in Niedenführ/Kümmel/Vandenhouten, WEG, 11. Aufl., § 21
+Rn. 23; Drabek in Riecke/Schmid, WEG, 4. Aufl., § 21 Rn. 91; Spielbauer/Then, WEG,
+2. Aufl., § 21 Rn. 16). Der Anspruch besteht aber nur, wenn die Vornahme der
+Maßnahme dem tatsächlichen oder mutmaßlichen Willen der Wohnungseigentümer
+entspricht. Daran fehlt es jedenfalls dann, wenn die Wohnungseigentümer – wie hier –
+beschlossen haben, die vorgenommene Maßnahme vorerst zurückzustellen und
+abzuwarten, ob sie ganz entbehrlich ist.
+9 c) Zu Recht verneint das BerGer. auch einen Anspruch der Kl. gegen die Bekl. aus
+ungerechtfertigter Bereicherung.
+10 aa) (1) Einigkeit besteht im Wesentlichen darüber, dass ein Bereicherungsanspruch
+des einzelnen Wohnungseigentümers als Folge von Maßnahmen zur Instandsetzung
+oder Instandhaltung des Gemeinschaftseigentums nicht von vornherein
+ausgeschlossen ist, wenn die Voraussetzungen der Notgeschäftsführung nach § 21 II
+WEG oder der berechtigten Geschäftsführung ohne Auftrag nicht vorliegen (OLG
+Merle in Bärmann, § 21 Rn. 23; Heinemann in Jennißen, § 21 Rn. 31; Hügel/Elzer, WEG,
+§ 21 Rn. 21; Sauren, WEG, 6. Aufl., § 21 Rn. 9; Drabek in Riecke/Schmid, § 21 Rn. 91;
+Spielbauer/Then, § 21 Rn. 17; Elzer in Timme, WEG, 2. Aufl., § 21 Rn. 88; Bub, ZWE 2009,
+2015, 700 Rn. 24). Er soll allerdings nur in Betracht kommen, wenn die Maßnahme hätte
+Jennißen, § 21 Rn. 31; Drabek in Riecke/Schmid, § 21 Rn. 93 aE; Spielbauer/Then, § 21
+Rn. 17).
+11 (2) Gegen wen sich ein solcher Anspruch richtet, wird unterschiedlich beurteilt.
+Nach einer Ansicht richtet sich der Anspruch gegen den Verband (OLG Hamburg, ZMR
+§ 21 Rn. 31; Hügel/Elzer, § 21 Rn. 21; MüKoBGB/Engelhardt, 6. Aufl., § 21 WEG Rn. 6;
+Vandenhouten in Niedenführ/Kümmel/Vandenhouten, § 21 Rn. 23; Drabek in
+Riecke/Schmid, § 21 Rn. 91; Sauren, § 21 Rn. 9; Spielbauer/Then, § 21 Rn. 17; Bub, ZWE
+2009, 245 [253]; wohl auch Merle in Bärmann, § 21 Rn. 23; ähnlich AG Berlin-
+Heizöllieferungen in einer verwalterlosen Wohnungseigentümergemeinschaft). Nach
+einer anderen, von dem BerGer. geteilten Ansicht sind die Wohnungseigentümer selbst
+Schuldner des Anspruchs (OLG Hamm, NZM 2012, 465 [466 f.]; OLG München, NZM
+08136; Suilmann in Bärmann, § 10 Rn. 265). Bei der verwandten Frage, wer einem
+Verkäufer Bereicherungsausgleich schuldet, der zur Nacherfüllung eines Kaufvertrags
+über eine Eigentumswohnung Mängel am Gemeinschaftseigentum beseitigt, hält der
+Senat einen (anteiligen) Bereicherungsanspruch gegen die Wohnungseigentümer für
+12 bb) Der Senat entscheidet beide Fragen wie folgt: Ein Bereicherungsanspruch für
+eine eigenmächtige Instandsetzung oder Instandhaltung des
+Gemeinschaftseigentums kommt nur in Betracht, wenn die Maßnahme ohnehin hätte
+vorgenommen werden müssen. Wer einen solchen Bereicherungsausgleich schuldet,
+bestimmt sich danach, ob die Maßnahme im Zeitpunkt ihrer Vornahme erst noch
+beschlossen (dann die Wohnungseigentümer) oder ob sie – sei es wegen eines
+entsprechenden Beschlusses der Wohnungseigentümer, sei es wegen der Dringlichkeit
+– durchgeführt werden musste (dann die Gemeinschaft).
+13 (1) Nach den allgemeinen Vorschriften könnte der Wohnungseigentümer, der
+eigenmächtig Instandsetzungs- und Instandhaltungsmaßnahmen vornimmt, die nicht
+geboten sind, nach § 684 BGB Bereicherungsausgleich verlangen, wenn ihm seine
+fehlende Berechtigung nicht bekannt ist. Andernfalls schiede ein
+Bereicherungsausgleich nach § 687 II 1 BGB im Grundsatz aus (vgl. BGHZ 39, 186
+Wohnungseigentümergemeinschaft nicht gerecht. Nach § 21 IV WEG kann jeder
+Wohnungseigentümer eine Verwaltung des gemeinschaftlichen Eigentums verlangen,
+die den Grundsätzen ordnungsgemäßer Verwaltung entspricht. Die Vornahme
+konkreter Maßnahmen kann er dagegen nur verlangen, wenn sich das grundsätzlich
+bestehende Ermessen bei der Entscheidung über die Instandsetzung oder
+= NZM 2012, 685 Rn. 8) auf null reduziert hat. Die danach maßgeblichen
+Gesichtspunkte – der Zustand des gemeinschaftlichen Eigentums und eine etwaige
+Reduktion der Entscheidungsalternativen – finden in § 684 BGB einer- und § 687 II BGB
+andererseits keinen Niederschlag. Die uneingeschränkte Anwendung dieser
+Vorschriften führte deshalb zu Ergebnissen, die mit den Wertungen des § 21 IV WEG
+nicht in Einklang stehen. Das schließt § 21 IV WEG aus; er geht als speziellere Norm
+vor. Ein Bereicherungsausgleich kommt deshalb nur in Betracht, wenn die
+eigenmächtige Maßnahme des Wohnungseigentümers ohnehin hätte beschlossen
+oder vorgenommen werden müssen.
+14 (2) Wer Schuldner eines solchen Anspruchs ist, bestimmt sich ebenfalls nach den
+vorrangigen Bestimmungen des WEG. Danach kommt es entscheidend darauf an, ob
+die Maßnahme eines Beschlusses der Wohnungseigentümer bedurfte und ob dieser
+vorlag. Schuldner sind deshalb die Wohnungseigentümer, wenn die Maßnahme hätte
+beschlossen werden müssen, aber nicht beschlossen war, ansonsten – nämlich wenn
+sie beschlossen war oder wenn ein Beschluss nach der Teilungserklärung entbehrlich
+und die Maßnahme unverzüglich durchzuführen war – die Gemeinschaft.
+15 (a) Nach § 21 III–V WEG haben die Wohnungseigentümer durch entsprechende
+Beschlussfassung die Grundlagen für die Verwaltung des Gemeinschaftseigentums zu
+schaffen. Die Umsetzung der gefassten Beschlüsse ist Aufgabe der
+BGH: * Bereicherungsschuldner bei eigenmächtiger Instandsetzung
+Wohnungseigentümergemeinschaft. Dem folgt auch die Haftung: Für Schäden, die
+durch eine unterbliebene oder verzögerte Beschlussfassung entstehen, können nur die
+Wohnungseigentümer selbst (als Gesamtschuldner) ersatzpflichtig sein, die
+schuldhaft entweder untätig geblieben sind oder gegen die erforderliche Maßnahme
+2015, 53 Rn. 21). Für Defizite bei der Umsetzung der gefassten Beschlüsse haftet
+Verband ohne Beschluss handeln kann und nach §§ 21 II, 27 I Nr. 3 oder § 21 IV WEG
+eine Verpflichtung zum Handeln besteht. Diese Unterscheidung gilt auch bei
+Ansprüchen auf Bereicherungsausgleich für gebotene Instandsetzungs- oder
+Instandhaltungsmaßnahmen.
+16 (b) Solche Maßnahmen können zu einer Verbesserung und damit zu einer
+Wertsteigerung des Gemeinschaftseigentums führen. Bereichert werden hierdurch nur
+die Wohnungseigentümer als Eigentümer des Gemeinschaftseigentums, nicht der
+Verband, der nur im Ausnahmefall Inhaber von Sondereigentum in der Anlage und
+Miteigentümer des Gemeinschaftseigentums ist. Solange der Verband zur Vornahme
+der Maßnahme nicht verpflichtet ist, regelmäßig also bis zur Beschlussfassung der
+Wohnungseigentümer, kann er auch nicht unter dem Gesichtspunkt ersparter
+Aufwendungen bereichert sein. Er muss und darf die Maßnahmen nicht durchführen
+und erspart mit ihrer eigenmächtigen Durchführung durch einen Wohnungseigentümer
+keinen Aufwand. Daran änderte es nichts, wenn die Wohnungseigentümer nach § 21 IV
+WEG verpflichtet wären, die Maßnahmen wie ausgeführt zu beschließen. Denn dieser
+Umstand berechtigt den einzelnen Wohnungseigentümer außerhalb der
+Notgeschäftsführung nicht, die Maßnahmen kurzerhand selbst durchzuführen und
+unter Umständen auch vollendete Tatsachen zu schaffen. Vielmehr muss er zunächst
+die erforderliche Erstbeschlussfassung – notfalls mit der Beschlussersetzungsklage
+nach § 21 VIII WEG – herbeiführen. Liegt – wie hier – ein bestandskräftiger
+ablehnender Erstbeschluss vor, ist dieser nach §§ 21 IV, 23 IV WEG die Grundlage der
+Verwaltung des Gemeinschaftseigentums und zwar auch, wenn er inhaltlich falsch sein
+Wohnungseigentümer eine Änderung des bestandskräftigen Beschlusses
+herbeiführen, auf die er auch Anspruch hat, wenn schwerwiegende Gründe – etwa eine
+erhebliche Änderung der tatsächlichen Verhältnisse – das Festhalten an dem
+Beschluss als treuwidrig erscheinen lassen und der bestehende Zustand in seinem
+insoweit nicht abgedruckt in BGHZ 197, 274).
+17 (c) Ist die Instandsetzungs- oder Instandhaltungsmaßnahme hingegen
+beschlossen, bestimmen sich die Zahlungsverpflichtungen der Wohnungseigentümer
+2011, 750 Rn. 8) Modalitäten der Aufbringung der dafür erforderlichen Mittel und im
+Übrigen nach § 16 II WEG. Die Wohnungseigentümer haben nur diese Mittel
+aufzubringen und keine weitergehenden Pflichten. Damit wären zusätzliche
+Bereicherungsansprüche des einzelnen Wohnungseigentümers gegen die
+Miteigentümer wegen der Verbesserung des Gemeinschaftseigentums unvereinbar.
+Ihre Haftung ist deshalb ausgeschlossen. Für den – hier zu unterstellenden –
+Bereicherungsanspruch des Wohnungseigentümers haftet dann allein die
+Gemeinschaft. Entsprechendes gilt, wenn der Verband auch ohne Beschluss handeln
+muss. Dagegen haftet die Gemeinschaft nicht, wenn sie nicht ohne Beschluss handeln
+kann und der erforderliche Beschluss nicht gefasst worden ist.
+18 (d) Eine weitergehende Haftung des Verbands für einen Bereicherungsanspruch des
+einzelnen Wohnungseigentümers lässt sich entgegen der von der Kl. in der mündlichen
+Verhandlung vertretenen Ansicht auch nicht mit Wertungsgesichtspunkten
+rechtfertigen. Richtig ist zwar, dass die Verfolgung des Bereicherungsanspruchs
+gegenüber den übrigen Wohnungseigentümern, die zudem nur anteilig verpflichtet
+sanierende Wohnungseigentümer bei diesem Rückgriff das Risiko des Ausfalls
+einzelner Wohnungseigentümer trägt. Zu berücksichtigen ist aber auch, dass die
+Beschlussfassung über die erforderlichen Instandsetzungs- und
+Instandhaltungsmaßnahmen nach § 21 I WEG gemeinsame Aufgabe aller
+Wohnungseigentümer und dass die Reduktion ihres Ermessens auf null die Ausnahme
+ist. Das Gesetz sieht zur Lösung eines Konflikts über den richtigen Weg den Antrag auf
+einen Abänderungsbeschluss und bei einer Ablehnung die Beschlussersetzungsklage
+nach § 21 VIII WEG vor. In Notfällen kommt der Erlass einer einstweiligen Anordnung
+Wohnungseigentümer dadurch einen Schaden, dass die übrigen Wohnungseigentümer
+zwingend gebotene und keinen Aufschub duldende Instandsetzungs- oder
+Instandhaltungsmaßnahmen nicht beschließen, kann er, wie ausgeführt, von den
+Wohnungseigentümern (als Gesamtschuldner) Ersatz verlangen, die schuldhaft
+entweder untätig geblieben sind oder gegen die erforderliche Maßnahme gestimmt
+Rn. 21). Diese Möglichkeiten erscheinen ausreichend.
+19 cc) Danach scheidet der geltend gemachte Bereicherungsanspruch aus.
+20 (1) Ob die von der Kl. durchgeführte Maßnahme zwingend geboten war, hat das
+BerGer. nicht festgestellt. Dies ist aber auch nicht ausgeschlossen. Deshalb ist für das
+Revisionsverfahren zu unterstellen, dass die Ausführung der Maßnahme ohne
+Alternative war.
+21 (2) Die Bekl. ist aber nicht Schuldnerin des danach möglichen
+Bereicherungsanspruchs. Die Wohnungseigentümer haben sich mit dem
+Sanierungsbedarf befasst und beschlossen, die Sohle zunächst nicht zu sanieren,
+sondern abzuwarten, ob sich die Feuchtigkeitserscheinungen auch ohne eine solche
+Maßnahme zurückbilden. Die Kl. hat eine Änderung dieses Beschlusses mit Blick auf
+die fortdauernde Feuchtigkeit der Sohle nicht herbeigeführt. Die Sanierung der Sohle
+war deshalb nicht Pflicht der Bekl. als Verband. Ob die Wohnungseigentümer die Sohle
+sanieren und ihren abweichenden Beschluss jedenfalls jetzt ergänzen oder ändern
+mussten, ist hier nicht zu prüfen. Denn eine eventuelle Verpflichtung zur Änderung des
+gefassten Beschlusses träfe ebenfalls nur die Wohnungseigentümer selbst, nicht aber
+die Bekl. als Verband.
+22 d) Zutreffend verneint das BerGer. schließlich auch eine Haftung der Bekl. aus § 10 VI 3 Hs. 1 WEG.
+23 aa) Nach dieser Norm kann allerdings die Wohnungseigentümergemeinschaft
+gegenüber einzelnen Wohnungseigentümern zur Erstattung von Aufwendungen
+verpflichtet
+BGH: * Bereicherungsschuldner bei eigenmächtiger Instandsetzung
+sein. Voraussetzung hierfür ist, dass diese Aufwendungen zur Erfüllung einer
+gemeinschaftsbezogenen Pflicht erforderlich waren. Eine solche Pflicht ist
+anzunehmen, wenn eine Verpflichtung, die im Außenverhältnis alle
+Wohnungseigentümer gleichermaßen trifft, nach der Interessenlage ein gemeinsames
+24 bb) Diese Voraussetzungen liegen hier nicht vor. Die Vornahme von
+Instandsetzungs- oder Instandhaltungsmaßnahmen am Gemeinschaftseigentum
+durch einen Wohnungseigentümer kann zwar, wie ausgeführt, ausnahmsweise
+Bereicherungsansprüche gegen die übrigen Wohnungseigentümer auslösen. Sie
+begründen aber keine Haftung der Wohnungseigentümer im Außenverhältnis, sondern
+eine Haftung im Innenverhältnis untereinander. Zudem hätte die
+Wohnungseigentümergemeinschaft dann Kosten für eine Maßnahme zu tragen, die sie
+nach der Beschlusslage der Gemeinschaft gerade nicht durchzuführen hat.
+25 2. Mit der von dem BerGer. gegebenen Begründung lässt sich ein Anspruch der Kl.
+gegen die Bekl. auf Erstattung der Kosten für die Ersetzung der Innentüren in ihrer
+Wohnung allerdings nicht verneinen. Insoweit kommt ein Anspruch aus § 14 Nr. 4 Hs. 2
+WEG in Betracht.
+26 a) Nach dieser Vorschrift ist dem einzelnen Wohnungseigentümer der Schaden zu
+ersetzen, der ihm dadurch entsteht, dass er das Betreten und die Benutzung der im
+Sondereigentum stehenden Gebäudeteile gestatten muss, soweit das zur
+Instandhaltung und Instandsetzung des gemeinschaftlichen Eigentums erforderlich
+ist. Zu dem zu ersetzenden Schaden gehört auch die Verschlechterung des Zustands
+des Sondereigentums (Dötsch in Timme, § 14 Rn. 200 mwN). Nach dem Vortrag der
+Kl. sind diese Voraussetzungen gegeben. Danach mussten die Türen deshalb
+ausgewechselt werden, weil die Wände ihrer Wohnung durch die von der Bekl.
+veranlassten Sanierungsmaßnahmen breiter geworden waren und die alten Türen nicht
+mehr passten. Das BerGer. hat Feststellungen hierzu nicht getroffen. Für das
+Revisionsverfahren ist deshalb zu unterstellen, dass diese Behauptung zutrifft und der
+Anspruch grundsätzlich möglich ist.
+27 b) Schuldner dieses Anspruchs ist nach heute nahezu unbestrittener Ansicht die
+Wohnungseigentümergemeinschaft als Verband (aM, soweit ersichtlich, nur Hügel in
+Bamberger/Roth, BGB, 3. Aufl., § 14 WEG Rn. 10). Unterschiede bestehen nur in der
+Herleitung dieses Ergebnisses (für § 16 VII WEG OLG Schleswig, NJW-RR 2007, 448
+[449] = NZM 2007, 46; LG Frankfurt a. M., NJOZ 2014, 1936 = ZWE 2014, 403 [405];
+MüKoBGB/Commichau, § 14 WEG Rn. 40; wohl auch Erman/Grziwotz, BGB, 14. Aufl., § 14 WEG Rn. 5; Sauren, § 14 Rn. 15; Spielbauer/Then, § 14 Rn. 75; Gottschalg, NZM
+Bärmann, § 14 Rn. 75; Hügel/Elzer, § 14 Rn. 54; Abramenko in Riecke/Schmid, § 14 Rn.
+39; Dötsch in Timme, § 14 Rn. 210; für § 16 VI 2 WEG Hogenschurz in Jennißen, § 14
+Rn. 33; PK-BGB/Lafontaine, 7. Aufl., § 10 WEG Rn. 84; Kümmel in
+Niedenführ/Vandenhouten/Kümmel, § 14 Rn. 56; Palandt/Bassenge, BGB, 75. Aufl., § 14 WEG Rn. 18) und in der Frage, ob neben dem Verband auch die
+Wohnungseigentümer selbst haften (so Hügel/Elzer, § 14 Rn. 54; aA Suilmann in
+Bärmann, § 14 Rn. 75). Diese Unterschiede spielen im vorliegenden Fall keine Rolle,
+weil nur der Verband verklagt worden ist.
+28 c) Dieser Anspruch wäre auch nicht verjährt.
+29 aa) Er verjährt zwar in der regelmäßigen Frist nach §§ 195, 199 BGB. Die Verjährung
+hat mit dem Ablauf des Jahres 2007 begonnen, weil die Maßnahme spätestens bis
+dahin beendet worden ist. Die Verjährung ist aber entgegen der Auffassung des BerGer.
+durch die ursprüngliche Klage rechtzeitig gehemmt worden. Dass diese nicht auf
+Zahlung, sondern darauf gerichtet war, die Bekl. zu verurteilen, einen Beschluss zu
+fassen, wonach der Kl. 17.605,99 Euro nebst Zinsen zu zahlen sind, ändert daran
+nichts.
+30 bb) (1) Den verjährungshemmenden Tatbeständen des § 204 I BGB liegt der
+Rechtsgedanke zu Grunde, dass der Gläubiger durch aktives Betreiben seines
+Anspruchs seinen Rechtsverfolgungswillen so deutlich macht, dass der Schuldner
+gewarnt wird und sich auf eine Inanspruchnahme noch nach Ablauf der ursprünglichen
+des Anspruchs gerichtete Leistungsklage zur Hemmung der Verjährung nach § 204 I
+Nr. 1 BGB, sondern auch eine auf Feststellung des Anspruchs gerichtete Klage, die
+Stellung eines Hilfsantrags (BGH, NJW-RR 1994, 514 [515]) oder auch eine Stufenklage
+Demgegenüber wird die Verjährung des Leistungsanspruchs nicht gehemmt durch
+Vorbereitungsmaßnahmen wie eine Klage auf Feststellung des dem Anspruch zu
+Erman/Schmidt-Räntsch, BGB, 14. Aufl., § 204 Rn. 2).
+31 (2) Danach genügte die ursprünglich erhobene Klage zur Hemmung des
+Zahlungsanspruchs. Die mit dieser angestrebte Verurteilung der Bekl. zur Fassung
+eines Beschlusses, die beanspruchte Zahlung zu leisten, zielte anders als die von dem
+BerGer. als Vergleich herangezogene isolierte Auskunftsklage nicht bloß auf die
+Vorbereitung der Zahlung. Sie diente vielmehr dazu, den Zahlungsanspruch
+unmittelbar durchzusetzen. Im Innenverhältnis zwischen den Wohnungseigentümern
+und dem Verwalter ist der Beschluss der Wohnungseigentümer der entscheidende Akt
+für die außergerichtliche Erfüllung des Anspruchs eines Wohnungseigentümers nach
+§ 14 Nr. 4 Hs. 2 WEG. Einen solchen Anspruch darf der Verwalter nicht von sich aus,
+ohne einen Beschluss der Wohnungseigentümer, erfüllen (vgl. LG München I, ZMR
+die Wohnungseigentümer indes einen solchen Beschluss gefasst, ist der Verwalter
+gebunden. Er muss den Beschluss umsetzen und hat kein Recht, die Umsetzung
+2955 = NZM 2012, 685 Rn. 11, 19). Es bedarf nach einem Beschluss der
+Wohnungseigentümer im Normalfall keiner zusätzlichen Durchsetzungsakte des
+Wohnungseigentümers. Der Wohnungseigentümer hat mit dem Beschluss vielmehr
+sein Ziel erreicht. Weder für die Bekl. noch für die übrigen Wohnungseigentümer konnte
+deshalb zweifelhaft sein, dass die Kl. nach der Ablehnung ihrer Forderung durch die
+Wohnungseigentümer mit der ursprünglichen Klage die Zahlung erreichen und nicht
+nur eine Zahlungsklage vorbereiten wollte. Damit hat diese Klage ähnlich wie eine
+Feststellungsklage die Verjährung des Erstattungsanspruchs gehemmt.
+32 3. Anders als das BerGer. meint, kommt auch ein Anspruch der Kl. auf Ersatz der
+Aufwendungen für den Austausch der Wohnungseingangstür in Betracht.
+BGH: * Bereicherungsschuldner bei eigenmächtiger Instandsetzung
+33 a) Aus § 14 Nr. 4 Hs. 2 WEG lässt sich ein solcher Anspruch allerdings nicht ableiten.
+Die Wohnungseingangstür gehört nämlich nicht zum Sondereigentum, sondern zum
+34 b) Insofern kommen aber ein Anspruch auf Aufwendungsersatz aus
+Geschäftsführung ohne Auftrag gem. §§ 683 , 670 BGB oder ein
+Bereicherungsanspruch nach §§ 684 , 812 BGB in Betracht. Die Kl. hat geltend
+gemacht, die alte Wohnungseingangstür habe wegen der durch die Sanierung dicker
+gewordenen Wände nicht mehr gepasst. Mangels abweichender Feststellungen des
+BerGer. ist für das Revisionsverfahren zu unterstellen, dass dieser Vortrag zutrifft.
+Dann aber war die Bekl. verpflichtet, nach Durchführung der beschlossenen Sanierung
+als deren Begleitmaßnahme auch die Wohnungseingangstür auszutauschen. Denn
+ebenso wie die Beseitigung von Schäden am Sondereigentum umfasste diese dann
+auch die Wiederherstellung der Funktionsfähigkeit des Gemeinschaftseigentums.
+Nach dem Vortrag der Kl. entsprach der Austausch dem mutmaßlichen Interesse der
+Bekl., so dass ein Anspruch auf Aufwendungsersatz gegeben wäre. Andernfalls käme
+ein Bereicherungsanspruch nach § 684  BGB in Betracht, weil der Verband den
+Aufwand für diese ihm obliegende Maßnahme erspart hätte.
+35 III. Hinsichtlich der Ansprüche auf Ersatz der Kosten für den Austausch der
+Eingangstür und der Innentüren der Wohnung der Kl. ist die Sache nicht
+entscheidungsreif. Sie ist insoweit unter teilweiser Aufhebung des Berufungsurteils zur
+neuen Verhandlung und Entscheidung an das BerGer. zurückzuverweisen. Hierfür weist
+der Senat auf Folgendes hin:
+36 1. Das AG hat die Voraussetzungen des § 14 Nr. 4 Hs. 2 WEG und eines
+Aufwendungsersatz- oder Bereicherungsanspruchs zwar bejaht. Das BerGer. hat dazu
+aber keine Feststellungen getroffen. Diese sind jetzt nachzuholen.
+37 2. Sollte der Anspruch danach bestehen, wäre er nicht um den Miteigentumsanteil
+der Kl. zu kürzen. Der betroffene Wohnungseigentümer hat sich zwar an den Kosten
+des ihm nach § 14 Nr. 4 Hs. 2 WEG zu leistenden Ersatzes zu beteiligen, aber nicht
+durch Kürzung seines Anspruchs gegen den Verband, sondern durch Umlage in der
+Jahresabrechnung (LG Frankfurt a. M., NJOZ 2014, 1936 = ZWE 2014, 403 [405]; AG
+77; Hügel/Elzer, § 14 Rn. 54; Hogenschurz in Jennißen, § 14 Rn. 33; Kümmel in
+Niedenführ/Kümmel/Vandenhouten, § 14 Rn. 56; Spielbauer/Then, § 14 Rn. 73; Dötsch
+in Timme, § 14 Rn. 211; aM Abramenko in Riecke/Schmid, § 14 Rn. 39). Die Kosten des
+nach § 14 Nr. 4 Hs. 2 WEG zu leistenden Ersatzes sind nach § 16 VII WEG Kosten der
+Verwaltung. Dasselbe gilt für einen Aufwendungsersatz- oder Bereicherungsanspruch
+der Kl. wegen des Austauschs der Wohnungseingangstür.
+Anmerkung
+Das Nadelöhr im Wohnungseigentumsrecht heißt Wohnungseigentümerversammlung.
+Wer eine Abkürzung (und dann Regress) nehmen möchte, erlebt im
+Wohnungseigentumsrecht sein blaues Wunder. Insoweit ist das
+Wohnungseigentumsrecht mit anderen schuldrechtlichen Rechtsgebieten, die die Figur
+der Ersatzvornahme kennen (etwa §§ 536 a, 637 BGB), nicht vergleichbar. Aus der
+lehrreichen Entscheidung des BGH lässt sich am meisten Gewinn ziehen, wenn man
+sich folgende Fallgruppen und sodann den geeigneten „Fahrplan“ klarmacht:
+Erste Fallgruppe: Es steht eine gewöhnliche Instandsetzung an, der betroffene
+Wohnungseigentümer erwägt aber, allein tätig zu werden und die Kosten alsdann
+erstattet zu verlangen. Dem Wohnungseigentümer ist zu empfehlen, sich an den
+Verwalter zu wenden, die Aufnahme der Instandsetzungsthematik auf die
+Tagesordnung zu verlangen und zunächst die Entscheidung der
+Eigentümerversammlung abzuwarten („Nadelöhr“). Denn oberstes Organ einer jeden
+Wohnungseigentümergemeinschaft ist die Eigentümerversammlung. Hier wird der
+Wille der Gemeinschaft gebildet. Wer eigenmächtig tätig wird und später Ersatz
+verlangen möchte, geht den falschen Weg. Das ist im Gesellschaftsrecht nicht anders;
+etwa im GmbH-Recht ist die Gesellschafterversammlung ebenfalls oberstes Organ und
+daher grundsätzlich zunächst einmal mit der Sache zu befassen.
+Zweite Fallgruppe: Es steht eine nicht aufschiebbare Instandsetzung
+(„Pflichtmaßnahme“) an. Das ursprüngliche Ermessen der Eigentümerversammlung
+hat sich auf null reduziert. Auch hier heißt das Nadelöhr zunächst
+Eigentümerversammlung, wenn nicht ausnahmsweise ein Recht zur
+Notgeschäftsführung besteht (§ 21 II WEG). Alle Wohnungseigentümer unterliegen
+kraft Gesetzes einer Mitwirkungspflicht betreffend die Verwaltung des
+gemeinschaftlichen Eigentums (§ 21 I, IV WEG). Diese Mitwirkungspflicht wird
+zuvorderst durch die Stimmabgabe in der Eigentümerversammlung erfüllt. Es handelt
+sich für jeden Wohnungseigentümer um eine Hauptleistungspflicht. Ist die
+Mitwirkungspflicht im Zeitpunkt der Eigentümerversammlung durchsetzbar, stellen
+das Nichterscheinen, die Nichtabgabe der Stimme und die Gegenstimme grundsätzlich
+eine Pflichtverletzung dar. Ein Wohnungseigentümer kann sich für seine fehlerhafte
+Schmid, NZM 2015, 121). Diese Schadensersatzansprüche kann der betroffene
+Wohnungseigentümer selbst geltend machen.
+Variante zur zweiten Fallgruppe: Es steht zwar eine Pflichtmaßnahme an, die
+Instandsetzung ist aber relativ teuer. Einzelne oder viele Wohnungseigentümer können
+oder wollen sie deshalb nicht bezahlen und argumentieren, ihre individuelle
+Opfergrenze sei erreicht. Der betroffene Wohnungseigentümer hat jedoch auch in
+dieser Variante einen Anspruch auf Instandsetzung. Dagegen kann der
+finanzschwache Wohnungseigentümer weder seine fehlende Leistungsfähigkeit noch
+Billigkeitserwägungen wie die „individuelle Opfergrenze“ einwenden. Die Parallelen
+zum allgemeinen Schuld- und zum Gesellschaftsrecht sind: Geld hat man zu haben und
+notfalls muss derjenige sein Wohnungseigentum verkaufen, der nicht mitsanieren kann
+Dritte Fallgruppe: Es steht eine Instandsetzung an, über die die Wohnungseigentümer
+bereits entschieden haben. Ist der betroffene Wohnungseigentümer der Auffassung,
+dass die Eigentümerversammlung fehlerhaft entschieden hat, muss er innerhalb der
+Anfechtungsfrist Anfechtungsklage erheben; andernfalls wird der Beschluss
+bestandskräftig. Nach Eintritt der Bestandskraft ist zu fragen, ob der betroffene
+Wohnungseigentümer einen Anspruch darauf hat, dass der Verwalter die Sache
+nochmals auf die Tagesordnung bringt (dazu Skauradszun, ZWE 2016, 61) und die
+Eigentümerversammlung erneut, in der Sache nun aber anders entscheidet. Das ist
+denkbar, hängt aber davon ab, ob sich die Sachlage grundlegend geändert hat und das
+Ermessen der Eigentümerversammlung nun auf null reduziert ist.
+Vierte Fallgruppe: Wurde die Maßnahme beschlossen, aber nicht durchgeführt, richtet
+sich ein etwaiger Bereicherungsanspruch gegen die Gemeinschaft. Denn zu diesem
+Zeitpunkt ist das „Nadelöhr“ bereits durchschritten worden.
+Professor Dr. Dominik Skauradszun, Fulda

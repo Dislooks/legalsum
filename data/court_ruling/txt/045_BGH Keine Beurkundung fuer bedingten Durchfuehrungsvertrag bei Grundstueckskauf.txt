@@ -1,0 +1,377 @@
+Grundstückskauf
+* Keine Beurkundung für bedingten Durchführungsvertrag bei Grundstückskauf
+BGB § 311 b I 1; BauGB § 12 I
+1.Dass ein beurkundungsbedürftiges Grundstücksgeschäft unter der Bedingung des
+Zustandekommens oder des Fortbestands eines anderen Rechtsgeschäfts
+vorgenommen wird, rechtfertigt für sich genommen nicht die Annahme, dass die
+Rechtsgeschäfte nach dem Willen der Parteien eine Einheit bilden und daher beide
+beurkundungsbedürftig sind. Eine Geschäftseinheit liegt nur vor, wenn Teile des
+anderen Rechtsgeschäfts Inhalt des Grundstücksgeschäfts sein sollen.
+2.Ein notarieller Vertrag, durch den sich jemand verpflichtet, ein Grundstück an eine
+Gemeinde zu übereignen, ist daher nicht deshalb formunwirksam, weil er unter der
+(beurkundeten) aufschiebenden Bedingung der Wirksamkeit eines nicht
+beurkundeten Durchführungsvertrags im Sinne von § 12 I BauGB steht.
+3.Die Verjährungsvorschrift des § 196 BGB findet auf Besitzübertragungsansprüche
+entsprechende Anwendung, wenn der Gläubiger die Besitzeinräumung neben der
+Verschaffung des Eigentums beanspruchen kann, wie dies etwa bei einem
+Grundstückskaufvertrag der Fall ist.
+BGH, Urteil vom 29.1.2021 – V ZR 139/19
+Zum Sachverhalt
+Mit notariellem Vertrag vom 11.9.2007 (nachfolgend: Grundstücksvertrag)
+verpflichtete sich die Bekl. zu 1, der klagenden Gemeinde zwei noch zu vermessende
+Teilflächen eines näher bezeichneten Grundstücks zu übertragen. Der Vertrag wurde
+„aufschiebend bedingt“ geschlossen und sollte erst mit „Rechtskraft“ des als Anlage 2
+zur Urkunde genommenen vorhabenbezogenen Bebauungsplans sowie mit
+„Rechtskraft“ des als Anlage 3 zur Urkunde genommenen Durchführungsvertrags zu
+diesem Bebauungsplan wirksam werden. Der Durchführungsvertrag wurde – ohne
+notarielle Beurkundung – am 11.12.2007 geschlossen. Er regelt insbesondere die
+Verpflichtung der Bekl. zu 1 zur Erschließung, Planung, Vermessung und zur
+Herstellung der Infrastruktur in dem Plangebiet. Ebenfalls am 11.12.2007 beschloss
+der Rat der Kl. den vorhabenbezogenen Bebauungsplan. Dessen Bekanntmachung
+erfolgte am 9.5.2008 im Gemeindeblatt. Später übertrug die Bekl. zu 1 einen Teil der
+Grundstücksflächen, die Gegenstand des Grundstücksvertrags sind, auf die Bekl. zu 2.
+Diese wurde 2012 als Eigentümerin in das Grundbuch eingetragen.
+Mit der Klage verlangte die Kl. – soweit für das Revisionsverfahren von Interesse – von
+der Bekl. zu 1 Herausgabe und Übereignung von näher bezeichneten Grundstücken, die
+nach der Neuvermessung einer in dem Grundstücksvertrag aufgeführten Teilfläche
+entstanden sind (Klageantrag zu 1). Zudem verlangte sie mit dem Klageantrag zu 2 von
+beiden Bekl. Herausgabe und Übereignung einer Teilfläche des Grundstücks, das die
+Bekl. zu 1 auf die Bekl. zu 2 übertragen hat.
+Das LG Aachen (Urt. v. 9.11.2018 – 8 O 168/18) hat die Klage abgewiesen. Die
+Berufung der Kl. ist vor dem OLG Köln (MittBayNot 2019, 615) ohne Erfolg geblieben.
+Mit der vom Senat zugelassenen Revision, deren Zurückweisung die Bekl. beantragten,
+verfolgte die Kl. ihre Ansprüche auf Herausgabe und Übereignung der Grundstücke
+weiter. Das Rechtsmittel hatte Erfolg und führte zur Aufhebung und Zurückverweisung
+der Sache an das BerGer.
+Aus den Gründen
+3I. Das BerGer. (…) meint, der Kl. stünden keine Ansprüche aus dem
+Grundstücksvertrag gegen die Bekl. zu 1 und in der Folge auch keine Ansprüche gegen
+die Bekl. zu 2 zu.
+Verjährt seien die Ansprüche allerdings nicht. Die zehnjährige Verjährungsfrist habe
+erst mit der Bekanntmachung der Satzung am 9.5.2008 begonnen. Die in dem Vertrag
+für die Übereignungspflicht vorausgesetzte aufschiebende Bedingung der
+„Rechtskraft“ des vorhabenbezogenen Bebauungsplans sei erst zu diesem Zeitpunkt
+eingetreten. Nach allgemeinem Sprachgebrauch werde eine Entscheidung oder
+Regelung als rechtskräftig bezeichnet, wenn sie gültig, endgültig, verbindlich und
+unanfechtbar sei. Gemäß § 10 III 4 BauGB werde der Bebauungsplan erst durch seine
+Bekanntmachung rechtsverbindlich. Die am 7.5.2018 bei Gericht eingegangene und
+auch demnächst zugestellte Klage habe deshalb zu einer Verjährungshemmung
+geführt.
+4Ansprüche aus dem Grundstücksvertrag scheiterten aber daran, dass die zweite
+aufschiebende Bedingung – die „Rechtskraft“ des Durchführungsvertrags – nicht
+eingetreten sei. Dieser sei nämlich gem. § 125  BGB wegen eines Formmangels
+nichtig. Zwischen Grundstücks- und Durchführungsvertrag bestehe eine rechtliche
+Einheit, die zur Beurkundungsbedürftigkeit auch des Durchführungsvertrags führe, weil
+der Übertragungsvertrag im Wege der aufschiebenden Bedingung von dessen
+Wirksamkeit abhängen solle. Eine gewollte Abhängigkeit könne kaum deutlicher zum
+Ausdruck gebracht werden als durch eine solche Bedingung. Eine Verknüpfung und
+Abhängigkeit des Grundstücksvertrags von dem Durchführungsvertrag im Sinne einer
+rechtlichen Einheit beider Verträge liege daher schon nach dem Wortlaut des
+Vertragstextes eindeutig vor.
+5II. Dies hält rechtlicher Nachprüfung nicht stand. Mit der von dem BerGer. gegebenen
+Begründung lassen sich die von der Kl. geltend gemachten Ansprüche nicht verneinen.
+61. Richtig ist allerdings der Ausgangspunkt des BerGer. Die in dem
+Grundstücksübertragungsvertrag enthaltene Verpflichtung der Bekl. zu 1, die im
+Klageantrag zu 1 genannten Grundstücke an die Kl. herauszugeben und an diese zu
+übereignen, wäre nicht wirksam, wenn zwischen dem Grundstücksvertrag und dem
+Durchführungsvertrag eine rechtliche Einheit bestünde. Dann wäre auch der
+Durchführungsvertrag nach § 311 b I 1 BGB beurkundungsbedürftig und mangels
+Beurkundung gem. § 125  BGB formnichtig. In der Folge fehlte es an der in dem
+Grundstücksvertrag vereinbarten aufschiebenden Bedingung der „Rechtskraft“ des
+Durchführungsvertrags. Da nur gerichtliche Entscheidungen, nicht aber Verträge in
+Rechtskraft erwachsen können, kann mit Rechtskraft bei der gebotenen
+interessengerechten Auslegung nur die Wirksamkeit des Durchführungsvertrags
+gemeint sein. Im Übrigen wäre bei einer rechtlichen Einheit beider Verträge nicht nur
+die Bedingung nicht eingetreten, sondern der Grundstücksvertrag selbst, aus dem die
+Kl. ihre Ansprüche herleitet, wäre gem. §§ 125 , 139 BGB nichtig und der
+Klageantrag zu 1 auch deshalb abzuweisen.
+72. Die Feststellungen des BerGer. tragen aber seine Annahme nicht, der – nicht
+beurkundete und als solcher nicht beurkundungsbedürftige (vgl. § 11 III BauGB) –
+Durchführungsvertrag und der Grundstücksvertrag bildeten eine rechtliche Einheit, so
+dass nach § 311 b I 1 BGB auch der Durchführungsvertrag hätte beurkundet werden
+müssen.
+8a) Nach § 311 b I 1 BGB bedarf ein Vertrag, durch den sich der eine Teil verpflichtet,
+das Eigentum an einem
+BGH: * Keine Beurkundung für bedingten Durchführungsvertrag bei
+Grundstück zu übertragen oder zu erwerben, der notariellen Beurkundung. Dem
+Formzwang unterliegt der „Vertrag“, das heißt alle Vereinbarungen, aus denen sich
+nach dem Willen der Parteien das schuldrechtliche Veräußerungsgeschäft
+zusammensetzt (stRspr, vgl. etwa Senat LM Nr. 3 zu § 313 BGB; BGHZ 63, 359 [361] =
+auch schon RGZ 103, 295 [297]; RGZ 145, 246 [247]). Es muss alles beurkundet werden,
+was nach dem Willen der Parteien Inhalt des schuldrechtlichen
+Veräußerungsgeschäfts werden soll. Somit bedürfen bei (einheitlichen)
+Rechtsgeschäften, die sich aus beurkundungsbedürftigen und für sich genommen
+nicht beurkundungsbedürftigen Teilen zusammensetzen, auch letztere der
+Beurkundung.
+9b) Ob ein einheitliches und damit insgesamt nach § 311 b I 1 BGB
+beurkundungsbedürftiges Rechtsgeschäft vorliegt, richtet sich nach dem Willen der
+Vertragsparteien, namentlich nach der von ihnen gewollten Verknüpfung des
+Grundstücksgeschäfts mit dem für sich genommen nicht beurkundungsbedürftigen
+Rechtsgeschäft, und unterliegt tatrichterlicher Würdigung unter Berücksichtigung aller
+15).
+10c) Werden – wie hier – zwei Verträge äußerlich getrennt voneinander abgeschlossen,
+begründet dies eine tatsächliche Vermutung dafür, dass sie nach dem Parteiwillen
+auch unabhängig voneinander gewollt sind und dies durch die Trennung zum Ausdruck
+1983; BGH NJW-RR 1990, 340 [341]). Diese Vermutung kann zwar entkräftet werden.
+Hierzu bedarf es aber genügender Anhaltspunkte für die Annahme, dass die Verträge
+ungeachtet der äußerlichen Trennung nach dem Willen der Parteien eine rechtliche
+Einheit bilden sollten (vgl. Senat NJW-RR 1993, 1421 [1422]; vgl. auch BGH NJW-RR
+2003, 1565 [1566]).
+11d) Dass ein beurkundungsbedürftiges Grundstücksgeschäft unter der Bedingung
+des Zustandekommens oder des Fortbestands eines anderen Rechtsgeschäfts
+vorgenommen wird, rechtfertigt für sich genommen nicht die Annahme, dass die
+Rechtsgeschäfte nach dem Willen der Parteien eine Einheit bilden und daher beide
+beurkundungsbedürftig sind. Eine Geschäftseinheit liegt nur vor, wenn Teile des
+anderen Rechtsgeschäfts Inhalt des Grundstücksgeschäfts sein sollen.
+12aa) Der BGH hat allerdings wiederholt formuliert, dass an sich selbstständige
+Vereinbarungen jedenfalls dann ein einheitliches Rechtsgeschäft darstellen, wenn sie
+nach den Vorstellungen der Beteiligten in einem solchen rechtlichen Zusammenhang
+stehen, dass sie nicht jeweils für sich allein gelten, sondern miteinander „stehen und
+186, 345 = NJOZ 2011, 764 Rn. 8). Eine wechselseitige Abhängigkeit ist hierfür nicht
+erforderlich; vielmehr reicht es aus, wenn das Grundstücksgeschäft aus Sicht der
+Vertragspartner untrennbar von dem anderen Geschäft abhängt (vgl. Senat BWNotZ
+13bb) Daraus darf aber nicht geschlossen werden, wie es das BerGer. getan hat, dass
+eine solche Abhängigkeit schon dann besteht, wenn die Vertragspartner das
+Grundstücksgeschäft unter die aufschiebende Bedingung der Wirksamkeit eines
+anderen Vertrags – hier des Durchführungsvertrags – stellen.
+14(1) Für die Frage, ob zwei Vereinbarungen nach dem Willen der Vertragsparteien eine
+rechtliche Einheit bilden, kommt es nicht auf die rechtstechnische Art der Verknüpfung
+an, also darauf, ob das Grundstücksgeschäft von dem Zustandekommen oder
+Fortbestand des anderen Geschäfts durch eine aufschiebende oder auflösende
+Bedingung abhängig gemacht wird, ob ein Rücktrittsrecht vereinbart oder ob das
+andere Geschäft als „Geschäftsgrundlage“ des Grundstücksgeschäfts aufgeführt wird
+(zutr. Staudinger/Schumacher, BGB, Neubearb. 2018, § 311 b Rn. 176;
+MüKoBGB/Ruhwinkel, 8. Aufl., § 311 b Rn. 60; Erman/Grziwotz, BGB, 16. Aufl., § 311 b
+BGB Rn. 53; Soergel/Mayer, BGB, 13. Aufl., § 311 b Rn. 132, 134;
+BeckOGK/Schreindorfer, 1.12.2020, § 311 b BGB Rn. 187; jurisPK-BGB/Ludwig, 9. Aufl.,
+§ 311 b Rn. 235 f.; Weber RNotZ 2016, 377 [379]; aA Korte DNotZ 1984, 3 [7 ff.]; ders.,
+HdB der Beurkundung von Grundstücksgeschäften, 1990, Kap. 3 Rn. 17 ff.). So wie
+einerseits die Vereinbarung eines Rücktrittsrechts die Annahme der rechtlichen Einheit
+zweier Vereinbarungen nicht von vornherein ausschließt (vgl. etwa BGHZ 186, 345 =
+NJOZ 2011, 764 Rn. 9; BGH NJW-RR 2009, 953 = WM 2009, 1338 Rn. 17; NJW-RR 1990,
+rechtlichen Einheit auszugehen, wenn der Abschluss oder Fortbestand der einen
+Vereinbarung zur Bedingung der anderen gemacht oder für den Fall des
+Nichtzustandekommens oder der Beendigung einer Vereinbarung das Recht zum
+Rücktritt von der anderen vorgesehen wird.
+15(2) Maßgeblich ist vielmehr, ob Teile des für sich genommenen nicht
+beurkundungsbedürftigen Vertrags Inhalt des Grundstücksgeschäfts werden sollen.
+Beurkundungsbedürftig ist nach § 311 b I 1 BGB nämlich der gesamte Inhalt der
+getroffenen Vereinbarungen des Grundstücksgeschäfts. Nicht beurkundungsbedürftig
+sind dagegen Erklärungen, die keinen Regelungscharakter haben, wie etwa vor
+Vertragsschluss mitgeteilte Informationen oder die Motive der Parteien für den
+Vertragsschluss (vgl. MüKoBGB/Ruhwinkel, § 311 b Rn. 54; Soergel/J. Mayer, § 311 b
+Rn. 94; Staudinger/Schumacher, § 311 b Rn. 155; BeckOGK/Schreindorfer, 1.6.2020, § 311 b BGB Rn. 151). Dies folgt daraus, dass sich der Vertrag nur aus den
+Willenserklärungen der Vertragsparteien zusammensetzt, die Regelungscharakter
+haben. Nur hierauf beziehen sich die Schutzzwecke des Formgebots und die
+Belehrungspflichten des Notars (vgl. Senat NJW-RR 2006, 1292 Rn. 12 f.).
+Entscheidend ist folglich, welche Vorstellungen die Parteien mit der von ihnen
+gewählten Verknüpfung verbinden. Soll das Zustandekommen des
+Grundstücksgeschäfts davon abhängig sein, dass ein anderes, für sich genommen
+nicht beurkundungsbedürftiges Geschäft lediglich zustande kommt bzw. fortbesteht,
+so ist es im Hinblick auf den Schutzzweck des Beurkundungserfordernisses
+ausreichend, dass diese Verknüpfung, hier also die Bedingung, beurkundet wird (vgl.
+BGH: * Keine Beurkundung für bedingten Durchführungsvertrag bei
+1781; NJW-RR 2003, 1565 [1567]). Denn der Inhalt der von den Parteien getroffenen
+Regelung besteht nur in dieser Verknüpfung. Haben sie hingegen den Willen, die
+Verträge inhaltlich miteinander zu verknüpfen, sollen also Regelungen des
+Grundstücksgeschäfts nur gemeinsam mit Regelungen des anderen Vertrags gelten,
+so liegt ein einheitliches Rechtsgeschäft vor, das insgesamt beurkundungsbedürftig ist
+(zutr. Staudinger/Schumacher, § 311 b Rn. 176; vgl. auch Keim RNotZ 2005, 102 [104];
+ähnl. Weber RNotZ 2016, 377 [380 ff.]).
+16e) Ein notarieller Vertrag, durch den sich jemand verpflichtet, ein Grundstück an eine
+Gemeinde zu übereignen, ist daher nicht deshalb formunwirksam, weil er unter der
+(beurkundeten) aufschiebenden Bedingung der Wirksamkeit eines nicht beurkundeten
+Durchführungsvertrags iSv § 12 I BauGB steht.
+17f) Da hier die aufschiebende Bedingung, unter der der Grundstücksvertrag stand,
+beurkundet worden ist, hängt die – unter dem Gesichtspunkt eines einheitlichen
+Rechtsgeschäfts zu prüfende – Formbedürftigkeit des Durchführungsvertrags davon
+ab, ob die hierfür erforderliche inhaltliche Verknüpfung zwischen beiden Verträgen
+vorliegt, ob also die Übertragung der Grundstücksflächen nach dem Willen der
+Vertragspartner – über die mittels der Bedingung verbundene Verknüpfung hinaus –
+von dem Inhalt der Regelungen des Durchführungsvertrags abhängig war. Dies hat das
+BerGer. – von seinem Ausgangspunkt folgerichtig – nicht geprüft.
+183. Die Abweisung des (allein) gegen die Bekl. zu 1 gerichteten Klageantrags zu 1
+stellt sich nicht aus anderen Gründen als richtig dar (§ 561 ZPO).
+19a) Der Durchführungsvertrag ist auf der Grundlage der bisher getroffenen
+Feststellungen des BerGer. nicht bereits für sich genommen formnichtig mit der Folge,
+dass die in dem Grundstücksvertrag für die Ansprüche auf Übereignung und Übergabe
+vorausgesetzte Wirksamkeit („Rechtskraft“) des Durchführungsvertrags fehlen würde.
+20aa) Ein Durchführungsvertrag iSd § 12 I BauGB unterliegt als öffentlich-rechtlicher
+Vertrag und Unterfall desstädtebaulichen Vertrags zwischen der Gemeinde und dem
+Vorhabenträger grundsätzlich nur dem Erfordernis der Schriftform (§ 11 III BauGB und
+1207 = ZfIR 2006, 770 Rn. 8, zu § 7 BauGBMaßnG aF). Die Formvorschriften des BGB
+– mithin auch § 311 b I 1 BGB – finden jedoch nach § 11 III BauGB, §§ 57, 62 
+NRWVwVfG entsprechende Anwendung (vgl. BVerwG DNotZ 2010, 549 [550] = NJOZ
+2011, 988; BVerwGE 70, 247 [254 f.] = NVwZ 1985, 346; BT-Drs. 13/6392, 50).
+21bb) Hier wäre der Durchführungsvertrag formbedürftig, wenn er eine Verpflichtung
+der Bekl. zu 1 enthielte, Grundstücke auf die Kl. zu übertragen. Aus § 1 Nr. 2 des
+Durchführungsvertrags ergibt sich eine solche Verpflichtung nicht. Ausweislich des als
+Anlage K 3 zur Akte gereichten Durchführungsvertrags, der von dem BerGer. im
+Zurückweisungsbeschluss in Bezug genommen worden ist, hat der Investor „alle
+öffentlichen Grundstücksflächen innerhalb des Plangebiets auf die Gemeinde
+übertragen“. Eine beurkundungspflichtige Verpflichtung ist mit dieser auf die
+Vergangenheit bezogenen Erklärung nicht verbunden.
+22An die entgegenstehende Feststellung des Vertragswortlauts durch das BerGer. in
+dem Zurückweisungsbeschluss, wonach die Bekl. zu 1 nach § 1 Nr. 2 des
+Durchführungsvertrags die Grundstücksflächen auf die Kl. „zu übertragen“ habe, ist der
+Senat nicht gebunden, auch wenn kein Berichtigungsantrag gem. § 320 ZPO gestellt
+wurde. Zwar ist diese Vorschrift entgegen der von dem Prozessbevollmächtigten der
+Kl. in der mündlichen Verhandlung vertretenen Auffassung nach der ständigen
+Rechtsprechung des BGH auf Endentscheidungen (entsprechend) anwendbar, die als
+möglicher Gegenstand einer Rechtsbeschwerde oder – wie hier – einer
+Nichtzulassungsbeschwerde einer Sachverhaltsdarstellung nebst rechtlicher
+Begründung bedürfen und in einem Beschlussverfahren ergehen (BGH NZG 2010, 669
+mwN). Aus dem Urteil des I. Zivilsenats des BGH vom 8.11.2007 (NJW-RR 2008, 1566
+Rn. 15 f.) ergibt sich nichts anderes, da es hierin (nur) um die fehlende
+Tatbestandswirkung (§ 314 ZPO) eines im schriftlichen Verfahren ergangenen
+erstinstanzlichen Urteils geht. Beweiskraft kommt den tatbestandlichen
+Feststellungen in einem Berufungsurteil oder einem Zurückweisungsbeschluss gem. § 522 II ZPO aber nicht zu, wenn und soweit sie Widersprüche, Lücken oder Unklarheiten
+aufweisen, die sich aus der Entscheidung selbst ergeben, wenn sie in Widerspruch zu
+einem konkret in Bezug genommenen schriftsätzlichen Vorbringen bzw. hier zu einer
+konkret in Bezug genommenen Anlage stehen (vgl. BGH NZG 2015, 1432 = WM 2015,
+1562 Rn. 48 mwN).
+23b) Den von der Kl. mit dem Klageantrag zu 1 geltend gemachten Ansprüchen steht
+auch nicht die von der Bekl. zu 1 erhobene Einrede der Verjährung (§ 214 BGB)
+entgegen. Hiervon geht das BerGer. im Ergebnis zutreffend aus. Insoweit ist zwischen
+dem Anspruch auf Übereignung und dem Anspruch auf Besitzverschaffung zu
+unterscheiden.
+24aa) Soweit es um den Anspruch auf Übereignung der näher bezeichneten
+Grundstücke geht, richtet sich die Verjährung nach § 196 BGB und beträgt zehn Jahre
+beginnend mit der Entstehung des Übereignungsanspruchs. Entgegen der Auffassung
+der Revision ist der Verjährungsbeginn nicht schon mit dem Ratsbeschluss am
+11.12.2007 eingetreten, sondern – frühestens – mit der Bekanntmachung des
+Bebauungsplans am 9.5.2008, durch die er gem. § 10 III 4 BauGB in Kraft getreten und
+damit „rechtskräftig“ geworden ist. Deshalb hat die am 7.5.2008 bei Gericht
+eingegangene und demnächst zugestellte (§ 167 ZPO) Klage die Verjährung gehemmt
+(§ 204 I Nr. 1 BGB), wovon auch das BerGer. ausgeht. Soweit die Revisionserwiderung
+rügt, das BerGer. habe nur unvollständig den Auslegungsstoff für das von den Parteien
+Gewollte berücksichtigt, weil es sich nicht mit dem Schreiben der Kl. vom 9.10.2007
+befasst habe, in dem deren Bürgermeister ausführt, der Durchführungsvertrag werde
+„mit dem Inkrafttreten der Satzung“ wirksam, wofür „noch der formale
+Satzungsbeschluss durch den Gemeinderat (beabsichtigt in der nächsten Sitzung am
+11.12.2007) erforderlich“ sei, bleibt das ohne Erfolg. Ohne dass es weiterer
+Feststellungen bedürfte, kann bei verständiger Würdigung des
+BGH: * Keine Beurkundung für bedingten Durchführungsvertrag bei
+Schreibens ausgeschlossen werden, dass die Kl. entgegen § 10 III 4 BauGB den
+Bebauungsplan bereits vor der öffentlichen Bekanntmachung als verbindlich und damit
+als „rechtskräftig“ im Sinne des Grundstücksvertrags ansehen wollte. Vielmehr sollten
+erkennbar nur die nächsten Verfahrensschritte der Kl. aufgezeigt werden.
+25bb) Auch der mit dem Klageantrag zu 1 geltend gemachte Anspruch auf Herausgabe
+der Grundstücke ist nicht verjährt. Die Verjährungsvorschrift des § 196 BGB findet auf
+Besitzübertragungsansprüche entsprechende Anwendung, wenn der Gläubiger die
+Besitzeinräumung neben der Verschaffung des Eigentums beanspruchen kann, wie
+dies etwa bei einem Grundstückskaufvertrag und auch hier der Fall ist.
+26(1) Nach dem Wortlaut des § 196 BGB gilt die hierin angeordnete Verjährungsfrist
+von zehn Jahren allerdings – soweit hier von Interesse – nur für „Ansprüche auf
+Übertragung des Eigentums an einem Grundstück“. Ob die Vorschrift auf Ansprüche
+auf Verschaffung des Besitzes an Grundstücken, die nicht isoliert, sondern – wie hier
+– neben einem Übereignungsanspruch geltend gemacht werden, (entsprechende)
+Anwendung findet, wird unterschiedlich beurteilt (verneinend Palandt/Ellenberger,
+BGB, 80. Aufl., § 196 Rn. 6; Staudinger/Peters/Jacoby, BGB, Neubearb. 2019, § 196 Rn.
+7; bejahend MüKoBGB/Grothe, 8. Aufl., § 196 Rn. 6; Erman/Schmidt-Räntsch, BGB, 16.
+Aufl., § 196 Rn. 9; Budzikiewicz in NK-BGB, 4. Aufl., § 196 Rn. 21;
+Prütting/Deppenkemper, BGB, 15. Aufl., § 196 Rn. 5; BeckOK BGB/Henrich, 1.11.2020,
+§ 196 Rn. 9).
+27(2) Richtig ist die analoge Anwendung des § 196 BGB. Nach der Gegenauffassung
+würde der Anspruch auf Übergabe des Grundstücks in der Regelfrist von drei Jahren (§ 195 BGB) verjähren, so dass die Situation entstehen könnte, dass der
+Eigentumsverschaffungsanspruch gem. § 196 BGB noch nicht verjährt ist, der
+begleitende Besitzverschaffungsanspruch hingegen schon. Die Nichtanwendung von
+§ 196 BGB würde den Gläubiger deshalb dazu zwingen, erst die Verschaffung des
+Eigentums einzuklagen, um sich nach Vollstreckung dieses Anspruchs aus dem
+Eigentum den Besitz an der Sache zu verschaffen. Das entspricht nicht den
+Vorstellungen des Gesetzgebers, der zur Vermeidung von Wertungswidersprüchen
+auch den Anspruch auf die Gegenleistung in die lange Verjährung des § 196 BGB
+einbezogen hat (vgl. Erman/Schmidt-Räntsch, § 196 Rn. 9). Sähe man dies anders,
+müsste erwogen werden, dem Schuldner die Erhebung der Verjährungseinrede
+hinsichtlich des Übergabeanspruchs als treuwidrig (§ 242 BGB) zu verwehren.
+Sachgerechter ist demgegenüber die entsprechende Anwendung von § 196 BGB (so
+auch Budzikiewicz in NK-BGB, § 196 Rn. 21; MüKoBGB/Grothe, § 196 Rn. 6).
+284. Erfolg hat die Revision auch insoweit, als das BerGer. die Berufung der Kl. gegen
+die Abweisung des gegen die Bekl. zu 1 und 2 gerichteten Klageantrags zu 2
+zurückgewiesen hat.
+29a) Entgegen der Auffassung der Revision liegt der absolute Revisionsgrund des § 547 Nr. 6 ZPO allerdings nicht vor. Das BerGer. verweist in der angegriffenen
+Entscheidung darauf, dass die Klage gegen die Bekl. zu 2 nicht begründet sein könne,
+weil es bereits an einem Anspruch gegen die Bekl. zu 1 fehle. Bezogen auf die Bekl. zu
+1 sollten die Gründe für die Abweisung des Klageantrags zu 1 erkennbar entsprechend
+gelten. Damit ist der Zurückweisungsbeschluss auch insoweit mit Gründen versehen.
+30b) Soweit es die Bekl. zu 1 betrifft, wirkt sich der oben dargelegte Rechtsfehler des
+BerGer. bei der Prüfung des Klageantrags zu 1 auch auf den Klageantrag zu 2 aus. Ist
+der Grundstücksvertrag wirksam und sind die beiden in dem Vertrag vereinbarten
+aufschiebenden Bedingungen eingetreten, steht der Kl. auf der Grundlage der
+bisherigen Feststellungen des BerGer. auch ein Anspruch auf Übereignung bzw.
+Herausgabe der in dem Klageantrag zu 2 aufgeführten Grundstücksfläche zu. Einem
+solchen Anspruch steht nicht entgegen, dass das Grundstück, auf dem sich die
+Teilfläche befindet, zwischenzeitlich auf die Bekl. zu 2 übertragen wurde. Dass der
+Bekl. zu 1 die Erfüllung der in dem Grundstücksvertrag auferlegten Pflichten gem. § 275 I und II BGB unmöglich ist, ist nicht dargetan.
+31c) Es ist zudem nicht von vornherein ausgeschlossen, dass die Kl. (auch) gegen die
+Bekl. zu 2 den mit dem Klageantrag zu 2 geltend gemachten Anspruch auf Übereignung
+und Herausgabe der näher bezeichneten Grundstücksfläche hat, obwohl diese nicht
+ihre Vertragspartnerin ist. Ein solcher Anspruch folgt allerdings nicht aus dem
+Anfechtungsgesetz, auf das die Kl. nach den Feststellungen des BerGer. die
+Inanspruchnahme der Bekl. zu 2 in den Tatsacheninstanzen gestützt hat. Abgesehen
+davon, dass der Gläubiger gem. § 11 AnfG nur Duldung der Zwangsvollstreckung, nicht
+jedoch Übereignung von vermeintlich anfechtbar erworbenen Gegenständen verlangen
+kann, fehlt es bereits, wie die Revisionserwiderung zu Recht geltend macht, an einem
+Vollstreckungstitel iSd § 2 AnfG; zudem kommen nur Zahlungstitel als geeignete Titel
+aber deliktische Ansprüche der Kl. gegen die Bekl. zu 2.
+32III. Das Berufungsurteil kann danach keinen Bestand haben. Die Sache ist nicht zur
+Endentscheidung reif, weil weitere Feststellungen zu treffen sind. Sie ist daher zur
+Verhandlung und neuen Entscheidung an das BerGer. zurückzuverweisen (§§ 562 I,
+563 I ZPO).
+33Für das weitere Verfahren weist der Senat auf Folgendes hin:
+341. Die Frage, ob eine inhaltliche Abhängigkeit des Grundstücksübertragungsvertrags
+von dem Durchführungsvertrag gegeben und deshalb die Annahme einer
+rechtlichenEinheit im Sinne des Formgebots gerechtfertigt ist, bedarf einer erneuten
+Würdigung des BerGer. Zur Annahme einer rechtlichen Einheit genügt es nicht, dass
+ein enger zeitlicher und wirtschaftlicher Zusammenhang zwischen den Geschäften
+besteht oder der Durchführungsvertrag Beweggrund für den Abschluss des
+Grundstücksüberlassungsvertrags gewesen sein mag. Vielmehr wird das BerGer. unter
+Berücksichtigung evtl. ergänzenden Vortrags der Parteien zu prüfen haben, ob der
+Durchführungsvertrag Regelungen enthält, die zugleich das Grundstücksgeschäft
+näher ausgestalten und daher nach dem Willen der Vertragspartner auch zu dessen
+Inhalt zählen.
+352. Auf die Einheit der beiden Verträge käme es nicht an, wenn der
+Durchführungsvertrag als solcher aus den von
+BGH: * Keine Beurkundung für bedingten Durchführungsvertrag bei
+den Bekl. mit der Gegenrüge erhobenen Gesichtspunkten formnichtig wäre. Sie
+machen geltend, die Formbedürftigkeit folge aus § 14 Nr. 3 des Durchführungsvertrags,
+wonach die Gemeinde berechtigt ist, Baugrundstücke namens und im Auftrag des
+Investors zum Richtpreis an dritte Bauwillige zu veräußern, sofern die Bekl. zu 1 die
+innerhalb des Plangebiets gelegenen Baugrundstücke nicht innerhalb von fünf
+Kalenderjahren nach dem Tag der Abnahme der Erschließungsanlagen an dritte
+Bauwillige zur zeitnahen Bebauung veräußert hat. Diesem Einwand wird das BerGer. in
+dem neuen Berufungsverfahren gegebenenfalls nachzugehen haben.
+36a) Hierbei sind die Grundsätze zu beachten, die der BGH für die Erteilung einer
+Vollmacht zur Grundstücksveräußerung aufgestellt hat. Zwar bedarf die Erteilung einer
+Vollmacht grundsätzlich nicht der Form, welche für das Rechtsgeschäft bestimmt ist,
+auf das sich die Vollmacht bezieht (§ 167 II BGB). Nach ständiger Rechtsprechung
+unterliegt die Vollmacht zur Veräußerung eines Grundstücks aber dann dem
+Formzwang des § 311 b  BGB, wenn ihre Erteilung sich nur als das äußere Gewand
+darstellt, in das die Verpflichtung zur Eigentumsübertragung eingekleidet worden ist.
+Formbedürftig ist eine Vollmacht zur Grundstücksveräußerung ferner, wenn sie
+unwiderruflich ist (vgl. zum Ganzen Senat BWNotZ 70, 180 = WM 1970, 1294 = BeckRS
+37b) Selbst wenn davon auszugehen wäre, dass es sich insoweit um eine
+beurkundungsbedürftige Verpflichtung der Bekl. zu 1 iSd § 311 b I 1 BGB handelte,
+führte der Formverstoß aufgrund der in § 17 Nr. 5 enthaltenen salvatorischen Klausel
+nicht ohne Weiteres zur Gesamtnichtigkeit des Durchführungsvertrags. Die
+Erhaltungsklausel, mit welcher die dispositive Regelung des § 139 BGB abbedungen
+worden ist, schließt eine Gesamtnichtigkeit zwar nicht aus, führt aber zu einer
+Umkehrung der Vermutung des § 139 BGB. Die Nichtigkeit des gesamten Vertrags tritt
+nur dann ein, wenn die Aufrechterhaltung des Restgeschäfts trotz der salvatorischen
+Klausel im Einzelfall durch den durch Vertragsauslegung zu ermittelnden Parteiwillen
+nicht mehr getragen wird. Dies kommt insbesondere in Betracht, wenn nicht nur eine
+Nebenabrede, sondern eine wesentliche Vertragsbestimmung unwirksam ist und durch
+die Teilnichtigkeit der Gesamtcharakter des Vertrags verändert würde (vgl. BGH NJW
+2010, 1660 Rn. 8 mwN). Zu diesem in den Vorinstanzen nicht erörterten Punkt hat das
+BerGer. bisher keine Feststellungen getroffen.
+383. Hinsichtlich des Klageantrags zu 2 wird das BerGer. gegebenenfalls dem Vortrag
+der Bekl. nachzugehen haben, dass ein Teilbereich der von diesem Antrag erfassten
+Fläche nicht Gegenstand des Grundstücksvertrags sei. Unabhängig davon gibt die
+Zurückverweisung der Kl. Gelegenheit, die Fassung ihres Klageantrags zu 2
+anzupassen. Die Veräußerung einzelner Grundstücke an die Bekl. zu 2 führt zwar
+grundsätzlich nicht zur Unmöglichkeit, die Grundstücke an die Kl. zu übereignen. Zur
+Bewilligung der Eintragung der Kl. in das Grundbuch, die die Kl. ebenfalls verlangt, ist
+die Bekl. zu 1 als Nichteigentümerin aber nicht berechtigt (vgl. zur Antragstellung bei
+einem Eigentumswechsel auch Senat DNotZ 2018, 686 = NJOZ 2018, 1612 Rn. 10 ff.).
+Anmerkung der Redaktion
+Notarhaftung wegen Beurkundung unbefristeter Fortgeltungsklauseln bei

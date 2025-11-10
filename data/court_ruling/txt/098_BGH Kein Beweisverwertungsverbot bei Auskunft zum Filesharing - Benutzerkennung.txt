@@ -1,0 +1,202 @@
+Benutzerkennung
+Kein Beweisverwertungsverbot bei Auskunft zum Filesharing -
+Benutzerkennung
+GRCh Art. 7, 17 II; RL 2004/48/EG Art. 8; GG Art. 2, 10 I, 14 I; UrhG § 101 III u. IX
+Fallen Netzbetreiber und Endkundenanbieter auseinander, so betrifft allein die vom
+Netzbetreiber erteilte Auskunft über die Zuordnung der dynamischen IP-Adresse zu
+einer für den Endkundenanbieter vergebenen Benutzerkennung und nicht die
+Auskunft des Endkundenanbieters über Namen und Anschrift des Inhabers des der
+Benutzerkennung zugeordneten Anschlusses die Verwendung von Verkehrsdaten im
+Sinne des § 101 IX UrhG.
+BGH, Urteil vom 13.7.2017 – I ZR 193/16
+Zum Sachverhalt
+Die Kl. macht geltend, Inhaberin der ausschließlichen Nutzungs- und
+Verwertungsrechte an dem Computerspiel „D. I.“ zu sein. Dieses Spiel sei über den der
+Bekl. zuzuordnenden Internetanschluss in einer Tauschbörse im Internet zum
+Herunterladen angeboten worden. Die Bekl. unterhält einen von der 1&1 Internet AG
+bereitgestellten Festnetzanschluss. Mit Beschluss vom 10.10.2011 gestattete das LG
+Köln der Deutschen Telekom, der Kl. die Namen und Anschriften der Nutzer mitzuteilen,
+die den in einer von der Kl. vorgelegten Liste genannten IP-Adressen zu den
+angegebenen Zeitpunkten zuzuordnen waren. Nach Erlass des Beschlusses erteilte die
+Deutsche Telekom AG der Kl. Auskunft über die Benutzerkennung und den Umstand,
+dass es sich um eine der 1&1 Internet AG zugewiesene Kennung handelte. Die 1&1
+Internet AG erteilte der Kl. Auskunft über Namen und Anschrift der Bekl. Die Kl.
+verlangte von der Bekl. die Zahlung von Abmahnkosten und Schadensersatz. Sie hat
+beantragt,
+1. die Bekl. zu verurteilen, an sie 859,80 Euro nebst jährlicher Zinsen in Höhe von fünf
+Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 27.12.2011 zu zahlen, (…)
+3. die Bekl. zu verurteilen, an sie 500 Euro nebst jährlicher Zinsen in Höhe von fünf
+Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20.12.2011 zu zahlen.
+
+Das AG Frankenthal (Urt. v. 23.11.2015 – 3 b C 323/15) hat die Klage abgewiesen. Die
+Berufung der Kl. ist ohne Erfolg geblieben (LG Frankenthal, Urt. v. 23.8.2016 – 6 S
+149/15). Mit ihrer vom BerGer. zugelassenen Revision verfolgte die Kl. die mit der Klage
+geltend gemachten Anträge mit Ausnahme des auf Zahlung von Ermittlungskosten
+gerichteten Klageantrags zu 2, den die Kl. in der mündlichen Revisionsverhandlung
+zurückgenommen hat, weiter. Die Revision hatte Erfolg und führte zur Aufhebung des
+Berufungsurteils und zur Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+10II. (...) 1. Gegen die Zulässigkeit der Berufung, die auch in der Revisionsinstanz von
+auf den 600 Euro übersteigenden Wert des Beschwerdegegenstands (§ 511 II Nr. 1
+ZPO) keine Bedenken.
+112. Mit der vom BerGer. gegebenen Begründung kann der mit der Klage geltend
+gemachte Anspruch auf Schadensersatz gem. § 97 II 1 iVm §§ 19 a, 69 c Nr. 4 UrhG
+nicht verneint werden.
+12a) In der Revisionsinstanz ist mangels entgegenstehender Feststellungen des
+BerGer. davon auszugehen, dass das Computerprogramm „D. I.“ nach §§ 2 I Nr. 1 und
+II, 69 a III UrhG urheberrechtlich geschützt und die Kl. Inhaberin der ausschließlichen
+Nutzungs- und Verwertungsrechte an diesem Programm ist.
+13b) Mit Erfolg wendet sich die Revision gegen die Annahme des BerGer., eine Haftung
+der Bekl. nach § 97 II 1 UrhG bestehe nicht.
+14aa) Das BerGer. hat angenommen, der Nachweis des Anbietens zum Herunterladen
+über den Anschluss der Bekl. könne nicht geführt werden, weil die Verwertung der von
+der 1&1 Internet AG erlangten Auskünfte nicht in Betracht komme. Seien Netzbetreiber
+und Endkundenanbieter nicht identisch, müsse am Verfahren nach § 101 IX UrhG der
+allein als Vertragspartner des Anschlussinhabers in Erscheinung tretende
+Endkundenanbieter beteiligt werden. Im Streitfall sei jedoch an dem Verfahren nach § 101 IX UrhG allein der Netzbetreiber Deutsche Telekom AG und nicht auch der
+Endkundenanbieter 1&1 Internet AG beteiligt worden, so dass deren Auskünfte
+rechtswidrig erlangt und nicht verwertbar seien. Ein überwiegendes schutzwürdiges
+Interesse der Kl. bestehe mit Blick auf den Grundrechtsschutz des Anschlussinhabers
+aus Art. 10 GG nicht, weil eine rechtmäßige Auskunft im Verfahren nach § 101 IX UrhG
+unter Beteiligung des Endkundenanbieters ohne Weiteres hätte erlangt werden können.
+Diese Beurteilung hält der rechtlichen Nachprüfung nicht stand.
+15bb) Nach § 101 IX 1 UrhG ist für die Erteilung einer Auskunft über den Vertriebsweg
+rechtsverletzender Vervielfältigungsstücke nach § 101 I und III UrhG, die nur unter
+Verwendung von Verkehrsdaten (§ 3 Nr. 30 TKG) erteilt werden kann, eine vorherige
+richterliche Anordnung über die Zulässigkeit der Verwendung der Verkehrsdaten
+erforderlich, die vom Verletzten zu beantragen ist. Nach § 3 Nr. 30 TKG sind
+Verkehrsdaten solche Daten, die bei der Erbringung eines
+Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden.
+Demgegenüber sind Bestandsdaten gem. § 3 Nr. 3 TKG solche Daten eines
+Teilnehmers, die für die Begründung, inhaltliche Ausgestaltung, Änderung oder
+Beendigung eines Vertragsverhältnisses über Telekommunikationsdienste erhoben
+werden. Mit der Bestimmung des § 101 IX 1 UrhG hat der Gesetzgeber dem Umstand
+Rechnung getragen, dass Verkehrsdaten in den Schutzbereich des
+Fernmeldegeheimnisses gem. Art. 10 I GG fallen (vgl. Begr. des RegE eines Gesetzes
+zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums, BT-Drs.
+16/5048, 39). Die Bestimmung des Art. 10 I GG schützt nicht nur den Inhalt der
+Kommunikation, sondern auch die Vertraulichkeit der näheren Umstände des
+Kommunikationsvorgangs. Dazu gehört insbesondere, ob, wann und wie oft zwischen
+welchen Personen oder Telekommunikationseinrichtungen
+Telekommunikationsverkehr stattgefunden hat oder versucht worden ist (vgl. BVerfGE
+16Bei dem Namen und der Anschrift des Nutzers, dem zu bestimmten Zeitpunkten eine
+bestimmte IP-Adresse zugewiesen war, handelt es sich um Daten, die für die
+Begründung eines Vertragsverhältnisses über Telekommunikationsdienste erhoben
+werden, und damit um Bestandsdaten. Die begehrte Auskunft über diese Daten kann
+nur unter Verwendung von Daten erteilt werden, die bei der Erbringung eines
+Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden. Eine
+dynamische IP-Adresse ist keinem bestimmten Nutzer dauerhaft zugeordnet, sondern
+wird unterschiedlichen Nutzern jeweils nur für eine Sitzung zugeteilt. Eine Verknüpfung
+der dynamischen IP-Adresse mit dem Nutzer, dem sie zu einem bestimmten Zeitpunkt
+zugewiesen war, ist daher nur unter Verwendung der jeweils hierzu gespeicherten
+Verkehrsdaten wie des Datums und der Uhrzeit der Verbindung möglich (vgl. BGHZ
+751 = GRUR 2013, 536 = WRP 2013, 628 Rn. 37 – Die Heiligtümer des Todes). § 101 IX
+1 iVm § 101 II 1 Nr. 3 UrhG enthält die fachrechtliche Eingriffsermächtigung für die
+Verwendung von Verkehrsdaten zur Identifizierung von dynamischen IP-Adressen (vgl.
+werden).
+17cc) Danach unterlag im Streitfall zwar die von der Deutsche Telekom AG als
+Netzbetreiber, nicht aber die vom Endkundenanbieter 1&1 Internet AG erteilte Auskunft
+dem Vorbehalt richterlicher Anordnung gem. § 101 IX 1 UrhG. Die von der Kl. erlangten
+Auskünfte können daher zum Nachweis der Haftung der Bekl. verwertet werden.
+18(1) Zwischen den Parteien ist unstreitig, dass der Anschluss der Bekl. aufgrund eines
+Vertrags mit der 1&1 Internet AG als Endkundenanbieter („Reseller“) für das von der
+Deutsche Telekom AG betriebene Telekommunikationsnetz bereitgestellt wurde. In
+einer solchen Konstellation erbringt der Endkundenanbieter gegenüber seinen
+Abnehmern Kommunikationsdienstleistungen mittels eines vom Netzbetreiber
+bereitgestellten Kontingents an IP-Adressen, die jeweils für eine dem
+Endkundenanbieter zugeordnete Benutzerkennung vergeben werden. Der
+Netzbetreiber kann somit lediglich erkennen, dass einer dynamischen IP-Adresse in
+einem bestimmten Zeitpunkt eine Benutzerkennung und diese wiederum einem
+bestimmten Endkundenanbieter zugewiesen ist. Die Zuordnung der Benutzerkennung
+zu Namen und Adresse des Anschlussinhabers vermag lediglich der
+Endkundenanbieter vorzunehmen, weil der Netzbetreiber über diese Daten nicht
+verfügt (vgl. Zimmermann, K & R 2015, 73).
+19(2) Fallen Netzbetreiber und Endkundenanbieter auseinander, so betrifft allein die
+vom Netzbetreiber erteilte Auskunft über die Zuordnung der dynamischen IP-Adresse
+zu einer für den Endkundenanbieter vergebenen Benutzerkennung und nicht die
+Auskunft des Endkundenanbieters über Namen und Anschrift des Inhabers des der
+Benutz-
+
+erkennung zugeordneten Anschlusses die Verwendung von Verkehrsdaten iSd § 101
+IX UrhG.
+20Das Grundrecht des Art. 10 I GG schützt nach der Rechtsprechung des BVerfG die
+Vertraulichkeit konkreter Telekommunikationsvorgänge und nicht die Vertraulichkeit
+der mit der Bereitstellung von Telekommunikationsdienstleistungen einhergehenden
+Umstände. Allgemeine Informationen, die das Telekommunikationsverhalten oder
+Beziehungen zwischen Diensteanbietern und ihren Kunden betreffen, wie die
+Zuordnung von Benutzerkennungen zu einzelnen Anschlüssen, fallen nicht in den
+21Im Streitfall ist danach mit Blick auf Art. 10 I GG die vom Netzbetreiber
+vorgenommene Zuordnung einer zu einem bestimmten Zeitpunkt genutzten IP-
+Adresse zu einer individuellen Benutzerkennung grundrechtsrelevant. Die Auskunft des
+Endkundenanbieters dazu, welchem Anschlussinhaber eine bestimmte
+Benutzerkennung zuzuordnen ist, beschränkt sich hingegen auf die dem
+Anordnungserfordernis des § 101 IX UrhG nicht unterfallende Bekanntgabe von
+Bestandsdaten (vgl. OLG Köln, GRUR-RR 2013, 137; AG Potsdam, ZD 2016, 296; aA LG
+Frankenthal, K & R 2015, 671; AG Augsburg, Urt. v. 22.6.2015 – 16 C 3030/14, BeckRS
+2015, 17406; AG Koblenz, ZD 2015, 235; Zimmermann, K & R 2015, 73 [74]). Zwar muss
+der Auskunft des Endkundenanbieters die Verwendung von Verkehrsdaten durch den
+Netzbetreiber vorausgehen, weil andernfalls der Anschlussinhaber nicht
+individualisiert werden kann. Der Endkundenanbieter selbst nimmt jedoch für seine
+Auskunft keinen Zugriff auf Verkehrsdaten. Die notwendig vorausgehende
+Verwendung von Verkehrsdaten durch den Netzbetreiber wird vielmehr durch die im
+Streitfall vorliegende, unter Beteiligung des Netzbetreibers ergehende Anordnung nach
+§ 101 IX UrhG legalisiert.
+22(3) Die Legalisierungswirkung der im Streitfall an den Netzbetreiber Deutsche
+Telekom AG gerichteten Anordnung gem. § 101 IX 1 UrhG entfällt auch nicht deshalb,
+weil die Deutsche Telekom – wie in § 101 III Nr. 1 UrhG vorgesehen – zur Auskunft über
+„Namen und Anschrift“ der Nutzer, denen dynamische IP-Adressen zugewiesen waren,
+ermächtigt worden ist, sie jedoch lediglich eine Benutzerkennung und den Namen des
+Endkundenanbieters 1&1 Internet AG angegeben hat. Zur Angabe von Namen und
+Adresse des Anschlussinhabers ist der Netzbetreiber in der vorliegenden Konstellation
+nicht in der Lage, da er lediglich die Benutzerkennung sowie den Umstand ihrer
+Zuordnung zu einem Endkundenanbieter kennt und keine Zuordnung zu einem
+Anschlussinhaber vornehmen kann.
+23Die Bestimmung des § 101 III UrhG dient der Umsetzung von Art. 8 II der RL
+2004/48/EG zur Durchsetzung der Rechte des geistigen Eigentums und ist daher
+richtlinienkonform auszulegen. Die Auskunftspflicht nach Art. 8 I der RL 2004/48/EG
+erstreckt sich nach Art. 8 II Buchst. a der Richtlinie, soweit angebracht, auf die Namen
+und Adressen der Hersteller, Erzeuger, Vertreiber, Lieferer und anderer Vorbesitzer der
+Waren oder Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen,
+für die sie bestimmt waren. Nach ihrem Erwägungsgrund 3 dient die RL 2004/48/EG
+der wirksamen Durchsetzung der Rechte des geistigen Eigentums.
+24Bei der richtlinienkonformen Auslegung des nationalen Rechts müssen die Gerichte
+der Mitgliedstaaten darauf achten, die im Fall der Weitergabe personenbezogener
+Daten an private Dritte zur Verfolgung von Urheberrechtsverstößen betroffenen
+Grundrechte – das Recht auf Achtung des Privatlebens (Art. 7 GRCh, Art. 2 I iVm Art. 1
+GG) und das Eigentumsrecht (Art. 17 GRCh, Art. 14 I GG) – miteinander zum Ausgleich
+2008, 241 Rn. 43 u. 65 ff. – Promusicae/Telefonica; EuGH, ECLI:EU:C:2009:107 = Slg.
+25Eine wirksame Durchsetzung der Rechte des geistigen Eigentums erfordert
+jedenfalls in der Konstellation des Streitfalls eine Auslegung der Tatbestandsmerkmale
+„Namen und Adresse“ des Art. 8 II der RL 2004/48/EG, die die Benutzerkennung eines
+Telekommunikationsanschlusses einschließt. Andernfalls könnte der Inhaber eines
+nach dem Urheberrechtsgesetz geschützten Rechts im Fall der
+Urheberrechtsverletzung über Internet-Tauschbörsen bei Auseinanderfallen des
+Netzbetreibers und des Endkundenanbieters den Anschluss, über den die
+Verletzungshandlung begangen worden ist, nicht ermitteln. Der Rechtsinhaber ist
+darauf angewiesen, zur Durchsetzung seiner Rechte vom Netzbetreiber die einer
+dynamischen IP-Adresse zu einem bestimmten Zeitpunkt zugeordnete
+Benutzerkennung zu erfahren, um durch ihre Angabe vom Endkundenanbieter Auskunft
+über Namen und Adresse des Anschlussinhabers zu erhalten.
+26Demgegenüber wiegt die Beeinträchtigung des Rechts des Anschlussinhabers auf
+Achtung des Privatlebens weniger schwer. Er hat nach § 101 II UrhG die Weitergabe
+seines Namens und seiner Adresse hinzunehmen. Die Angabe der Benutzerkennung,
+die dem Endkundenanbieter die Identifizierung des Anschlussinhabers ermöglicht,
+stellt sich in der Konstellation des Streitfalls lediglich als ein Minus gegenüber der
+Angabe von Namen und Anschrift dar.
+273. Aus den vorstehenden Gründen hat auch die Abweisung des Anspruchs auf
+Zahlung von Abmahnkosten gem. § 97 a UrhG in der Fassung vom 7.7.2008 keinen
+Bestand.
+28III. Eine Vorlage an den EuGH nach Art. 267 III AEUV ist nicht veranlasst (vgl. EuGH,
+ECLI:EU:C:2015:644 = GRUR Int 2015, 1152 Rn. 43 mwN – Doc Generici). Im Streitfall
+stellt sich keine entscheidungserhebliche Frage zur Auslegung des Unionsrechts, die
+nicht zweifelsfrei zu beantworten ist.
+29IV. Danach ist das angegriffene Urteil aufzuheben, soweit hinsichtlich der
+Klageanträge zu 1 und 3 zum Nachteil der Kl. erkannt worden ist, und die Sache, da sie
+nicht zur Endentscheidung reif ist, zur neuen Verhandlung und Entscheidung – auch
+über die Kosten der Revision – an das BerGer. zurückzuverweisen (§ 563 I 1 ZPO).
+Anmerkung der Redaktion
+Mit der Reichweite des Richtervorbehalts für urheberrechtliche Auskunftsansprüche
+gegen Access-Provider unter Berücksichtigung dieser Entscheidung befasst sich
+Ringe, GRUR-Prax 2018, 54. – Zum Auskunftsanspruch gegen den Internet-Provider vgl.
+noch BGH, GRUR 2017, 1236 – Sicherung der Drittauskunft. Über die aktuelle
+Gesetzgebung und höchstrichterliche Rechtsprechung im Urheberrecht berichten

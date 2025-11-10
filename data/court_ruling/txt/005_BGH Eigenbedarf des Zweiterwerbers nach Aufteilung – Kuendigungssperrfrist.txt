@@ -1,0 +1,486 @@
+* Eigenbedarf des Zweiterwerbers nach Aufteilung – Kündigungssperrfrist
+BGB §§ 573, 546, 566, 577, 985; WEG § 8; BayMieterschutzVO 2021 § 1
+1. Die Veräußerung vermieteten Wohnraums an eine Personenhandelsgesellschaft
+(hier: GmbH & Co. KG) löst nicht die in der Vorschrift des § 577a Ia 1 Nr. 1 BGB
+geregelte Kündigungssperrfrist für Eigenbedarfs- und Verwertungskündigungen des
+Erwerbers aus.
+2. Eine (erstmalige) Veräußerung vermieteten Wohnraums nach dessen Umwandlung
+in Wohnungseigentum lässt (ausnahmsweise) nicht die Kündigungssperrfrist gem. § 577a I BGB beginnen, wenn sie einem Erwerb des noch nicht aufgeteilten
+Hausgrundstücks durch eine Personengesellschaft oder Erwerbermehrheit im Sinne
+des § 577a Ia BGB nachfolgt (§ 577a IIa BGB). Soweit die Vorschrift des § 577a IIa
+BGB für diesen Fall den Zeitpunkt der Veräußerung an die Personengesellschaft oder
+Erwerbermehrheit auch im Verhältnis zum Erwerber des Wohnungseigentums für
+maßgeblich erklärt, setzt sie nicht voraus, dass es sich bei dem Erwerber um einen
+der Gesellschafter oder der Miteigentümer handelt.
+BGH Urteil vom 6.8.2025 – VIII ZR 161/24
+NJW-Übersicht
+Rn.
+Vorinstanz zum Anwendungsbereich der (zehnjährigen) Kündigungssperrfrist
+8 ff.
+Rechtliche Nachprüfung
+14 ff.
+Intertemporale Einschlägigkeit der Kündigungssperrfrist
+17–21
+Laufzeit der Sperrfrist für München
+22–56
+– Fristbeginn
+23–24
+– Der maßgebliche Erwerbsfall
+25–56
+– Sperrfristwirkung
+
+Zum Sachverhalt
+Die Bekl. sind seit 2004 Mieter einer Wohnung in einem Mehrparteienhaus in München.
+Ende 2011/Anfang 2012 erwarb die L-GmbH & Co. KG (auch: Ersterwerberin) das
+das Eigentum am Hausgrundstück gem. § 8 WEG in Wohnungseigentum auf; die
+Vollziehung im Grundbuch erfolgte am 4.4.2013. Mit notariellem Kaufvertrag vom
+23.2.2016 veräußerte die Ersterwerberin die den Bekl. vermietete Wohnung an die Kl.
+Diese wurden am 8.3.2017 im Wohnungsgrundbuch eingetragen. Mit Schreiben vom
+2.9.2022 erklärten die Kl. gegenüber den Bekl. die ordentliche Kündigung des
+Mietverhältnisses wegen Eigenbedarfs zum 31.3.2023.
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+Mit ihrer Klage haben die Kl. die geräumte Herausgabe der Wohnung begehrt. Die Bekl.
+haben unter anderem eingewandt, dass im Zeitpunkt der Kündigungserklärung die
+Kündigungssperrfrist gemäß der Vorschrift des § 577a I, II BGB noch nicht abgelaufen
+gewesen sei.
+Das AG München (Urt. v. 24.11.2023 – 421 C 12189/23) hat die Bekl. antragsgemäß
+verurteilt. Auf die Berufung der Bekl. hin hat das LG München I (ZMR 2025, 23 = BeckRS
+2024, 38709) die Klage abgewiesen und die Revision zugelassen. Die Revision ist,
+teilweise allerdings nur im Ergebnis, ohne Erfolg geblieben.
+Aus den Gründen
+8I. Das BerGer. hat zur Begründung seiner Entscheidung, soweit für das
+Revisionsverfahren von Interesse, im Wesentlichen ausgeführt:
+9Ein Anspruch der Kl. auf Räumung und Herausgabe der Mietwohnung bestehe nicht.
+Die Eigenbedarfskündigung sei wegen Verstoßes gegen eine gesetzliche
+Kündigungsbeschränkung unwirksam. Die (zehnjährige) Kündigungssperrfrist der – im
+Streitfall maßgeblichen – Vorschrift des § 577a I, II BGB iVm § 1  der Bayerischen
+Mieterschutzverordnung sei im Zeitpunkt der Kündigung noch nicht abgelaufen
+gewesen. In der vorliegenden Konstellation komme es maßgeblich darauf an, dass die
+Kündigung nicht durch die Ersterwerberin vor Begründung des Wohnungseigentums,
+sondern erst durch die Zweiterwerber – die Kl. – nach der Umwandlung des
+Wohnraums in Wohnungseigentum erfolgt sei. Die Kl. seien als Ersterwerber des neu
+geschaffenen Wohnungseigentums anzusehen. Deshalb sei die Vorschrift des § 577a
+I BGB einschlägig, deren Frist aber erst mit der Eintragung der Kl. im Grundbuch im
+März 2017 begonnen habe.
+10Hingegen griffen die mit Wirkung zum 1.5.2013 eingeführten und auf die
+Veräußerung der vermieteten Wohnräume an eine Personengesellschaft abstellenden
+Neuregelungen in § 577a Ia, IIa BGB – unabhängig von der Frage nach ihrer zeitlichen
+Anwendbarkeit im Streitfall – in sachlicher Hinsicht nicht ein. Sie seien teleologisch zu
+reduzieren, namentlich vor dem Hintergrund des gesetzlich intendierten
+Mieterschutzes.
+11Der Gesetzgeber habe mit der Neuregelung eine Gesetzeslücke schließen wollen, die
+sich in dem – von § 577a I BGB nicht erfassten – Fall eines Erwerbs der gesamten
+vermieteten Immobilie durch eine GbR und einer anschließenden Begründung von
+Wohnungseigentum an den vermieteten Wohnräumen ergeben habe. Die
+Gesetzesbegründung stelle ausschließlich und konkret auf diese Gesellschaftsform
+ab, nicht aber allgemein auf Personenhandelsgesellschaften, und begründe dies mit
+dem erhöhten Verdrängungsrisiko, welches bei der GbR bestehe und sich bereits bei
+einem Erwerb durch die Gesellschaft selbst verwirklicht habe. Denn schon diese dürfe
+nach der Rechtsprechung des BGH das Mietverhältnis wegen Eigenbedarfs eines oder
+mehrerer ihrer Gesellschafter kündigen. Eine weitere Möglichkeit zur Kündigung wegen
+Eigenbedarfs ergebe sich bei einer GbR dann, wenn einem Gesellschafter im Rahmen
+der Auseinandersetzung die Eigentumswohnung zugewiesen werde und dieser
+Eigenbedarf geltend mache. Beiden Fällen sei gemein, dass die Eigenbedarfsperson
+bereits Gesellschafter der ursprünglich erwerbenden Gesellschaft gewesen sei. Dieser
+beim Erwerb des ungeteilten Anwesens vorhandene Gesellschafter dürfe im Fall der
+Kündigung auf das Erwerbsdatum der Gesellschaft zurückgreifen; die Sperrfrist werde
+also bereits mit der Eintragung der Personengesellschaft im Grundbuch ausgelöst. Nur
+diesen Fall meine § 577a IIa BGB.
+12Ein solches Verdrängungsrisiko bestehe bei Personenhandelsgesellschaften, zu der
+die vorliegend ersterwerbende GmbH & Co. KG gehöre, nicht. Die Kündigung des
+Mietverhältnisses durch eine solche Gesellschaft wegen Eigenbedarfs eines
+Gesellschafters sei per se nicht zulässig. Es bestehe folglich kein tragfähiger Grund für
+die Vorverlegung der Sperrfrist auf den Erwerb durch die Gesellschaft.
+13Im Streitfall seien die Kl. weder selbst Erwerber des ungeteilten Anwesens noch
+Gesellschafter der Ersterwerberin gewesen. Damit sei der Anwendungsbereich des § 577a Ia BGB, IIa BGB letztlich nicht eröffnet.
+14II. Diese Beurteilung hält rechtlicher Nachprüfung – teilweise allerdings nur im
+Ergebnis – stand; die Revision ist daher zurückzuweisen.
+15Das BerGer. hat zu Recht einen Anspruch der Kl. auf Räumung und Herausgabe der
+streitgegenständlichen Wohnung (§ 546 I BGB, § 985 BGB) verneint, weil das mit den
+Bekl. bestehende Mietverhältnis, in welches die Kl. nach den rechtsfehlerfrei
+getroffenen und im Revisionsverfahren nicht angegriffenen Feststellungen des BerGer.
+aufgrund des Erwerbs der Wohnung auf Vermieterseite eingetreten waren (§ 566 I
+BGB), nicht durch die Eigenbedarfskündigung der Kl. vom 2.9.2022 beendet wurde.
+16Die Kl. konnten sich im Zeitpunkt des Zugangs der vorbezeichneten
+Kündigungserklärung nach der Vorschrift des § 577a I, II BGB iVm § 1 der Verordnung
+der Bayerischen Staatsregierung zur Festlegung des Anwendungsbereichs
+bundesrechtlicher Mieterschutzvorschriften (Mieterschutzverordnung – MiSchuV)
+vom 14.12.2021 (GVBl. 2021, 674) nicht auf ein berechtigtes Interesse iSd § 573 II Nr.
+2 BGB berufen.
+171. Das BerGer. ist zutreffend davon ausgegangen, dass für die Beurteilung der
+Wirksamkeit der von den Kl. erklärten ordentlichen Kündigung wegen Eigenbedarfs (§ 573 II Nr. 2 BGB) die Vorschrift des § 577a BGB über die Kündigungsbeschränkung bei
+Wohnungsumwandlung in der seit 1.5.2013 geltenden Fassung maßgeblich ist und
+somit auch die – von den Parteien hinsichtlich ihrer Bedeutung für den Streitfall
+kontrovers erörterten – Neuregelungen von § 577a Ia, IIa BGB zu berücksichtigen sind.
+Die Wirksamkeit einer Kündigung ist den allgemeinen Grundsätzen des
+intertemporalen Rechts entsprechend nach dem im Zeitpunkt ihrer Erklärung geltenden
+36 Rn. 23 f.; jew. mwN).
+18a) Nach § 577a I BGB kann sich ein Erwerber, wenn an vermieteten Wohnräumen
+nach Überlassung an den Mieter Wohnungseigentum begründet und das
+Wohnungseigentum veräußert worden ist, auf berechtigte Interessen iSd § 573 II Nr. 2
+oder Nr. 3 BGB (Tatbestände des Eigenbedarfs oder der wirtschaftlichen Verwertung)
+erst nach Ablauf von drei Jahren seit der Veräußerung berufen.
+19Dies gilt nach § 577a Ia 1 BGB entsprechend, wenn vermieteter Wohnraum nach der
+Überlassung an den Mieter – im Fall von § 577a Ia 1 Nr. 1 BGB – an eine
+Personengesellschaft oder an mehrere Erwerber veräußert oder – im Fall von § 577a
+Ia 1 Nr. 2 BGB – zu deren Gunsten mit einem Recht belastet worden ist, durch dessen
+Ausübung dem Mieter der vertragsgemäße Gebrauch entzogen wird. Wird nachfolgend
+hierzu Wohnungseigentum begründet, beginnt die Frist, innerhalb derer eine
+Eigenbedarfs- oder Verwertungskündigung ausgeschlossen ist, nach § 577a IIa BGB
+bereits mit der vorgenannten Veräußerung oder Belastung.
+20b) Diese Kündigungssperrfrist kann gem. § 577a II BGB durch Rechtsverordnung der
+Landesregierungen auf bis zu zehn Jahre verlängert werden, wenn die ausreichende
+Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in
+einer Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und diese
+Gebiete durch die Rechtsverordnung bestimmt sind.
+21Das BerGer. ist – ohne dies zu vertiefen und ohne dass dies von den Parteien im
+Revisionsverfahren angegriffen wird – rechts-
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+fehlerfrei davon ausgegangen, dass der Freistaat Bayern von dieser Ermächtigung
+wirksam Gebrauch gemacht und die Kündigungssperrfrist mit der hier einschlägigen,
+am 1.1.2022 in Kraft getretenen (verlängerten) Mieterschutzverordnung für das Gebiet
+der Stadt München, in dem die streitgegenständliche Wohnung gelegen ist, auf zehn
+Jahre verlängert hat (zur diesbezüglich von Amts wegen vorzunehmenden Prüfung
+222. Diese Sperrfrist war, wie das BerGer. zutreffend angenommen hat, bei Zugang der
+Eigenbedarfskündigung der Kl. vom 2.9.2022 noch nicht abgelaufen.
+23a) Das BerGer. hat den Beginn der Kündigungssperrfrist unter Heranziehung der
+Vorschrift des § 577a I BGB bestimmt. Es hat die Kl. als erstmalige Erwerber der
+vermieteten Wohnung nach deren Umwandlung in Wohnungseigentum durch die
+veräußernde L-GmbH & Co. KG und dementsprechend den Eigentumserwerb der Kl. im
+März 2017 als fristauslösende Veräußerung im Sinn der vorbezeichneten Vorschrift
+angesehen.
+24Demgegenüber meint die Revision in Übereinstimmung mit dem AG, es sei für den
+Beginn der Kündigungssperrfrist in Anwendung der Vorschrift des § 577a Ia 1, IIa BGB
+auf den schon Anfang 2012 erfolgten Erwerb des Hausgrundstücks mit den
+vermieteten Wohnräumen durch die L-GmbH & Co. KG abzustellen, weshalb die
+zehnjährige Kündigungssperrfrist bei Zugang der Kündigungserklärung im September
+2022 bereits abgelaufen gewesen sei.
+25b) Mit dieser Sichtweise kann die Revision nicht durchdringen; die Würdigung des
+BerGer. trifft – im Ergebnis – zu. Da der Erwerb des noch ungeteilten Hausgrundstücks
+durch die L-GmbH & Co. KG nicht dem Tatbestand des § 577a Ia BGB unterfällt und
+deshalb auch die Vorschrift des § 577a IIa BGB über die zeitliche Vorverlagerung des
+Fristbeginns nicht einschlägig ist, verbleibt es bei der durch § 577a I BGB angeordneten
+grundsätzlichen Anknüpfung der Kündigungssperrfrist an den Zeitpunkt der
+(erstmaligen) Veräußerung der zuvor in Wohnungseigentum umgewandelten
+Mietwohnung. Demzufolge begann die zehnjährige Kündigungssperrfrist im Streitfall
+erst mit dem Eigentumserwerb der Kl. im März 2017.
+26aa) Das BerGer. ist – wie das AG – rechtsfehlerfrei davon ausgegangen, dass nach
+der vom Gesetzgeber gewählten Regelungskonzeption des § 577a BGB eine
+Veräußerung des zuvor gebildeten Wohnungseigentums die Kündigungssperrfrist
+(ausnahmsweise) nicht nach § 577a I BGB beginnen lässt, wenn sie einem Erwerb des
+noch nicht aufgeteilten Hausgrundstücks durch eine Personengesellschaft oder
+Erwerbermehrheit bzw. einer Belastung zugunsten dieses Personenkreises iSd § 577a
+Ia BGB nachfolgt. Vielmehr soll dann, wenn es zuvor eine solche Veräußerung oder
+Belastung gegeben hat, gem. § 577a IIa BGB deren Vornahme für den Beginn der
+Kündigungssperrfrist – auch im Hinblick auf die nachfolgende (und für sich betrachtet
+eigentlich die Kündigungssperrfrist nach § 577a I BGB auslösende) Veräußerung des
+Wohnungseigentums – maßgeblich sein. Insoweit enthält § 577a IIa BGB eine –
+gegenüber § 577a I BGB vorrangige – Sonderregelung zum Fristbeginn für die von § 577a Ia BGB erfassten Fälle, wie sich neben dem Wortlaut des betreffenden Absatzes
+aus der Regelungssystematik sowie Sinn und Zweck der Vorschrift des § 577a BGB
+ergibt.
+27(1) Die Vorschrift des § 577a BGB dient dem – zeitlich begrenzten – Schutz des
+Mieters vor einer Kündigung bei der Umwandlung vermieteter Wohnungen in
+Eigentumswohnungen (vgl. BT-Drs. 14/4553, 3, 38; BT-Drs. 17/10485, 2 f., 16).
+28Die durch sie angeordnete zeitliche Kündigungssperre zugunsten des Mieters wird
+tatbestandlich grundsätzlich weder allein durch die mit einem Veräußerungsvorgang
+verbundene (personelle) Änderung auf Vermieterseite noch durch die Begründung von
+Wohnungseigentum an den vermieteten Wohnräumen als solcher ausgelöst. Wie der
+Senat bereits entschieden hat, soll § 577a BGB nicht vor einer Eigenbedarfslage
+schützen, die unabhängig von einer Umwandlung der vermieteten Wohnräume in eine
+Eigentumswohnung besteht, und auch nicht schon dann eingreifen, wenn
+653).
+29(2) Der Gesetzgeber hat die Gewährung des Kündigungsschutzes durch § 577a BGB
+vielmehr – im Grundsatz – an das Vorliegen beider Elemente in einer bestimmten
+zeitlichen Reihenfolge (zuerst Begründung von Wohnungseigentum an den
+vermieteten Wohnräumen, dann Veräußerung dieses Wohnungseigentums) geknüpft.
+Dies ergibt sich bereits aus dem Wortlaut des § 577a I BGB und wird gestützt von dem
+aus den Gesetzesmaterialien ersichtlichen Regelungswillen des Gesetzgebers, den
+Mieter vor dem erhöhten Kündigungsrisiko zu schützen, das mit einem Erwerb
+umgewandelter Eigentumswohnungen insbesondere zur Befriedigung eigenen
+Wohnbedarfs verbunden ist (zu § 564 II Nr. 2  BGB aF vgl. BT-Drs. 11/6374, 5; Senat
+demzufolge nach § 577a I BGB grundsätzlich mit der (erstmaligen) Veräußerung der in
+Wohnungseigentum umgewandelten Wohnräume im Sinn der Eintragung des
+Rn. 24 mwN = NZM 2024, 837).
+30(3) Soweit der Gesetzgeber, um eine Umgehung des nach § 577a I BGB bezweckten
+Mieterschutzes zu verhindern, im Rahmen des nachträglich eingefügten § 577a Ia BGB
+für den Beginn der Kündigungssperrfrist auf das (weitere) Erfordernis einer vorherigen
+Umwandlung in Wohnungseigentum verzichtet hat und (allein) die Veräußerung des
+vermieteten Wohnraums genügen lässt (hierzu Senat BGHZ 218, 162 Rn. 23, 30 = NJW
+dort geregelten besonderen Fall des Erwerbs durch eine Personengesellschaft oder
+Erwerbermehrheit. Mit § 577a Ia BGB wird der Anwendungsbereich der in § 577a I BGB
+vorgesehenen zeitlichen Kündigungssperre ausgedehnt (vgl. BT-Drs. 17/10485, 26),
+weil der Gesetzgeber das Risiko für den einzelnen Mieter, im Weg der
+Eigenbedarfskündigung aus der Wohnung verdrängt zu werden, bereits beim Erwerb
+vermieteten Wohnraums durch den in § 577a Ia BGB genannten Erwerberkreis als in
+gleicher Weise erhöht angesehen hat wie im Fall einer unmittelbaren Umwandlung der
+Mietwohnung in Wohnungseigentum (vgl. BT-Drs. 17/10485, 16, 26; Senat BGHZ 218,
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+31Die alleinige tatbestandliche Anknüpfung von § 577a Ia BGB an die Veräußerung
+(bzw. den hier nicht einschlägigen Fall einer Belastung) als solche bleibt gemäß der
+Vorschrift des § 577a IIa BGB für den Beginn der Kündigungssperrfrist auch dann
+maßgeblich, wenn die Personengesellschaft oder Erwerbermehrheit nachfolgend zum
+Erwerb eines ungeteilten Hausgrundstücks noch Wohnungseigentum begründet.
+Ausweislich der Gesetzesmaterialien hat der Gesetzgeber mit der in § 577a IIa BGB
+getroffenen Anordnung verhindern wollen, dass als Folge der Umwandlung in
+Wohnungseigentum „erneut eine Sperrfrist zu laufen beginnt“ (vgl. BT-Drs. 17/10485,
+26). Da es keine mietrechtliche Vorschrift gibt, nach der allein der Vorgang der
+Begründung von Wohnungseigentum die Kündigungssperrfrist auslöst, hat sich der
+Gesetzgeber insoweit ersichtlich auf den Sperrfristtatbestand nach § 577a I BGB
+bezogen und mit der Bestimmung in § 577a IIa BGB zum Fristenlauf eine Regelung für
+den Fall der der Begründung von Wohnungseigentum durch die Personengesellschaft
+oder Erwerbermehrheit nachfolgenden (erstmaligen) Veräußerung dieses
+Wohnungseigentums getroffen.
+32Mithin schränkt die Regelung in § 577a IIa BGB den Anwendungsbereich des § 577a
+I BGB dahingehend ein, dass die – für sich betrachtet tatbestandsmäßige –
+(erstmalige) Veräußerung neu begründeten Wohnungseigentums an den vermieteten
+Wohnräumen die in § 577a I BGB geregelte Kündigungssperrfrist dann nicht auslöst,
+wenn die Umwandlung der Wohnung in Wohnungseigentum zeitlich nachfolgend zu
+einem Erwerb des nicht aufgeteilten Hausgrundstücks durch eine
+Personengesellschaft oder Erwerbermehrheit iSv § 577a Ia BGB stattfand.
+33bb) Das BerGer. hat – jedenfalls im Ergebnis – rechtsfehlerfrei angenommen, dass
+im Streitfall die Begründung von Wohnungseigentum an den vermieteten Wohnräumen
+und dessen Veräußerung an die Kl. nicht nachfolgend zu einem Erwerb durch eine
+Personengesellschaft iSd § 577a Ia BGB stattfanden und dass deshalb der von § 577a
+I BGB angeordnete Beginn der (hier zehnjährigen) Kündigungssperrfrist mit dem
+Eigentumserwerb der Kl. im März 2017 – und nicht gem. § 577a Ia BGB, § 577a IIa BGB
+der Zeitpunkt der Veräußerung des ungeteilten Hausgrundstücks an die L-GmbH & Co.
+KG Anfang 2012 – maßgeblich ist.
+34(1) Dabei ist es allerdings – entgegen der Ansicht des BerGer. – nicht von Bedeutung,
+dass die Kl. als Erwerber des Wohnungseigentums nicht auch Gesellschafter der
+Ersterwerberin (gewesen) sind. Denn die durch die Vorschrift des § 577a IIa BGB
+angeordnete Maßgeblichkeit des Zeitpunkts der Veräußerung an die Gesellschaft iSv
+§ 577a Ia BGB hängt nicht davon ab, dass der der anschließenden Begründung von
+Wohnungseigentum nachfolgende (erstmalige) Erwerb des Wohnungseigentums
+gerade durch einen Gesellschafter erfolgt (idS aber möglicherweise Schmidt-
+Futterer/Blank/Fervers Mietrecht, 16. Aufl., BGB § 577a Rn. 23a). Aus dem Wortlaut
+ergibt sich ein solches Erfordernis ebenso wenig wie aus der Systematik und dem vom
+Gesetzgeber mit der Regelung in § 577a Ia, IIa BGB verfolgten Zweck.
+35Die Regelung des § 577a IIa BGB trifft zwar, wie ausgeführt, eine Bestimmung zum
+Fristenlauf für den Fall der einer Begründung von Wohnungseigentum durch die
+Personengesellschaft oder Erwerbermehrheit nachfolgenden Veräußerung des
+Wohnungseigentums (vgl. BT-Drs. 17/10485, 26). Da sie diese weitere Veräußerung
+selbst jedoch nicht erwähnt, lässt sich dem Wortlaut auch keine Bestimmung zu dem
+als Erwerber des neu begründeten Wohnungseigentums in Betracht kommenden
+Personenkreis entnehmen.
+36Der vom Gesetzgeber mit der Kündigungssperrfrist bezweckte zeitlich beschränkte
+Schutz des Mieters erfordert es nicht, bei der dem Erwerb durch eine
+Personengesellschaft oder Erwerbermehrheit iSd § 577a Ia BGB nachfolgenden
+Veräußerung zwischenzeitlich begründeten Wohnungseigentums danach zu
+unterscheiden, ob die Veräußerung an einen der Gesellschafter oder Miteigentümer
+erfolgt oder aber an einen Dritten. Wie ausgeführt, sollte die mit § 577a Ia BGB
+beabsichtigte Erstreckung der in § 577a I BGB vorgesehenen zeitlichen
+Kündigungssperre auf die Fälle der Veräußerung an eine Personenmehrheit (vgl. Senat
+Umwandlung der vermieteten Wohnräume in Wohnungseigentum – verbundenen
+erhöhten Verdrängungsrisiko für den Mieter Rechnung tragen. Dieser Regelungszweck
+ist dadurch erreicht, dass die Kündigungssperrfrist bereits mit der Veräußerung an die
+Personengesellschaft oder Erwerbermehrheit ausgelöst wird und im Weiteren für ihre
+gesamte Dauer die Kündigungsmöglichkeiten (auch) eines jeden nachfolgenden
+Erwerbers einschränkt (vgl. auch BT-Drs. 14/4553, 73).
+37Den Gesetzesmaterialien lassen sich auch keine Anhaltspunkte dafür entnehmen,
+dass der Gesetzgeber bei Anordnung des § 577a IIa BGB allein den Fall der
+Weiterveräußerung an einen Mitgesellschafter oder Miteigentümer im Blick gehabt
+hätte und (nur) für diesen den (erneuten) Lauf einer Kündigungssperrfrist (nach § 577a
+I BGB) hätte ausschließen wollen. Hiergegen spricht schon, dass die
+Weiterveräußerung des Wohnungseigentums an einen der Gesellschafter oder
+Miteigentümer gerade keine Veräußerung iSd § 577a I BGB darstellt. Denn eine solche
+setzt angesichts des Schutzzwecks der Vorschrift einen tatsächlichen Wechsel in der
+Person des Wohnungseigentümers dergestalt voraus, dass damit ein neu in Betracht
+kommender, bis zu diesem Zeitpunkt für den Mieter nicht zu befürchtender Eigen- bzw.
+653). Hieran fehlt es indessen, wenn eine Kündigung wegen Eigenbedarfs im Hinblick
+auf den Erlangungswunsch eines Gesellschafters oder Miteigentümers bereits zuvor
+hätte erfolgen können.
+38(2) Die L-GmbH & Co. KG, die das ungeteilte Hausgrundstück erworben hatte, gehört
+jedoch, wie das BerGer. richtig gesehen hat, nicht zu dem in der Vorschrift des § 577a
+Ia BGB genannten Erwerberkreis. Denn sie ist keine „Personengesellschaft“ im Sinn der
+vorbezeichneten Vorschrift.
+39(a) Maßgebend für die Auslegung von Gesetzen ist der in der Norm zum Ausdruck
+kommende objektivierte Wille des Gesetzgebers, wie er sich aus dem Wortlaut der
+Vorschrift und dem Sinnzusammenhang ergibt, in den sie hineingestellt ist. Der
+Erfassung des objektiven Willens des Gesetzgebers dienen die anerkannten Methoden
+der Gesetzesauslegung aus dem Wortlaut der Norm, der Systematik, ihrem Sinn und
+Zweck sowie aus den Gesetzesmaterialien und der Entstehungsgeschichte, die
+einander nicht ausschließen, sondern sich gegenseitig ergänzen. Unter ihnen hat keine
+einen unbedingten Vorrang vor einer anderen. Ausgangspunkt der Auslegung ist der
+Wortlaut der Vorschrift. Er gibt allerdings nicht immer hinreichende Hinweise auf den
+Willen des Ge-
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+setzgebers. Unter Umständen wird erst im Zusammenhang mit Sinn und Zweck des
+Gesetzes oder anderen Auslegungsgesichtspunkten die im Wortlaut ausgedrückte,
+vom Gesetzgeber verfolgte Regelungskonzeption deutlich, der sich das Gericht nicht
+entgegenstellen darf. Seine Aufgabe beschränkt sich darauf, die intendierte
+Regelungskonzeption bezogen auf den konkreten Fall – auch unter gewandelten
+Bedingungen – möglichst zuverlässig zur Geltung zu bringen (vgl. BVerfGE 168, 1 Rn.
+auch Senat NJW-RR 2022, 80 Rn. 32 ).
+40(b) Nach diesem Maßstab ist § 577a Ia, IIa BGB entgegen der Ansicht der Revision
+und des überwiegenden Teils des mietrechtlichen Schrifttums (vgl. nur
+MüKoBGB/Häublein, 9. Aufl., BGB § 577a Rn. 12; Schmidt-Futterer/Blank/Fervers
+Mietrecht, 16. Aufl., BGB § 577a Rn. 18b, 18e; BeckOGK/Klühs, 1.4.2025, BGB § 577a
+Rn. 48; Börstinghaus/Siegmund/Siegmund Miete, 8. Aufl., BGB § 577a Rn. 17;
+BeckOK BGB/Caspers, 1.5.2025, BGB § 577 Rn. 12a, 12b; Staudinger/Rolfs BGB, 2024,
+BGB § 577a Rn. 24; Lützenkirchen/Dickersbach Mietrecht, 3. Aufl., BGB § 577a Rn.
+53 f.) nicht dahingehend auszulegen, dass auch die Veräußerung des vermieteten
+Wohnraums an Personenhandelsgesellschaften, wie hier eine GmbH & Co. KG, unter
+den Tatbestand fällt (wie hier BeckOK Mietrecht/Bruns, 1.5.2025, BGB § 577a Rn. 18;
+Erman/Lützenkirchen/Selk BGB, 17. Aufl., BGB § 577a Rn. 6c). Soweit der Wortlaut der
+Vorschrift mit der Verwendung des Begriffs der Personengesellschaft darauf
+hindeutet, dass neben der GbR weitergehend auch Personenhandelsgesellschaften
+(OHG und KG) erfasst sein könnten, drückt er den Regelungswillen des Gesetzgebers,
+wie er sich unter Berücksichtigung der Entstehungsgeschichte sowie von Sinn und
+Zweck der nachträglich eingefügten Vorschriften und des Gesamtzusammenhangs der
+einschlägigen Regelungen ergibt, nicht hinreichend deutlich aus. Er ist daher in dem
+Sinn (einschränkend) auszulegen, dass vom Begriff der Personengesellschaft in § 577a Ia BGB nicht die Personenhandelsgesellschaften wie die hier in Rede stehende
+GmbH & Co. KG erfasst sind.
+41(aa) Der Gesetzgeber wollte mit der Ergänzung der in § 577a I, II BGB für
+Eigenbedarfs- und Verwertungskündigungen nach § 573 II Nr. 2 und Nr. 3 BGB
+vorgesehenen zeitlichen Kündigungssperre um den in Rede stehenden § 577a Ia BGB
+ausweislich der Gesetzesmaterialien die in der Praxis aufgetretene Umgehung des
+Kündigungsschutzes insbesondere nach dem sogenannten „Münchener Modell“
+unterbinden (vgl. BT-Drs. 17/10485, 2, 3, 16; BR-PlenProt. 899, 350 A und B; BT-
+42Er hat bei diesen ihm bekannt gewordenen Fallgestaltungen, in denen eine (Außen-
+)GbR oder eine Miteigentümergemeinschaft nach Erwerb des mit Mietwohnraum
+bebauten Grundstücks zunächst auf die Begründung von Wohnungseigentum und den
+anschließenden Verkauf von Eigentumswohnungen an Interessenten verzichtete und
+stattdessen wegen Eigenbedarfs ihrer Gesellschafter oder der Miteigentümer kündigte,
+das von einem Erwerb durch eine solche Gesellschaft oder
+Miteigentümergemeinschaft ausgehende Verdrängungsrisiko für den einzelnen Mieter
+als ebenso hoch angesehen wie in dem von der seinerzeit bereits bestehenden
+Vorschrift des § 577a I BGB zum Schutz des Mieters geregelten Fall der Umwandlung
+des vermieteten Wohnraums in eine Eigentumswohnung und der anschließenden
+Veräußerung des Wohnungseigentums (vgl. BT-Drs. 17/10485, 16, 26).
+43Dabei ist der Gesetzgeber zu Recht davon ausgegangen, dass in einem Anwesen mit
+mehreren vermieteten Wohnungen (auch) für jeden einzelnen Mieter das Risiko, im
+Weg der Eigenbedarfskündigung aus der Wohnung verdrängt zu werden, bei einem
+Erwerb durch eine Personengesellschaft oder durch mehrere Erwerber steigt. Denn es
+liegt auf der Hand, dass sich mit jeder weiteren Person, deren Eigenbedarf dem Mieter
+gegenüber geltend gemacht werden kann, die Wahrscheinlichkeit für den Mieter erhöht,
+auch tatsächlich wegen Eigenbedarfs in Anspruch genommen zu werden (vgl. Senat
+44Vor allem aber hat der Gesetzgeber ausweislich der Gesetzesbegründung
+maßgeblich darauf abgestellt, dass die Gefährdungslage für den Mieter, die den
+Gesetzgeber zur Einführung der Kündigungssperrfrist nach § 577a I BGB im Fall der
+Begründung und Veräußerung von Wohnungseigentum an vermieteten Wohnräumen
+veranlasst hatte, in diesen Fällen bereits mit dem Erwerb des vermieteten Wohnraums
+entsteht. Denn die Miteigentümergemeinschaft kann sich für einen der Miteigentümer
+Gesetzesmaterialien ausdrücklich in Bezug genommenen Senatsrechtsprechung – die
+(Außen-)GbR für einen ihrer Gesellschafter auf Eigenbedarf berufen (hierzu Senat NJW
+des Personengesellschaftsrechts – MoPeG)), weshalb schon ab ihrem Eintritt in das
+bestehende Mietverhältnis – unabhängig von einer Begründung von
+Wohnungseigentum – für den Mieter das Risiko einer Eigenbedarfskündigung des
+Mietverhältnisses besteht (vgl. BT-Drs. 17/10485, 3, 16, 26).
+45Da die (bis dahin allein) bestehende Regelung zur Kündigungssperrfrist (§ 577a I
+BGB) mit ihrer Anknüpfung (erst) an die einer Umwandlung des vermieteten
+Wohnraums nachfolgende Veräußerung des Wohnungseigentums diese
+Fallgestaltungen nicht erfasste, waren die mietrechtlichen Vorschriften zum Schutz der
+Mieter bei der Umwandlung von Mietwohnungen in Eigentumswohnungen nach
+Ansicht des Gesetzgebers unzureichend (BT-Drs. 17/10485, 2). Mit den Neuregelungen
+sollte „diese Schutzlücke“ geschlossen und eine faktische Umgehung des
+Kündigungsschutzes bei der Umwandlung „insbesondere nach dem ,Münchener
+Modell’“ unterbunden werden (BT-Drs. 17/10485, 3, 16).
+46(bb) Dementsprechend befassen sich die Ausführungen in den Gesetzesmaterialien
+ausführlich (allein) mit der Situation bei Veräußerungen an eine (Außen-)GbR oder eine
+Miteigentümergemeinschaft und der in diesen Fällen bestehenden Schutzlücke (vgl.
+BT-Drs. 17/10485, 16).
+47So sollte die Ergänzung des § 577a BGB durch den neuen § 577a Ia BGB nichts an
+der – im Rahmen des Münchener Modells genutzten – Befugnis der (Außen-)GbR bzw.
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+der Miteigentümergemeinschaft ändern, ein ordentliches Kündigungsrecht auf den
+Eigenbedarf der erwerbenden Gesellschafter oder Miteigentümer zu stützen. Jedoch
+sollte die Personenmehrheit daran gehindert werden, innerhalb der Frist des § 577a I
+BGB dieses berechtigte Interesse eines Gesellschafters oder Miteigentümers geltend
+zu machen (vgl. BT-Drs. 17/10485, 3, 16, 26; hierzu auch Senat BGHZ 218, 162 Rn. 40,
+48Im Weiteren heißt es in der Gesetzesbegründung (BT-Drs. 17/10485, 26):
+„Damit löst jede Veräußerung eines mit Mietwohnraum bebauten Grundstücks an eine
+Gesellschaft bürgerlichen Rechts oder an mehrere Erwerber die Sperrfrist nach Abs. 1
+aus.“
+49Auch die Erläuterung der Regelung des § 577a IIa BGB zum Fristenlauf bei nach
+einem Erwerb gemäß § 577a Ia BGB erfolgender Umwandlung des Objekts in
+Wohnungseigentum erwähnt ausdrücklich (und allein) die GbR und die
+Miteigentümergemeinschaft. So heißt es dort (BT-Drs. 17/10485, 26):
+„Der Anwendungsbereich der Kündigungssperrfrist nach § 577a wird durch Abs. 1a auf
+die Veräußerung von vermietetem Wohnraum an eine Gesellschaft bürgerlichen Rechts
+oder mehrere Erwerber oder die Belastung zugunsten dieser ausgedehnt … .
+Der Mieter soll vor dem erhöhten Verdrängungsrisiko bei einer Veräußerung an eine
+Gesellschaft bürgerlichen Rechts oder mehrere Erwerber geschützt werden. Dieses
+Risiko hat sich mit dem Erwerb der mit Mietwohnraum bebauten Liegenschaft oder der
+Belastung des Wohnraums nach § 567 I bereits verwirklicht und wird durch eine
+nachfolgende Begründung von Wohnungseigentum nicht erhöht.“
+50(cc) Vor diesem Hintergrund wird erst im Zusammenhang mit der
+Entstehungsgeschichte und den aus den Gesetzesmaterialien ersichtlichen
+Erwägungen zu Sinn und Zweck der Neuregelung deutlich, dass der Gesetzgeber die
+Zielrichtung der Kündigungssperrfrist als besonderen Kündigungsschutz bei der
+Wohnungsumwandlung auch für die von § 577a Ia BGB erfassten Fälle beibehalten
+wollte und die für die tatbestandliche Anknüpfung allein an den Veräußerungsvorgang
+sowie für die von § 577a IIa BGB angeordnete zeitliche Vorverlagerung des
+Fristbeginns maßgebliche Erwägung des Gesetzgebers – nämlich der durch die
+frühzeitige Möglichkeit einer Eigenbedarfskündigung zugunsten eines Mitglieds der
+erwerbenden Personenmehrheit auch vor der Begründung und Weiterveräußerung von
+Wohnungseigentum entstehenden Gefährdungslage zu begegnen – allein bei der
+(Außen-)GbR oder der Miteigentümergemeinschaft trägt.
+51Insbesondere lässt sich die Senatsrechtsprechung, nach der eine (Außen-)GbR ein
+Wohnraummietverhältnis grundsätzlich wegen Eigenbedarfs eines ihrer Gesellschafter
+nach § 573 II Nr. 2 BGB kündigen darf, wie der Senat bereits entschieden hat, nicht auf
+Personenhandelsgesellschaften wie die KG oder die OHG – und somit auch nicht auf
+52(dd) Insoweit ist der vom Gesetzgeber im Normtext des § 577a Ia BGB verwendete
+Begriff der „Personengesellschaft“ zu weit gefasst. Aus den Gesetzesmaterialien
+ergeben sich keine Anhaltspunkte dafür, dass der Gesetzgeber damit die Neuregelung
+auf Personenhandelsgesellschaften wie die hier in Rede stehende GmbH & Co. KG
+hätte erstrecken wollen, auf welche die der Neuregelung zugrunde liegende
+gesetzgeberische Erwägung nicht zutrifft.
+53(aaa) Soweit in der Begründung zum Gesetzentwurf ausdrücklich von der
+Verhinderung einer Umgehung „über andere rechtliche Konstruktionen als den Erwerb
+nach Abs. 1a  Nr. 1“ die Rede ist, bezieht sich dies allein auf die Ergänzung in § 577a Ia 1 Nr. 2 BGB und den dort geregelten Fall der Belastung des Grundstücks mit
+einem dinglichen Recht (vgl. BT-Drs. 17/10485, 26).
+54(bbb) Dem von der Revision sowie von der oben genannten Literatur zur Begründung
+ihrer gegenteiligen Ansicht angeführten Umstand, dass § 577a Ia, IIa BGB für den
+Zeitraum der Kündigungssperrfrist auch Verwertungskündigungen nach § 573 II Nr. 3
+BGB ausschließt, solche Kündigungen aber – anders als diejenigen wegen
+Eigenbedarfs iSv § 573 II Nr. 2 BGB – nach allgemeiner Auffassung auch von einer
+Rn. 45 = NZM 2022, 653) erklärt werden können, kommt bei der Bestimmung des durch
+das Tatbestandsmerkmal „Personengesellschaft“ erfassten Erwerberkreises unter
+gesetzessystematischen Gesichtspunkten keine maßgebende Bedeutung zu.
+55Denn der – gegenüber § 577a I BGB erfolgten – Erweiterung der tatbestandlichen
+Anknüpfung der Kündigungssperrfrist (allein) an den in § 577a Ia BGB genannten
+Vorgang der Veräußerung (bzw. der Belastung) und der von § 577a IIa BGB
+angeordneten zeitlichen Vorverlagerung des Fristbeginns auch bei nachfolgender
+Umwandlung liegt die gesetzgeberische Wertung zugrunde, dass der Mieter vor dem
+bereits mit dem Erwerb durch eine Personenmehrheit verbundenen – und damit
+unabhängig von der Begründung von Wohnungseigentum an den einzelnen
+Wohneinheiten bestehenden – Risiko einer Eigenbedarfskündigung zugunsten von
+deren Mitgliedern bzw. Gesellschaftern geschützt werden müsse. Die Einbeziehung
+auch der Verwertungskündigung in die ursprünglich nur für Eigenbedarfskündigungen
+vorgesehene zeitliche Kündigungsbeschränkung (§ 564b II Nr. 2  BGB aF) durch
+das Gesetz vom 20.7.1990 zur Verbesserung der Rechtsstellung des Mieters bei der
+Begründung von Wohnungseigentum an vermieteten Wohnungen (BGBl. 1990 I 1456)
+erfolgte demgegenüber nur zur Ergänzung des dem Mieter gewährten Schutzes vor der
+im Fall der Umwandlung in Wohnungseigentum bestehenden Gefahr einer
+Eigenbedarfskündigung durch den Erwerber. Sie sollte verhindern, dass infolge der –
+verlängerten – Sperrfrist für Eigenbedarfskündigungen und wegen der damit
+verbundenen Verringerung des wirtschaftlichen Werts der Wohnung für den
+erwerbenden Eigentümer der Kündigungsgrund der wirtschaftlichen Verwertung an
+430).
+56Während der Vermieter, der im Zusammenhang mit einer beabsichtigten oder nach
+Überlassung an den Mieter erfolgten Umwandlung der vermieteten Wohnräume in
+Wohnungseigentum deren Veräußerung beabsichtigt, durch § 573 II Nr. 3 Hs. 3 BGB an
+einer Verwertungskündigung gehindert ist, wäre dem Ersterwerber des umgewandelten
+Wohnraums ohne die Einbeziehung der Verwertungskündigung in die
+Kündigungssperrfrist eine solche Kündigung möglich gewesen. Der Gesetzgeber hat
+diese Schutzlücke schließen und dem Mieter umgewandelten Wohnraums gegen
+Kündigungen des Erwerbers wegen Veräußerungsabsichten den gleichen Schutz wie
+gegen Eigenbedarfskündigungen gewähren wollen (BT-Drs. 11/6374, 7). Der zeitlich
+befristete Ausschluss einer Verwertungskündigung sichert somit den
+Kündigungsschutz des Mieters im Zusammenhang mit der Umwandlung vermieteter
+Wohnungen in Eigentumswohnungen ab (so ausdr. BT-Drs. 11/6374, 1). Wie der Senat
+bereits entschieden hat, hat sich an dieser Schutzrichtung durch die
+Zusammenführung der Sperrfristregelungen in § 577a BGB durch das
+2009, 430).
+BGH: * Eigenbedarf des Zweiterwerbers nach Aufteilung –
+57c) Nach alledem ist die für eine Eigenbedarfskündigung des Mietverhältnisses
+seitens der Kl. maßgebliche zehnjährige Kündigungssperrfrist im Zeitpunkt des
+Zugangs der Kündigungserklärung vom 2.9.2022 noch nicht abgelaufen gewesen.
+Anmerkung der Redaktion
+Zu einer Bundesratsinitiative der Freien und Hansestadt Hamburg für die „Sozialere
+Ausgestaltung des Rechts zur Kündigung wegen Eigenbedarfs“ (BR-Drs. 68/25) vgl.
+den Abdruck in NZM-info Heft 5/2025, V–IX. Zur Frage, ob eine Gesellschaft – auch
+unter MoPeG – wegen Eigenbedarfs kündigen kann, vgl. Palmen NZM 2025, 113. Zum
+Missbrauch des Rechts zur Kündigung wegen Eigenbedarfs vgl. weiter Bernt NZM
+2025, 361. Zu den Quellen der Rechtsprechung zur Kündigung wegen Eigenbedarfs s.
+Kappus NZM 2024, 1.

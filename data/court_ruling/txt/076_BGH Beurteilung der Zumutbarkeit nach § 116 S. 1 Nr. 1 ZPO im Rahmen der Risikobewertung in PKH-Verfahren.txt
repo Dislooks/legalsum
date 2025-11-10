@@ -1,0 +1,198 @@
+Risikobewertung in PKH-Verfahren
+Beurteilung der Zumutbarkeit nach § 116  Nr. 1 ZPO im Rahmen der
+Risikobewertung in PKH-Verfahren
+InsO §§ 133 I, 143; ZPO §§ 114 I 1, II, 116  Nr. 1, 119 I 1, 574 I 1 Nr. 2
+Im Prozesskostenhilfeverfahren hat das Gericht bei der Beurteilung der Zumutbarkeit
+nach § 116  Nr. 1 ZPO im Rahmen der Risikobewertung nicht nur Vollstreckungssondern auch sonstige Verfahrensrisiken zu berücksichtigen. (Leitsatz der Redaktion)
+BGH, Beschluss vom 26.4.2018 – IX ZB 29/17
+Zum Sachverhalt:
+Der Ast. ist Verwalter in dem Insolvenzverfahren über das Vermögen der Schuldnerin.
+auf §§ 133 I, 143 InsO gestützte Klage auf Zahlung von 116.935,35 Euro nebst Zinsen
+abgewiesen. Er begehrt Prozesskostenhilfe für eine von ihm beabsichtigte Berufung,
+mit der er sein Klageziel weiterverfolgen will. Die Kosten des Berufungsverfahrens
+können wegen Unterdeckung nicht aus der Masse erbracht werden. Das BerGer. (OLG
+Gewährung von Prozesskostenhilfe zurückgewiesen. Mit seiner vom BerGer.
+zugelassenen Rechtsbeschwerde verfolgte der Kl. sein Begehren mit Erfolg weiter.
+Aus den Gründen:
+3II. Die gem. § 574 I 1 Nr. 2 ZPO statthafte und zulässige Rechtsbeschwerde hat Erfolg.
+Sie führt zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung
+der Sache an das BerGer.
+41. Zur Begründung seiner Entscheidung hat das BerGer. ausgeführt, dass offen
+bleiben könne, ob die Berufung hinreichende Erfolgsaussicht habe. Es fehle an den
+wirtschaftlichen Voraussetzungen für die Gewährung von Prozesskostenhilfe gem. § 116  Nr. 1 ZPO, weil 25 am Verfahren wirtschaftlich beteiligten Gläubigern, für die
+Forderungen iHv jeweils über 20.000 Euro zur Insolvenztabelle festgestellt worden
+seien, die Leistung eines Prozesskostenvorschusses zuzumuten sei. Das BerGer. gehe
+dabei davon aus, dass ein erhebliches Vollstreckungsrisiko bestehe, das mit 1/3 (wie
+vom Ast. in erster Instanz angegeben) „jedenfalls nicht überbewertet“ erscheine.
+Daraus ergebe sich, dass für die genannten Gläubiger mit einer Verdreifachung der
+einzusetzenden Prozesskosten gerechnet werden könne. Legte man das vom Ast.
+nunmehr angegebene Prozess- und Vollstreckungsrisiko von wenigstens 50 Prozent
+zugrunde, erwiese sich die beabsichtigte Berufung des Ast. als mutwillig, weil im Falle
+des Prozesserfolgs eine Mehrung der verfügbaren Masse von lediglich noch rund
+12.400 Euro zu erwarten sei, was einer Quote von 0,5 entspreche.
+52. Das hält der rechtlichen Nachprüfung nicht stand.
+6a) Gemäß § 116  Nr. 1 ZPO erhält der Insolvenzverwalter als Partei kraft Amtes
+Prozesskostenhilfe, wenn die Kosten des Rechtsstreits aus der verwalteten
+Vermögensmasse nicht aufgebracht werden können und den am Gegenstand des
+Rechtsstreits wirtschaftlich Bet. nicht zuzumuten ist, die Kosten aufzubringen. Die
+Beurteilung der Zumutbarkeit unterliegt der tatrichterlichen Würdigung des BerGer. und
+ist vom Rechtsbeschwerdegericht nur eingeschränkt überprüfbar (vgl. BGH, NZI 2012,
+626 Rn. 8; NJW-RR 2017, 324 Rn. 13). Mit der vom BerGer. gegebenen Begründung
+durfte es das Vorliegen der wirtschaftlichen Voraussetzungen iSv § 116  Nr. 1 ZPO
+nicht verneinen. Diese erweist sich als rechtsfehlerhaft.
+7aa) Für die Frage, ob nach § 116  Nr. 1 ZPO den am Gegenstand des Rechtsstreits
+wirtschaftlich Bet. zuzumuten ist, die Kosten für den beabsichtigten Rechtsstreit des
+Insolvenzverwalters aufzubringen, ist eine wertende Abwägung aller Gesamtumstände
+des Einzelfalls erforderlich (BGH, NZI 2006, 348 Rn. 15; NZI 2008, 98 Rn. 9; Beschl. v.
+wertenden Abwägung sind insbesondere eine zu erwartende Quotenverbesserung im
+Fall des Obsiegens, das Prozess- und Vollstreckungsrisiko und die Gläubigerstruktur
+414 Rn. 2). Vorschüsse auf die Prozesskosten sind solchen Bet. zuzumuten, welche
+die erforderlichen Mittel unschwer aufbringen können und für die der zu erwartende
+Nutzen bei vernünftiger, auch das Eigeninteresse sowie das Prozesskostenrisiko
+angemessen berücksichtigender Betrachtungsweise bei einem Erfolg der
+Rechtsverfolgung deutlich größer sein wird als die von ihnen als Vorschuss
+aufzubringenden Kosten (BGH, NZI 2017, 414 Rn. 2 mwN).
+8bb) Hiervon ausgehend ist es rechtlich zutreffend, dass das Beschwerdegericht nur
+bei solchen Gläubigern eine Zumutbarkeit verneint, deren Anteil an den festgestellten
+Forderungen einen im Einzelfall ermittelten absoluten Betrag – hier von 20.000 Euro –
+nicht überschreitet. Der gegenteiligen Auffassung, die sich die Rechtsbeschwerde zu
+eigen macht, wonach alle Gläubiger außer Betracht zu bleiben haben, deren Anteil an
+den festgestellten Forderungen eine für alle Fälle abstrakt festgelegte, in einem
+Vomhundertsatz (etwa vier vom Hundert oder fünf vom Hundert) ausgedrückte Quote
+unterschreitet (OLG Hamm, OLG-Report 2005, 617 [619]; NZI 2006, 42; ZIP 2007, 147
+Wieczorek/Schütze/Smid/Hartmann, ZPO, 4. Aufl., § 116 Rn. 5; Musielak/Voit/Fischer,
+ZPO, 14. Aufl., § 116 Rn. 6), vermag der Senat nicht zu folgen.
+
+9Zwar ist zutreffend, dass so genannten Kleingläubigern eine Prozessführung
+regelmäßig dann nicht zuzumuten ist, wenn und soweit sie auch bei erfolgreicher
+Prozessführung nur mit relativ geringfügigen Erlösen rechnen können (vgl.
+BeckOK ZPO/Reichling, 2017, § 116 Rn. 12.2 mwN). Der Insolvenzverwalter muss mit
+zumutbarem Koordinierungsaufwand Kostenvorschüsse erlangen können. Dies mag in
+der Praxis dazu führen, dass in einer Vielzahl von Fällen die Grenze der Zumutbarkeit
+zwischen vier und fünf vom Hundert aller festgestellten Forderungen gezogen wird
+(vgl. Hk-ZPO/Kießling, 7. Aufl., § 116 Rn. 13 mwN). Eine abstrakte Festlegung auf diese
+oder eine andere Quote verbietet sich indes. Die jeweiligen wirtschaftlichen
+Verhältnisse der Insolvenzverfahren sind zu unterschiedlich (OLG München, ZInsO
+Beurteilung der Zumutbarkeit kann nicht erfolgen, ohne die jeweilige Gläubigerstruktur
+Zutreffend weist das BerGer. darauf hin, dass etwa im vorliegenden Fall mit hohen
+Insolvenzforderungen, die sich recht gleichmäßig auf eine überschaubare Zahl von
+Gläubigern verteilen, eine feste Quote zu unangemessenen Ergebnissen führen kann.
+10Dies entspricht auch der Rechtsprechung des BGH, nach der es keine feste und
+starre Grenze hinsichtlich der Anzahl der heranzuziehenden Insolvenzgläubiger gibt,
+die wegen des durch die Gläubigerstruktur bedingten Koordinierungsaufwands von
+vorne herein die Aufbringung der Kosten durch die wirtschaftlich am Gegenstand des
+Rechtsstreits Bet. als unzumutbar erscheinen ließe (vgl. BGH, Beschl. v. 27.5.2009 – III
+denn auch dort beruhte die Annahme der Unzumutbarkeit auf einer wertenden
+Abwägung aller Gesamtumstände.
+11Gläubigern, deren Anteil an den festgestellten Forderungen fünf vom Hundert
+unterschreitet, kann auch nicht eine wirtschaftliche Beteiligung abgesprochen werden.
+Wirtschaftlich Bet. im Aktivprozess des Insolvenzverwalters sind grundsätzlich alle
+Gläubiger, die bei einem erfolgreichen Abschluss des Rechtsstreits wenigstens mit
+einer teilweisen Befriedigung ihrer Ansprüche aus der Masse rechnen können (BGHZ
+12cc) Ebenfalls rechtsfehlerfrei geht das BerGer. davon aus, dass eine
+Vorschusspflicht einen deutlichen Mehrertrag gegenüber den aufzuwendenden Kosten
+voraussetzt (stRspr, vgl. nur BGH, NZI 2007, 410 Rn. 7; NZI 2012, 626 Rn. 8; Beschl. v.
+Erwägungen verbietet es sich allerdings auch insoweit, für die zu erwartende
+Verbesserung eine Mindestquote festzulegen (vgl. Hees/Freitag, NZI 2017, 377 [382]
+mwN), mag auch regelmäßig erst bei einem im Falle des Prozesserfolgs erzielbaren
+Ertrag von deutlich mehr als dem Doppelten des aufzubringenden Vorschusses eine
+Vorschusspflicht in Betracht kommen (BGH, Beschl. v. 7.2.2012 – II ZR 13/10, BeckRS
+Aufl., § 116 Rn. 9; Steenbuck, MDR 2004, 1155 [1157]). Der mögliche Verlust des
+Vorschusses bleibt bei der Frage, ob dem Gläubiger ein Vorschuss zuzumuten ist,
+außer Betracht (BGH, NZI 2012, 626 Rn. 9). Die Wertung des BerGer., ein möglicher
+Erlös in Höhe des Dreifachen des anteiligen Prozesskostenvorschuss könne ein
+hinreichend deutlicher Mehrertrag sein, lässt folglich für sich genommen Rechtsfehler
+nicht erkennen.
+13dd) Indes begegnet die Annahme, im vorliegenden Fall könne mit einem Mehrertrag
+in mindestens dreifacher Höhe der einzusetzenden Prozesskosten gerechnet werden,
+durchgreifenden rechtlichen Bedenken. Die Feststellungen des BerGer. zur Höhe der in
+die Bewertung einbezogenen Massemehrung sind rechtsfehlerhaft und ermöglichen
+dem Senat keine eigene Überprüfung der Gesamtwürdigung.
+14(1) Das BerGer. hat – was aus Rechtsgründen nicht zu beanstanden ist – die Kosten
+des beabsichtigten Berufungsverfahrens festgestellt und diese anteilig auf die
+Gläubiger, denen eine Kostenbeteiligung zumutbar erscheint, verteilt. Die Würdigung,
+ob den wirtschaftlich Bet. nach deren wirtschaftlichen Verhältnissen für eine
+Prozessfinanzierung wirtschaftlich zumutbar ist (was Voraussetzung des § 116 
+keine Rechtsfehler erkennen.
+15(2) Durchgreifenden Bedenken begegnet indes die vom BerGer. seiner Bewertung
+zugrunde gelegte Ermittlung des Massezuflusses. Es hat hierzu von der
+einzuklagenden Forderung nur einen Abschlag wegen eines Beibringungsrisikos
+vorgenommen. Soweit es für die Höhe des Abschlags ein Vollstreckungsrisiko
+angenommen hat, das mit 1/3 „jedenfalls nicht überbewertet“ erscheine, kann der
+angefochtene Beschluss rechtlicher Nachprüfung nicht standhalten.
+16Die Risikobewertung obliegt dem Tatrichter. Er hat bei der zur Beurteilung der
+Zumutbarkeit iSv § 116 I Nr. 1 ZPO gebotenen wertenden Abwägung neben der zu
+erwartende Quotenverbesserung im Falle des Obsiegens aber nicht nur
+Vollstreckungsrisiken, sondern auch Verfahrensrisiken einzustellen (BGH, ZInsO 2012,
+jew. mwN). Die wirtschaftliche Zumutbarkeit ist zu bejahen, wenn der Betrag, den ein
+Gläubiger auch bei Berücksichtigung des Prozessrisikos bei der Verteilung der Masse
+zu erwarten hat, denjenigen deutlich übersteigt, den er für die Kosten aufzubringen hat
+(BGH, NZI 2012, 192 Rn. 2). Maßgebend sind auch insoweit die konkreten Umstände
+des jeweiligen Falls.
+17Die Darlegung und gegebenenfalls Glaubhaftmachung auch dieser
+Voraussetzungen obliegt dem Ast. Hier hat der Ast. das Prozess- und
+Vollstreckungsrisiko für das Berufungsverfahren mit 50 vom Hundert angegeben.
+Beantragt der Verwalter Prozesskostenhilfe für einen weiteren Rechtszug (§ 119 I 1
+ZPO), so sind für die jetzt anstehende Beschlussfassung grundsätzlich auch
+zwischenzeitliche Veränderungen zu berücksichtigen (vgl. Jaeger/Windel, InsO, § 80
+Rn. 180). Das Gericht ist zwar nicht an die Angaben des Ast. gebunden, es hat diese
+vielmehr einer eigenen Würdigung zu unterziehen. Das Tatgericht ist auch nicht
+gehalten, stets einen für einen Erfolg des Prozesskostenhilfegesuchs bestmöglichen
+Risikoabschlag anzunehmen. Will das Tatgericht indes von substanziierten und
+nachvollziehbaren Angaben des Ast. zu dessen Lasten abweichen, bedarf dies der
+Begründung. Rechtsfehlerhaft ist es, bei der Beurteilung der Zumutbarkeit iSd § 116  Nr. 1 ZPO nur Risiko-
+
+abschläge für ein Beitreibungsrisiko einzustellen, ohne die Verfahrensrisiken zu
+bewerten.
+18b) Auch die Annahme des BerGer., Prozesskostenhilfe sei wegen Mutwilligkeit der
+beabsichtigten Rechtsverfolgung zu versagen, ist nicht frei von Rechtsfehlern.
+19aa) Noch zutreffend geht das BerGer. davon aus, dass dem Ast. Prozesskostenhilfe
+nur dann bewilligt werden kann, wenn die Prozessführung nicht mutwillig erscheint. § 114 I 1 letzter Halbs. ZPO ist auch bei der Beurteilung des Prozesskostenhilfegesuchs
+einer Partei kraft Amtes anwendbar, wie sich aus § 116  ZPO ergibt.
+20bb) Nach der durch das Gesetz zur Änderung des Prozesskostenhilfe- und
+Beratungshilferechts vom 31.8.2013 (BGBl. I 2013, 3533) mit Wirkung zum 1.1.2014
+eingefügten Legaldefinition liegt Mutwilligkeit vor, wenn eine Partei, die keine
+Prozesskostenhilfe beansprucht, bei verständiger Würdigung aller Umstände von der
+Rechtsverfolgung oder Rechtsverteidigung absehen würde, obwohl eine hinreichende
+Aussicht auf Erfolg besteht (§ 114 II ZPO). Mutwilligkeit der Prozessführung kann hier
+nicht mit der Begründung bejaht werden, bei Annahme eines Prozess- und
+Vollstreckungsrisikos von 50 vom Hundert ergebe sich eine Quotenverbesserung von
+lediglich 0,5 vom Hundert.
+21Der Begriff der Mutwilligkeit in § 114 II ZPO knüpft an die Rechtsprechung an,
+wonach der Staat nicht einen Prozess finanzieren soll, wenn eine selbstzahlende
+Person, die ihre Prozessaussichten vernünftig abwägt und dabei auch das Kostenrisiko
+berücksichtigt, diesen Prozess nicht führen würde (BT-Drs. 17/11472, 29; BVerfGK 16,
+Rechtsverfolgung ist das fiktive Vorgehen eines nicht auf Prozesskostenhilfe
+angewiesenen, verständigen, sich an den wohlverstandenen Interessen der
+Gläubigergemeinschaft orientierenden Verwalters (BGH, NZI 2011, 104 Rn. 8).
+Mutwilligkeit kann nicht wegen einer im Falle des Prozesserfolgs nur geringen
+Quotenverbesserung bejaht werden. Andernfalls würde – wie der vorliegende Fall
+deutlich zeigt – für die Frage der Mutwilligkeit letztlich der gleiche Maßstab angelegt,
+der zur Bejahung oder Verneinung der wirtschaftlichen Voraussetzungen des § 116  Nr. 1 ZPO führt. § 116  Nr. 1 ZPO liefe leer. Nach dem gesetzgeberischen Willen
+sollen Rechtsstreitigkeiten nicht wegen ihres geringen Streitwerts mutwillig sein (BT-
+Drs. 17/11472, 29). Dann kann eine Rechtsverfolgung aber nicht deswegen mutwillig
+sein, weil nach Abzug aller mit dem Rechtsstreit verbundenen Risiken und aller Kosten
+eine nur geringfügige Quotenverbesserung erreicht werden kann.
+22Ob Prozess- und Vollstreckungsrisiken (wenn die nach § 114 II ZPO vorausgesetzte
+hinreichende Aussicht auf Erfolg besteht) schon generell nicht herangezogen werden
+können, um die beabsichtigte Klage des Insolvenzverwalters als mutwillig iSv § 114 I 1
+Aufl., § 114 Rn. 77), bedarf keiner Entscheidung. Von welchem Prozess- und
+Vollstreckungsrisiko tatsächlich auszugehen ist, hat das BerGer. nicht festgestellt. Ein
+solches Risiko von 50 vom Hundert, wie das BerGer. seiner Mutwillligkeitsprüfung
+zugrunde legt, ließe die Rechtsverfolgung des Kl. nicht als mutwillig erscheinen. Dass
+vorliegend die Rechtsverfolgung letztlich keine Aussicht auf Befriedigung verspricht
+oder unter wirtschaftlichen Gesichtspunkten gänzlich zwecklos erscheint, lässt sich
+bislang nicht feststellen.
+23III. Die angefochtene Entscheidung kann daher keinen Bestand haben. Sie ist
+aufzuheben und die Sache zur erneuten Entscheidung – gegebenenfalls auch über die
+Erfolgsaussichten der beabsichtigten Berufung (§ 116 , § 114 I 1 letzter Halbs. ZPO)
+– an das BerGer. zurückzuverweisen (§ 577 IV 1 ZPO).
+Anmerkung der Redaktion:
+Mit der Prozesskostenhilfe für Insolvenzverwalter befasst sich der Beitrag von
+Freitag/Hees, NZI 2017, 377. Zur Gewährung von Prozesskostenhilfe für den
+2412; Mitlehner, NZI 2001, 617. Vgl. zur Prozesskostenhilfe für den Insolvenzverwalter
+bei Massearmut BGH, NZI 2008, 368. Zur Aufbringung der Prozesskosten für Klagen
+des Insolvenzverwalters durch einzelne Insolvenzgläubiger s. BGH, NZI 2013, 82; zur
+Mutwilligkeit einer beabsichtigten Teilklageerhebung durch den Insolvenzverwalter
+und Prozesskostenhilfe (BGH, NZI 2011, 104) vgl. die Anm. von Baumert, FD-InsR 2011,
+314670, und Mayer, FD-RVG 2011, 31378.

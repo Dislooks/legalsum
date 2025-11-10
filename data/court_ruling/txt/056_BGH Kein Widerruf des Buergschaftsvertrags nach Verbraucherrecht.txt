@@ -1,0 +1,297 @@
+* Kein Widerruf des Bürgschaftsvertrags nach Verbraucherrecht
+BGB §§ 312, 312 b, 312 g, 765
+Ein Bürge hat kein Widerrufsrecht gem. § 312 g BGB (Abgrenzung zu Senat NJW
+1993, 1594 = WM 1993, 683).
+BGH, Urteil vom 22.9.2020 – XI ZR 219/19
+Zum Sachverhalt
+Die Kl., eine Bank, nahm den Bekl. auf Zahlung aus einer selbstschuldnerischen
+Höchstbetragsbürgschaft in Anspruch. Sie räumte der K-GmbH (im Folgenden:
+Hauptschuldnerin) mit Vertrag vom 22.12.2015 einen Kontokorrentkredit über
+300.000 Euro zu einem Zinssatz von 7,5 % pa ein. Der Bekl. war geschäftsführender
+Alleingesellschafter der Hauptschuldnerin. Er übernahm zugunsten der Kl. eine
+Bürgschaft bis zu einem Höchstbetrag von 170.000 Euro, die sämtliche Ansprüche
+aus dem Kreditvertrag sicherte. Die Bürgschaftserklärung unterzeichnete er in
+Anwesenheit eines Mitarbeiters der Kl. am 22.12.2015 in den Geschäftsräumen der
+Hauptschuldnerin; über ein Widerrufsrecht wurde er nicht belehrt.
+Nachdem ein Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen
+der Hauptschuldnerin gestellt worden war, kündigte die Kl. den Kontokorrentkredit
+mit Schreiben vom 26.4.2016 fristlos und stellte einen Saldo iHv 295.779,65 Euro
+zur Rückzahlung fällig. Mit Schreiben vom 1.6.2016 forderte sie den Bekl. zur
+Zahlung dieses Betrags zuzüglich Zinsen bis zum 29.6.2016 auf. Dessen
+Prozessbevollmächtigte bestätigten seine grundsätzliche Haftung aus der
+Bürgschaft zunächst, erklärten aber mit Schreiben vom 21.9.2016 den Widerruf
+seiner auf Abschluss des Bürgschaftsvertrags vom 22.12.2015 gerichteten
+Willenserklärung.
+auf Zahlung von 170.000 Euro nebst bezifferten Zinsen iHv 6.474,36 Euro sowie
+weiterer Zinsen iHv fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit
+dem 29.3.2017 gerichteten Klage stattgegeben. Das OLG Hamburg (BKR 2020,
+412) hat sie abgewiesen. Die vom BerGer. zugelassene Revision der Kl. hatte Erfolg
+und führte zur Aufhebung und Zurückverweisung.
+Aus den Gründen
+5A. Die vom BerGer. zugelassene Revision ist entgegen der Ansicht der
+Revisionserwiderung uneingeschränkt statthaft (§ 543 I Nr. 1 ZPO).
+6Soweit das BerGer. die Zulassung der Revision in den Urteilsgründen
+ausschließlich damit gerechtfertigt hat, dass der bisherigen Rechtsprechung des
+BGH zum Widerrufsrecht des in einer Haustürsituation handelnden Bürgen die
+europäische Verbraucherrechte-RL entgegenstehen könne und eine Vorlage an den
+EuGH in Betracht komme, liegt darin keine – grundsätzlich auch in den Gründen
+2017, 2189 = WM 2017, 1155 Rn. 7, jew. mwN) – wirksame Beschränkung der
+Revisionszulassung.
+7Die Zulassung der Revision kann nach ständiger Rechtsprechung des BGH nur
+dann auf eine als zulassungsrelevant
+BGH: * Kein Widerruf des Bürgschaftsvertrags nach
+angesehene Rechtsfrage beschränkt werden, wenn diese sich für einen eindeutig
+abgrenzbaren selbstständigen Teil des Streitstoffs stellt, der Gegenstand eines
+Teilurteils oder eines eingeschränkt eingelegten Rechtsmittels sein kann (BGH
+Unzulässig ist es hingegen, die Zulassung auf einzelne Rechtsfragen eines
+einheitlichen Streitstoffs zu begrenzen.
+8Nach diesen Maßstäben sind die Ausführungen des BerGer. zu dem
+Geltungsbereich der Richtlinie nicht isoliert anfechtbar; sie sind lediglich ein
+Teilaspekt der Prüfung, ob der Bekl. ein Widerrufsrecht nach § 355 iVm §§ 312 b I,
+Revision wäre danach unwirksam mit der Folge, dass die Revision entsprechend
+dem Tenor der angefochtenen Entscheidung unbeschränkt zugelassen ist (vgl.
+9B. Die Revision der Kl. ist begründet. Sie führt zur Aufhebung des Berufungsurteils
+und zur Zurückverweisung der Sache an das BerGer.
+10I. Das BerGer. hat zur Begründung seiner Entscheidung (veröff. in WM 2020,
+1067 = BKR 2020, 412) im Wesentlichen ausgeführt:
+11Die Kl. habe keinen Anspruch gegen den Bekl. aus der übernommenen
+Bürgschaft, weil dieser seine Vertragserklärung mit Schreiben vom 21.9.2016
+wirksam widerrufen habe.
+12– 13 (Wird ausgeführt. Die Zusammenfassung der Ausführungen der Vorinstanz
+14II. Diese Ausführungen halten rechtlicher Überprüfung nicht stand. Das BerGer.
+hat rechtsfehlerhaft angenommen, dass der Bekl. seine zum Abschluss des
+Bürgschaftsvertrags führende Willenserklärung vom 22.12.2015 gem. § 355 iVm
+§§ 312 b I, 312 g I BGB wirksam widerrufen hat.
+151. Das Widerrufsrecht nach § 355 iVm §§ 312 b I, 312 g I BGB setzt gem. § 312
+I BGB einen Verbrauchervertrag (§ 310 III BGB) voraus, der eine entgeltliche
+Leistung des Unternehmers zum Gegenstand hat. Erforderlich ist, dass der
+Unternehmer aufgrund eines Verbrauchervertrags die vertragscharakteristische
+Leistung zu erbringen hat. Diese Voraussetzungen eines Widerrufsrechts erfüllen
+Bürgschaften nicht.
+16a) Entgegen der früheren Rechtsprechung zu § 1 HWiG bzw. § 312 I 1 Nr. 1 BGB
+in der bis zum 12.6.2014 geltenden Fassung (im Folgenden: aF) genügt für die
+Anwendbarkeit der §§ 312 b, 312 g BGB nicht, dass der Bürge sein
+Leistungsversprechen in der dem Gegner erkennbaren Erwartung abgibt, ihm
+selbst oder einem bestimmten Dritten werde daraus irgendein Vorteil erwachsen.
+Diese Betrachtungsweise vermochte zwar das nach § 1 HWiG bzw. nach § 312 I 1
+Nr. 1 BGB aF erforderliche Tatbestandsmerkmal eines Vertrags über eine
+entgeltliche Leistung zu begründen. Dieser Begriff wurde in dem weiten Sinne
+ausgelegt, dass er auch eine Bürgschaft erfasst, die vom Verbraucher
+übernommen wird, damit der Gläubiger dem Hauptschuldner ein Darlehen gewährt
+Kümpel/Mülbert/Früh/Seyfried, Bank- und Kapitalmarktrecht, 5. Aufl.,
+Kreditsicherung, Rn. 8.92). Hiervon abweichend setzt § 312 I BGB in seiner ab dem
+13.6.2014 geltenden Fassung voraus, dass der Unternehmer gegen ein
+vereinbartes Entgelt des Verbrauchers die vertragscharakteristische Leistung
+erbringt. Eine entgeltliche Leistung des Verbrauchers unterfällt der Vorschrift nach
+ihrem eindeutigen Wortlaut nicht (von Loewenich WM 2015, 113; Kehl WM 2018,
+2018 [2022]; Schinkels WM 2017, 113; Hölldampf in Assmann/Schütze/Buck-Heeb,
+HdB des Kapitalanlagerechts, 5. Aufl., § 4 Rn. 13; Bülow/Artz,
+Verbraucherprivatrecht, 6. Aufl., Rn. 224; MüKoBGB/Wendehorst, 8. Aufl., § 312 Rn.
+28; Erman/Koch, BGB, 16. Aufl., § 312 Rn. 8; BeckOGK/Busch, 15.7.2020, § 312 BGB
+Rn. 12; vgl. Staudinger/Thüsing, BGB, Neubearb. 2019, § 312 Rn. 8; Nobbe in
+Schimansky/Bunte/Lwowski, BankR-HdB, 5. Aufl., § 91 Rn. 46; aA
+Palandt/Grüneberg, BGB, 79. Aufl., § 312 Rn. 5; Ganter in
+Schimansky/Bunte/Lwowski, § 90 Rn. 398 e).
+17b) Soweit anknüpfend an die frühere Rechtsprechung zu § 1 HWiG und § 312 I 1
+Nr. 1 BGB aF teilweise vertreten wird, die Bürgschaft könne als gegenseitiger
+Vertrag in dem Sinne ausgestaltet werden, dass die Übernahme der Bürgschaft die
+Gegenleistung für eine vom Gläubiger zu erbringende Leistung bildet (Erman/Koch,
+§ 312 Rn. 15; vgl. MüKoBGB/Wendehorst, § 312 Rn. 34), muss die entgeltliche
+Leistung des Unternehmers aus dem Verbrauchervertrag, für welchen das
+Widerrufsrecht nach § 355 BGB iVm § 312 g I BGB in Anspruch genommen wird,
+geschuldet werden. Dies ergibt sich aus § 312 I BGB, der einen Verbrauchervertrag
+nach § 310 III BGB als Rechtsgrund für die Leistung voraussetzt. Dass die Leistung
+des Unternehmers aufgrund eines separaten, nicht dem § 310 III BGB
+unterfallenden Vertrags an einen Dritten erbracht wird, reicht danach nicht (vgl. BT-
+Drs. 17/13951, 72; Meier ZIP 2015, 1156 [1159]; Kropf WM 2015, 1699 [1702]; aA
+Erman/Koch, § 312 Rn. 19; Staudinger/Thüsing, § 312 Rn. 7, 9; BeckOGK/Busch, §
+[1042]).
+18c) Auch die grundsätzliche Anwendbarkeit der §§ 312 ff. BGB auf Verträge über
+Finanzdienstleistungen führt nicht zu einem Widerrufsrecht des Bekl. Bürgschaften
+oder sonstige Kreditsicherheiten von Verbrauchern werden von dem in § 312 V 1
+BGB legal definierten Begriff der Finanzdienstleistung nicht erfasst. Der Begriff hat
+durch die Novellierung der §§ 312 ff. BGB, wie der Gesetzgeber klargestellt hat (BT-
+Drs. 17/12637, 49), keine Änderung erfahren, sondern entspricht § 312 b I 2 BGB
+aF (Kropf WM 2015, 1699 [1704]). Danach muss – in Übereinstimmung mit § 312 I
+BGB – die vertragsspezifische Leistung durch den Unternehmer erbracht werden
+und der Verbraucher Berechtigter aus dem Vertrag sein (BGH NJOZ 2017, 10 = WM
+2016, 968 Rn. 30; Bülow, Recht der Kreditsicherheiten, 9. Aufl., I. Bürgschaft, Rn.
+935).
+19 d) Das Widerrufsrecht nach § 355 iVm §§ 312 b I, 312 g I BGB kann nicht aus
+Schutzzweckerwägungen im Wege einer Analogie auf außerhalb von
+Geschäftsräumen gestellte Verbraucherbürgschaften ausgeweitet werden. Es fehlt
+an einer planwidrigen Unvollständigkeit der gesetzli-
+BGH: * Kein Widerruf des Bürgschaftsvertrags nach
+chen Regelung (von Loewenich WM 2016, 2011 [2015 f.]; Meier ZIP 2015, 1156
+nicht abgedr.; aA Schürnbrand WM 2014, 1157 [1160]; MüKoBGB/Wendehorst, § 312 Rn. 35; Erman/Koch, BGB, 16. Aufl., § 312 Rn. 9; Bülow, Rn. 934 b).
+20aa) Der Gesetzgeber wollte mit der Neuregelung der §§ 312 ff. BGB durch das
+Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des
+Gesetzes zur Regelung der Wohnungsvermittlung vom 20.9.2013 (BGBl. 2013 I
+3642) ausschließlich Verbraucherverträge erfassen, die als Austauschvertrag mit
+einer Gegenleistungspflicht des Verbrauchers ausgestaltet sind. Dies folgt aus der
+Begründung des Gesetzentwurfs. Danach sollte ein Verbrauchervertrag nur dann § 312 I BGB unterfallen, wenn sich der Unternehmer (§ 14) zur Lieferung einer Ware
+oder Erbringung einer Dienstleistung und der Verbraucher (§ 13) zur Erbringung
+eines Entgelts verpflichtet, wobei sich das Merkmal des Entgelts nicht auf die
+Zahlung eines Geldbetrags beschränkte, sondern auch sonstige Leistungen des
+Verbrauchers einbezog (BT-Drs. 17/13951, 72; vgl. BAGE 165, 315 = NZA 2019, 688
+Rn. 18 ff., 28; Nobbe in Schimansky/Bunte/Lwowski, § 91 Rn. 46).
+21Verträge, in denen der Verbraucher die für den Vertragstypus charakteristische
+Leistung schuldet, sollten demgegenüber ebenso wenig erfasst werden (BT-Drs.
+17/12637, 45; BT-Drs. 17/13951, 72; BR-Drs. 817/12, 73; vgl. Hölldampf in
+Assmann/Schütze/Buck-Heeb, § 4 Rn. 13; Kropf WM 2015, 1699 [1702]; aA
+Schürnbrand WM 2014, 1157 [1160]) wie unentgeltliche Verbraucherverträge (BT-
+Drs. 17/13951, 71 f.; vgl. Antrag der Fraktion Bündnis90/Die Grünen, BT-Drs.
+17/13967, 2; PlenProt. 17/247).
+22bb) Dass der Gesetzgeber bei der Neufassung des § 312 I BGB die
+höchstrichterliche Rechtsprechung zu § 1 HWiG bzw. § 312 I 1 Nr. 1 BGB aF
+übersehen und ein „gesetzgeberischer Wille zur Tilgung dieses Rechtsstandes“
+(Bülow, Rn. 934 b; vgl. Schinkels WM 2017, 113 [119]) nicht vorgelegen hat, ist
+gleichfalls nicht erkennbar.
+23Die Diskussion über die Widerruflichkeit von Bürgschaften war aufgrund der
+Dietzinger), die einen jahrelangen Meinungsstreit in Rechtsprechung und Literatur
+nach sich zog (Kehl WM 2018, 2018 [2027]), allgemein bekannt. Zudem ist der
+Gesetzgeber während des Gesetzgebungsverfahrens ausdrücklich auf die Gefahr
+einer Wiederholung dieser Diskussion für den Fall hingewiesen worden, dass das
+Gesetz eine entgeltliche Leistung des Unternehmers als Vertragsgegenstand des
+Verbrauchervertrags fordere (Schmidt-Kessel, Stellungnahme zum Entwurf eines
+Gesetzes zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des
+Gesetzes zur Regelung der Wohnungsvermittlung, 27 f.; vgl. Hoffmann ZIP 2015,
+1365 [1368]; Kehl WM 2018, 2018 [2027]). Der Gesetzgeber hat dies bei der
+Neufassung des § 312 I BGB nicht zum Anlass genommen, das Widerrufsrecht auf
+den einseitig den Verbraucher verpflichtenden Bürgschaftsvertrag zu erstrecken
+(vgl. Senat NJW-RR 2018, 1204 = WM 2018, 1601 Rn. 14). Dabei war dem
+Gesetzgeber bewusst, dass Art. 4 der RL 2011/83/EU des Europäischen
+Parlaments und des Rates vom 25.10.2011 über die Rechte der Verbraucher, zur
+Abänderung der RL 93/13/EWG des Rates und der RL 1999/44 des Europäischen
+Parlaments und des Rates sowie zur Aufhebung der RL 85/577/EWG des Rates und
+der RL 97/7/EG des Europäischen Parlaments und des Rates in der bis zum
+6.1.2020 maßgeblichen Fassung (ABl. 2011 L 304 vom 22.11.2011, 64; im
+Folgenden: RL 2011/83/EU) grundsätzlich die Möglichkeit eröffnete, die Richtlinie
+auch auf von ihr nicht erfasste Verträge anzuwenden (BT-Drs. 17/12637, 48; vgl.
+Kehl WM 2018, 2018 [2027]).
+24cc) Außerdem sind mit der Neufassung der §§ 312 ff. BGB ab dem 13.6.2014 die
+Vorschriften über das Widerrufsrecht bei außerhalb von Geschäftsräumen
+geschlossenen Verträgen und bei Fernabsatzverträgen, bei denen die Begrenzung
+des Anwendungsbereichs des § 312 I BGB der damaligen höchstrichterlichen
+Rechtsprechung entsprach, weitgehend vereinheitlicht worden (vgl. BT-Drs.
+17/12637, 2). Die Beschränkung des § 312 I BGB, wonach der Verbrauchervertrag
+eine entgeltliche Leistung des Unternehmers zum Gegenstand haben muss, betrifft
+damit sowohl Außergeschäftsraum- als auch Fernabsatzverträge. Dies entspricht
+der Systematik der RL 2011/83/EU, die den Anwendungsbereich der früheren RL
+85/577/EWG des Rates vom 20.12.1985 betreffend den Verbraucherschutz im
+Falle von außerhalb von Geschäftsräumen geschlossenen Verträgen (ABl. 1985 L
+372 vom 31.12.1985, 31; künftig: RL 85/577/EWG) sowie die RL 97/7/EG des
+Europäischen Parlaments und des Rates vom 20.5.1997 über den
+Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl. 1997 L 144 vom
+4.6.1997, 19; künftig: RL 97/7/EG) zusammengeführt hat (Erwgr. 1 f. sowie 32 der
+RL 2011/83/EU; vgl. BT-Drs. 17/12637, 1).
+25Ein Widerrufsrecht bei Fernabsatzverträgen bestand nach § 312 b BGB aF
+ausschließlich für Verträge, an denen ein Unternehmer aufseiten des Lieferers und
+1409 [1410 f.]). Nicht einbezogen waren Verträge, die allein die Lieferung von
+Waren durch Verbraucher betrafen. Dasselbe galt nach herrschender Ansicht für
+von Verbrauchern gestellte Kreditsicherheiten einschließlich Bürgschaften (BGH
+NJOZ 2017, 10 = WM 2016, 968 Rn. 30; Nobbe in Schimansky/Bunte/Lwowski, § 91 Rn. 48; Kropf WM 2015, 1699 [1701]). Angesichts der ausdrücklichen
+Bezugnahme des Gesetzgebers auf Art. 2 Nr. 5 und Nr. 6 der RL 2011/83/EU (BT-
+Drs. 17/12637, 45) ist davon auszugehen, dass dieses für das Fernabsatzgeschäft
+maßgebliche Vertragsverständnis beibehalten und durch Aufnahme des § 312 I
+BGB künftig auf Außergeschäftsraumverträge erstreckt werden sollte (vgl. BGH
+262. §§ 312 I, 312 b I, 312 g I BGB sind nicht aufgrund einer richtlinienkonformen
+WM 2018, 1601 Rn. 13; Senat NJW-RR 2019, 867 = WM 2019, 864 Rn. 16; EuGH
+Bürgschaftsverträge zu erstrecken. § 312 I BGB entspricht, soweit
+BGH: * Kein Widerruf des Bürgschaftsvertrags nach
+er eine Leistung eines Unternehmers als Gegenstand des Verbrauchervertrags
+voraussetzt, der RL 2011/83/EU (von Loewenich WM 2015, 113 [114 ff.]; ders. WM
+2016, 2011 [2016]; Schinkels WM 2017, 113 [115, 118]; Bülow, Rn. 934 b; aA Nobbe
+in Schimanski/Bunte/Lwowski, § 91 Rn. 47; Schürnbrand WM 2014, 1157 [1160];
+Kehl WM 2018, 2018 [2025 f.]; Stürner in Prütting/Wegen/Weinreich, BGB, 14. Aufl.,
+§ 312 Rn. 7).
+27Gegenteiliges lässt sich nicht aus Art. 3 I der RL 2011/83/EU folgern (aA
+Hoffmann ZIP 2015, 1365 [1366 ff.]; MüKoBGB/Habersack, 8. Aufl., vor § 765 Rn.
+zutreffend, dass die in Art. 3 I Hs. 2 aufgenommene Umschreibung „jegliche
+Verträge, die zwischen einem Unternehmer und einem Verbraucher geschlossen
+werden“ – entsprechend § 310 III BGB – zunächst alle Verträge zwischen einem
+Unternehmer und einem Verbraucher ohne Rücksicht auf den Vertragsgegenstand
+erfasst. Die Richtlinie gilt für diese Verträge nach Art. 3 I Hs. 1 aber nur unter den
+Bedingungen und in dem Umfang, wie sie in ihren Bestimmungen festgelegt sind
+(vgl. Schinkels WM 2017, 113 [114]). Das Widerrufsrecht für im Fernabsatz oder
+außerhalb von Geschäftsräumen abgeschlossene Verbraucherverträge ist in Art. 9
+der Richtlinie geregelt. Nach Art. 9 I steht dem Verbraucher eine Frist zum Widerruf
+von 14 Tagen zu, wobei Art. 9 II das Ende der Widerrufsfrist für die vom
+Widerrufsrecht erfassten Verträge im Einzelnen festsetzt. Das Widerrufsrecht
+besteht danach bei Dienstleistungsverträgen iSv Art. 2 Nr. 6, bei Kaufverträgen iSv
+Art. 2 Nr. 5 sowie bei Verträgen über die Lieferung von Wasser, Gas oder Strom,
+wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum
+Verkauf angeboten werden, von Fernwärme (vgl. Erwgr. 25) oder von digitalen
+Inhalten (vgl. Art. 2 Nr. 11), die nicht auf einem körperlichen Datenträger geliefert
+werden (vgl. Erwgr. 19; von Loewenich WM 2015, 113 [115]; ders. WM 2016, 2011
+[2014]; Schinkels WM 2017, 113 [116 f.]).
+28Danach sind zwar Verträge über die Lieferung öffentlicher
+Versorgungsleistungen und über die Bereitstellung digitaler Inhalte im Vergleich zu
+den Vorgängerrichtlinien 85/577/EWG und 97/7/EG zusätzlich aufgenommen
+worden; diese Verträge sollten nicht als Kauf- oder Dienstleistungsverträge,
+sondern als eigenständige Vertragsarten behandelt werden (Erwgr.19; zur Historie
+dieser Ergänzungen vgl. von Loewenich WM 2016, 2011 [2013]). Einseitig den
+Verbraucher verpflichtende Verträge vermitteln nach Art. 3 I iVm Art. 9 II der RL
+2011/83/EU aber nach wie vor grundsätzlich kein Widerrufsrecht; sie unterfallen
+nicht dem Anwendungsbereich der Richtlinie, da sie keine Leistung des
+Unternehmers zum Vertragsgegenstand haben (Bülow, Rn. 934 b; aA Hoffmann ZIP
+2015, 1365 [1368]; Kehl WM 2018, 2018 [2025]).
+29Allein dieses Verständnis von Art. 3 I der RL 2011/83/EU entspricht auch ihrem
+Schutzzweck. Die Richtlinie zielt nicht darauf ab, sämtliche Verträge, in denen sich
+als Vertragspartner ein Verbraucher und ein Unternehmer gegenüberstehen,
+Asbeek Brusse und de Man Garabito). Vielmehr liegt dem mit der Richtlinie
+geschaffenen Schutzsystem der Gedanke zugrunde, dass der Verbraucher sich bei
+Abschluss von Verträgen zu kommerziellen Zwecken in bestimmten Situationen
+gegenüber dem Unternehmer in einer geschwächten Verhandlungsposition
+befindet. Mit dem Widerrufsrecht zum Außergeschäftsraumvertrag sollte der
+Nachteil ausgeglichen werden, dass die Initiative zu den Vertragsverhandlungen in
+der Regel vom Gewerbetreibenden ausgeht und der Verbraucher auf die
+Verhandlungen außerhalb der Geschäftsräume des Gewerbetreibenden nicht
+vorbereitet ist oder psychisch unter Druck steht. Dies birgt die Gefahr, dass der
+Verbraucher Waren kauft oder Dienstleistungen in Anspruch nimmt, die er
+ansonsten nicht kaufen oder in Anspruch nehmen würde, beziehungsweise
+Verträge über Waren und Dienstleistungen zu überhöhten Preisen schließt, weil er
+keine Möglichkeit hat, Qualität und Preis des Angebots mit anderen Angeboten zu
+vergleichen (so schon Erwgr. 4 der RL 85/577/EWG; Erwgr. 21 der RL 2011/83/EU;
+vgl. EuGH ECLI:EU:C:2018:642 = EuZW 2018, 742 = WRP 2018, 1183 [1185] Rn. 36
+– Verbraucherzentrale Berlin). Mit dem Widerrufsrecht zum Fernabsatzgeschäft
+wurde dem Verbraucher eine angemessene Bedenkzeit eingeräumt, damit er die
+gekaufte Ware prüfen und ausprobieren bzw. die Eigenschaften der Dienstleistung
+zur Kenntnis nehmen kann (Erwgr. 37 und 47 der RL 2011/83/EU; EuGH
+2016, 968 Rn. 30). Alle Überlegungen stellen danach auf eine Leistung des
+Unternehmers ab. Hieran knüpfen die Informationspflichten des Unternehmers
+nach Art. 6 und die Pflichten des Verbrauchers nach Art. 14 der Richtlinie an (vgl.
+Erwgr. 34 zur RL 2011/83/EU); die Regelungen gehen ebenfalls von einer
+Verpflichtung des Unternehmers zur Lieferung von Waren, Erbringung von
+Dienstleistungen oder Lieferung von Versorgungsleistungen aus (vgl. Schinkels
+WM 2017, 113 [114 f.]).
+303. Für eine Anrufung des EuGH nach Art. 267 AEUV besteht kein Anlass (aA
+Palandt/Grüneberg, § 312 Rn. 5; BeckOGK/Busch, § 312 BGB Rn. 19.1; Kehl WM
+2018, 2018 [2027 f.]; Schinkels WM 2017, 113 [118 f.]).
+31Entscheidungserhebliche Fragen des Unionsrechts stellen sich nicht. Die Frage,
+ob die RL 2011/83/EU – entsprechend § 312 I BGB – eine Leistung des
+Unternehmers voraussetzt, ist angesichts des Wortlauts, der Regelungssystematik
+und des Regelungszwecks der Richtlinie ohne Weiteres zu beantworten, so dass
+32III. Die angegriffene Entscheidung war danach aufzuheben und, da der Senat
+nicht in der Sache selbst entscheiden kann (§ 563 III ZPO), an das BerGer.
+zurückzuverweisen.
+33Das BerGer. hat sich aus seiner Sicht folgerichtig bislang nicht mit den im
+Schriftsatz vom 15.12.2017 vorgetragenen Einwendungen des Bekl. unter anderem
+gegen die Wirksamkeit des Bürgschaftsvertrags und der Kündigung des Kredites
+befasst. Auf diese Einwendun-
+BGH: * Kein Widerruf des Bürgschaftsvertrags nach
+gen hatte der Bekl. sowohl in der Berufungsbegründung vom 18.6.2018 als auch
+im Schriftsatz vom 13.11.2018 Bezug genommen. Dass das LG das
+Tatsachenvorbringen des Bekl. in dem nach Schluss der mündlichen Verhandlung
+eingereichten Schriftsatz gem. § 296 a ZPO nicht berücksichtigt hat, stand einer
+Wiederholung des Vorbringens in zweiter Instanz nicht entgegen. Es ist in diesem
+Fall als neues Vorbringen nach §§ 529, 531 ZPO zu beurteilen (MüKoZPO/Prütting,
+6. Aufl., § 296 a Rn. 9; Zöller, ZPO, 33. Aufl., § 296 a Rn. 3). Dem Senat ist eine
+Prüfung, ob Gründe für die Zulassung des von der Kl. in erster Instanz bereits
+bestrittenen Vortrags gem. § 531 II ZPO vorliegen, verwehrt. Diese Prüfung obliegt
+– wie auch die im Fall der Zulassung des Vortrags zu treffenden Feststellungen –
+WM 2012, 1620 Rn. 25 und GRUR 2016, 88 = WRP 2016, 35 Rn. 40; NJW-RR 2013,
+655 Rn. 11).
+Anmerkung der Redaktion
+Entscheidung der Vorinstanz wird besprochen von Tiedemann/Brix-Neve BKR
+2020, 415 und Rümpker/Rüsing WuB 2020, 432.

@@ -1,0 +1,652 @@
+„ImmobilienScout 24“
+Maklervertrag als Fernabsatzgeschäft – Immobilienbewerbung bei
+„ImmobilienScout 24“
+BGB §§ 652, 812, 818; BGB idF bis 12.6.2014 §§ 312 b, 312 d, 312 e, 355; EGBGB Art. 229 § 32 II Nr. 3; RL 97/7/EG Art. 2 Nr. 1, 3 I; RL 2011/83/EU Erwägungsgrund 26, Art. 2 Nr. 6, 3 III Buchst. e, f; AEUV Art. 57; HGB § 354
+1. Übermittelt der Immobilienmakler einem Kaufinteressenten ein Exposé, das ein
+eindeutiges Provisionsverlangen enthält, liegt darin ein Angebot auf Abschluss eines
+Maklervertrags. Dieses Angebot nimmt der Kaufinteressent bereits an, wenn er den
+Makler um die Vereinbarung eines Besichtigungstermins bittet. Der Vertragsschluss
+erfolgt in einem derartigen Fall nicht erst, wenn der Kaufinteressent den
+Besichtigungstermin mit dem Makler wahrnimmt.
+2. Ist die Übersendung des Exposés per E-Mail erfolgt und hat der Kaufinteressent
+den Besichtigungstermin fernmündlich vereinbart, ist der Maklervertrag unter
+ausschließlicher Verwendung von Fernkommunikationsmitteln zustande gekommen.
+Für auf diese Weise zustande gekommene Maklerverträge bestand nach § 312 d I 1
+BGB aF ein Widerrufsrecht nach den Regelungen des Fernabsatzrechts, wenn der
+Vertrag im Rahmen eines für den Fernabsatz organisierten Vertriebs- und
+Dienstleistungssystems abgeschlossen wurde.
+3. Ein Immobilienmakler nutzt ein für den Fernabsatz organisiertes Vertriebs- und
+Dienstleistungssystem, wenn er auf einem Onlinemarktplatz (hier:
+„ImmobilienScout24“) von ihm vertriebene Immobilien bewirbt, den Kontakt zu seinen
+Kunden auf elektronischem oder telefonischem Weg herstellt und der Vertrag in
+dieser Weise zustande kommt. Es kommt nicht darauf an, dass die Durchführung
+eines solchen Maklervertrags nicht auf elektronischem Wege erfolgt.
+4. Das Widerrufsrecht bei vor dem 13.6.2014 im Wege des Fernabsatzes
+geschlossenen Maklerverträgen erlischt mit Ablauf des 27.6.2015, wenn der Makler
+den Verbraucher über das Widerrufsrecht nicht belehrt hat.
+5. Hat der Makler den Verbraucher nicht darauf hingewiesen, dass er nach einem
+erklärten Widerruf Wertersatz für bereits erbrachte Dienstleistungen zu leisten habe,
+steht ihm hierfür kein Wertersatzanspruch gem. § 312 e II BGB aF zu.
+BGH, Urteil vom 7.7.2016 – I ZR 30/15
+NJW-Übersicht
+NJW-Übersicht
+Rn.
+Abschluss des Maklervertrags
+12–23
+Internetanzeige: Invitatio ad offerendum
+14–18
+Vertragsangebot: Übersendung des Exposés per E-Mail
+
+Vertragsannahme: Bitte um Besichtigungsermin
+20–23
+Leistungserbringung des Maklers
+
+Widerruf des Maklervertrags
+25–58
+Bestehen des Widerrufrechts
+27–28
+Maklervertrag als Fernabsatzvertrag
+29–37
+Dienstleistung des Maklers iSd der RL 97/7/EG
+38–43
+Schutzbedürftigkeit des Maklerkunden
+44–46
+Vertrag im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder
+Dienstleistungssystems
+47–54
+Widerrufsfrist
+55–58
+Widerrufsfolgen
+59–66
+Prüfung einer Vorlage an den EuGH
+67–72
+Zum Sachverhalt
+Die Kl. nimmt den Bekl. auf Zahlung von Maklerprovision aus abgetretenem Recht in
+Anspruch. Die Zedentin ist Immobilienmaklerin. Sie warb im Auftrag der
+Grundstückseigentümerin auf dem Internetportal „ImmobilienScout24“ für den Verkauf
+eines mit einem Einfamilienhaus bebauten Grundstücks. In der Anzeige hieß es unter
+der Überschrift „Maklercourtage“: „Unsere Courtage beträgt 6,25 % des Kaufpreises
+inkl. gesetzlicher Mehrwertsteuer. Die Courtage ist vom Käufer zu zahlen und mit
+Vertragsabschluss in der genannten Höhe von uns verdient und bei Beurkundung
+fällig.“ Unter der nachfolgenden Rubrik „Weitere Daten“ war angegeben: „Provision: Es
+wird keine Käufer-Maklerprovision verlangt.“
+Der Bekl. meldete sich am 7.3.2013 über das Kontaktformular des Internetportals per
+E-Mail bei der Zedentin und bat um weitere Informationen. Diese übersandte dem Bekl.
+am 20.3.2013 per E-Mail ein Exposé als PDF-Datei, das einen Hinweis auf eine vom
+Käufer zu zahlende Courtage von 6,25 % enthielt. Eine Belehrung über ein
+Widerrufsrecht enthielten weder die Internetanzeige noch das Exposé. Der Bekl.
+bestätigte telefonisch den Eingang des Exposés und bat um einen
+Besichtigungstermin. Er besichtigte das Hausgrundstück am 21. und 22.3.2013 mit der
+Zedentin und erwarb es mit notariellem Kaufvertrag vom 19.4.2013 zum Preis von
+240.000 Euro. Die Provisionsrechnung der Zedentin vom 19.4.2013 iHv 15.000 Euro
+bezahlte er nicht. Der Bekl. widerrief während des Rechtsstreits am 6.3.2014 den
+Maklervertrag. Die Kl. hat – soweit von Interesse – den Bekl. auf Zahlung der Provision
+und vorgerichtlicher Rechtsanwaltskosten, jeweils nebst Zinsen, in Anspruch
+genommen.
+02069) hat die Berufung des Bekl. zurückgewiesen. Die Revision hatte Erfolg und führte
+zur Abweisung der Klage.
+Aus den Gründen
+12II. (...) 1. Im Ergebnis zu Recht ist das BerGer. davon ausgegangen, dass zwischen
+dem Bekl. und der Zedentin im März 2013 ein Maklervertrag zustande gekommen ist.
+13a) Eine ausdrückliche Vereinbarung darüber, dass die Zedentin für den Bekl. als
+Maklerin tätig wird und der Bekl. ihr hierfür eine Provision zu zahlen hat, ist allerdings
+nicht getroffen worden.
+14b) Der Bekl. und die Zedentin haben jedoch durch konkludentes Verhalten einen
+Maklervertrag geschlossen.
+15aa) Die Zedentin hat dem Bekl. den Abschluss eines Maklervertrags nicht bereits in
+ihrer Internetanzeige angetragen. Ein Angebot auf Abschluss eines Maklervertrags ist
+grundsätzlich noch nicht in einer Zeitungs- oder Internetanzeige des Maklers zu sehen.
+Ein Vertragsschluss kommt deshalb regelmäßig noch nicht dadurch zustande, dass ein
+Makler mit Zeitungs- oder Internetanzeigen werbend im geschäftlichen Verkehr auftritt
+und sich der Interessent daraufhin von sich aus an ihn wendet. Es handelt sich bei
+solchen Inseraten lediglich um eine Aufforderung zur Abgabe eines Angebots (so
+genannte invitatio ad offerendum), mit der sich der Makler an einen unbestimmten
+16bb) In der mit seiner E-Mail vom 7.3.2013 geäußerten Bitte des Bekl., ihm weitere
+Informationen zu dem von der Zedentin beworbenen Objekt zukommen zu lassen, liegt
+ebenfalls kein schlüssiger Antrag auf Abschluss eines Maklervertrags.
+17(1) Eine Provisionsabrede nach § 652 BGB kann stillschweigend durch schlüssiges
+Verhalten getroffen werden. Hieran sind nach der ständigen Rechtsprechung des BGH
+allerdings strenge Anforderungen zu stellen. So ist in der Entgegennahme von
+Maklerdiensten nicht in jedem Fall und nicht ohne Weiteres der Abschluss eines
+Maklervertrags zu erblicken (vgl. BGH, NJW-RR 2007, 400 = NZM 2007, 169 Rn. 12;
+eindeutig zum Ausdruck bringen, dass er Makler des Käufers sein will, um
+auszuschließen, dass der Kaufinteressent ihn für den Makler des Verkäufers halten
+könnte. Das geeignete Mittel hierzu ist ein ausdrückliches Provisionsverlangen (vgl.
+2317 = NZM 2016, 475 Rn. 13). Weist der Makler in einem Zeitungs- oder
+Internetinserat eindeutig auf die fällig werdende Maklerprovision hin, so dass der
+Interessent von einer eigenen Provisionspflicht ausgehen muss, kann der Makler bei
+der Bezugnahme des Interessenten auf diese Anzeige von einem Angebot auf
+10 f. mwN).
+18(2) Im Streitfall konnte der Bekl. aus der Internetanzeige der Zedentin kein
+eindeutiges Provisionsverlangen entnehmen. Das BerGer. hat zutreffend
+angenommen, dass das Inserat in sich widersprüchlich war, weil dort zum einen
+angegeben war, dass keine Maklerprovision für den Käufer anfalle, zum anderen jedoch
+darauf hingewiesen wurde, dass der Käufer eine Courtage von 6,25 % zu zahlen habe.
+In der Bezugnahme des Bekl. auf die Internetanzeige der Zedentin liegt demnach kein
+Angebot auf Abschluss eines Maklervertrags.
+19cc) Mit Recht hat das BerGer. angenommen, dass die Zedentin dem Bekl. mit der
+Übersendung des Exposés per E-Mail am 20.3.2013 ein Angebot auf Abschluss eines
+Maklervertrags gemacht hat. In diesem Exposé heißt es unmissverständlich, dass der
+Käufer die Courtage zu zahlen hat.
+20dd) Dieses Angebot hat der Bekl. dadurch angenommen, dass er in Kenntnis des in
+dem Exposé enthaltenen eindeutigen Provisionsverlangens fernmündlich um die
+Vereinbarung eines Besichtigungstermins gebeten hat.
+21(1) Das BerGer. hat in anderem Zusammenhang angenommen, es komme in
+Betracht, dass der Bekl. durch die Bestätigung des Erhalts des Exposés und die Bitte
+um einen Besichtigungstermin das Vertragsangebot der Zedentin angenommen habe.
+Ob allein die Bitte um einen Besichtigungstermin als konkludente Vertragsannahme
+ausreiche, erscheine zweifelhaft. Eine Inanspruchnahme von Maklerleistungen sei
+letztlich erst bei Durchführung der Besichtigung auf Veranlassung und in Anwesenheit
+des Maklers erfolgt. Die Provisionsvereinbarung sei daher erst im Zuge der
+persönlichen Begegnung der Vertragsparteien bei der Besichtigung geschlossen
+worden. Dieser Beurteilung kann nicht zugestimmt werden.
+22(2) Ein Kaufinteressent, der in Kenntnis des eindeutigen Provisionsverlangens,
+beispielsweise in einem ihm übersandten Objektnachweis oder Exposé, die Dienste des
+Maklers in Anspruch nimmt, gibt damit grundsätzlich in schlüssiger Weise zu erkennen,
+dass er den in dem Provisionsbegehren liegenden Antrag auf Abschluss eines
+zu vermeiden, muss er vor der Inanspruchnahme der Maklerdienste deutlich machen,
+eine solche Willenserklärung nicht abgeben zu wollen (vgl. BGH, NJW-RR 1996, 114
+[115]).
+23(3) Im Streitfall hat die Zedentin dem Bekl. mit der Übersendung des Exposés per E-
+Mail eine für ihn kostenpflichtige Leistung angeboten. Der Bekl. hat sie daraufhin
+telefonisch aufgefordert, einen Besichtigungstermin zu organisieren. Darin liegt die
+schlüssige Erklärung des Bekl., die Maklerdienste der Zedentin zu den angebotenen
+Konditionen in Anspruch nehmen und das Vertragsangebot der Zedentin annehmen zu
+wollen. Der Bekl. hat mit der Bitte um die Vereinbarung eines Besichtigungstermins die
+Zedentin zur Benennung der Anschrift des Objekts aufgefordert. In der Preisgabe
+dieser Information liegt eine Maklerleistung, die der Bekl. entgegengenommen hat. Es
+kann deshalb nicht davon ausgegangen werden, dass der Maklervertrag erst dadurch
+zustande gekommen ist, dass der Bekl. den mit der Zedentin vereinbarten
+Besichtigungstermin wahrgenommen hat.
+242. Zu Recht hat das BerGer. angenommen, dass die Zedentin die den
+Provisionsanspruch auslösende Leistung erbracht hat, indem sie dem Bekl. die
+Verkäuferin benannt und ihm damit die Gelegenheit zum Abschluss des Kaufvertrags
+nachgewiesen hat. Zudem hat sie verschiedene Besichtigungstermine durchgeführt
+und zwischen den Kaufvertragsparteien wegen des Preises vermittelt. Die Zedentin hat
+damit die von ihr beanspruchte Provision in Höhe von brutto 6,25 % vom Kaufpreis iHv
+240.000 Euro grundsätzlich verdient. Das BerGer. hat den Provisionssatz als im Bereich
+von Hamburg üblich angesehen. Dagegen erhebt die Revision keine Einwendungen.
+253. Entgegen der Auffassung des BerGer. ist der Bekl. an den Maklervertrag nicht
+mehr gebunden, weil er ihn mit seiner Erklärung vom 6.3.2014 gem. §§ 312 b, 312 d I 1,
+355 I 1 BGB aF wirksam widerrufen hat.
+26a) Das BerGer. hat angenommen, ein Widerrufsrecht des Bekl. habe nicht bestanden.
+Zwar stehe der Wirksamkeit des Widerrufs durch die im Prozess abgegebene Erklärung
+des Bekl. nicht entgegen, dass der Widerruf nicht gegenüber der Zedentin erfolgt sei.
+Die Zedentin müsse sich die Prozesserklärung als ihr zugegangen zurechnen lassen.
+Daneben sei der Widerruf ihr gegenüber auch separat mit Schreiben vom 6.3.2014
+wirksam erklärt worden. Ein Widerrufsrecht komme im Streitfall jedoch nicht in
+Betracht. Es fehle schon am Vorliegen eines Fernabsatzvertrags, weil die
+Provisionsvereinbarung erst anlässlich der Durchführung des Besichtigungstermins
+geschlossen worden sei. Anders als bei typischen Fernabsatzverträgen hätten der
+Bekl. und die Zedentin in persönlichen Treffen über die Höhe der Provision gesprochen.
+Im Übrigen unterfielen Grundstücksmaklerverträge grundsätzlich nicht den
+Regelungen über Fernabsatzverträgen. Diese Beurteilung hält der revisionsrechtlichen
+Überprüfung nicht stand.
+27b) Das BerGer. hat im rechtlichen Ansatz zutreffend angenommen, dass sich im
+Streitfall die Beantwortung der Frage, ob zugunsten des Bekl. ein Widerrufsrecht
+bestand, gem. Art. 229 § 32 I EGBGB nach den §§ 312 b bis 312 e und 355 BGB in der
+bis zum 12.6.2014 geltenden Fassung richtet (im Folgenden: BGB aF), weil der
+Maklervertrag zwischen dem Bekl. und der Zedentin im März 2013 geschlossen
+worden ist.
+28c) Der Bekl. hat nach den Feststellungen des BerGer. durch Schreiben vom 6.3.2014
+gegenüber der Zedentin den Widerruf des Maklervertrags erklärt. Diese
+Widerrufserklärung ist wirksam. Zwar ist in § 355 BGB aF – anders als in der seit dem
+13.6.2014 geltenden Fassung dieser gesetzlichen Regelung – nicht ausdrücklich
+geregelt, dass der Widerruf gegenüber dem Unternehmer zu erfolgen hat. Dass die
+Widerrufserklärung als empfangsbedürftige Willenserklärung beim Unternehmer
+eingehen muss, war jedoch bereits bei der damaligen Rechtslage allgemeine Meinung
+(vgl. Staudinger/Kaiser, BGB, Neubearb. 2012, § 355 Rn. 39 mwN). Die Zedentin war
+deshalb die richtige Adressatin der Widerrufserklärung des Bekl. Sie ist weiterhin seine
+Vertragspartnerin, auch wenn sie die Provisionsforderung an die Kl. abgetreten hat. Die
+Kl. als Zessionarin muss diesen Widerruf gem. § 404 BGB gegen sich gelten lassen
+(Staudinger/Busche, § 404 Rn. 2). Auf die Frage, ob der Bekl. den Maklervertrag durch
+Erklärung gegenüber der Kl. als Zessionarin widerrufen konnte, kommt es im Streitfall
+nicht an.
+29d) Mit Erfolg wendet sich die Revision gegen die Annahme des BerGer., dem Bekl.
+stehe kein Widerrufsrecht gem. § 312 d I 1 iVm § 355 BGB aF zu.
+30aa) Nach § 312 d I 1 BGB aF steht einem Verbraucher bei einem Fernabsatzvertrag
+ein Widerrufsrecht nach § 355 BGB zu. Nach § 312 d I 1 BGB aF sind
+Fernabsatzverträge Verträge über die Lieferung von Waren oder über die Erbringung
+von Dienstleistungen, einschließlich Finanzdienstleistungen, die zwischen einem
+Unternehmer und einem Verbraucher unter ausschließlicher Verwendung von
+Fernkommunikationsmitteln abgeschlossen werden, es sei denn, dass der
+Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten Vertriebsoder Dienstleistungssystems erfolgt. Fernkommunikationsmittel sind nach § 312 b II
+BGB aF Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags
+zwischen einem Verbraucher und einem Unternehmer ohne gleichzeitige körperliche
+Anwesenheit der Vertragsparteien eingesetzt werden können, insbesondere Briefe,
+Kataloge, Telefonanrufe, Tele
+652, 653 Rn. 73 f.; BeckOK BGB/Kotzian-Marggraf, 40. Ed., § 652 Rn. 20; Dittert, jurisPR-
+MietR 19/2013, Anm. 5; Moraht, NZM 2001, 883).
+36Die überwiegende Meinung bejaht hingegen eine Einbeziehung von Maklerverträgen
+in den Anwendungsbereich des § 312 b BGB aF aufgrund des weit gefassten Wortlauts
+der Norm und unter Verweis auf den weiten unionsrechtlichen Dienstleistungsbegriff
+(vgl. KG, GE 2016, 57; OLG Düsseldorf, NZM 2015, 225 = MMR 2015, 310 Rn. 49; OLG
+Jena, MMR 2015, 438 Rn. 34; LG Bochum, NJOZ 2012, 1982 [1984]; LG Leipzig, NJW-
+RR 2015, 1329 [1330]; BeckOK BGB/Schmidt-Räntsch, 31. Ed., § 312 b Rn. 21;
+Erman/Saenger, BGB, 13. Aufl., § 312 b Rn. 3; Schulte-Nöltke in HK-BGB, 7. Aufl., § 312 b Rn. 5; MüKoBGB/Roth, § 652 Rn. 44; MüKoBGB/Wendehorst, 6. Aufl., § 312 b Rn.
+33; Palandt/Grüneberg, BGB, 72. Aufl., § 312 b Rn. 10 c; Staudinger/Thüsing, § 312 b
+Rn. 18; Micklitz/Schirmbacher in Spindler/Schuster, Recht der elektronischen Medien,
+2. Aufl., § 312 b BGB Rn. 36; Martinek in Martinek/Semler/Habermeier/Flohr,
+Vertriebsrecht, 3. Aufl., § 9 Rn. 12; D. Fischer, Maklerrecht anhand der
+Neises, NZM 2000, 889 [890]; Mankowski, ZMR 2002, 317 [318]; Lechner, NZM 2013,
+751 [753]; Grams, ZfIR 2014, 319 [320]; Hogenschurz, IMR 2014, 531). Diese Ansicht
+trifft zu.
+37(2) Für eine weite Auslegung des Begriffs der Dienstleistung spricht zunächst der
+Wortlaut der Norm. Fernabsatzverträge sind danach Verträge über die Erbringung von
+Dienstleistungen, einschließlich Finanzdienstleistungen. Der Wortlaut verlangt weder
+eine Qualifikation des Fernabsatzvertrags als Dienstvertrag iSv § 611 I BGB (vgl. OLG
+Düsseldorf, NZM 2015, 225 = MMR 2015, 310 Rn. 50; aA LG Hamburg, ZMR 2014, 591
+NZM 2001, 883 [884]; BeckOK BGB/Kotzian-Marggraf, § 652 Rn. 20).
+38(3) Die Entstehungsgeschichte der Norm weist ebenfalls auf die Einbeziehung von
+Maklerverträgen in den Anwendungsbereich des § 312 b BGB aF hin. Die Regelung des
+§ 312 b BGB aF dient der Umsetzung der RL 97/7/EG vom 20.5.1997 über den
+Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl. 1997 L 144, 19).
+Diese definiert in Art. 2 Nr. 1 den Vertragsschluss im Fernabsatz als jeden zwischen
+einem Lieferer und einem Verbraucher geschlossenen, eine Ware oder Dienstleistung
+betreffenden Vertrag, der im Rahmen eines für den Fernabsatz organisierten Vertriebsund Dienstleistungssystems des Lieferers geschlossen wird. Nach Art. 2 Nr. 3 der RL
+97/7/EG ist Lieferer jede natürliche oder juristische Person, die beim Abschluss von
+Verträgen im Sinne dieser Richtlinie im Rahmen ihrer gewerblichen oder beruflichen
+Tätigkeit handelt. Diese Definitionen sind jeweils weit gefasst.
+39Zwar ist der Begriff der Dienstleistung in der RL 97/7/EG nicht definiert. Nach der
+Rechtsprechung des EuGH sind Bedeutung und Tragweite von Begriffen, die das
+Unionsrecht nicht definiert, entsprechend ihrem Sinn nach dem gewöhnlichen
+Sprachgebrauch und unter Berücksichtigung des Zusammenhangs, in dem sie
+verwendet werden und der mit der Regelung, zu der sie gehören, verfolgten Ziele zu
+Rn. 26 – DIR International Film ua/Kommission; EuGH, ECLI:EU:C:2005:150 = Slg. 2005,
+Bestimmung, die eine Ausnahme von einem allgemeinen Grundsatz oder von
+unionsrechtlichen Verbraucherschutzvorschriften darstellt, so sind sie außerdem eng
+easyCar/OFT, mwN).
+40Wegen der unionsrechtlichen Herkunft des Begriffs der Dienstleistungen kann auf
+den unionsrechtlichen Dienstleistungsbegriff zurückgegriffen werden (vgl.
+MüKoBGB/Roth, § 652 Rn. 44; Palandt/Grüneberg, § 312 b Rn. 10 c; Neises, NZM 2000,
+hat seine Grundlage in Art. 57 AEUV (ex Art. 50 EGV). Danach sind Dienstleistungen im
+Sinne der Europäischen Verträge Leistungen, die in der Regel gegen Entgelt erbracht
+werden, soweit sie nicht den Vorschriften über den freien Waren- und Kapitalverkehr
+Kluth in Calliess/Ruffert, EUV/AEUV, 5. Aufl., Art. 57 AEUV Rn. 7;
+Randelzhofer/Forsthoff in Grabitz/Hilf/Nettesheim, Das Recht der Europäischen Union,
+58. EL 2016, Art. 57 AEUV Rn. 34). Der Begriff der Dienstleistungen wird auch in anderen
+unionsrechtlichen Rechtsquellen und deren Umsetzungsakten ins nationale Recht weit
+Dienstverträge, die keine Arbeitsverträge sind, um Werk- und Werklieferungsverträge
+und Geschäftsbesorgungsverhältnisse. Gemeinsames Merkmal ist, dass eine
+entgeltliche, tätigkeitsbezogene Leistung an den Verbraucher erbracht wird (vgl. BGHZ
+hat die Tätigkeit von Maklern als Dienstleistungen iSv Art. 5 Nr. 1 Brüssel I-VO
+Auslegung des Begriffs der Dienstleistungen in § 312 b I 1 BGB aF zu gelten, der der
+Umsetzung von Art. 2 Nr. 1 der RL 97/7/EWG dient.
+41Für diese Sichtweise spricht zudem die die RL 97/7/EG ersetzende RL 2011/83/EU
+über die Rechte der Verbraucher vom 25.10.2011, die mit Wirkung zum 13.6.2014 in
+deutsches Recht umgesetzt worden ist. Nach Art. 2 Nr. 6 dieser Richtlinie ist ein
+Dienstleistungsvertrag jeder Vertrag, der kein Kaufvertrag ist und nach dem der
+Unternehmer eine Dienstleistung für einen Verbraucher erbringt oder deren Erbringung
+zusagt und der Verbraucher hierfür den Preis zahlt oder dessen Zahlung zusagt. Diese
+Definition lässt wiederum erkennen, dass im Unionsrecht im Allgemeinen und im
+Bereich des Verbraucherschutzrechts im Besonderen der Begriff der Dienstleistung
+weit verstanden wird. Klarstellend heißt es in Erwägungsgrund 26 der RL 2011/83/EU,
+dass Verträge über Dienstleistungen von Immobilienmaklern unter diese Richtlinie
+fallen sollen. Es spricht nichts dafür, dass dies nicht bereits für die RL 97/7/EG
+gegolten hat, die die RL 2011/83/EU ersetzt hat.
+42(4) Des Weiteren spricht die systematische Auslegung für eine Einbeziehung von
+Maklerverträgen in den Anwendungsbereich der Norm. So ordnet § 312 b III BGB aF an,
+dass die Vorschriften über Fernabsatzverträge keine Anwendung auf einzelne
+Maklertätigkeiten finden. Zum einen ist in § 312 b III Nr. 2 BGB aF der
+Vermittlungsvertrag für Ur
+laubsprodukte nach § 481 b I BGB, bei dem es sich um einen Unterfall eines
+Maklervertrags iSv § 652 BGB handelt (vgl. Palandt/Weidenkaff, § 481 b Rn. 2; Begr.
+zum RegE eines Gesetzes zur Modernisierung der Regelungen über Teilzeit-
+Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie
+Vermittlungsverträge und Tauschsystemverträge, BT-Drs. 17/2764, 16), ausdrücklich
+vom Anwendungsbereich des Fernabsatzrechts ausgenommen. Zum anderen findet
+nach § 312 b III Nr. 3 BGB aF das Fernabsatzrecht auf die Tätigkeit der
+Versicherungsvermittler keine Anwendung. Diese Ausnahmen wären nicht erforderlich
+gewesen, wenn Maklerverträge schon grundsätzlich nicht von § 312 b I 1 BGB aF
+erfasst wären (vgl. OLG Düsseldorf, NZM 2015, 225 = MMR 2015, 310 Rn. 51;
+Staudinger/Thüsing, § 312 b Rn. 18; Mankowski, ZMR 2002, 317 [318]; aA Moraht, NZM
+2001, 883 [884]).
+43(5) Für eine Anwendbarkeit des Fernabsatzrechts auf Nachweis- und
+Vermittlungsmaklerverträge spricht zudem der Sinn und Zweck der
+verbraucherschützenden Regelungen für Vertragsabschlüsse im Fernabsatz.
+Fernabsatzverträge sind dadurch gekennzeichnet, dass Anbieter und Verbraucher sich
+nicht physisch begegnen und der Verbraucher die vom Unternehmer angebotene Ware
+in der Regel nicht vor Vertragsschluss in Augenschein nehmen oder sich Kenntnis von
+den Eigenschaften der Dienstleistung verschaffen kann (vgl. Erwägungsgrund 14 der
+RL 97/7/EG). Um der daraus erwachsenden Gefahr von Fehlentscheidungen des
+Verbrauchers zu begegnen, wird ihm ein Widerrufsrecht eingeräumt (vgl. BGHZ 154,
+23; BGH, NJOZ 2017, 10 = WM 2016, 968 Rn. 30).
+44(6) Zu Unrecht hat das BerGer. angenommen, dass der Verbraucher beim
+Maklervertrag anders als bei anderen Vertragstypen weniger schutzbedürftig sei, weil
+die Entscheidung für den Abschluss des Hauptvertrags, in dessen Folge der
+Provisionsanspruch zur Entstehung gelangt, stets auf einer eingehenden Prüfung des
+Objekts beruhe und zudem die notarielle Beurkundung Schutz vor übereilten
+Entscheidungen biete.
+45Es kann offen bleiben, ob eine solche am Schutzzweck orientierte einschränkende
+Auslegung des Begriffs der Dienstleistung im Bereich des Fernabsatzrechts mit den
+unionsrechtlichen Vorgaben vereinbar ist. Zweifel bestehen schon deshalb, weil die RL
+97/7/EG nach ihrem Art. 14 einen Mindestschutz bezweckt. Jedenfalls trifft die
+Annahme des BerGer. nicht zu, der Kunde des Immobilienmaklers sei weniger
+schutzwürdig als andere Verbraucher, die im Wege des Fernabsatzes Waren erwerben
+oder ein Unternehmen mit Dienstleistungen beauftragen. Der Verbraucher, der einen
+Vertrag über den Kauf einer Immobilie abschließt, ist zwar durch das Erfordernis der
+notariellen Beurkundung des Kaufvertrags vor einer übereilten Entscheidung
+geschützt. Es geht im Streitfall jedoch nicht um die Frage, ob ein Verbraucher beim
+Immobilienkauf durch ein Widerrufsrecht zu schützen ist, sondern um die
+Entscheidung des Verbrauchers, bei der Suche nach einer für ihn geeigneten Immobilie
+einen Makler zu beauftragen. Da in Deutschland die vom Immobilienkäufer zu
+zahlenden Maklerprovisionen üblicherweise in einem Prozentsatz des Kaufpreises für
+die Immobilie bestehen, übersteigen die durch einen Vertrag mit einem
+Immobilienmakler ausgelösten Ansprüche bei weitem die Verpflichtungen, die durch
+die Anschaffung von Waren des täglichen Bedarfs im Fernabsatz ausgelöst werden.
+Dies spricht entgegen der Annahme des BerGer. dafür, Verbrauchern, die mit
+Fernkommunikationsmitteln einen Maklervertrag abgeschlossen haben, ein
+Widerrufsrecht zu gewähren.
+46(7) Ohne Erfolg macht die Revisionserwiderung geltend, der streitgegenständliche
+Vertrag weise keinen grenzüberschreitenden Charakter auf, so dass nicht auf ein
+weites, unionsrechtlich geprägtes Verständnis des Begriffs der Dienstleistung
+abgestellt werden könne. Die RL 97/7/EG bindet den nationalen Gesetzgeber auch in
+Bezug auf reine Inlandsfälle. Mittelbar ergibt sich dies aus den Erwägungsgründen 2
+und 4 der RL 97/7/EG. Danach wirken sich unterschiedliche
+Verbraucherschutzbestimmungen für den Fernabsatz negativ auf den Wettbewerb
+zwischen den Unternehmen im Binnenmarkt aus. Aus diesem Grunde sei es geboten,
+auf Unionsebene eine Mindestanzahl gemeinsamer Regeln in diesem Bereich
+einzuführen. Deshalb hat der deutsche Gesetzgeber die Definition des
+Fernabsatzvertrags aus der RL 97/7/EG übernommen und den Begriff des
+Dienstleistungsvertrags weit verstanden wissen wollen. Danach soll ein Vertrag über
+Dienstleistungen Dienst-, Werk- oder Geschäftsbesorgungsverträge aller Art erfassen
+(vgl. Begr. zum RegE eines Gesetzes über Fernabsatzverträge und andere Fragen des
+Verbraucherrechts sowie zur Umstellung von Vorschriften auf Euro, BT-Drs. 14/2658,
+30).
+47ee) Der Bekl. und die Zedentin haben den in Rede stehenden Maklervertrag im
+Rahmen eines für den Fernabsatz organisierten Vertriebs- oder
+Dienstleistungssystems iSv § 312 b I 1 BGB aF geschlossen.
+48(1) Das BerGer. hat angenommen, der vom Bekl. abgeschlossene Maklervertrag sei
+von vornherein kein selbstständig wechselseitig zu erfüllender Vertrag, sondern ein
+Annex zu einem Vertrag, der planmäßig niemals allein unter Zuhilfenahme von
+Fernkommunikationsmitteln und ohne eingehende Begutachtung der Ware
+abgeschlossen werde. Dies gelte auch für die Leistung des Maklers selbst. Der Makler
+werde typischerweise Besichtigungen der Immobilien durchführen, bei denen weitere
+Informationen zu dem beworbenen Objekt gegeben würden. Der Abschluss des
+Vertrags könne zwar über Fernkommunikationsmittel erfolgen, dessen Abwicklung
+jedoch nicht. Aus diesem Grund könne nicht angenommen werden, dass ein
+Immobilienmakler den Vertrieb seiner Leistungen im Fernabsatz organisiere. Diese
+Sichtweise hält der rechtlichen Prüfung nicht stand.
+49(2) Das BerGer. ist im Ansatz allerdings zutreffend davon ausgegangen, dass ein
+Fernabsatzvertrag nicht immer schon dann anzunehmen ist, wenn der Vertrag unter
+Verwendung von Fernkommunikationsmitteln zustande gekommen ist, sondern nur
+dann, wenn dies im Rahmen eines für den Fernabsatz organisierten Vertriebs- und
+Dienstleistungssystems geschieht.
+50(3) Der Begriff des für den Fernabsatz organisierten Vertriebs- oder
+Dienstleistungssystems ist weder im deutschen Gesetz noch in der zugrunde
+liegenden RL 97/7/EG definiert. Es wird deshalb in der Literatur und in der
+Rechtsprechung teilweise die Auffassung vertreten, dass ein Fernabsatzgeschäft nur
+vorliegt, wenn es bis zu seiner Abwicklung zu keinem persönlichen Kontakt der
+MüKoBGB/Wendehorst, § 312 b Rn. 33; aA Schinkels in Gebauer/Wiedmann, Zivilrecht
+unter europäischem Einfluss, 2. Aufl., Kap. 8 Rn. 30; Neises, NZM 2000, 889 [891];
+2014, 319 [320, 321];
+51(4) Der deutsche Gesetzgeber ist davon ausgegangen, dass die Existenz eines
+organisierten Vertriebssystems verlangt, dass der Unternehmer mit – nicht notwendig
+aufwändiger – personeller und sachlicher Ausstattung innerhalb seines Betriebs die
+organisatorischen Voraussetzungen geschaffen hat, die notwendig sind, um
+regelmäßig im Fernabsatz zu tätigende Geschäfte zu bewältigen. Dabei sind an die
+Annahme eines solchen Vertriebs- oder Dienstleistungssystems insgesamt keine
+hohen Anforderungen zu stellen (vgl. Begr. zum RegE eines Gesetzes zur Umsetzung
+der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der
+Wohnungsvermittlung, BT-Drs. 17/12637, 50). Nur Geschäfte, die unter
+gelegentlichem, eher zufälligem Einsatz von Fernkommunikationsmitteln geschlossen
+werden, sollen aus dem Anwendungsbereich ausscheiden (vgl. Begr. zum RegE eines
+Gesetzes über Fernabsatzverträge und andere Fragen des Verbraucherrechts sowie
+zur Umstellung von Vorschriften auf Euro, BT-Drs. 14/2658, 30). Der sachliche
+Anwendungsbereich des Fernabsatzrechts soll demnach beispielsweise nicht schon
+dann eröffnet sein, wenn der Inhaber eines Geschäfts ausnahmsweise eine
+telefonische Bestellung entgegennimmt und die Ware dem Kunden nicht in seinem
+Ladenlokal übergibt, sondern mit der Post versendet. Die Grenze zum organisierten
+Fernabsatzsystem soll jedoch dann überschritten sein, wenn der Inhaber eines
+Geschäfts Waren nicht nur gelegentlich versendet, sondern systematisch auch mit
+dem Angebot telefonischer Bestellung und Zusendung der Waren wirbt (vgl. Begr. zum
+RegE eines Gesetzes über Fernabsatzverträge und andere Fragen des
+Verbraucherrechts sowie zur Umstellung von Vorschriften auf Euro, BT-Drs. 14/2658,
+31). Damit soll der Betreiber eines stationären Ladenlokals, der seine Leistungen
+ausschließlich vor Ort erbringt, nicht davon abgehalten werden, ausnahmsweise auch
+eine telefonische Bestellung entgegen zu nehmen (vgl. Schulte-Nölke in HK-BGB, § 312 b Rn. 6; Neises, NZM 2000, 889 [891]; Mankowski, ZMR 2002, 317 [323]).
+52Eine solche Situation liegt im Streitfall nicht vor. Die Zedentin hat mit der
+Internetplattform „ImmobilienScout24“ einen Onlinemarktplatz genutzt, um
+Kaufinteressenten für von ihr vertriebene Immobilien zu finden und Maklerkunden zu
+gewinnen. Diese Immobilienplattform ist nicht auf eine persönliche, sondern auf eine
+elektronische oder telefonische Kontaktaufnahme angelegt. Anlass für eine solche
+Kontaktaufnahme sind die Internetanzeigen, in denen Makler wie die Zedentin mit
+ihnen von den Verkäufern an die Hand gegebenen Immobilien für ihre Maklerleistungen
+werben. Typisch ist außerdem, dass es wie im Streitfall durch
+Fernkommunikationsmittel zum Vertragsschluss kommt. Dienstleister, die ein
+Internetportal wie „ImmobilienScout24“ nutzen, organisieren den Vertrieb ihrer
+Leistungen für den Fernabsatz. Bietet ein Makler in dieser Weise seine Dienste im
+Internet an und stellt er den Kontakt zu seinen Kunden auf elektronischem oder
+telefonischem Weg her, schließt er nicht nur ausnahmsweise, sondern regelmäßig
+Fernabsatzverträge.
+53(5) Unerheblich ist der vom BerGer. für die Beurteilung des Streitfalls als maßgeblich
+angesehene Umstand, dass die Durchführung des Maklervertrags nicht auf
+elektronischem Weg erfolgt. Entscheidend ist allein, ob die Provisionszahlungspflicht
+des Maklerkunden auf einem Vertragsabschluss im Fernabsatz beruht. Sowohl § 312 b I 1 BGB aF als auch Art. 2 Nr. 1 der RL 97/7/EG stellen für die Qualifikation des
+Fernabsatzvertrags auf die Form seines Abschlusses ab.
+54Der Verbraucher, der ohne persönlichen Kontakt zum Dienstleister eine
+Leistungsverpflichtung eingeht, ist entgegen der Annahme des BerGer. nicht deswegen
+weniger schutzbedürftig, weil im Anschluss an den Vertragsschluss ein persönlicher
+Kontakt bei der Ausführung der Dienstleistung erfolgt. Vielmehr wird häufig bei im
+Fernabsatz geschlossenen Verträgen über die Erbringung von Dienstleistungen ein
+persönlicher Kontakt folgen, wenn die vereinbarte Dienstleistung vom Unternehmer
+nicht ausschließlich an seinem Firmensitz ausgeführt werden kann. Dasselbe gilt für
+die Bestellung von Waren im Fernabsatz. Der Besteller einer Sache verpflichtet sich
+dabei zunächst zum Kauf und erhält erst später die Möglichkeit, die Ware zu prüfen. Es
+ist gerade der Zweck der RL 97/7/EG und der ihrer Umsetzung in deutsches Recht
+dienenden Vorschrift des § 312 b I 1 BGB aF, die Wahlfreiheit des Verbrauchers zu
+schützen, der ohne die Möglichkeit, die Ware oder die Dienstleistung zu prüfen, eine
+vertragliche Verpflichtung zur Bezahlung der Ware oder der Dienstleistung
+eingegangen ist (vgl. Begr. zum RegE eines Gesetzes über Fernabsatzverträge und
+andere Fragen des Verbraucherrechts sowie zur Umstellung von Vorschriften auf Euro,
+BT-Drs. 14/2658, 15). Von seiner Wahlfreiheit kann der Verbraucher nur bei
+Vertragsschluss Gebrauch machen. Zu diesem Zeitpunkt soll der Gefahr von
+Fehlentscheidungen des Verbrauchers begegnet werden, weil er aufgrund der
+räumlichen Distanz die vom Unternehmer angebotene Ware in der Regel nicht vor
+Vertragsschluss in Augenschein nehmen oder sich Kenntnis von den Eigenschaften
+der Dienstleistung verschaffen kann (Erwägungsgrund 14 der RL 97/7/EG; Begr. zum
+RegE eines Gesetzes über Fernabsatzverträge und andere Fragen des
+Verbraucherrechts sowie zur Umstellung von Vorschriften auf Euro, BT-Drs. 14/2658,
+15; vgl. BGH, NJOZ 2017, 10 = WM 2016, 968 Rn. 30). Diese Gefahr kann durch spätere
+persönliche Kontaktaufnahmen nach Vertragsschluss, auch wenn diese von Anfang
+geplant und gewünscht waren, nicht beseitigt werden. Eine hiervon abweichende
+Betrachtungsweise liefe dem Schutzzweck des Fernabsatzrechts zuwider (vgl. Neises,
+NZM 2000, 889 [891]; Lechner, NZM 2013, 751 [754]; Grams, ZfIR 2014, 319 [320 f.]).
+55e) Der vom Bekl. am 6.3.2014 erklärte Widerruf des Maklervertrags ist fristgerecht
+erfolgt.
+56aa) Nach § 355 II 1 und 2 BGB in der im Streitfall gem. Art. 229 § 32 I EGBGB
+maßgeblichen, bis zum 12.6.2014 geltenden Fassung beträgt die Widerrufsfrist 14
+Tage, wenn die Widerrufsbelehrung spätestens bei oder unverzüglich nach
+Vertragsschluss erteilt wird und wenn der Unternehmer im letzteren Fall den
+Verbraucher gem. Art. 246 § 1 I Nr. 10 EGBGB unterrichtet hat. Sie beträgt einen Monat,
+wenn sie später erteilt wird. Nach § 355 IV 1 BGB aF erlischt das Widerrufsrecht
+spätestens sechs Monate nach Vertragsschluss. Dies gilt jedoch gem. § 355 IV 3 BGB
+aF dann nicht, wenn der Verbraucher nicht über sein Widerrufsrecht belehrt worden ist.
+Da der Bekl. nach den Feststellungen des BerGer. nicht über sein Widerrufsrecht
+belehrt worden ist, hatte die Widerrufsfrist noch nicht zu laufen begonnen, als er den
+Widerruf am 6.3.2014 erklärt hat.
+57bb) Hieran ändert der Umstand nichts, dass durch das Gesetz zur Umsetzung der
+Verbraucherrechterichtlinie 2011/83/EU vom 20.9.2013 (BGBl. I 2013, 3642) mit
+Wirkung zum 13.6.2014 eine maximale Widerrufsfrist von zwölf Mo
+naten und 14 Tagen seit dem Vertragsschluss eingeführt worden ist (§ 356 III 3 BGB
+nF). Nach der Übergangsregelung in Art. 229 § 32 II Nr. 3 EGBGB erlischt das
+Widerrufsrecht bei vor dem 13.6.2014 im Wege des Fernabsatzes geschlossenen
+Dienstleistungsverträgen bei fehlender Belehrung mit Ablauf des 27.6.2015. Der
+Widerruf des Bekl. erfolgte vor diesem Stichtag. Zudem hat der Bekl. den Widerruf
+innerhalb von zwölf Monaten und 14 Tagen nach dem frühestens am 20.3.2013
+erfolgten Vertragsschluss erklärt, so dass der Widerruf auch nach der Neuregelung
+rechtzeitig erfolgt wäre.
+58f) Das Widerrufsrecht des Bekl. war zum Zeitpunkt der Widerrufserklärung am
+6.3.2014 noch nicht gem. § 312 d III BGB aF erloschen. Dafür hätte bei einer
+Dienstleistung der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des
+Verbrauchers vollständig erfüllt sein müssen, bevor der Verbraucher sein
+Widerrufsrecht ausgeübt hat. Dies war vorliegend nicht der Fall, weil der Bekl. seine
+Pflicht zur Provisionszahlung vor der Ausübung des Widerrufsrechts nicht erfüllt hatte.
+594. Die Entscheidung des BerGer. erweist sich nicht aus anderen Gründen als richtig.
+60a) Der Kl. steht aus abgetretenem Recht der Zedentin kein Anspruch auf Wertersatz
+in Höhe der vereinbarten Provision zu.
+61aa) Nach § 312 e II BGB in der seit dem 4.8.2011 geltenden Fassung, der weitgehend
+§ 357 VIII 1 BGB in der seit dem 13.6.2014 geltenden Fassung entspricht, hat der
+Verbraucher bei Fernabsatzverträgen über Dienstleistungen Wertersatz für die
+erbrachte Dienstleistung nach den Vorschriften über den gesetzlichen Rücktritt nur zu
+leisten, wenn er vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge
+hingewiesen worden ist und wenn er ausdrücklich zugestimmt hat, dass der
+Unternehmer vor Ende der Widerrufsfrist mit der Ausführung der Dienstleistung
+beginnt. Mit dieser Regelung hat der Gesetzgeber auf die Rechtsprechung des BGH
+in der bis zum 3.8.2009 geltenden Fassung reagiert, nach der das Widerrufsrecht auch
+ohne Erteilung einer Widerrufsbelehrung bereits dann erlischt, wenn der Unternehmer
+mit Zustimmung des Verbrauchers mit der Ausführung der Dienstleistung begonnen
+hat oder der Verbraucher diese selbst veranlasst hat. Die Neuregelung in § 312 e II BGB
+aF hat zur Folge, dass Unternehmer auf eigene Rechnung leisten, solange der Vertrag
+nicht vollständig erfüllt ist (vgl. Begr. zum RegE eines Gesetzes zur Bekämpfung
+unerlaubter Telefonwerbung und zur Verbesserung des Verbraucherschutzes bei
+besonderen Vertriebsformen, BT-Drs. 16/10734, 7, 10, 11).
+62bb) Die Voraussetzungen des § 312 e II BGB aF liegen nicht vor, weil der Bekl. über
+sein Widerrufsrecht nicht belehrt worden ist. Bei einer solchen Sachlage ist es
+ausgeschlossen, dass die Zedentin den Bekl. darauf hingewiesen haben könnte, dass
+er nach einem erklärten Widerruf Wertersatz für die erbrachte Dienstleistung zu leisten
+habe. Ein solcher Hinweis setzt denknotwendig die Erteilung einer Widerrufsbelehrung
+voraus, an der es im Streitfall fehlt.
+63cc) Nach alledem steht der Zedentin weder ein Provisionsanspruch noch ein
+Wertersatzanspruch gegen den Bekl. zu. Diese Rechtsfolge beruht auf der
+gesetzgeberischen Entscheidung, die Unternehmer anzuhalten, den Verbrauchern eine
+Widerrufsbelehrung zu erteilen und diese auf ihre Wertersatzpflicht hinzuweisen, wenn
+der Unternehmer vor Ablauf der Widerrufsfrist auf Wunsch des Verbrauchers mit der
+Ausführung seiner Dienstleistungen beginnt.
+64Dem steht nicht entgegen, dass der BGH bei einem Widerruf eines
+Teilzahlungsgeschäfts über Maklerleistungen gem. § 501  BGB aF einen
+Wertersatzanspruch des Maklers in Höhe des objektiven Werts der Maklerleistung
+Entscheidung betraf nicht den Fall eines Widerrufs eines Fernabsatzvertrags. Im Fall
+des Bestehens eines solchen Widerrufsrechts stellt § 312 e II BGB aF besondere
+Voraussetzungen an den Wertersatzanspruch, die für den Widerruf von
+Teilzahlungsgeschäften nicht gelten.
+65b) Der Zedentin steht gegen den Bekl. kein bereicherungsrechtlicher Anspruch in
+Höhe der geltend gemachten Maklerprovision zu (§§ 812, 818 BGB), den sie an die Kl.
+hätte abtreten können. Dies gilt schon deshalb, weil ein Bereicherungsanspruch
+voraussetzt, dass der Maklervertrag unwirksam ist. Der von dem Bekl. erklärte Widerruf
+führt jedoch nicht dazu, dass der mit der Zedentin geschlossene Maklervertrag nichtig
+ist. Der Widerruf hat die vertragliche Grundlage nicht rückwirkend beseitigt, sondern
+das wirksame Vertragsverhältnis lediglich mit Wirkung ex nunc in ein
+Rückabwicklungsverhältnis umgewandelt. Insoweit unterscheidet sich die Rechtslage
+von derjenigen bei einem unwirksamen Vertragsverhältnis (BGHZ 194, 150 = NJW
+2012, 3428 = NZM 2012, 689 Rn. 27).
+66c) Das Berufungsurteil erweist sich entgegen der Ansicht der Revisionserwiderung
+auch nicht gem. § 354 I HGB als richtig, wonach derjenige, der – wie hier die Zedentin
+– in Ausübung seines Handelsgewerbes einem anderen Geschäfte besorgt oder
+Dienste leistet, dafür „auch ohne Verabredung“ Provision nach den an dem Orte
+üblichen Sätzen fordern kann. Die Vorschrift des § 354 I HGB greift dann nicht ein,
+wenn eine vorrangige Vergütungsvereinbarung getroffen wurde oder eine Vergütung
+für die fragliche Tätigkeit kraft Gesetzes ausgeschlossen ist (Kindler in
+Ebenroth/Boujong/Joost/Strohn, HGB, 3. Aufl., § 354 Rn. 17). Im Streitfall haben sich
+die Zedentin und der Bekl. auf eine bestimmte Provision geeinigt. Zudem sehen die
+verbraucherschützenden Regelungen des BGB vor, dass der Zedentin wegen des vom
+Bekl. erklärten Widerrufs kein Provisions- oder Wertersatzanspruch zustehen soll. Bei
+einer derartigen Sachlage ist für eine Anwendung von § 354 HGB kein Raum.
+67III. Eine Vorlage an den EuGH ist nicht veranlasst.
+681. Die von der Revisionserwiderung aufgeworfene Frage, ob Art. 3 I Spiegelstrich 4
+der RL 97/7/EG dahin auszulegen ist, dass Maklerverträge zur Anbahnung von
+Grundstückskaufverträgen vom Anwendungsbereich der Richtlinie ausgenommen
+sind, ist zweifelsfrei zu verneinen.
+69a) Nach dieser Regelung gilt die RL 97/7/EG nicht für Verträge, die für den Bau und
+den Verkauf von Immobilien geschlossen werden oder die sonstige Rechte an
+Immobilien mit Ausnahme der Vermietung betreffen. Der Wortlaut dieser Regelung
+erfasst die Vermittlung oder den Nachweis einer Möglichkeit zum Kauf einer Immobilie
+nicht. Da es sich um eine Ausnahmeregelung handelt, ist sie eng auszulegen (EuGH,
+Art. 3 II der RL 97/7/EG]).
+70b) Für dieses Auslegungsergebnis sprechen auch die mit Art. 3 I Spiegelstrich 4 der
+RL 97/7/EG weitgehend wortgleichen Regelungen in Art. 3 III Buchst. e und f der RL
+2011/83/EU und insbesondere deren Erwägungsgrund 26. Darin heißt es, dass
+Verträge über die Übertragung von Immobilien oder von Rechten an Immobilien oder
+die Begründung oder den Erwerb solcher Immobilien oder Rechte, Verträge über den
+Bau von neuen Gebäuden oder über erhebliche Umbaumaßnahmen an bestehenden
+Gebäuden sowie über die Vermietung von Wohnraum vom Geltungsbereich der
+Richtlinie ausgenommen sind, dagegen Dienstleistungsverträge insbesondere im
+Zusammenhang mit der Errichtung von Anbauten an Gebäuden und im
+Zusammenhang mit der Instandsetzung und Renovierung von Gebäuden, die keine
+erheblichen Umbauarbeiten darstellen, wie auch Verträge über Dienstleistungen von
+Immobilienmaklern und über die Vermietung von Räumen für andere als Wohnzwecke
+unter diese Richtlinie fallen sollten. Es spricht alles dafür, dass diese Erwägungsgründe
+der RL 2011/83/EU zum Geltungsbereich der Richtlinie bereits für die
+Vorgängerrichtlinie 97/7/EG gegolten haben und dass deshalb die Dienstleistungen
+von Immobilienmaklern bereits von der RL 97/7/EG erfasst wurden.
+712. Für die Regelung des Wertersatzanspruchs in § 312 e II BGB aF des Unternehmers
+nach erfolgtem Widerruf ist im Streitfall entscheidungserheblich allein das nationale
+Recht. Soweit dieses über das Schutzniveau der RL 97/7/EG hinausgehen sollte, steht
+dem die Richtlinie nicht entgegen. Sie sieht in ihrem Art. 14 lediglich ein Mindestmaß
+an Verbraucherschutz vor, so dass die Mitgliedsstaaten nicht daran gehindert waren,
+ein noch höheres Schutzniveau vorzusehen. Auf die Frage, ob § 312 e II BGB aF mit der
+RL 2011/83/EU in Einklang steht, die in ihrem Art. 4 eine Vollharmonisierung vorsieht
+und in Art. 7 III, Art. 8 VIII und Art. 14 III, IV die Frage des Wertersatzes bei einem vom
+Verbraucher erklärten Widerruf eines Fernabsatzvertrags über Dienstleistungen
+erstmals regelt, kommt es nicht an, weil diese Richtlinie zum Zeitpunkt des hier in Streit
+stehenden Vertragsschlusses im März 2013 noch nicht in deutsches Recht umgesetzt
+war und die Umsetzungsfrist des Art. 28 der RL 2011/83/EU noch nicht abgelaufen
+war.
+723. Da mithin an der Auslegung der RL 97/7/EG keine vernünftigen Zweifel bestehen,
+ist eine Anrufung des EuGH gem. Art. 267 AEUV nicht erforderlich (vgl. EuGH,
+ECLI:EU:C:2015:644 = GRUR Int 2015, 1152 Rn. 43 = EuZW 2016, 120 Ls. – AIFA/Doc
+Generici).
+Anmerkung
+Das vorstehende Urteil des BGH qualifiziert per E-Mail und fernmündlich zustande
+gekommene Grundstücksmaklerverträge als Fernabsatzgeschäft iSv § 312 b BGB in
+der bis zum 12.6.2014 geltenden Fassung (im Folgenden: BGB aF). Der BGH nimmt ein
+Widerrufsrecht gem. § 355 BGB für Verbraucher nach den Regeln des
+Fernabsatzrechts an (Vertragsschluss im Rahmen eines für den Fernabsatz
+organisierten Vertriebs- und Dienstleistungssystems). Ohne den Hinweis des Maklers
+an den Verbraucher auf Wertersatz für erbrachte Leistungen im Fall des Widerrufs steht
+diesem kein Wertersatzanspruch nach § 312 e II BGB aF zu.
+Zunächst befasst sich das Urteil mit dem stillschweigenden oder konkludenten
+Zustandekommen von Maklerverträgen. Der BGH bestätigt seine ständige
+Rechtsprechung, dass an einen stillschweigenden/konkludenten Vertragsschluss
+grundsätzlich strenge Anforderungen zu stellen sind; das setzt in der Regel ein
+2016, 2317). Liegt ein solches vor – durch E-Mail übersandtes Exposé mit Hinweis auf
+Käuferprovision –, so genügt für die Vertragsannahme die telefonische Bestätigung
+des Zugangs und Vereinbarung eines Besichtigungstermins, der tatsächlichen
+Durchführung des Besichtigungstermins bedarf es für das Zustandekommen des
+Maklervertrags nicht.
+Der BGH bejaht (wie auch OLG Düsseldorf, NZM 2015, 225; OLG Jena, MMR 2015, 438)
+in der vorstehenden Entscheidung ausdrücklich die bisher streitige Frage (vgl. BVerfG,
+Verwendung von Fernkommunikationsmitteln (§ 312 II BGB aF) zustande
+gekommenen Maklervertrags ein Widerrufsrecht nach den Bestimmungen des
+Fernabsatzrechts zusteht. Nach § 312 d I 1 BGB aF hat ein Verbraucher bei einem
+Fernabsatzvertrag ein Widerrufsrecht (§ 355 BGB aF). Fernabsatzverträge sind
+Verträge über die Lieferung von Waren oder über die Erbringung von Dienstleistungen,
+einschließlich Finanzdienstleistungen (§ 312 b I 1 BGB aF), die unter ausschließlicher
+Verwendung von Fernkommunikationsmitteln im Rahmen eines für den Fernabsatz
+organisierten Vertriebs- oder Dienstleistungssystems abgeschlossen werden.
+Grundstücksmaklerverträge qualifiziert der BGH zutreffend, unter anderem mit Hinweis
+Dienstleistungsverständnis, als Dienstleistungsverträge iSv § 312 b I BGB aF. Damit
+bezieht er Grundstücksmaklerverträge in den Schutzzweck der Norm ein.
+Den überlegenswerten Ansatz des OLG Schleswig in dem angefochtenen Urteil, der
+Verbraucher sei beim Maklervertrag aufgrund des beurkundungspflichtigen
+Hauptvertrags weniger schutzbedürftig, verwirft der BGH. Der teilweise in der Literatur
+und Rechtsprechung vertretenen Auffassung, ein Fernabsatzgeschäft liege nur vor,
+wenn es bis zu seiner Abwicklung zu keinem persönlichen Kontakt der Parteien
+gekommen sei (vgl. MüKoBGB/Wendehorst, 6. Aufl., § 312 b BGB Rn. 33), stimmt der
+BGH nicht zu. Überzeugend ist hier die Argumentation, der Verbraucher, der nach
+Vertragsschluss ohne persönlichen Kontakt den Vertrag durchführt, könne nicht
+schützenswerter sein als derjenige Verbraucher, der persönlichen Kontakt mit dem
+Vertragspartner hatte.
+Ein für den Fernabsatz organisiertes Vertriebs- oder Dienstleistungssystem sieht der
+BGH in der Nutzung der Internetplattform „ImmobilienScout24“, die auf elektronische
+und nicht auf persönliche Kontaktaufnahme angelegt ist. Damit bejaht der BGH alle
+Voraussetzungen für das Fernabsatzgeschäft. Ein Erlöschen des Widerrufsrechts des
+Maklerkunden bei vollständiger Erfüllung auf ausdrücklichen Wunsch des Kunden (§ 312 d III BGB aF) scheitert an der Nichtzahlung der Provision (und damit nicht
+vollständiger Erfüllung).
+Schließlich verneint der BGH auch den Anspruch des Maklers auf Wertersatz (in Höhe
+der vereinbarten Provision) gem. § 312 e II BGB aF (entspricht weitgehend § 357 VIII 1
+BGB). Diese Verpflichtung des Verbrauchers zur Zahlung setzt den Hinweis des
+Unternehmers auf den Wertersatz und die ausdrückliche Zustimmung zur Ausführung
+der Maklerleistung vor Ende der Widerrufsfrist voraus. Wurde schon keine
+Widerrufsbelehrung erteilt, muss es nach Auffassung des BGH auch an diesem
+Hinweis fehlen.
+Makler bewegen sich im Spannungsfeld zwischen Bindung des Kunden, schnellem
+Abschluss des Maklervertrags und einer rechtssicheren Vertragsgestaltung mit
+Widerrufsbelehrung und Hinweis auf Wertersatz/Zustimmungserklärung des
+Maklerkunden zur Ausführung des Auftrags vor Ablauf der Widerrufsfrist. Maklern, die
+über Internetportale wie ImmobilienScout24 oder Immowelt anbieten, ist zu raten,
+einem Vertragsangebot (Exposé) an einen Verbraucher stets eine ordnungsgemäße
+Widerrufsbelehrung beizufügen und diesen um seine Zustimmung zur sofortigen
+Auftragsausführung mit Hinweis auf Wertersatz zu bitten. Anderenfalls droht der
+Verlust jeder Vergütung trotz erbrachter Leistung und Erfolgseintritt.
+Rechtsanwalt Christoph Hamm, München

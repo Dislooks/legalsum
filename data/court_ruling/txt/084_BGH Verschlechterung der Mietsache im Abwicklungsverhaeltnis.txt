@@ -1,0 +1,293 @@
+Verschlechterung der Mietsache im Abwicklungsverhältnis
+BGB §§ 242, 536 I, 546 a I
+1. Eine erstmals nach Vertragsbeendigung eingetretene Verschlechterung der
+Mietsache, die beim Fortbestehen des Mietverhältnisses eine Minderung der Miete
+zur Folge gehabt hätte, führt grundsätzlich nicht dazu, den Anspruch des Vermieters
+auf Zahlung einer Nutzungsentschädigung in entsprechender Anwendung von § 536
+2. Etwas anderes gilt nur dann, wenn den Vermieter nach Treu und Glauben im
+Rahmen des Abwicklungsverhältnisses ausnahmsweise eine nachvertragliche Pflicht
+zur Beseitigung von Mängeln der vorenthaltenen Mietsache trifft.
+BGH, Urteil vom 27.5.2015 – XII ZR 66/13
+Zum Sachverhalt
+Die Parteien streiten um Nutzungsentschädigung nach der Beendigung eines
+Mietverhältnisses über Geschäftsräume. Im Mai 2004 vermietete der Kl. dem Bekl. ein
+Ladenlokal zum Betrieb eines Lebensmittelgeschäfts. Zuletzt war eine monatliche
+Miete iHv 3436 Euro (2940 Euro Kaltmiete zzgl. 496 Euro Nebenkostenvorauszahlung)
+vereinbart. Nachdem der Kl. das Mietverhältnis zum 31.5.2010 ordentlich gekündigt
+hatte, wurde der Bekl. in einem anschließenden Räumungsrechtsstreit im April 2011
+rechtskräftig zur Räumung des Mietobjekts verurteilt. Der Bekl. räumte das Ladenlokal
+zunächst nicht, zahlte jedoch bis Dezember 2011 einen monatlichen Betrag in Höhe
+der vereinbarten Miete an den Kl. weiter. Danach leistete er keine Zahlungen mehr. Der
+Bekl. räumte das Mietobjekt Ende April 2012.
+Mit seiner Klage machte der Kl. eine nach der vollen vertraglich vereinbarten Miete
+bemessene Nutzungsentschädigung für die Monate Januar bis März 2012 in einer
+Gesamthöhe von 10.308 Euro geltend. Der Bekl. ist der Klage entgegentreten und hat
+behauptet, dass es zwischen September 2011 und April 2012 in den gemieteten
+Räumen insgesamt fünf – auf mangelhafte Dachentwässerung infolge verstopfter
+Fallrohre und Dachtraufen zurückzuführende – Wasserschäden gegeben habe, welche
+die Gebrauchstauglichkeit der Mietsache im streitgegenständlichen Zeitraum
+erheblich gemindert hätten. Zudem seien durch die Wasserschäden Waren im Wert von
+rund 62.000 Euro vernichtet worden; mit entsprechenden Schadenersatzansprüchen
+erkläre er hilfsweise die Aufrechnung.
+vollem Umfang stattgegeben. Die dagegen gerichtete Berufung des Bekl. hat das OLG
+Senat zugelassene Revision hatte keinen Erfolg.
+Aus den Gründen
+7I. Das BerGer. hat seine Entscheidung im Wesentlichen wie folgt begründet:
+8Nach § 546 a I BGB könne der Vermieter, dem das Mietobjekt in der Zeit nach Ende
+des Mietvertrags vorenthalten wird, als Mindestentschädigung den Betrag verlangen,
+der zur Zeit der Beendigung des Mietverhältnisses als vereinbarte Miete zu entrichten
+war. Zwar regele § 546 a BGB keinen Schadensersatzanspruch, sondern einen
+vertraglichen Anspruch eigener Art. Dieser sei aber nicht von einer Gegenleistung
+abhängig, denn der frühere Vermieter schulde nach Beendigung des Mietverhältnisses
+keine Gebrauchsüberlassung mehr. Vielmehr schulde der frühere Mieter die
+Herausgabe des Mietobjekts. Es sei daher nicht widersprüchlich, wenn der frühere
+Vermieter auf Fortzahlung der ungekürzten Nutzungsentschädigung bestehe, auch
+wenn sich nach Ende des Mietverhältnisses am Mietobjekt Mängel gezeigt haben
+sollten. Der Bekl. könne sich auch nicht darauf berufen, dass ein „Minderungsfall“
+bereits bei Beendigung des Mietverhältnisses vorgelegen habe. Er ziehe als
+Schadensursache eine Verstopfung von Traufen und Fallrohren in Betracht. Es sei aber
+nicht ersichtlich und nicht mit Substanz behauptet, dass dieser schadensträchtige
+Zustand bereits bei Ende des Mietverhältnisses, also ein Jahr und vier Monate vor dem
+ersten angeblichen Schadensfall vorhanden gewesen sei.
+9Auch der zur Hilfsaufrechnung gestellte Schadensersatzanspruch stehe dem Bekl.
+nicht zu, weil der Kl. nach Beendigung des Mietverhältnisses nicht mehr zur
+Instandhaltung der Dachentwässerung verpflichtet gewesen sei. Es sei auch nicht
+ersichtlich, dass er während der Dauer des Mietverhältnisses gegen eine bis dahin
+möglicherweise bestehende Pflicht verstoßen habe.
+10II. Diese Ausführungen halten rechtlicher Überprüfung stand.
+111. Zutreffend hat das BerGer. zunächst angenommen, dass der Kl., dem das
+Mietobjekt im Zeitraum nach der Beendigung des Mietverhältnisses (Juni 2010) bis zur
+Räumung durch den Bekl. (April 2012) vorenthalten worden ist, im hier
+streitgegenständlichen Zeitraum von Januar bis März 2012 dem Grunde nach eine
+Nutzungsentschädigung gem. § 546 a I BGB in Höhe der zuletzt vereinbarten Miete
+verlangen kann. Nach den – insoweit von der Revision nicht angegriffenen –
+Feststellungen des BerGer. lagen die von dem Bekl. behaupteten Mängel bei der
+Dachentwässerung jedenfalls im Zeitpunkt der Beendigung des Mietverhältnisses am
+31.5.2010 noch nicht vor.
+122. Ohne Rechtsirrtum geht das BerGer. davon aus, dass eine erstmals nach
+Beendigung des Mietverhältnisses eingetretene Verschlechterung der Mietsache, die
+beim Fortbestehen des Mietverhältnisses eine Minderung der Miete (§ 536 I BGB) zur
+Folge gehabt hätte, jedenfalls unter den hier obwaltenden Umständen nicht zu einer
+Herabsetzung des Anspruchs auf Zahlung einer Nutzungsentschädigung führt.
+13a) Die maßgebliche Rechtsfrage hat der BGH im Jahr 1960 entschieden (BGH, NJW
+1961, 916) und ausgesprochen, dass es für den Anspruch des Vermieters auf Zahlung
+einer Nutzungsentschädigung unerheblich sei, ob sich der Mietwert der vorenthaltenen
+Mietsache nach Beendigung des Mietverhältnisses (weiter) verringert habe. Aus § 536 I BGB (früher § 537 BGB aF) ergebe sich nichts anderes. Die Mietminderung sei
+eine kraft Gesetzes eintretende Änderung der Vertragspflicht. Daraus folge zugleich,
+dass bei Vorenthaltung einer Mietsache, deren Mietwert im Augenblick der Beendigung
+des Mietverhältnisses gemindert gewesen sei, sich auch der Mindestbetrag des
+Schadens, den der Vermieter als Nutzungsentschädigung verlangen könne, nach
+diesem geminderten Mietzinsrichte, weil der kraft Gesetzes geminderte Betrag der im
+Augenblick der Beendigung des Mietverhältnisses vereinbarte Mietzins sei (vgl. dazu
+1084 [1086 f.]; BGH, NJW-RR 1990, 884 [885]). Demgegenüber könne sich der frühere
+Mieter nicht darauf berufen, dass während der Vorenthaltung der Mietsache eine
+weitere Verschlechterung der Mietsache eingetreten und die Nutzungsentschädigung
+daher (weiter) zu mindern sei. Denn die bei einem bestehenden Mietverhältnis kraft
+Gesetzes eintretende Abänderung der Vertragspflicht des Mieters zur Zahlung der
+Miete folge aus der besonderen Verpflichtung des Vermieters, seinem Mieter den
+vertragsmäßigen Gebrauch der Sache fortgesetzt zu gewähren; diese Verpflichtung
+entfalle mit Beendigung des Mietverhältnisses. Der
+2015, 2795)
+Vermieter könne daher trotz weiterer Verschlechterung der ihm vorenthaltenen
+916).
+14Dieser Entscheidung haben sich in der Folgezeit die obergerichtliche
+Rechtsprechung (OLG Düsseldorf, DWW 1992, 52 [53]; NZM 2001, 1151 = NJW-RR
+2001, 1310 = ZMR 2001, 447; NJOZ 2006, 4058 = GE 2007, 514 [515]; OLG München,
+O 447/10) und weite Teile der Literatur angeschlossen (Staudinger/Rolfs, BGB,
+Neubearb. 2014, § 546 a Rn. 42; Erman/Lützenkirchen, BGB, 13. Aufl., § 546 a Rn. 8;
+Palandt/Weidenkaff, BGB, 74. Aufl., § 546 a Rn. 11; Wolf/Eckert/Ball, HdB des
+gewerblichen Miet-, Pacht- und Leasingrechts, 10. Aufl., Rn. 1131; Blank/Börstinghaus,
+Miete, 3. Aufl., § 546 a Rn. 27; Scheuer/Emmerich in Bub/Treier, HdB der Geschäftsund Wohnraummiete, 4. Aufl., Kap. V.A Rn. 132; Pietz/Oprée in Lindner-
+Figura/Oprée/Stellmann, Geschäftsraummiete, 3. Aufl., Kap. 16 Rn. 69; Sternel,
+Mietrecht aktuell, 4. Aufl., Rn. XIII 114; Lammel, Wohnraummietrecht, 3. Aufl., § 546 a
+Rn. 25; Gerber/Eckert/Günter, Gewerbliches Miet- und Pachtrecht, 8. Aufl., Rn. 651;
+Stangl in Harz/Riecke/Schmid, HdB des Fachanwalts Miet- und
+Wohnungseigentumsrecht, 4. Aufl., Kap. 14 Rn. 612; BeckOK BGB/Ehlert, Stand Okt.
+2012, § 546 a Rn. 13; Kinne, GE 2007, 825 [826]; noch weitergehend Lehmann-Richter,
+PiG 90 [2011], 199 [204], der dem Vermieter die ungekürzte Nutzungsentschädigung in
+der Vorenthaltungszeit auch dann zuerkennen will, wenn der Mieter bei Vertragsende
+nur eine geminderte Miete schuldete).
+15b) Die vorgenannte Rechtsprechung des BGH hat in jüngerer Zeit allerdings auch
+Kritik aus dem Schrifttum erfahren (vgl. MüKoBGB/Bieber, 6. Aufl., § 546 a Rn. 10;
+Soergel/Heintzmann, BGB, 13. Aufl., § 546 a Rn. 13; Streyl in Schmidt-Futterer,
+Mietrecht, 11. Aufl., § 546 a Rn. 69; Kandelhard in Herrlein/Kandelhard, Mietrecht,
+3. Aufl., § 546 a Rn. 21; Kossmann/Mayer-Abich, HdB der Wohnraummiete, 7. Aufl., § 96 Rn. 14; BeckOGK BGB/Zehelein, Stand Okt. 2014, § 546 a Rn. 66; Derleder, WuM
+2011, 551 [555]). Diese knüpft im rechtlichen Ausgangspunkt vor allem daran an, dass
+der BGH den Nutzungsentschädigungsanspruch gem. § 546 a BGB (früher § 557 BGB
+aF) in den Gründen seiner Entscheidung aus dem Jahr 1960 noch ausdrücklich als
+„reinen Schadensersatzanspruch“ angesehen habe, während er in späterer Zeit von
+dieser Sichtweise abgerückt sei und den Anspruch auf Nutzungsentschädigung in
+seiner nunmehr ständigen Rechtsprechung als einen vertraglichen Anspruch eigener
+Art behandele, der an die Stelle des weggefallenen Anspruchs auf Miete getreten sei
+NZM 2003, 231).
+16Wenn aber der Anspruch auf Nutzungsentschädigung vertraglicher oder
+vertragsähnlicher Natur sei, müsse nach Ansicht der Gegenmeinung auch das Prinzip
+der Äquivalenz zwischen Leistung und Gegenleistung im Grundsatz erhalten bleiben
+(vgl. Streyl in Schmidt-Futterer, § 546 a Rn. 69). Zwar sei es zutreffend, dass es nach
+Ende des Mietverhältnisses keine erzwingbare Rechtspflicht des Vermieters zur
+Beseitigung von nachträglichen Mängeln der vorenthaltenen Mietsache mehr gebe. Für
+den Vermieter bestehe allerdings eine Obliegenheit, auch nachträglich entstandene
+Mängel der Mietsache zu beseitigen; dies sei das notwendige Äquivalent zur weiterhin
+als Entschädigung erhaltenen Miete (Kandelhard in Herrlein/Kandelhard, § 546 a Rn.
+21). Entscheide sich der Vermieter dafür, die Mängel nicht zu beseitigen und sein
+Leistungsniveau entsprechend bewusst zu verringern, müsse er konsequenterweise
+auch die daraus resultierenden Folgen für die Höhe seines
+Nutzungsentschädigungsanspruchs hinnehmen. Alles andere liefe auf eine Bestrafung
+des Mieters und damit auf eine unzulässige Druckausübung hinaus (Streyl in Schmidt-
+Futterer, § 546 a Rn. 69).
+17c) Der letztgenannten Auffassung vermag der Senat nicht zu folgen.
+18aa) Das Mietverhältnis hat sich nach seiner Beendigung in ein gesetzliches
+Schuldverhältnis verwandelt, in dem Rechte und Pflichten bestehen, die sich inhaltlich
+aus dem bisherigen Mietverhältnis ergeben. Da dieses Schuldverhältnis aber
+vorübergehender Natur und gerade auf Abwicklung angelegt ist, ergeben sich in der
+Vorenthaltungszeit beträchtliche Einschränkungen gegenüber den früheren
+mietvertraglichen Rechtsbeziehungen (Scheuer/Emmerich in Bub/Treier, Kap. V.A Rn.
+115; Staudinger/Rolfs, § 546 a Rn. 6). Mit Beendigung des Mietverhältnisses erlischt
+insbesondere die Pflicht des Vermieters, die Mietsache gem. § 535 I 2 BGB in einem
+2009, 482 Rn. 16). Der frühere Mieter hat daher im Rahmen des
+Abwicklungsverhältnisses nach allgemeiner Ansicht grundsätzlich keinen Anspruch
+auf Mangelbeseitigung gegen den Vermieter mehr.
+19bb) Die Auffassung, dass den Vermieter im Falle einer (weiteren) Verschlechterung
+der Mietsache während der Vorenthaltungszeit eine Obliegenheit zur
+Mangelbeseitigung treffe, deren Verletzung eine Minderung der
+Nutzungsentschädigung entsprechend § 536 I BGB nach sich ziehen müsse, lässt sich
+mit dem Zweck des § 546 a I BGB nicht vereinbaren.
+20(1) Bereits in den Motiven zum Entwurf des BGB ist die besondere Bedeutung der
+Vorschrift darin gesehen worden, den Anspruch des Vermieters auf
+Nutzungsentschädigung in der Vorenthaltungszeit „ein für alle Mal“ auf einen
+Mindestbetrag zu bestimmen und Streitigkeiten zwischen den früheren
+Vertragsparteien über die Höhe dieses Anspruchs „in ebenso einfacher wie
+angemessener Weise abzuschneiden“ (Motive II, , zitiert bei Mugdan, Die
+gesamten Materialien zum BGB, II, 231 f.). § 546 a I BGB soll dem Vermieter einen leicht
+durchsetzbaren Ersatzanspruch gewähren, der in seiner Höhe weder davon abhängig
+ist, ob und inwieweit dem Vermieter aus der Vorenthaltung der Mietsache ein
+wirtschaftlicher Schaden erwachsen ist, noch davon, ob der Mieter aus der
+vorenthaltenen Mietsache einen dem Wert der von ihm zu entrichtenden
+Nutzungsentschädigung entsprechenden Nutzen hat ziehen können (BGH, NZM 2006,
+NJW-RR 2005, 1081 [zum Finanzierungsleasing]). Damit stünde es nicht in Einklang,
+wenn sich der Vermieter in der Vorenthaltungszeit generell mit der Einwendung
+auseinandersetzen müsste, dass der frühere Mieter wegen einer nachträglichen
+mangelbedingten Verschlechterung der Mietsache keinen ausreichenden Gegenwert
+für die von ihm verlangte Nutzungsentschädigung mehr erhalte.
+21(2) Der BGH hat vor diesem Hintergrund auch in späteren Entscheidungen
+ausdrücklich betont, dass durch die Regelung des § 546 a I BGB (§ 557 BGB aF)
+durchaus zusätzlicher Druck auf den früheren Mieter ausgeübt werden soll,
+2015, 2795)
+die vertraglich geschuldete Rückgabe der Mietsache zu vollziehen (BGHZ 107, 123
+Anreize gesetzt werden, wenn es dem Mieter in jedem Fall der (weiteren)
+Verschlechterung der Mietsache gestattet wäre, sich auf die Minderung der
+Nutzungsentschädigung in entsprechender Anwendung mietrechtlicher
+Gewährleistungsvorschriften berufen zu können. Durch den Ausschluss der Minderung
+wird dem Anspruch auf Nutzungsentschädigung kein Sanktionierungs- oder
+Bestrafungscharakter beigelegt, der mit seiner vertraglichen oder vertragsähnlichen
+Natur nicht in Einklang zu bringen wäre. Vielmehr ist das schuldrechtliche Verhältnis
+der Vertragsparteien in der Vorenthaltungszeit nur noch auf Abwicklung und damit auf
+Rückgabe der Mietsache angelegt, die vom Willen des Mieters abhängig ist. Könnte
+sich der Mieter in der Vorenthaltungszeit auf jede weitere Verschlechterung der
+Mietsache berufen, um eine Kürzung des Anspruchs auf Nutzungsentschädigung zu
+erreichen, würde ihn dies in seinem Willen zur weiteren – widerrechtlichen –
+und damit gerade den Zweck des schuldrechtlichen Abwicklungsverhältnisses
+gefährden.
+22d) Dies bedeutet allerdings nicht, dass im Fall einer nachträglichen Verschlechterung
+der Mietsache in der Vorenthaltungszeit eine Herabsetzung des
+Nutzungsentschädigungsanspruchs unter entsprechender Anwendung des
+mietvertraglichen Gewährleistungsrechts schlechthin ausgeschlossen wäre.
+23aa) Auch innerhalb des bestehenden Abwicklungsverhältnisses können nach Treu
+und Glauben gem. § 242 BGB einzelne Verpflichtungen des Vermieters aus dem
+beendeten Mietvertrag noch nach der Vertragsbeendigung fortbestehen. Solche
+Pflichten können sich im Einzelfall aus der Eigenart des beendeten Mietvertrags oder
+den besonderen Belangen des Mieters ergeben; zu diesen Pflichten kann im Einzelfall
+auch die Erhaltung des – nach den Bestimmungen des beendeten Mietvertrags –
+vertragsgemäßen Zustands gehören. Insoweit bestehen nachvertragliche
+Verpflichtungen des Vermieters allerdings nur, als sie seinen berechtigten Interessen
+im Abwicklungsverhältnis nicht in einer Weise zuwiderlaufen, die ihm die Übernahme
+2009, 482 Rn. 16).
+24bb) Unter Anwendung dieser Grundsätze hat der Senat für die Geschäftsraummiete
+bereits entschieden, dass der Vermieter zur Abwendung eines bei seinem früheren
+Mieter durch eine Versorgungssperre drohenden hohen Schadens zur Fortsetzung der
+Versorgung der vorenthaltenen Mieträume mit Wasser, Strom und Heizenergie
+verpflichtet sein kann, wenn dem Mieter eine Räumungsfrist gewährt worden ist und
+dem Vermieter wegen der regelmäßigen Entrichtung der Nutzungsentschädigung kein
+2009, 482 Rn. 16).
+25cc) Nach diesen Maßstäben ist auch die Frage zu beurteilen, ob den Vermieter im
+Abwicklungsverhältnis eine Verpflichtung zur Beseitigung von Mängeln der
+vorenthaltenen Mietsache trifft, die – wie hier – über die Erfüllung allgemeiner und
+jedem Dritten gegenüber zu erfüllenden Verkehrssicherungspflichten hinausgeht.
+26Dies wird schon im Ausgangspunkt nur der Fall sein, wenn durch das Unterlassen
+von Maßnahmen zur Instandhaltung oder Instandsetzung der Mietsache akute und
+schwerwiegende Gefahren für Leben, Gesundheit oder hohe Eigentumswerte des
+Mieters drohen (vgl. auch LG Berlin, MDR 1992, 478 [479]; Pietz/Oprée in Lindner-
+Figura/Oprée/Stellmann, Kap. 16 Rn. 98; Scheuer/Emmerich in Bub/Treier, Kap. V.A Rn.
+115).
+27Aber auch eine besonders hohe Gefahr für Rechtsgüter des früheren Mieters vermag
+für sich genommen noch keine nachvertragliche Mangelbeseitigungspflicht des
+Vermieters zu begründen. Denn der frühere Mieter hat es grundsätzlich selbst zu
+verantworten, dass er widerrechtlich noch im Besitz der Mietsache ist und es liegt in
+seiner Hand, sich den durch den Zustand der Mietsache drohenden Gefahren für seine
+Rechtsgüter dadurch zu entziehen, dass er die geschuldete Rückgabe der Mietsache
+an den Vermieter vollzieht. Eine Mangelbeseitigungspflicht des Vermieters kann daher
+als Ausfluss nachvertraglicher Pflichten nach Treu und Glauben nur in solchen
+Konstellationen angenommen werden, in denen die fortgesetzte Vorenthaltung der
+Mietsache durch den früheren Mieter in einem milderen Licht erscheint. Davon wird
+jedenfalls dann auszugehen sein, wenn und soweit gesetzliche Regeln – insbesondere
+die Vollstreckungsschutzvorschriften (§§ 721, 765 a ZPO) – dem Mieter eine
+Weiterbenutzung der Mietsache gestatten (vgl. auch Lehmann-Richter, PiG 90 [2011],
+199, 206). Es ist aber auch an solche Fälle zu denken, in denen der Mieter – etwa
+während eines Streits um die Wirksamkeit einer von dem Vermieter ausgesprochenen
+Kündigung – mit nachvollziehbaren Erwägungen davon ausgehen durfte, weiterhin
+zum Besitz der Mietsache berechtigt zu sein. So liegt der Fall hier aber offensichtlich
+nicht, zumal der Bekl. bereits vor dem Auftreten der von ihm behaupteten Mängel der
+Dachentwässerung rechtskräftig zur Räumung des Mietobjekts verurteilt worden ist.
+28dd) Da den Kl. in Bezug auf die hier streitgegenständlichen Mängel keine
+nachvertragliche Verpflichtung zur Erhaltung des vertragsgemäßen Gebrauchs trifft,
+kommt eine Kürzung der Nutzungsentschädigung in entsprechender Anwendung von
+§ 536 BGB nicht in Betracht.
+29e) Auch im Übrigen stehen Treu und Glauben gem. § 242 BGB der Geltendmachung
+des ungekürzten Anspruchs auf Nutzungsentschädigung nicht entgegen.
+30Zwar hat der BGH in seiner Entscheidung aus dem Jahr 1960 die Frage aufgeworfen,
+ob dem Mieter in Ansehung der von ihm geschuldeten Nutzungsentschädigung bei
+nachträglicher Verschlechterung der vorenthaltenen Mietsache ausnahmsweise über
+§ 242 BGB „geholfen“ werden kann; er hat von einer weiteren Erörterung dieses
+Problems mit der Begründung abgesehen, dass die im damaligen Streitfall in Rede
+stehende Minderungsquote von lediglich 10 % die Annahme eines solchen
+Ausführungen lassen entgegen der Auffassung der Revision aber nicht den
+Umkehrschluss darauf zu, dass das Verlangen des Vermieters auf Zahlung der
+ungekürzten Nutzungsentschädigung bei einer deutlich höheren mangelbedingten
+Minderungsquote gegen Treu und Glauben verstoßen müsste. Auch insoweit ist darauf
+hinzuweisen, dass es der Mieter selbst in der Hand hat, sich durch die vertraglich
+geschuldete Herausgabe der Mietsache seiner Verpflichtung zur Zahlung von
+Nutzungsentschädigung zu entledigen, wenn ihm die als Nutzungsentschädigung zu
+zahlende vereinbarte Miete angesichts des Zustands der Mietsache zu hoch ist.
+313. Weil der Kl. nach Maßgabe der vorstehenden Darlegungen seine
+nachvertraglichen Verpflichtungen aus dem Abwicklungsverhältnis nicht verletzt hat,
+hat das BerGer. zu Recht erkannt, dass dem Bekl. die zur Hilfsaufrechnung gestellten
+Schadensersatzansprüche aus § 280 BGB nicht zustehen.
+324. Mit Recht hat das BerGer. den Bekl. auch zur Zahlung von
+Nebenkostenvorauszahlungen verpflichtet. Zur ver
+2015, 2795)
+einbarten Miete, die gem. § 546 a BGB als Nutzungsentschädigung zu zahlen ist, gehört
+neben der Nettokaltmiete auch die Nebenkostenvorauszahlung oder die
+Nebenkostenpauschale. Über Nebenkostenvorauszahlungen ist entsprechend den
+Bestimmungen des beendeten Mietvertrags abzurechnen, so dass nach Ablauf der
+Abrechnungsperiode kein Vorauszahlungsanspruch mehr besteht (OLG Dresden, NZI
+2011, 995 = NZM 2012, 84 [88]; Scheuer/Emmerich in Bub/Treier, Kap. V.A Rn. 130;
+Streyl in Schmidt-Futterer, § 546 a Rn. 69); die Abrechnungsperiode für die von dem
+Bekl. zwischen Januar und März 2012 geschuldeten Nebenkostenvorauszahlungen
+war bei Erlass des die Berufung zurückweisenden Beschlusses noch nicht abgelaufen
+33Zwar ist mittlerweile die Abrechnungsreife eingetreten und die während des
+Revisionsverfahrens durch bloßen Zeitablauf eingetretenen unstreitigen bzw.
+offenkundigen Veränderungen der materiellen Rechtslage sind nach allgemeinen
+Grundsätzen durch das RevGer. zu berücksichtigen, wenn schützenswerte Belange der
+25; Musielak/Ball, ZPO, 12. Aufl., § 559 Rn. 10).
+Solcherart schützenswerte Belange des Kl. sind im vorliegenden Fall aber darin zu
+erblicken, dass der Vermieter im Revisionsverfahren mit neuem Sachvortrag zur
+Nebenkostenabrechnung ausgeschlossen wäre und ihm deshalb in diesem
+Verfahrensstadium die Möglichkeit genommen ist, seinen Antrag wegen der
+Nebenkosten auf einen Abrechnungssaldo umzustellen.
+Anmerkung der Redaktion
+Vgl. hierzu die Anm. Blank, LMK 2015, 371716. – Zum unberechtigten Verhindern einer
+Mängelbeseitigung durch den Vermieter seitens des Mieters und zur Ablehnung der
+Entschädigungsanspruch des Insolvenzverwalters wegen Vorenthaltung der
+des Mieters befassen sich Lehmann-Richter, NZM 2015, 513 und Meyer-Abich, NZM
+2015, 520. Den Fortbestand des Erfüllungsanspruchs bei Mangelkenntnis behandelt H.
+Schmidt, NZM 2013, 705.

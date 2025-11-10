@@ -1,0 +1,232 @@
+Befugnisse des Insolvenzverwalters bei Vermögensverschiebung
+InsO §§ 92 , 38
+1. Der Insolvenzverwalter ist nicht berechtigt, Schadensersatzansprüche der
+Gläubiger gegen den Insolvenzschuldner geltend zu machen, die auf einer Verkürzung
+der Insolvenzmasse durch die Verschiebung von Vermögensbestandteilen vor der
+Eröffnung des Insolvenzverfahrens beruhen.
+2. Hat der Insolvenzschuldner vor der Eröffnung des Insolvenzverfahrens Bestandteile
+seines Vermögens verschoben, um sie den Insolvenzgläubigern vorzuenthalten,
+begründen unrichtige Angaben hierzu nach der Eröffnung des Insolvenzverfahrens
+keine selbstständig geltend zu machenden Neuverbindlichkeiten.
+BGH Urteil vom 21.10.2021 – IX ZR 265/20
+Zum Sachverhalt
+Am 2.6.2009 wurde das Insolvenzverfahren über das Vermögen des Bekl. zu 1 (fortan
+nur: Bekl.) eröffnet. Der Kl. wurde zum Insolvenzverwalter bestellt. Mit Beschluss vom
+6.7.2015 wurde dem Bekl. die Restschuldbefreiung erteilt. Mit seiner am 6.11.2017 bei
+Gericht eingegangenen Klage hat der Kl. den Bekl. neben der Bekl. zu 2, der Ehefrau
+des Bekl., und der Bekl. zu 3, einer in Palma de Mallorca ansässigen, von der Ehefrau
+des Bekl. gesetzlich vertretenen Gesellschaft, auf Zahlung von 5.000.000 Euro nebst
+Zinsen, von weiteren 400.000 Euro, von weiteren 100.000 Euro und von weiteren
+200.000 Euro in Anspruch genommen. Im Laufe des Rechtsstreits hat er Zahlung
+weiterer 1500.000 Euro verlangt. Soweit im Revisionsverfahren noch von Interesse, hat
+der Kl. auf Einzahlungen auf das Konto der Ehefrau in Höhe von insgesamt 4.998.000
+Euro Bezug genommen, die der Bekl. am 15.4.2008, am 6.5.2008 und am 9.5.2008
+getätigt hat, sowie auf eine Überweisung iHv 5.400.000 Euro vom Konto der Ehefrau
+des Bekl. auf das Konto der Bekl. zu 3 am 20.5.2008. Er hat behauptet, dem Bekl. sei
+es angesichts der drohenden Zahlungsunfähigkeit darauf angekommen, sein
+Vermögen vor dem Zugriff der Gläubiger zu sichern und den Grund der Zahlungen zu
+verschleiern. Im eröffneten Insolvenzverfahren habe er unzutreffende Angaben zum
+Grund der Zahlungen gemacht und damit Bestandteile seines Vermögens dem
+Verfahren entziehen wollen.
+Das LG Berlin (Urt. v. 11.10.2019 – 104 a O 31/18) hat die im Urkundenprozess
+erhobene Klage abgewiesen. Das KG (Urt. v. 28.8.2020 – 14 U 168/19) hat den Bekl.
+als Gesamtschuldner neben der Bekl. zu 3 im Wege des Schluss-Vorbehaltsurteils zur
+Zahlung von 4.998.000 Euro nebst Zinsen verurteilt. Die Revision der Bekl. hatte Erfolg
+und führte zur Aufhebung des angefochtenen Urteils, soweit es den Bekl. betrifft, sowie
+zur Wiederherstellung des die Klage insoweit abweisenden Urteils des LG.
+Aus den Gründen
+5I. Das BerGer. hat, soweit im Revisionsverfahren von Interesse, ausgeführt: Der Bekl.
+habe die Gesamtheit der Gläubiger vorsätzlich in einer gegen die guten Sitten
+verstoßenden Weise geschädigt, indem er am 15.4.2008, am 6.5.2008 und am
+9.5.2008 insgesamt 4.998.000 Euro in bar auf das Konto seiner Ehefrau eingezahlt und
+von dort aus am 20.5.2008 an die Bekl. zu 3 weitergeleitet habe. Die Einordnung der
+aus diesen Handlungen folgenden Forderungen als Insolvenzforderungen ändere
+nichts daran, dass ein Schaden in Form der Verkürzung der Insolvenzmasse
+entstanden sei. Der Bekl. habe durch die genannten Einzahlungen und die Überweisung
+im kollusiven Zusammenwirken mit der Bekl. zu 3 sein wesentliches Vermögen dem
+Zugriff seiner Gläubiger entzogen. Der Anspruch sei nicht verjährt. Der Bekl. habe keine
+Tatsachen vorgetragen, welche den Schluss darauf zuließen, dass der Kl. die
+Unrichtigkeit der Angaben des Bekl. zum Grund der streitigen Einzahlungen und die
+Überweisung vor dem Jahre 2014 gekannt oder grob fahrlässig nicht gekannt habe.
+6II. Diese Ausführungen halten einer rechtlichen Überprüfung nicht stand. Der
+Insolvenzverwalter ist nicht berechtigt, etwaige Ansprüche der Insolvenzgläubiger auf
+Schadensersatz wegen masseschädigenden Verhaltens vor der Eröffnung des
+Insolvenzverfahrens gegen den Verfahrensschuldner geltend zu machen.
+7 1. Hat jemand zielgerichtet darauf hingewirkt, wesentliches Vermögen des späteren
+Verfahrensschuldners dem Gläubigerzugriff zu entziehen, kann dies den Tatbestand
+einer vorsätzlichen sittenwidrigen Schädigung gem. § 826 BGB erfüllen (vgl. etwa BGH
+Insolvenzverfahrens werden die aus einem solchen Verhalten etwa folgenden
+Schadensersatzansprüche der Insolvenzgläubiger vom Verwalter geltend gemacht.
+Dies folgt aus § 92  InsO. Nach dieser Bestimmung können Ansprüche der
+Insolvenzgläubiger auf Ersatz eines Schadens, den diese Gläubiger gemeinschaftlich
+durch eine Verminderung des zur Insolvenzmasse gehörenden Vermögens vor oder
+nach der Eröffnung des Insolvenzverfahrens erlitten haben, während des
+Insolvenzverfahrens nur vom Insolvenzverwalter geltend gemacht werden. Ein
+derartiger Gesamtschaden kann sich auch aus der Verschiebung von Gegenständen
+8 2. Die aus § 92  InsO folgende Befugnis des Verwalters,
+Schadensersatzansprüche wegen Masseverkürzung geltend zu machen, erstreckt sich
+jedoch nicht auf Ansprüche gegen den Schuldner selbst, wenn das masseschädigende
+Verhalten, wie das BerGer. hier angenommen hat, vor der Eröffnung des
+Insolvenzverfahrens stattgefunden hat.
+9a) Die Vorschrift des § 92  InsO betrifft den Fall, dass die Insolvenzmasse durch
+eine Handlung verkürzt worden ist, die nach den Bestimmungen des Haftungsrechts
+Schadensersatzansprüche der Insolvenzgläubiger begründet. Diese Ansprüche dürfen
+während der Dauer des Insolvenzverfahrens nicht von den einzelnen Gläubigern,
+sondern nur vom Insolvenzverwalter geltend gemacht werden. Sie gehören zur
+Insolvenzmasse. Der Schädiger hat den Schadensersatz in die Masse zu leisten. So
+soll verhindert werden, dass sich einzelne Gläubiger durch gesonderten Zugriff Vorteile
+verschaffen und dadurch den Grundsatz der gleichmäßigen Befriedigung der
+Insolvenzgläubiger verletzen (BT-Drs. 12/2443, 139 zu § 103; Jaeger/Müller, InsO, § 92
+Bündelung der Ansprüche in der Hand des Insolvenzverwalters deren Durchsetzung
+(vgl. BGHZ 159, 25 (29) = NJW-RR 2004, 1425 mwN; Jaeger/Müller InsO,
+
+§ 92 Rn. 3). Der einzelne Gläubiger sieht häufig davon ab, seinen Ersatzanspruch
+geltend zu machen, weil für ihn der mit dessen Bezifferung verbundene Aufwand außer
+Verhältnis zum zu erwartenden Ertrag steht (MüKoInsO/Gehrlein, 4. Aufl. 2020, InsO § 92 Rn. 1; vgl. zur Schwierigkeit, einen Quotenschaden zu berechnen, auch BGHZ 126,
+Ablauf des Insolvenzverfahrens zu sichern und die Insolvenzmasse zugunsten aller
+10 b) Für Schadensersatzansprüche der Insolvenzgläubiger gegen den Schuldner
+persönlich treffen die vorstehenden Überlegungen nicht zu.
+Vermögensverschiebungen des Schuldners vor der Eröffnung des Insolvenzverfahrens
+können Schadensersatzansprüche nach § 823 II BGB iVm § 283 I Nr. 1 StGB (vgl. BGH
+NJW-RR 2015, 106 = WM 2014, 2175 Rn. 6) oder nach § 826 BGB begründen. Nach der
+Eröffnung des Insolvenzverfahrens können die Insolvenzgläubiger derartige Ansprüche
+jedoch nicht mehr außerhalb des Insolvenzverfahrens verfolgen. Es handelt sich dann
+nämlich um Insolvenzforderungen iSv § 38 InsO, die gem. § 87 InsO nur nach den
+Vorschriften des Insolvenzverfahrens, nämlich durch Anmeldung zur Tabelle (§§ 174 ff. InsO), verfolgt werden können. Sondervorteile einzelner Gläubiger, welche dem
+Grundsatz der Gläubigergleichbehandlung zuwiderliefen, sind hierdurch
+ausgeschlossen, ohne dass es eines Rückgriffs auf § 92  InsO bedarf.
+11Aus diesem Grund hat der Senat bezüglich des Rechtszustands vor Inkrafttreten der
+Insolvenzordnung obiter angenommen, der Konkursverwalter sei berechtigt,
+Ansprüche (nur) gegen Dritte zu verfolgen, welche die Masse geschädigt hätten (BGHZ
+der Konkursordnung nicht; jedoch war in Rechtsprechung und Lehre anerkannt, dass
+die Befugnis, auf Ersatz eines Gesamtschadens gerichtete Ansprüche gegen Dritte
+geltend zu machen, beim Verwalter lag (BGH NJW-RR 2003, 1042 = WM 2003, 1178
+Ansprüche der Insolvenzgläubiger gegen Gesellschafter oder Organe der insolventen
+Ls.), nicht jedoch Ansprüche gegen den Schuldner selbst. Dies gilt jedenfalls dann,
+wenn das masseschädigende Verhalten vor der Eröffnung des Insolvenzverfahrens
+stattgefunden hat.
+12c) Ein Zahlungsanspruch, den der Verwalter gegen den Schuldner mit dem Ziel der
+Wiederherstellung der Insolvenzmasse durchsetzt, fügt sich zudem nicht in die von der
+Insolvenzordnung vorgegebene Struktur eines Insolvenzverfahrens ein.
+13aa) Nach der Eröffnung des Insolvenzverfahrens über sein Vermögen verfügt der
+Insolvenzschuldner regelmäßig nicht mehr über Mittel, aus denen er einen vom
+Verwalter für die Insolvenzgläubiger geltend gemachten Zahlungsanspruch
+befriedigen könnte.
+14(1) Zur Insolvenzmasse gehört gem. § 35 I InsO das gesamte Vermögen, das dem
+Schuldner zur Zeit der Eröffnung des Verfahrens gehört und das er während des
+Verfahrens erwirbt. Der Zwangsvollstreckung unterliegendes insolvenzfreies
+Vermögen gibt es regelmäßig nicht. Aus einem Zahlungstitel gegen den Schuldner
+könnte der Verwalter regelmäßig nur in solches Vermögen vollstrecken, welches schon
+gem. § 80 I InsO seiner Verwaltung und Verfügung unterliegt.
+15(2) Soweit der Schuldner nach der Eröffnung des Insolvenzverfahrens aufgrund
+besonderer Umstände Vermögen erwirbt, welches nicht dem Insolvenzbeschlag
+unterfällt, dient dieses Vermögen nicht der Befriedigung von Insolvenzforderungen.
+16(aa) Gibt der Verwalter die selbstständige Tätigkeit des Schuldners gem. § 35 II, III
+InsO frei, entsteht ein insolvenzfreies Sondervermögen, welches nicht der Verwaltungsund Verfügungsbefugnis des Verwalters unterliegt. Der Anspruch aus § 35 II, § 295 II
+InsO aF analog auf Abführung des pfändbaren Betrags aus einem fiktiven
+angemessenen Dienstverhältnis war nach der bisherigen Senatsrechtsprechung im
+Wege der Klage vor dem ProzessGer. geltend zu machen (BGH NJW-RR 2014, 617 =
+WM 2014, 751 Rn. 12 ff.). Ob dies nach der Einführung des Beschlussverfahrens gem.
+§ 295 a II InsO durch das Gesetz zur weiteren Verkürzung des
+Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter Vorschriften
+im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht sowie im Miet- und
+Pachtrecht vom 22.12.2020 (BGBl. 2020 I 3328) weiterhin gilt, bedarf hier keiner
+Entscheidung (vgl. BeckOK InsO/Riedel, 2021, InsO § 295 a Rn. 6 f.). Jedenfalls stehen
+die vom Schuldner ab Wirksamwerden der Freigabeerklärung aus der selbstständigen
+Tätigkeit erzielten Einkünfte nur dem Zugriff der Neugläubiger offen (BGH NJW-RR
+2014, 617 Rn. 13 mwN). Sie dienen nicht der Befriedigung von Insolvenzforderungen.
+17(bb) Gleiches gilt im Ergebnis für den Neuerwerb nach der Erteilung der
+Restschuldbefreiung im laufenden Insolvenzverfahren. Wird dem Schuldner
+Restschuldbefreiung erteilt, gehört das Vermögen, welches der Schuldner nach Ende
+der Abtretungsfrist oder nach Eintritt der Voraussetzungen des § 300 II 1 InsO (§ 300 I
+2 InsO aF) erwirbt, nicht mehr zur Insolvenzmasse (vgl. § 300 a I 1 InsO). Der
+Neuerwerb gebührt dem Schuldner. Er dient nicht der Befriedigung der
+18bb) Die Insolvenzordnung hält zudem kein Verfahren für die Geltendmachung eines
+vor der Eröffnung entstandenen Zahlungsanspruchs gegen den Schuldner durch den
+Verwalter bereit. Insolvenzforderungen werden zur Tabelle angemeldet (§§ 174 ff.
+InsO). Der Insolvenzverwalter selbst kann keine Forderungen zur Tabelle anmelden.
+Seine Aufgabe ist es, die angemeldeten Forderungen in die Tabelle einzutragen (§ 175
+I 1 InsO) und zu prüfen (§ 176  InsO). Er müsste den Anspruch folglich nach den
+allgemeinen Vorschriften der ZPO geltend machen. Eine Zahlungsklage gegen den
+Schuldner kommt, vom bereits erörterten Ausnahmefall der Durchsetzung eines
+Anspruchs auf Zahlung des nach § 295 II InsO aF geschuldeten Betrags abgesehen,
+jedoch nicht in Betracht. Eine derartige Klage wäre wenig sinnvoll, weil es während des
+Insolvenzverfahrens keine Vermögensmasse gibt, in welche die Zwangsvollstreckung
+aus einem Zahlungstitel wegen einer Insolvenzforderung betrieben werden könnte (vgl.
+BGH NZI 2011, 979 Rn. 6). Die Aussicht auf eine Aufhebung des Insolvenzver-
+
+fahrens ändert hieran nichts. Die Befugnisse des Insolvenzverwalters enden mit der
+Aufhebung des Insolvenzverfahrens (§ 200 InsO).
+19cc) Für die Sicherung der Masse vor dem Zugriff des Schuldners sieht die
+Insolvenzordnung zudem ein anderes Verfahren vor. Gemäß § 148 I InsO hat der
+Verwalter das gesamte zur Insolvenzmasse gehörende Vermögen in Besitz zu nehmen.
+Der Schuldner ist dementsprechend verpflichtet, sein zur Insolvenzmasse gehörendes
+Vermögen an den Verwalter herauszugeben. Wenn der Schuldner seinen hierauf
+bezogenen Mitwirkungspflichten nicht nachkommt, kann der Verwalter gem. § 148 II 1
+InsO aufgrund einer vollstreckbaren Ausfertigung des Eröffnungsbeschlusses die
+Herausgabevollstreckung betreiben. Die vollstreckbare Ausfertigung des
+Eröffnungsbeschlusses ist ein Herausgabetitel iSd § 794 I Nr. 3 ZPO gegen den
+Schuldner (BGH NZI 2011, 979 mwN). Im Verhältnis zu Dritten findet § 148 InsO zwar
+keine Anwendung (MüKoInsO/Jaffé InsO § 148 Rn. 60; HK-InsO/Deprè, 10. Aufl., InsO
+§ 148 Rn. 14; K. Schmidt/Jungmann InsO, 19. Aufl., InsO § 148 Rn. 13). Schon ihrem
+Wortlaut nach gilt die Vorschrift nur für Gegenstände im Gewahrsam des Schuldners.
+Insoweit kann der Verwalter jedoch die Herausgabe- und die sonstigen Ansprüche des
+Schuldners gegen den Dritten geltend machen (§ 80 I InsO). Ansprüche des Schuldners
+gegen sich selbst, die der Insolvenzverwalter kraft seines Amtes (§ 80 I InsO) geltend
+machen könnte, kann es aus Rechtsgründen wegen der Identität von
+Anspruchsberechtigtem und Anspruchsverpflichtetem nicht geben.
+20d) Für den hier in Rede stehenden Fall einer Masseverkürzung vor der Eröffnung des
+Insolvenzverfahrens hält die Rechtsordnung schließlich andere Mittel bereit. Der Kl.
+wirft dem Bekl. die Verschiebung von Geldmitteln vor, die Weitergabe eigenen Geldes
+an Dritte. Soweit dem Bekl. aus den diesen Verschiebungen zugrundeliegenden
+Rechtsgeschäften Ansprüche zustehen, könnte der Kl. sie kraft seiner umfassenden
+Verwaltungs- und Verfügungsbefugnis (§ 80 I InsO) geltend machen. Kraft seines
+Amtes als Insolvenzverwalter könnte der Kl. zudem mit den Mitteln des
+Insolvenzanfechtungsrechts (§§ 129 ff. InsO) gegen die Empfänger des Geldes
+vorgehen. Haben diese (oder sonstige Dritte) planmäßig mit dem Schuldner
+zusammengewirkt, um dessen wesentliches Vermögen dem Zugriff der Gläubiger zu
+entziehen, kommt daneben auch ein Schadensersatzanspruch aus § 826 BGB in
+Betracht, welchen der Verwalter gem. § 92  InsO geltend machen kann (BGHZ 217,
+Der Geltendmachung eines Schadensersatzanspruchs gegen den Schuldner bedarf es
+nicht, auch nicht dann, wenn die einzelnen Gläubiger nicht bereit sind, die ihnen jeweils
+zustehenden Ansprüche auf Ersatz des Quotenschadens zu verfolgen.
+21III. Das angefochtene Urteil erweist sich auch nicht aus anderen Gründen als richtig
+(§ 561 ZPO). Die Revisionserwiderung meint, der Kl. habe die Klage gegen den Bekl.
+auch auf dessen Verhalten nach der Eröffnung des Insolvenzverfahrens gestützt. Ob
+dies zutrifft, ist durchaus zweifelhaft. Der Kl. hätte nicht nur das Verhalten des Bekl.
+nach der Eröffnung darstellen, sondern auch zum Ausdruck bringen müssen, dass er
+(auch) hieraus Schadensersatzansprüche der Gläubiger aus § 826 BGB (oder aus § 823 II BGB iVm § 283 I Nr. 1 StGB) herleiten wollte (vgl. hierzu BGHZ 117, 1 (6 f.) = NJW
+seinem Rechtsstandpunkt aus folgerichtig – weder diese Frage noch die tatsächlichen
+Voraussetzungen eines aus dem Verhalten des Bekl. nach der Eröffnung folgenden
+Schadensersatzanspruchs geprüft.
+22Zweifelhaft ist weiter, ob der Kl. berechtigt wäre, einen entsprechenden Anspruch
+geltend zu machen. In der Kommentarliteratur wird zwar vertreten, auch die Haftung
+des Schuldners wegen Verletzung der Auskunfts- und Mitwirkungspflichten nach §§ 97, 101 InsO unterliege der Einziehungsbefugnis des Verwalters (Jaeger/Müller InsO § 92 Rn. 9). Da es sich um ein Verhalten des Schuldners nach der Eröffnung des
+Insolvenzverfahrens handelt, die Voraussetzungen des § 38 InsO also nicht erfüllt sind,
+liegt jedoch die Annahme einer Neuverbindlichkeit näher, die außerhalb des
+Insolvenzverfahrens durchzusetzen wäre. Schadensersatzansprüche gegen den
+Schuldner, die nach der Eröffnung des Insolvenzverfahrens durch dessen eigenes, vom
+Verwalter weder geduldetes noch sonst veranlasstes Verhalten entstehen (vgl. HK-
+InsO/Lohmann InsO § 55 Rn. 9), richten sich ausschließlich gegen das insolvenzfreie
+Vermögen des Schuldners, welches nicht der Verwaltung und Verfügung des
+Verwalters gem. § 80 I InsO unterliegt (vgl. K. Schmidt/Büteröwe InsO § 38 Rn. 14).
+23Auf alle diese Fragen kommt es hier jedoch nicht an. Der Schaden, welchen der Kl.
+ersetzt verlangt, ist durch Handlungen entstanden, welche der Bekl. vor der Eröffnung
+des Insolvenzverfahrens vorgenommen hat. Seine unrichtigen Erklärungen nach der
+Eröffnung haben keinen gesonderten Schaden herbeigeführt. Sie hatten lediglich zur
+Folge, dass die bereits eingetretene Schmälerung der Masse nicht ausgeglichen
+wurde. Der Anspruch auf Ersatz dieses Schadens stellt eine Insolvenzforderung dar,
+unabhängig davon, ob man auf die Vermögensverschiebungen vor der Eröffnung oder
+auf deren Verschleierung nach der Eröffnung abstellt (vgl. BGH NJW-RR 2014, 1079 =
+WM 2014, 470 Rn. 12 mwN).
+24IV. Das angefochtene Urteil kann deshalb keinen Bestand haben. Es ist im Umfang
+der Anfechtung aufzuheben (§ 562 I ZPO). Da die Aufhebung des Urteils nur wegen
+Rechtsverletzung bei Anwendung des Gesetzes auf das festgestellte Sachverhältnis
+erfolgt und nach letzterem die Sache zur Endentscheidung reif ist, hat der Senat eine
+eigene Sachentscheidung zu treffen (§ 563 III ZPO). Das landgerichtliche Urteil wird
+wiederhergestellt, soweit es die Klage gegen den Bekl. insgesamt abgewiesen hat.
+Anmerkung der Redaktion
+Tashiro 407379, Brinkmann EWiR 2018, 497, Reinhart WuB 2018 Heft 10, 523und
+Umfang des Forderungsrechts einer Anlagegesellschaft als
+Versprechensempfängerin; vorstehend Rn. 9) wird besprochen von Fölsing DStR 2013,
+1040, Baumert LMK 2013, 345829 und Müller EWiR 2013, 367.

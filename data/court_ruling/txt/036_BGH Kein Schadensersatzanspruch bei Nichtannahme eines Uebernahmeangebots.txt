@@ -1,0 +1,648 @@
+Übernahmeangebots
+* Kein Schadensersatzanspruch bei Nichtannahme eines
+Übernahmeangebots
+WpÜG § 31 I 1; BGB §§ 311 II, 241 II, 823 II
+1. § 31 I 1 WpÜG vermittelt nur den Aktionären der Zielgesellschaft, die das
+öffentliche Angebot annehmen, einen Anspruch auf eine angemessene
+Gegenleistung.
+2.Die Pflicht zum Angebot einer angemessenen Gegenleistung begründet keine
+vorvertragliche Nebenpflicht des Bieters gegenüber den Aktionären der
+Zielgesellschaft.
+3. § 31 I 1 WpÜG ist kein Schutzgesetz im Sinne des § 823 II BGB.
+BGH Urteil vom 23.11.2021 – II ZR 312/19
+NJW-Übersicht
+Rn.
+Zulässige Teilerledigungserklärung
+
+Kein Schadensersatzanspruch aus §§ 280 I, 311 II, 241 II BGB
+15 ff.
+Kein von Annahme des Angebots unabhängiger Anspruch
+18 ff.
+Keine vorvertragliche Nebenpflicht
+29 ff.
+Kein Schadensersatzanspruch aus § 823 II BGB iVm § 31 I 1 WpÜG
+50 ff.
+Zum Sachverhalt
+Die Kl. waren als Investmentfonds über Total Return Swap-Vereinbarungen mit
+verschiedenen Banken als Gegenparteien bezüglich der Aktien der vormaligen C AG
+verbunden. In Vorbereitung eines ersten, erfolglos gebliebenen Übernahmeangebots
+für das Unternehmen mit einer Annahmefrist bis zum 9.1.2014 wandte sich die Bekl.
+an die Bundesanstalt für Finanzdienstleistungsaufsicht (im Folgenden: BaFin) mit
+der Frage, ob der derivative Erwerb von Wandelanleihen als Vorerwerb iSd § 31 VI
+WpÜG zu qualifizieren und damit bei der Bestimmung der angemessenen
+Gegenleistung zu berücksichtigen sei. In einem der Bekl. damals nicht übermittelten
+Telefonvermerk der zuständigen Mitarbeiter der BaFin über ein am Vortag mit den
+Beklagtenvertretern geführtes Telefonat war dazu festgehalten, dass der Erwerb von
+bestehenden Wandelschuldverschreibungen von deren Inhabern nicht
+mindestpreisrelevant sei, deren Ausübung schon. Anwaltliche Vertreter der
+Investmentmanagementgesellschaft der Kl. wandten sich ab Anfang Februar 2014
+mehrfach und unter Vorlage eines Rechtsgutachtens an die BaFin und baten um
+Sicherstellung eines erhöhten Angebotspreises von ca. 30,95 EUR je Aktie im
+Hinblick auf Verträge, auf Grund derer die Übereignung von
+Wandelschuldverschreibungen verlangt werde könne, weil diese den alleinigen
+Zweck hätten, durch Wandlung Aktien der C AG zu erwerben.
+Die Bekl. gab am 28.2.2014 ein auf den Erwerb sämtlicher Aktien der C AG
+gerichtetes öffentliches Übernahmeangebot zum Preis von 23,50 EUR je Aktie ab.
+Die Angebotsunterlage wurde von der BaFin gestattet. Darin wurden Anleihekäufe
+der Bekl. bzw. einer mit ihr gemeinsam handelnden Person im Oktober 2013 und
+Januar 2014 sowie der Erwerb von Aktien der C AG durch Ausübung eines Wand-
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+lungsrechts offenbart. In den Erläuterungen zur Festsetzung der
+Angebotsgegenleistung führte die Angebotsunterlage aus, die Anleiheerwerbe seien
+für die Bestimmung der Mindestgegenleistung nicht relevant. Die Kl. nahmen die
+Angebotsunterlage der Bekl. innerhalb der Annahmefrist zur Kenntnis, erteilten den
+Gegenparteien der Swap-Geschäfte aber keine Weisungen zur Annahme des
+Angebots.
+Mit Urteil vom 7.11.2017 entschied der BGH in einem Rechtsstreit zwischen der Bekl.
+und Aktionären der C AG, die das Angebot angenommen hatten, dass die
+angemessene Gegenleistung 30,95 EUR je Aktie betrage (BGHZ 216, 347 = NJW-RR
+2018, 99 Rn. 10 ff.). Der Erwerb der Wandelschuldverschreibungen sei als Vorerwerb
+iSv § 31 VI WpÜG iVm § 4 WpÜG-AngVO anzusehen; daher seien die dafür gezahlten
+Preise zu berücksichtigen.
+Die Kl. haben mit der Behauptung, sie hätten aufgrund ihrer Rechte aus den Swap-
+Vereinbarungen (kraft derer der Kl. zu 1 2.740.035 Aktien, der Kl. zu 2 2.879.421
+Aktien, der Kl. zu 3 1.335.366 Aktien und der Kl. zu 4 238.900 Aktien zugewiesen
+gewesen seien) über die Annahme des Übernahmeangebots entscheiden können,
+Schadensersatz iHv 30,95 EUR je zugewiesener Aktie der M AG Zug um Zug gegen
+deren Übereignung sowie entgangenen Gewinn verlangt. Sie hätten das Angebot
+angenommen, wenn die Bekl. die angemessene Gegenleistung von 30,95 EUR je
+Aktie angeboten hätte.
+abgewiesen. Die dagegen gerichtete Berufung hat das OLG Stuttgart (Urt. v.
+9.10.2019 – 9 U 217/19) zurückgewiesen. Die Kl. haben ihre Klageanträge zunächst
+weiterverfolgt und den Rechtsstreit im Laufe des Revisionsverfahrens im Hinblick
+auf die zwischenzeitliche Einlieferung von Aktien gegen eine Abfindung iHv 22,99
+EUR zuzüglich Zinsen iHv 1,801331 EUR je Aktie in der Hauptsache teilweise für
+erledigt erklärt. Die vom Senat zugelassene Revision der Kl. hatte keinen Erfolg.
+Aus den Gründen
+9– 13I. Das BerGer. hat seine Entscheidung im Wesentlichen wie folgt begründet:
+(Es folgt eine Zusammenfassung der Ausführungen des OLG in der Vorinstanz. Sie
+14II. Die einseitige Teilerledigungserklärung im Revisionsverfahren ist zulässig, weil
+das Ereignis, das die Hauptsache teilweise erledigt haben soll, als solches außer
+Streit steht (vgl. BGH NZG 2017, 390 = ZIP 2017, 566 Rn. 8 mwN). Die Revision ist
+jedoch insgesamt zurückzuweisen, weil die Ausführungen des BerGer.
+2508 Rn. 5).
+151. Das BerGer. hat rechtsfehlerfrei angenommen, dass den Kl. kein
+Schadensersatzanspruch gegen die Bekl. aus §§ 280 I, 311 II, 241 II BGB zusteht.
+16a) Das BerGer. hat keine Feststellungen dazu getroffen, ob die Kl. aufgrund ihrer
+Rechte aus den Swap-Vereinbarungen hinsichtlich der geltend gemachten
+Ansprüche aktivlegitimiert sind. Für die revisionsrechtliche Prüfung ist dies
+zugunsten der Kl. zu unterstellen.
+17b) Bei der aus § 31 I 1 WpÜG folgenden Pflicht des Bieters, den Aktionären der
+Zielgesellschaft eine angemessene Gegenleistung anzubieten, handelt es sich nicht
+um eine Pflicht iSd §§ 311 II, 241 II BGB. Da der geltend gemachte Anspruch der Kl.
+auf eine Verletzung der Pflicht aus § 31 I 1 WpÜG nicht gestützt werden kann, stellen
+sich die weiteren vom BerGer. zu den Voraussetzungen einer Schadensersatzpflicht
+nach § 280 I BGB in diesem Zusammenhang erörterten Fragen nicht.
+18aa) Die Aktionäre der Zielgesellschaft haben nach der Veröffentlichung eines
+öffentlichen Übernahmeangebots nicht unabhängig von der Annahme des Angebots
+aus § 31 I 1 WpÜG einen Anspruch auf eine angemessene Gegenleistung.
+19(1) Gegen den Kontrollerwerber, der pflichtwidrig ein Pflichtangebot nicht
+veröffentlicht, besteht ein Anspruch auf Zahlung der Gegenleistung für die Aktien
+weder aus § 35 II WpÜG noch aus einem mitgliedschaftlichen Schuldverhältnis (BGH
+NZG 2013, 939 = ZIP 2013, 1565 Rn. 9 – BKN; BGHZ 202, 180 = NJW-RR 2014, 1248
+Rn. 19). Wird dagegen ein öffentliches Übernahmeangebot veröffentlicht, steht
+Aktionären der Zielgesellschaft, die das Angebot angenommen haben, ein
+zivilrechtlich durchsetzbarer Anspruch auf Zahlung des Differenzbetrags zwischen
+der angebotenen und der angemessenen Gegenleistung zu. Die im Schrifttum
+umstrittene Frage, ob § 31 I 1 AktG den Aktionären der Zielgesellschaft unabhängig
+von der Annahme des öffentlichen Angebots einen Anspruch auf eine angemessene
+Gegenleistung vermittelt, hat der Senat bislang nicht entschieden (vgl. BGHZ 202,
+180 = NJW-RR 2014, 1248 Rn. 21 ff.; BGHZ 216, 347 = NJW-RR 2018, 99 Rn. 11).
+20Überwiegend wird ein individueller Anspruch auf eine angemessene
+Gegenleistung von der Annahme des öffentlichen Angebots durch den Aktionär
+abhängig gemacht (Ehricke/Ekkenga/Oechsler/Oechsler WpÜG, 2003, WpÜG § 31
+Rn. 26; Baums/Thoma/Verse/Marsch-Barner WpÜG, 4. Lfg. 10/10, WpÜG § 31 Rn.
+128; Assmann/Pötzsch/Schneider WpÜG/Krause, 3. Aufl., WpÜG § 31 Rn. 166 g;
+Verse ZIP 2004, 199 (205, 208 f.); Mülbert/Schneider WM 2003, 2301 (2302);
+Pohlmann ZGR 2007, 1 (15 f.); Seibt ZIP 2003, 1865 (1874); Ihrig ZHR 167 (2003),
+315 (346); Löhdefink/Jaspers ZIP 2014, 2261 (2268); Brellochs ZGR 2018, 811 (818);
+Hettich Rechtsschutz der Aktionäre bei Verstößen gegen die Mindestpreisregeln im
+Übernahmerecht, 2021,  f.; weiter einschränkend MüKoAktG/Wackerbarth, 5.
+Aufl., § 31 WpÜG Rn. 107 f.; Steinmeyer/Santelmann/Nestler WpÜG, 4. Aufl., WpÜG
+§ 31 Rn. 111; Santelmann Angebotsunterlagenhaftung, 2003, ). Teilweise wird
+demgegenüber vertreten, § 31 I 1 WpÜG vermittele den Aktionären bereits dann
+einen Anspruch auf eine angemessene Gegenleistung, wenn noch kein Vertrag
+geschlossen worden sei (Kölner Komm-WpÜG/Kremer/Oesterhaus, 2. Aufl., WpÜG § 31 Rn. 107; Zschocke FS Marsch-Barner, 2018, 607 (618); Thaeter/Brandi Öffentl.
+Übernahmen/Thaeter 2003, § 6 Rn. 508; Meilicke/Meilicke ZIP 2010, 558 (565 f.); ein
+Andienungsrecht entsprechend § 39 c WpÜG bejahend: Witt DStR 2014, 2132
+(2134)).
+21(2) Der überwiegenden Ansicht ist zuzustimmen. § 31 I 1 WpÜG vermittelt nur den
+Aktionären der Zielgesellschaft, die das öffentliche Angebot annehmen, einen
+Anspruch auf eine angemessene Gegenleistung.
+22(a) Der Wortlaut von § 31 I 1 WpÜG lässt nicht erkennen, dass die Aktionäre der
+Zielgesellschaft einen individuellen Anspruch auf das Angebot einer angemessenen
+Gegenleistung haben. Danach wird lediglich eine entsprechende Verpflichtung des
+Bieters begründet, ohne dass von einem Anspruch der Aktionäre die Rede ist (Simon
+Rechtsschutz im Hinblick auf ein Pflichtangebot nach § 35 WpÜG, 2005, ; vgl.
+bereits zu § 35 II WpÜG: BGH NZG 2013, 939 = ZIP 2013, 1565 Rn. 9, 20– BKN).
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+23(b) Die Systematik des Gesetzes spricht dafür, dass ein individueller Anspruch auf
+eine angemessene Gegenleistung der Aktionäre von der Annahme des Angebots
+abhängig ist (vgl. bereits zu § 35 II WpÜG: BGH NZG 2013, 939 = ZIP 2013, 1565 Rn.
+21 ff. – BKN). Nach § 31 V WpÜG wird ausdrücklich nur den Aktionären, die das
+Angebot angenommen haben, ein Anspruch in Höhe des Unterschiedsbetrags bei
+sogenannten Nacherwerben zuerkannt. Diese Regelung wäre nicht verständlich,
+wenn die Aktionäre unmittelbar und unabhängig von der Annahme des Angebots aus
+§ 31 I 1 WpÜG das Angebot einer angemessenen Gegenleistung bzw. eine
+angemessene Gegenleistung (vgl. Verse ZIP 2004, 199 (202)) vom Bieter verlangen
+könnten.
+24Zu Recht ist auch darauf hingewiesen worden, dass das Wertpapiererwerbs- und
+Übernahmegesetz anders als in Fällen, in denen die Höhe der angemessenen
+Gegenleistung durch ein Spruchverfahren bestimmt wird (vgl. § 305 IV 3 AktG, § 212
+UmwG), den Aktionären der Zielgesellschaft nicht allgemein die Möglichkeit
+einräumt, dem Bieter ihre Aktien außerhalb des öffentlichen Übernahmeangebots
+anzudienen, wenn sich später herausstellt, dass die angebotene Gegenleistung nicht
+angemessen war (Verse ZIP 2004, 199 (208)). Der Gesetzgeber hat vielmehr
+gesehen, dass den Aktionären, die ein Übernahme- oder Pflichtangebot nicht
+angenommen haben, unter bestimmten Bedingungen ein Recht zustehen soll, dem
+Bieter ihre Aktien anzudienen, wie sich aus § 39 c WpÜG ergibt. Diese ausdrücklich
+auf die Möglichkeit eines Ausschlusses der übrigen Aktionäre nach § 39 a I WpÜG
+begrenzte Regelung verlöre aber ihren Sinn, wenn den Aktionären unabhängig von
+der Annahme des Angebots aus § 31 I 1 WpÜG ein Anspruch auf eine angemessene
+Gegenleistung gegen die Übertragung ihrer Aktien zustünde. Durch die Bezugnahme
+auf § 39 a WpÜG ist das Andienungsrecht nach § 39 c WpÜG an das Übernahmerecht
+gekoppelt und geht nicht weiter als das Übernahmerecht (BGH NZG 2013, 223 = ZIP
+2013, 308 Rn. 26). Da im Falle des Angebots einer nicht angemessenen
+Gegenleistung außerhalb des in § 39 a I 1 WpÜG genannten Schwellenwerts keine
+vergleichbare Situation für den Aktionär entsteht, der das Angebot nicht
+angenommen hat, und dieser nach der Konzeption des Gesetzes auch bei
+preisrelevanten Nacherwerben nicht geschützt ist, kommt auch keine entsprechende
+Anwendung dieser Vorschrift in Betracht (Verse Der Konzern 2015,  (3);
+Paschos/Fleischer Übernahme-HdB/Nietsch, 2017, § 29 Rn. 25; aA Witt DStR 2014,
+2132 (2134)).
+25Ein unmittelbarer, von der Annahme des Angebots unabhängiger Anspruch der
+Aktionäre kann auch nicht auf einen Kontrahierungszwang des Bieters gestützt
+werden (Hettich Rechtsschutz der Aktionäre bei Verstößen gegen die
+Mindestpreisregeln im Übernahmerecht, ; aA Thaeter/Brandi Öffentl.
+Übernahmen/Thaeter § 6 Rn. 508). Die gegenteilige Sicht verkennt, dass das Ziel der
+Mindestpreisvorschriften, den Aktionären der Zielgesellschaft einen Austritt zu
+angemessenen Bedingungen zu ermöglichen, nach der Systematik des Gesetzes
+durch das öffentliche Übernahmeangebot umgesetzt wird, durch dessen Annahme
+der Aktionär vertragliche Ansprüche gegen den Bieter erwirbt, und zwar gerichtet auf
+die nach § 31 I 1 WpÜG angemessene Gegenleistung (BGHZ 202, 180 = NJW-RR
+2014, 1248 Rn. 21 ff.; BGHZ 216, 347 = NJW-RR 2018, 99 Rn. 11). Die
+Voraussetzungen, unter denen in der Rechtsprechung außerhalb einer
+ausdrücklichen gesetzlichen Festlegung ein mittelbarer Abschlusszwang
+angenommen wird (vgl. die Übersicht bei Palandt/Ellenberger BGB, 80. Aufl., Einf v § 145 Rn. 9), liegen nicht vor. Weder sind in der Situation, in der der Bieter ein Angebot
+mit nicht angemessener Gegenleistung veröffentlicht, ohne weiteres die
+Voraussetzungen des § 826 BGB gegeben noch ist die Situation des Bieters mit der
+eines Unternehmens mit marktstarker oder marktbeherrschender Stellung
+vergleichbar (Hettich Rechtsschutz der Aktionäre bei Verstößen gegen die
+Mindestpreisregeln im Übernahmerecht, ). Dies gilt erst recht für
+Übernahmeangebote nach § 29 I WpÜG.
+26(c) In den Materialien zum Wertpapiererwerbs- und Übernahmegesetz finden sich
+Hinweise darauf, dass § 31 I 1 WpÜG keine individuellen Ansprüche der Aktionäre
+der Zielgesellschaft begründen soll. Nach der Begründung des Regierungsentwurfs
+enthält die Vorschrift den konkretisierungsbedürftigen Grundsatz zur Bestimmung
+der Gegenleistung. Sie deutet aber nicht auf einen Anspruch hin, den die Aktionäre
+der Zielgesellschaft unabhängig vom Zustandekommen eines Vertrags gegen den
+Bieter verfolgen können (RegE eines Gesetzes zur Regelung von öffentlichen
+Angeboten zum Erwerb von Wertpapieren und von Unternehmensübernahmen, BT-
+Drs. 14/7034, 55). Zu Abs. 4 führt die Begründung aus, Voraussetzung für die
+Anwendung der Regeln sei stets ein bestehender bzw. bereits erfüllter Anspruch auf
+die Gegenleistung, und in der Begründung zu Abs. 5 wird darauf hingewiesen, dass
+der Schutz derjenigen Aktionäre, die das Angebot abgelehnt hätten, bei der
+folgenden Strukturmaßnahme durch die Normen des Aktien- und
+Umwandlungsrechts realisiert werde (RegE eines Gesetzes zur Regelung von
+öffentlichen Angeboten zum Erwerb von Wertpapieren und von
+Unternehmensübernahmen, BT-Drs. 14/7034, 56). Diese Ausführungen zeigen, dass
+die Preisvorschriften des Wertpapiererwerbs- und Übernahmegesetzes nach der
+Vorstellung des Regierungsentwurfs zwar auf einen zwischen dem Bieter und dem
+Aktionär auf Grund des öffentlichen Angebots geschlossenen Vertrag einwirken,
+aber keine Ansprüche unabhängig von einem vertraglich begründeten
+Gegenleistungsanspruch gewähren sollen (Verse ZIP 2004, 199 (208)). Dem
+entspricht die Regierungsbegründung zum Kapitalanleger-Musterverfahrensgesetz,
+die zu § 1 I 1 Nr. 2 KapMuG aF (nunmehr § 1 I 1 Nr. 3 KapMuG) ausführt, diese
+Regelung sei auf Erfüllungsansprüche bestehender Verträge, deren Grundlage
+Angebote nach dem Wertpapiererwerbs- und Übernahmegesetz sind, begrenzt.
+Nicht erfasst werde der Abschluss entsprechender Verträge, da dieses Gesetz
+entsprechende Individualansprüche von Anlegern auf den Abschluss solcher
+Verträge nicht vorsehe (Entwurf eines Gesetzes zur Einführung von Kapitalanleger-
+Musterverfahren, BT-Drs. 15/5091, 20).
+27(d) Ein von der Annahme des Angebots unabhängiger Anspruch auf eine
+angemessene Gegenleistung ist auch nicht im Hinblick auf die Interessenlage der
+Bet. gerechtfertigt. Gegen eine Beschränkung des Kreises der
+Anspruchsberechtigten auf die Aktionäre, die das Angebot angenommen haben,
+wird vorgebracht, es könne den Aktionären der Zielgesellschaft nicht angesonnen
+werden, das Angebot zu unangemessen niedrigen Konditionen anzunehmen,
+während für das Interesse an einer angemessenen Gegenleistung lediglich
+unsicherer Rechtsschutz eröffnet sei (Meilicke/Meilicke ZIP 2010, 558 (565 f.)).
+Dieser Kritik ist zuzugeben, dass die Aktionäre der Zielgesellschaft die Möglichkeit
+eines Austritts aus der Gesellschaft gegen eine tatsächlich angemessene
+Gegenleistung möglicherweise verlieren, wenn sie nicht bereit sind, das Risiko in
+Kauf zu nehmen, ihre Aktien möglicherweise nur zum Angebotspreis zu veräußern
+(vgl. Baums/Thoma/Verse/Thoma WpÜG, 6. Lfg. 12/11, § 12 WpÜG Rn. 47;
+Schwark/Zimmermann/Noack/Holzborn, Kapitalmarktrechts-Kommentar, 5. Aufl.,
+WpÜG § 12 Rn. 4; MüKoAktG/Wackerbarth WpÜG § 12 Rn. 11). Dabei handelt es sich
+jedoch um ein den Mindestpreisregeln und der Konzeption des Gesetzes
+immanentes Risiko, das zum einen
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+durch transparente und rechtssicher zu handhabende Preisregelungen (RegE eines
+Gesetzes zur Regelung von öffentlichen Angeboten zum Erwerb von Wertpapieren
+und von Unternehmensübernahmen, BT-Drs. 14/7034, 55) und zum anderen durch
+eine präventiv wirkende Angebotskontrolle nach § 14 f. WpÜG verringert werden soll.
+28Der Bieter wäre bei einem solchen Anspruch durch die Veröffentlichung des
+Angebots auf zunächst unabsehbare Zeit und verschuldensunabhängig zur
+Übernahme der Aktien der Zielgesellschaft zu dem nach den
+Mindestpreisbestimmungen maßgeblichen Preis verpflichtet. Hierdurch würden die
+Transaktionssicherheit für den Bieter, vor allem aber andere in § 3 IV und V WpÜG
+zum Ausdruck kommende allgemeine Grundsätze beeinträchtigt, nach denen das
+Übernahmeverfahren rasch, ohne eine über einen angemessenen Zeitraum
+hinausgehende Behinderung der Geschäftstätigkeit der Zielgesellschaft und ohne
+Marktverzerrungen beim Handel mit Wertpapieren der Beteiligten durchzuführen ist
+(vgl. auch RegE eines Gesetzes zur Regelung von öffentlichen Angeboten zum
+Erwerb von Wertpapieren und von Unternehmensübernahmen, BT-Drs. 14/7034, 29
+(35)). Für die Aktionäre der Zielgesellschaft würden entgegen dieser Zielsetzung
+Anreize geschaffen, das im Grundsatz nach § 16 I 1 WpÜG unter eine Annahmefrist
+von höchstens zehn Wochen gestellte Angebot zunächst nicht anzunehmen.
+Zumindest unter dem Gesichtspunkt einer zeitlich nicht begrenzten Möglichkeit zur
+Verfolgung des Anspruchs auf eine angemessene Gegenleistung bekämen die
+Aktionäre, die das Angebot nicht annehmen, nicht schutzwürdige
+Arbitragemöglichkeiten (Brellochs ZGR 2018, 811 (819); Löhdefink/Jaspers ZIP
+2014, 2261 (2268)), die geeignet wären, Marktverzerrungen im Handel mit den
+Wertpapieren der Beteiligten zu verursachen.
+29bb) Die Pflicht zum Angebot einer angemessenen Gegenleistung gem. § 31 I 1
+WpÜG begründet keine vorvertragliche Nebenpflicht des Bieters gegenüber den
+Aktionären der Zielgesellschaft gem. § 311 II, § 241 II BGB.
+30(1) Umfang und Inhalt vorvertraglicher Schutzpflichten sind nicht einheitlich für
+alle Schuldverhältnisse bestimmbar. Sie hängen vielmehr vom Zweck des
+Schuldverhältnisses, der Verkehrssitte und den Anforderungen des redlichen
+1818 Rn. 24). Rücksichtnahmepflichten umfassen die Rechts- und Interessensphäre
+der anderen Seite, einschließlich der Dispositions- und Entscheidungsfreiheit. Die
+Wahrung der Pflicht muss erforderlich und dem Schuldner zumutbar sein und an die
+gesteigerte Einwirkungsmöglichkeit aufgrund der tatsächlichen Öffnung des Rechtsund Interessenkreises im Rahmen des vorvertraglichen Vertrauensverhältnisses
+anknüpfen (MüKoBGB/Emmerich, 8. Aufl., BGB § 311 Rn. 50; BeckOGK/Herresthal,
+1.1.2021, BGB § 311 Rn. 313). Auch die pflichtwidrige Vereitelung eines wirksamen
+Vertragsschlusses kann eine Haftung aus § 311 II BGB begründen
+(Staudinger/Feldmann BGB, 2018, BGB § 311 Rn. 151). Der BGH nimmt unter diesem
+Gesichtspunkt eine Haftung wegen Verschuldens bei Vertragsverhandlungen an,
+wenn dem Verhandlungspartner der Abschluss eines formbedürftigen Vertrags als
+sicher in Aussicht gestellt wird, dieser später ohne triftigen Grund abgelehnt wird und
+dem in Anspruch Genommenen ein besonders schwerwiegender, regelmäßig
+1996, 1174; DStR 2001, 803).
+31(2) Für das öffentliche Angebotsverfahren wird, soweit eine Haftung wegen
+vorvertraglicher Pflichten in Betracht gezogen wird, überwiegend angenommen, der
+Bieter habe für eine ausreichende Information der Aktionäre der Zielgesellschaft und
+die Richtigkeit der gemachten Angaben einzustehen (Kölner Komm-WpÜG/Möllers
+WpÜG § 12 Rn. 4, 83 a; MüKoAktG/Wackerbarth WpÜG § 11 Rn. 116;
+Baums/Thoma/Verse/Thoma WpÜG § 12 Rn. 47; § 31 WpÜG Rn. 110; Verse Der
+Konzern 2015, 1 (3); Paschos/Fleischer Übernahme-HdB//Nietsch § 29 Rn. 25; vgl.
+Preisfindung im Übernahmerecht, 2017,  f.). Ergänzend wird vertreten, der
+veröffentlichten Angebotsunterlage könne die konkludente Erklärung des Bieters
+entnommen werden, die gesetzlichen Vorgaben einschließlich der Preisregeln seien
+beachtet worden (Aisenbrey ; wohl auch Zschocke FS Marsch-Barner, 2018,
+607 (621)).
+32Nach einem weitergehenden Ansatz, den sich die Revision zu eigen macht, sollen
+die Rücksichtnahmepflichten des Bieters von den Regelungen des
+Wertpapiererwerbs- und Übernahmegesetzes aus bestimmt werden, so dass die
+Pflicht zur Rücksichtnahme gegenüber den Aktionären auch die Pflicht zur Wahrung
+der gesetzlichen Mindestpreisbestimmungen einschließe. § 31 I 1 WpÜG schütze
+den Aktionär in seinem berechtigten Vertrauen in einen bestimmten,
+interessenwahrenden Ausstieg aus der Gesellschaft (Hettich ).
+33Dem wird entgegengehalten, von einer Pflichtverletzung könne jedenfalls dann
+nicht die Rede sein, wenn die Bestimmung der Gegenleistung eine Positionierung der
+BaFin zu bislang nicht entschiedenen Rechtsfragen voraussetze oder sich aus
+anderen Gründen als schwierig gestalte (Assmann/Pötzsch/Schneider
+WpÜG/Krause/Krause WpÜG § 31 Rn. 166 i; jurisPR-HaGesR/Hippeli, 9/2018 Anm.
+5).
+34(3) Das BerGer. hat zutreffend angenommen, dass die Pflicht zum Angebot einer
+angemessenen Gegenleistung gem. § 31 I 1 WpÜG keine vorvertragliche
+Nebenpflicht des Bieters gegenüber den Aktionären der Zielgesellschaft gem. §§ 311 II, 241 II BGB begründet. Die den Bieter nach den Wertungen des
+Wertpapiererwerbs- und Übernahmegesetzes treffenden Rücksichtspflichten sind
+nur auf die Information der Aktionäre über die für die Beurteilung der
+Angemessenheit der Gegenleistung maßgeblichen Umstände gerichtet.
+35Das Wertpapiererwerbs- und Übernahmegesetz soll unter anderem Leitlinien für
+ein faires und geordnetes Angebotsverfahren schaffen und die Information und
+Transparenz für die betroffenen Wertpapierinhaber verbessern. Diese sollen über
+ausreichende Informationen verfügen, um in Kenntnis der Sachlage über das
+Angebot entscheiden zu können, so dass den Bieter umfassende
+Informationspflichten treffen (vgl. RegE eines Gesetzes zur Regelung von
+öffentlichen Angeboten zum Erwerb von Wertpapieren und von
+Unternehmensübernahmen, BT-Drs. 14/7034, 28 f.). Hierzu sieht § 11 II 2 Nr. 3 WpÜG
+die Information über Art und Höhe der für die Wertpapiere der Zielgesellschaft
+gebotenen Gegenleistung vor und § 11 IV Nr. 2 WpÜG, § 2
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+Nr. 3 WpÜG-AngebVO die nähere Erläuterung der zur Festsetzung der Gegenleistung
+angewandten Bewertungsmethoden, ihrer Gewichtung und der bei der Bewertung
+der Gegenleistung aufgetretenen Schwierigkeiten. Der Bieter wirkt mit der Abgabe
+des Angebots auf die Entscheidungs- und Dispositionsfreiheit der Aktionäre der
+Zielgesellschaft ein, weil er diesen die Informationen verschaffen muss, anhand
+derer sie ihre Entscheidung über die Veräußerung ihrer Aktien an den Bieter oder den
+Verbleib in der Gesellschaft treffen.
+36Wie oben unter aa) (2) näher erläutert, besteht der Anspruch der Aktionäre der
+Zielgesellschaft auf eine angemessene Gegenleistung nicht unabhängig von der
+Annahme des Angebots und der Schutz der Entscheidungs- und Dispositionsfreiheit
+der Aktionäre erfordert es nach der Konzeption des Gesetzes auch nicht, bereits im
+Vorfeld des Vertragsschlusses deren Interesse an einer angemessenen
+Gegenleistung zu schützen. Es ist zwar denkbar, dass ein Aktionär im Vertrauen auf
+die Richtigkeit eines Angebots mit zu niedriger Gegenleistung von der Annahme des
+Angebots absieht und auf diese Weise die Möglichkeit verliert, seine Aktien zu einem
+angemessenen Preis im Rahmen des öffentlichen Angebots zu veräußern.
+Unterrichtet der Bieter aber über die maßgeblichen tatsächlichen Umstände für die
+Bestimmung der angemessenen Gegenleistung, dürften offensichtliche Fehler bei
+der Bestimmung der angemessenen Gegenleistung regelmäßig bereits bei der
+Prüfung der Angebotsunterlage gem. §§ 14 f. WpÜG aufgedeckt werden. Ist
+demgegenüber die Bestimmung der angemessenen Gegenleistung mit
+Unsicherheiten behaftet, ist das Interesse der Aktionäre der Zielgesellschaft, eine
+informierte Entscheidung über das Angebot zu treffen, dadurch ausreichend
+gewahrt, dass die Aktionäre über die Unsicherheiten bei der Bestimmung der
+Gegenleistung in der Angebotsunterlage aufgeklärt werden (vgl.
+Assmann/Pötzsch/Schneider WpÜG/Krause WpÜG § 31 Rn. 166 i).
+37Dem Bieter ist es demgegenüber nicht zumutbar, gegenüber den Aktionären der
+Zielgesellschaft bereits nach Veröffentlichung der Angebotsunterlage das aus
+rechtlichen oder tatsächlichen Unsicherheiten folgende Risiko einer zutreffenden
+Bemessung der Gegenleistung unabhängig von einem späteren Vertragsschluss zu
+tragen. Eine Verletzung einer solchen Pflicht hätte zur Folge, dass der Bieter die
+Aktionäre der Zielgesellschaft jeweils so stellen müsste, als wäre eine angemessene
+Gegenleistung angeboten worden. Eine regelmäßig auf das Erfüllungsinteresse
+gerichtete Haftung des Bieters im Stadium der Vertragsanbahnung würde die
+Transaktionsrisiken erhöhen und die Planbarkeit des Übernahmeverfahrens
+erschweren (vgl. bereits oben aa) (2) (d)). Sie wäre vor allem dann nicht
+gerechtfertigt, wenn der betreffende Aktionär, wie das BerGer. für den Streitfall
+festgestellt hat, umfassend informiert war und sich schon in der Angebotsphase eine
+zutreffende Meinung über die Höhe der anzubietenden Gegenleistung gebildet hat.
+In diesem Fall ist es zum Schutz der Rechtsgüter des Aktionärs nicht geboten, sein
+Interesse am Austritt aus der Zielgesellschaft über die für das Angebot geltende
+Annahmefrist hinaus zu wahren. Aus den Regelungen des Übernahmekodex der
+Börsensachverständigenkommission vom 14.7.1995 (abgedr. in ZIP 1995, 1464
+(1467)) ergeben sich keine anderen Wertungen.
+38(4) Entgegen der Sicht der Revision gebietet auch die RL 2004/25/EG des
+Europäischen Parlaments und des Rates vom 21.4.2004 betreffend
+Übernahmeangebote (ABl. L 142, 12 – Übernahme-RL) keine andere Auslegung. Ob,
+wie es das BerGer. angenommen hat, die Übernahme-RL keine Vorgaben für das
+vorliegende Übernahmeangebot enthält oder ob diese im Hinblick auf Art. 5 II der
+Übernahme-RL Wirkungen entfaltet, wonach die Verpflichtung zur Abgabe eines
+Angebots erst dann nicht mehr besteht, wenn die Kontrolle aufgrund eines
+freiwilligen Angebots erlangt worden ist, das allen Wertpapierinhabern für alle ihre
+Wertpapiere im Einklang mit der Richtlinie unterbreitet worden ist (vgl.
+Assmann/Pötzsch/Schneider WpÜG/Krause WpÜG § 31 Rn. 22; Habersack/Verse
+EuGesR, 5. Aufl., § 11 Rn. 18; Hopt Europäisches Übernahmerecht, 2013, ),
+bedarf keiner Entscheidung durch den Senat, weil das Unionsrecht auch im letzteren
+Fall keine andere Auslegung gebietet.
+39(a) Der Grundsatz der unionsrechtskonformen Auslegung verlangt, sämtliche
+nationalen Rechtsnormen zu berücksichtigen und alle im nationalen Recht
+anerkannten Auslegungsmethoden anzuwenden, um seine Auslegung so weit wie
+möglich am Wortlaut und Zweck der betreffenden Richtlinie auszurichten, um das in
+ihr festgelegte Ergebnis zu erreichen und so Art. 288 III AEUV nachzukommen (EuGH
+ECLI:EU:C:2020:1014 = NZG 2021, 160 Rn. 75 – Euromin Holdings (Cyprus) Limited).
+40(b) Entgegen der Sicht der Revision ist eine vorvertragliche, an einen Verstoß
+gegen die Verpflichtung aus § 31 I 1 WpÜG anknüpfende Haftung des Bieters nach
+dem Wortlaut und Zweck der Übernahme-RL, insbesondere zur Gewährleistung einer
+ausreichenden Sanktion iSd Art. 17 der Übernahme-RL offensichtlich nicht geboten.
+41(aa) Die Übernahme-RL berührt nach Art. 4 VI 1 und 3 nicht die Befugnis der
+Mitgliedstaaten, festzulegen, ob und unter welchen Voraussetzungen die Parteien
+des Angebots Rechte im Verwaltungs- oder Gerichtsverfahren geltend machen
+können und die Rechtslage im Hinblick auf Rechtsstreitigkeiten zwischen den
+Parteien des Angebots zu bestimmen (EuGH ECLI:EU:C:2020:1014 = NZG 2021, 160
+Rn. 82 – Euromin Holdings (Cyprus) Limited sowie Erwgr. 8  der Übernahme-RL).
+Die Sanktionen bei einem Verstoß gegen die nationalen Vorschriften zur Umsetzung
+der Richtlinie müssen nach Art. 17  der Übernahme-RL allerdings wirksam,
+verhältnismäßig und abschreckend sein (vgl. auch BGH DStR 2013, 2016 = ZIP 2013,
+1565 Rn. 32 – BKN). Den Mitgliedstaaten bleibt dabei die Auswahl der Sanktionen.
+Sie müssen aber Maßnahmen ergreifen, die hinreichend wirksam sind, um das Ziel
+der Richtlinie zu erreichen, und dafür Sorge tragen, dass sich die Betroffenen vor den
+nationalen Gerichten tatsächlich auf diese Maßnahmen berufen können (EuGH
+Gemeinschaftsrecht müssen nach ähnlichen sachlichen und verfahrensrechtlichen
+Regeln geahndet werden wie nach Art und Schwere gleichartige Verstöße gegen
+Åklagare/Åkerberg Fransson). Zu diesem Zweck hat das nationale Gericht die
+Gleichartigkeit der betreffenden Rechtsbehelfe unter dem Gesichtspunkt ihres
+Gegenstands, ihres Rechtsgrundes und ihrer wesentlichen Merkmale zu prüfen
+BGH NZG 2013, 1226 = ZIP 2013, 2001 Rn. 32).
+42(bb) Das Hauptziel der Übernahme-RL besteht darin, die Minderheitsaktionäre der
+Zielgesellschaft eines Übernahmeangebots zu schützen. Hierzu sieht Art. 5 IV UAbs.
+1 der Übernahme-RL vor, dass die zur Abgabe eines Angebots für den Erwerb der
+Wertpapiere von Minderheitsaktionären verpflichtete Person einen angemessenen
+Preis anzubieten hat. Es handelt sich dabei um eine Vorschrift des Unionsrechts, die
+dem Einzelnen Rechte verleihen soll (EuGH ECLI:EU:C:2020:1014 = NZG 2021, 160
+Rn. 87 f., 90– Euromin Holdings (Cyprus) Limited).
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+43(cc) Der Schutz der Minderheitsaktionäre und ihr Recht auf das Angebot eines
+angemessenen Preises wird für den Regelfall präventiv dadurch gewährleistet, dass
+§§ 3 ff. WpÜG-AngebV klare Regeln für die Bewertung aufstellen (vgl. BGHZ 202, 180
+= NJW-RR 2014, 1248 Rn. 25) und die BaFin das Angebot untersagt, wenn die in der
+Angebotsunterlage enthaltenen Angaben offensichtlich gegen die Vorschriften des
+Wertpapiererwerbs- und Übernahmegesetzes oder einer auf Grund dieses Gesetzes
+erlassenen Rechtsverordnung verstoßen (§ 15 I Nr. 2 WpÜG). Die Gefahr, dass den
+Aktionären eine Gegenleistung angeboten wird, die den Preisvorschriften nicht
+entspricht, besteht danach vor allem in Fällen, in denen die Bestimmung der
+Gegenleistung mit besonderen rechtlichen oder tatsächlichen Schwierigkeiten
+verbunden ist.
+44(dd) Das Recht der Aktionäre der Zielgesellschaft auf eine angemessene
+Gegenleistung wird auf zivilrechtlicher Ebene dadurch geschützt, dass ihnen, wenn
+sie das Angebot angenommen haben, unabhängig von der Höhe der tatsächlich
+angebotenen Leistung ein Anspruch auf die nach § 31 I 1 WpÜG angemessene
+Gegenleistung zusteht, der gegen den Bieter gerichtlich durchgesetzt werden kann
+(BGHZ 202, 180 = NJW-RR 2014, 1248 Rn. 21 ff.; BGHZ 216, 347 = NJW-RR 2018, 99
+Rn. 11).
+45(ee) Dem Wortlaut und der Zielsetzung der Übernahme-RL lässt sich nicht
+entnehmen, dass das Interesse der Aktionäre der Zielgesellschaft an einer
+angemessenen Gegenleistung darüber hinaus bereits vor und unabhängig von der
+Annahme des Angebots geschützt sein müsste. Die Übernahme-RL sieht als
+allgemeinen Grundsatz vor, dass die Inhaber von Wertpapieren einer Zielgesellschaft
+über genügend Zeit und ausreichende Informationen verfügen müssen, um in
+ausreichender Kenntnis der Sachlage über das Angebot entscheiden zu können (Art. 3 I b Hs. 1 Übernahme-RL). Die ausreichende Information der Wertpapierinhaber der
+Zielgesellschaft ist durch die Angebotsunterlage zu gewährleisten, die Angaben über
+die Angebotskonditionen, die für jedes Wertpapier oder jede Wertpapiergattung
+angebotene Gegenleistung sowie bei obligatorischen Angeboten die zur
+Bestimmung der Gegenleistung angewandte Bewertungsmethode enthalten muss
+(Art. 6 II 1, III a und d sowie Erwgr. 13  Übernahme-RL). Diese Vorschriften zielen
+auf eine ausreichende Information der Aktionäre über die Angebotskonditionen
+(Schwarzer Die Durchsetzung kapitalmarktrechtlicher Vorschriften mittels
+Privatrechts, 2020, ). Ein weitergehender Schutz ihrer Interessen kann ihnen
+nicht entnommen werden und ein solcher Schutz ist – wie unter vorstehend (3) näher
+erläutert – im Falle einer den Vorschriften des Wertpapiererwerbs- und
+Übernahmegesetzes entsprechenden Information durch die Angebotsunterlage
+auch nicht geboten. Der Grundsatz der Gleichbehandlung (Art. 3 I a Hs. 1
+Übernahme-RL), der nur Leitprinzipien für die Umsetzung der Richtlinie durch die
+Mitgliedstaaten und keine allgemeinen Grundsätze des Gemeinschaftsrechts
+formuliert (EuGH ECLI:EU:C:2009:626 = EuZW 2009, 894 Rn. 51 – Audiolux SA ua),
+ist ebenfalls nicht beeinträchtigt. Die Gleichbehandlung der Aktionäre wird dadurch
+gewährleistet, dass sie auf der Grundlage der Informationen in der
+Angebotsunterlage über die Annahme des Angebots entscheiden können (vgl. BGH
+verbleibenden Aktionäre an der Veräußerung ihrer Aktien im Fall einer gerichtlichen
+Feststellung des angemessenen Preises nach Ablauf der Angebotsfrist nicht in
+jedem Fall geschützt ist, ergibt sich auch aus Art. 15 und 16 Übernahme-RL, die kein
+allgemeines Andienungsrecht des Aktionärs vorsehen, sondern dieses darauf
+beschränken, dass der Bieter im Zuge des öffentlichen Angebots mehr als 90 % des
+stimmberechtigten Kapitals erwirbt (vgl. EuGH ECLI:EU:C:2009:626 = EuZW 2009,
+894 = NZG 2009, 1350 Rn. 49 – Audiolux SA ua).
+46Eine zivilrechtliche Haftung wegen eines Verstoßes gegen die Pflicht aus § 31 I 1
+WpÜG würde zudem anderen Zielen der Übernahme-RL zuwiderlaufen. Sie ist auch
+nicht im Hinblick auf die Haftung für nach Art und Schwere gleichartige Verstöße
+gegen nationales Recht geboten. Eine solche Haftung, bei der gem. § 280 I 2 BGB
+ein Verschulden des Bieters vermutet würde, wäre bis zum Eintritt der Verjährung
+darauf gerichtet, die Aktionäre, die das Angebot innerhalb der Annahmefrist nicht
+angenommen haben, so zu stellen, als sei eine angemessene Gegenleistung
+angeboten worden. Die Vorschriften der Übernahme-RL, die auch zum Schutz der
+Zielgesellschaft auf eine zeitliche Begrenzung des Übernahmeverfahrens gerichtet
+sind (Erwgr. 14, Art. 3 I f, Art. 7 I), liefen bei einer solchen Haftung weitgehend leer.
+Vielmehr würde für die Aktionäre der Zielgesellschaft ein Anreiz geschaffen,
+zunächst eine gerichtliche Klärung über die Höhe des angemessenen Preises
+herbeizuführen und ihre Ansprüche erst im Anschluss geltend zu machen. Anders
+als bei der Frage, ob den Aktionären, die das Angebot angenommen haben, ein
+zivilrechtlicher Anspruch auf eine angemessene Gegenleistung zusteht (dazu BGHZ
+202, 180 = NJW-RR 2014, 1248 Rn. 25), würde die Durchführung der Transaktion in
+diesem Fall gestört, weil über einen zunächst unabsehbaren Zeitraum unklar wäre,
+zu welchen Mehrheitsverhältnissen in der Zielgesellschaft das Übernahmeangebot
+führt. Wie oben unter (1) bis (3) näher ausgeführt, bestimmt sich die Reichweite
+vorvertraglicher Rücksichtnahmepflichten nach der Rechts- und Interessensphäre
+der anderen Seite, einschließlich der Dispositions- und Entscheidungsfreiheit. Diese
+rechtfertigt vorliegend keine auf das Interesse an einem wirksamen Vertragsschluss
+gerichtete vorvertragliche Haftung des Bieters.
+47(ff) Ob der Bieter gegenüber den Wertpapierinhabern der Zielgesellschaft wegen
+unzureichender Information in der Angebotsunterlage auch außerhalb des
+Anwendungsbereichs von § 12 WpÜG haften kann (bejahend Schwarzer  f.),
+hat der erkennende Senat bislang nicht entschieden. Die Frage muss auch im
+Streitfall nicht beantwortet werden (nachfolgend c).
+48(c) Eine Vorlage an den EuGH zur Vorabentscheidung nach Art. 267 III AEUV ist
+nicht geboten, da die Auslegung der Übernahme-RL in Anbetracht von Wortlaut und
+Zielrichtung derart offenkundig ist, dass keinerlei Raum für einen vernünftigen
+Zweifel an der Entscheidung der sich im Streitfall stellenden Fragen bleibt (acte clair;
+NZG 2021, 1564 = ZIP 2021, 1488 Rn. 46).
+49c) Rechtsfehlerfrei und von der Revision nicht beanstandet geht das BerGer. davon
+aus, dass eine Haftung der Bekl. unter dem Gesichtspunkt einer unzureichenden
+Information in der Angebotsunterlage nicht in Betracht kommt, weil eine
+unzureichende Information für die Entscheidung, das öffentliche Angebot nicht
+anzunehmen, nicht ursächlich war. Das BerGer. hat in diesem Zusammenhang zu
+Recht angenommen, dass der Bieter allein durch die Angabe der Gegenleistung nicht
+stillschweigend erklärt, deren Bestimmung beruhe auf einer objektiv zutreffenden
+Anwendung der Mindestpreisvorschriften (aA Aisenbrey ). In der
+Angebotsunterlage hat die Bekl. den Erwerb von Aktien der C AG durch Ausübung
+eines Wandlungsrechts offenbart und in den Erläuterungen zur Festsetzung der
+Angebotsgegenleistung ausgeführt, die Anleiheerwerbe seien für die Bestimmung
+der Mindestgegenleistung nicht relevant. Wie die Bitte von Vertretern der Kl. bei der
+BaFin um Sicherstellung eines erhöhten Angebotspreises von ca. 30,95 EUR je Aktie
+im Hinblick auf Vereinbarungen, auf Grund derer die Bekl. die Übereignung von
+Wandelschuldverschreibungen verlangen konnte, zeigt, war den Kl. sowohl der
+Erwerb von Aktien durch Ausübung des Wandlungsrechts als auch die Auswirkung
+auf die Preisbestimmung bekannt. Die Revision hat zudem klargestellt, dass die Kl.
+ihren Anspruch nicht auf eine Informationspflichtverletzung iSv § 12 I WpÜG stützen,
+sondern auf eine schuldhafte Verletzung der Pflicht der Bekl. aus § 31 I WpÜG. Ob
+die Aktionäre, die
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+das Angebot nicht annehmen, einen Schadensersatzanspruch gegen den Bieter
+gem. §§ 280 I, 311 II, 241 II BGB wegen einer unzureichenden Information in der
+Angebotsunterlage haben können, muss der Senat daher nicht entscheiden.
+502. Das BerGer. hat zutreffend angenommen, dass den Kl. kein Anspruch aus § 823
+II BGB iVm § 31 I 1 WpÜG zusteht, weil es sich bei § 31 I 1 WpÜG nicht um ein
+Schutzgesetz handelt.
+51a) Nach ständiger Rechtsprechung des BGH ist eine Norm Schutzgesetz iSd § 823
+II BGB, wenn sie zumindest auch dazu dienen soll, den Einzelnen oder einzelne
+Personenkreise gegen die Verletzung eines bestimmten Rechtsguts zu schützen.
+Dafür kommt es nicht auf die Wirkung, sondern auf Inhalt und Zweck sowie darauf
+an, ob der Gesetzgeber bei Erlass des Gesetzes gerade einen Rechtsschutz, wie er
+wegen der behaupteten Verletzung in Anspruch genommen wird, zugunsten von
+Einzelpersonen oder bestimmten Personenkreisen gewollt oder doch mitgewollt hat.
+Es genügt, dass die Norm auch das in Frage stehende Interesse des Einzelnen
+schützen soll, mag sie auch in erster Linie das Interesse der Allgemeinheit im Auge
+haben. Andererseits soll der Anwendungsbereich von Schutzgesetzen nicht
+ausufern. Deshalb reicht es nicht aus, dass der Individualschutz durch Befolgung der
+Norm als ihr Reflex objektiv erreicht werden kann; er muss vielmehr im
+Aufgabenbereich der Norm liegen. Zudem muss die Schaffung eines individuellen
+Schadensersatzanspruchs sinnvoll und im Lichte des haftungsrechtlichen
+Gesamtsystems tragbar erscheinen, wobei in umfassender Würdigung des
+gesamten Regelungszusammenhangs, in den die Norm gestellt ist, zu prüfen ist, ob
+es in der Tendenz des Gesetzgebers liegen konnte, an die Verletzung des
+geschützten Interesses die deliktische Einstandspflicht des dagegen Verstoßenden
+mit allen damit zugunsten des Geschädigten gegebenen Beweiserleichterungen zu
+Rn. 21; BGH NZG 2013, 939 = ZIP 2013, 1565 Rn. 35; BGHZ 218, 80 = NJW-RR 2018,
+738 Rn. 14). Dabei ist zu berücksichtigen, dass sich der Gesetzgeber gegen eine
+allgemeine deliktische Haftung für primäre Vermögensschäden entschieden hat und
+der Vermögensschutz im deliktischen Haftungssystem grundsätzlich nur durch § 52b) Danach ist § 31 I 1 WpÜG kein Schutzgesetz iSv § 823 II BGB
+(MüKoAktG/Wackerbarth WpÜG § 31 Rn. 100; Schwark/Zimmer/Noack/Zetzsche
+WpÜG § 31 Rn. 108; Ihrig ZHR 167 (2003), 315 (346); Verse ZIP 2004, 199 (206);
+Brellochs ZGR 2018, 811 (818); Hettich ; wohl auch
+Assmann/Pötzsch/Schneider WpÜG/Krause WpÜG § 31 Rn. 166 f). Es steht zwar
+außer Frage, dass die Norm die Interessen der Aktionäre der Zielgesellschaft
+schützt, bei drohendem oder schon eingetretenen Kontrollerwerb unter zumutbaren
+Bedingungen aus der Gesellschaft auszusteigen (BGHZ 202, 180 = NJW-RR 2014,
+1248 Rn. 24), wobei der Senat aus § 4 II WpÜG abgeleitet hat, dass die
+Angebotspflicht gem. § 35 II WpÜG nur einen reflexartigen Schutz der Aktionäre
+bietet und diese Norm ebenfalls kein Schutzgesetz ist (BGH NZG 2013, 939 = ZIP
+2013, 1565 Rn. 20, 36– BKN). Das mit einem Kontrollerwerb verbundene Interesse
+der anderen Aktionäre wird im Regelungszusammenhang des Wertpapiererwerbsund Übernahmegesetzes dadurch gewahrt, dass der Bieter, der trotz Kontrollerwerb
+kein Pflichtangebot unterbreitet, seine Rechte aus den Aktien nach § 59  WpÜG
+nicht ausüben kann und der Aktionär im Falle eines Angebots mit dessen Annahme
+einen zivilrechtlich durchsetzbaren Anspruch auf eine angemessene Gegenleistung
+erhält (BGHZ 202, 180 = NJW-RR 2014, 1248 Rn. 27). Dieser
+Regelungszusammenhang markiert zugleich die Grenzen des vom Gesetz
+bezweckten Vermögensschutzes der Aktionäre der Zielgesellschaft und würde
+durch einen deliktischen Anspruch außerhalb einer vorsätzlichen sittenwidrigen
+Schädigung iSv § 826 BGB unterlaufen.
+Anmerkung
+1. Die Entscheidung, die im Nachgang der Übernahme der Celesio AG durch
+McKesson erging (s. auch die vielzitierte erste Celesio-Entscheidung, BGH NJW-RR
+2018, 99), ist richtig und daher zu begrüßen. Sie stärkt die Transaktionssicherheit bei
+Übernahmeangeboten. Wie prominente Fälle der jüngeren Vergangenheit zeigen,
+gestaltet es sich aufgrund des Annahmeverhaltens bestimmter Aktionärsgruppen,
+namentlich vor allem von Hedgefunds und Arbitragefunds, zunehmend schwierig,
+die gesetzte Mindestannahmeschwelle zu erreichen (s. etwa Hasselbach/Pirnay
+NZG 2021, 1636). Einer der Gründe hierfür liegt in der sogenannten back-end-
+Spekulation, das heißt professionelle Anleger hoffen, durch die der Übernahme
+oftmals nachfolgenden Strukturmaßnahmen, vor allem Beherrschungs- und
+Gewinnabführungsvertrag und/oder Squeeze-out, zu einem späteren Zeitpunkt eine
+höhere Abfindung erzielen zu können (s. etwa Döding ZGR 2021, 956 (961 ff.)). Eine
+gegenteilige Entscheidung des BGH im vorliegenden Fall hätte ein weiteres Spielfeld
+für aktivistische Aktionäre eröffnet. Es wäre damit ein Anreiz gesetzt worden,
+„risikolos“ im Nachgang des Übernahmeangebots die Bieterin mit Klagen zu
+überziehen, ohne vorher die Aktien in das Angebot einzureichen. Das Argument, die
+auf Schadensersatz klagenden Aktionäre hätten bei einem höheren Angebotspreis
+ihre Aktien in das Übernahmeangebot eingereicht und müssten auch nach Ende des
+Angebots den angemesseneren Angebotspreis gegen Übertragung ihrer Aktien
+erhalten, wäre dann unter Umständen selbst für den Fall denkbar gewesen, dass das
+Übernahmeangebot mangels Erreichens der Annahmeschwelle keinen Erfolg hatte.
+Dem ist der BGH erfreulicherweise entgegengetreten.
+2. Auch in der Sache überzeugt die Argumentation des BGH, der die Frage eines
+Anspruchs der Aktionäre, die ihre Aktien nicht in das Übernahmeangebot eingereicht
+haben, in vier Schritten prüft, und mit der herrschenden Ansicht (s. etwa
+Assmann/Pötzsch/Schneider WpÜG/Krause, 3. Aufl., WpÜG § 31 Rn. 166 g ff. mwN)
+verneint.
+a) Im ersten Schritt stellt er fest, dass § 31 I 1 WpÜG nur solchen Aktionären einen
+Anspruch auf einen angemessenen Angebotspreis gewährt, die ihre Aktien in das
+Angebot eingereicht haben (und freilich folglich auch nur hinsichtlich der
+eingereichten Aktien). Dafür sprechen in der Tat sowohl der Wortlaut der Norm, der
+einen solchen Anspruch nicht vorsieht, als auch die Systematik des WpÜG. Auch bei
+mindestpreisrelevanten Nacherwerben haben nur diejenigen Aktionäre einen
+Nachzahlungsanspruch nach § 31 V WpÜG, die das Angebot an-
+BGH: * Kein Schadensersatzanspruch bei Nichtannahme eines
+genommen haben, und das Gesetz sieht ein weiteres Andienungsrecht der Aktionäre
+nach Ablauf des Angebots nur für den speziellen Fall des § 39 c WpÜG vor (Sell-out),
+aber nicht allgemein. Auch hat der Gesetzgeber im WpÜG, anders als etwa beim
+Beherrschungs- und Gewinnabführungsvertrag und beim Squeeze-out, gerade keine
+Möglichkeit der Aktionäre vorgesehen, die Angemessenheit des Angebotspreises
+nachträglich in einem Spruchverfahren überprüfen zu lassen. All diese Regelungen
+würden ausgehebelt und die Systematik des WpüG durchbrochen, wenn es
+Aktionären, die das Angebot nicht angenommen haben, dennoch ermöglicht würde,
+den Angebotspreis nachträglich (und zeitlich nur begrenzt durch das allgemeine
+Verjährungsrecht, also auch noch nach mehreren Jahren) gerichtlich überprüfen zu
+lassen und ihre Aktien dann noch Zug um Zug gegen Zahlung eines höheren
+Angebotspreises der Bieterin anzudienen.
+Auf der teleologischen Ebene überzeugt die Abwägung des BGH zwischen den
+Interessen der Bieterin und den Interessen derjenigen Aktionäre, die ihre Aktien nicht
+in das Angebot eingereicht haben. Dabei betont er insbesondere zutreffend, dass
+durch den Prozess der Billigung der Angebotsunterlage durch die BaFin ein Schutz
+für die Aktionäre dahingehend gegeben ist, dass die Behörde im Rahmen ihrer
+Prüfung von offensichtlichen Gesetzesverstößen (§ 15 I Nr. 2 WpÜG) auch den
+gesetzlichen Mindestpreis prüft, wodurch das Risiko von offensichtlich zu niedrigen
+Angebotspreisen begrenzt wird. In strittigen Fällen, beispielsweise wegen unklarer
+Rechtslage, überwiegt richtigerweise das Interesse der Bieterin an einem
+transaktionssicheren Übernahmeangebot, das heißt nicht auf unabsehbare Zeit und
+verschuldensunabhängig zur Übernahme der Aktien der Zielgesellschaft verpflichtet
+zu sein. Die Aktionäre müssen hingegen auf Basis der zur Verfügung gestellten
+Informationen die Entscheidung treffen, ob sie das Angebot annehmen oder nicht.
+b) Im zweiten Schritt verneint der BGH eine vorvertragliche Nebenpflicht der Bieterin
+nach §§ 311 II, 241 II BGB, allen Aktionären der Zielgesellschaft eine angemessene
+Gegenleistung anzubieten.
+c) In einem dritten Schritt lehnt er auch einen Anspruch nach § 12 WpÜG ab (der im
+Übrigen nur auf das negative Interesse gerichtet ist), da in der Angabe der
+Gegenleistung in der Angebotsunterlage keine stillschweigende Erklärung der
+Bieterin dahingehend gesehen werden kann, dass die Bestimmung des
+Angebotspreises objektiv richtig sei. Auch das ist jeweils, neben weiteren
+Argumenten, schon deswegen überzeugend, da anderenfalls über die Konstruktion
+einer solchen Nebenpflicht bzw. eines solchen Aussagegehalts der
+Angebotsunterlage die Bewertung aus dem ersten Schritt und damit die Systematik
+des WpÜG durch die Hintertür wieder vollständig umgangen würde.
+d) Im vierten Schritt schließt der BGH sodann, insbesondere mit Blick auf § 4 II
+WpÜG, wonach die BaFin ihre Aufgaben und Befugnisse nur im öffentlichen
+Interesse wahrnimmt (s. dazu auch Goj BKR 431, 435), auch einen Anspruch nach § 823 II BGB aus, da § 31 I 1 WpÜG richtigerweise kein Schutzgesetz darstellt.
+Rechtsanwalt Dr. Philip Goj, München

@@ -1,0 +1,631 @@
+Unwirksamkeit einer Beendigungsklausel einer D&O-Versicherung
+VVG § 11 I, III; BGB § 307 I 1, II Nr. 1; AVB D&O-Versicherung
+1. Eine Klausel in den Allgemeinen Versicherungsbedingungen einer D&O-
+Versicherung, die ohne Berücksichtigung der sich aus § 11 I und III VVG ergebenden
+Mindestkündigungsfrist das automatische Ende des Versicherungsvertrags mit dem
+Ablauf der Versicherungsperiode vorsieht, in welcher der Antrag auf Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin gestellt worden
+ist, ist unwirksam.
+2. Zur Auslegung einer Klausel in den Allgemeinen Versicherungsbedingungen einer
+unter Geltung des Anspruchserhebungsprinzips („Claims-made-Prinzip“)
+geschlossenen D&O-Versicherung, wonach bei einer Beendigung des Vertrags „aus
+einem anderen Grund als eines Prämienzahlungsverzuges oder der Liquidation,
+Insolvenz, Verschmelzung oder Neubeherrschung der Versicherungsnehmerin“ eine
+prämienneutrale Nachmeldefrist besteht.
+BGH Urteil vom 18.12.2024 – IV ZR 151/23
+NJW-Übersicht
+Rn.
+BerGer: Keine Leistungsansprüche des Kl.
+
+Revision: Leistungsansprüche des Kl.
+
+Unangemessene Benachteiligung gem. § 307 I 1 BGB durch Vertragsklausel
+11–13
+Versicherungsvertrag fällt in Anwendungsbereich des § 11 III VVG
+
+Mindestkündigungsfrist auch bei vereinbarter „automatischer“ Beendigung des Vertrags
+15–18
+Automatische Beendigungsklausel – keine ausnahmsweise sonstigen Gründe
+
+Bewusste Werteentscheidung des Gesetzgebers
+20–23
+Anzahl der Fälle unerheblich für rechtliche Gültigkeit der Regelung
+
+Unwirksamkeit des vertraglichen Ausschlusses einer Nachmeldefrist
+25–33
+Keine Richtigkeit der Berufungsentscheidung aus anderen Gründen
+34–38
+Mangelnde Entscheidungsreife der Sache
+
+Zum Sachverhalt
+Der Kl., Insolvenzverwalter über das Vermögen der E AG (im Folgenden:
+Insolvenzschuldnerin), nimmt die Bekl. aus abgetretenem Recht aus von der
+Insolvenzschuldnerin und einem früheren Vorstand unterhaltenen D&O-
+Versicherungen in Anspruch.
+Die Insolvenzschuldnerin und ihr früheres Vorstandsmitglied L schlossen mit der Bekl.
+in den Jahren 2013 bzw. 2014 Vermögensschaden-Haftpflichtversicherungen, denen
+unter anderem „Allgemeine Versicherungsbedingungen zur Vermögensschaden-
+Haftpflichtversicherung für Geschäftsführer, Bei- und Aufsichtsräte sowie Vorstände
+und leitende Angestellte (D&O – Directors & Officers Liability Insurance)“ (im
+Folgenden AVB) zugrunde lagen. Diese lauten auszugsweise wie folgt:
+„I. Gegenstand der Versicherung.
+1. Schutz des Privatvermögens der Organmitglieder
+Der Versicherer gewährt den versicherten Personen Versicherungsschutz für den Fall,
+dass sie erstmals während der Versicherungsperiode oder einer Nachmeldefrist wegen
+einer Pflichtverletzung, die sie in ihrer Eigenschaft als versicherte Personen begangen
+haben, aufgrund gesetzlicher Haftpflichtbestimmungen auf Ersatz eines
+Vermögensschadens schriftlich in Anspruch genommen werden, sofern die
+versicherten Personen bei Abschluss des Versicherungsvertrags von der
+Pflichtverletzung keine Kenntnis hatten (Versicherungsfall). (…)
+II. Zeitliche/Örtliche Geltung der Versicherung
+1. Vertragsdauer/Automatische Verlängerung
+Dieser Versicherungsvertrag ist zunächst für die im Versicherungsschein festgesetzte
+Zeit abgeschlossen. Beträgt diese mindestens ein Jahr, so verlängert sich dieser
+Versicherungsvertrag jeweils um ein Jahr, sofern der Versicherungsvertrag nicht
+spätestens drei Monate vor Ablauf der jeweiligen Versicherungsperiode schriftlich
+gekündigt wird und sofern in den Versicherungsbedingungen nicht ausnahmsweise ein
+automatisches Ende vereinbart ist.
+2. Rückwärtsdeckung
+Vom Versicherungsschutz sind während der Versicherungsperiode eingetretene
+Versicherungsfälle umfasst, die auf Pflichtverletzungen beruhen, welche vor
+Vertragsbeginn begangen wurden und von welchen die betroffene versicherte Person
+oder die Versicherungsnehmerin bei Abschluss des Versicherungsvertrags keine
+Kenntnis hatte. (…)
+3. Nachmeldefrist
+Wird dieser Versicherungsvertrag nach Ablauf mindestens eines vollen
+Versicherungsjahres aus einem anderen Grund als eines Prämienzahlungsverzuges
+oder der Liquidation, Insolvenz, Verschmelzung oder Neubeherrschung der
+Versicherungsnehmerin beendet, besteht automatisch eine prämienneutrale
+Nachmeldefrist von 60 Monaten.
+Während der Nachmeldefrist besteht Versicherungsschutz nur für innerhalb dieser
+Frist eingetretene Versicherungsfälle wegen Pflichtverletzungen, die vor Ablauf der
+letzten Versicherungsperiode begangen wurden. Der Versicherungsschutz besteht im
+Rahmen und nach Maßgabe der bei Ablauf der letzten Versicherungsperiode geltenden
+Versicherungsbedingungen sowie in Höhe des unverbrauchten Teils der
+Deckungssumme der letzten Versicherungsperiode.
+4. Vorsorgliche Umstandsmeldung
+Die versicherten Personen, die Versicherungsnehmerin und die Tochtergesellschaften
+können, wenn ihnen konkrete Informationen zu möglichen, in der Vergangenheit
+begangenen Pflichtverletzungen vorliegen, für die eine Inanspruchnahme hinreichend
+wahrscheinlich ist, dem Versicherer diese Umstände innerhalb der
+Versicherungsperiode oder spätestens innerhalb von sechs Monaten nach Ablauf der
+letzten Versicherungsperiode vorsorglich in Schrift- oder Textform melden. Es gelten
+dann alle später auf diesen Umständen beruhenden Versicherungsfälle als zu dem
+Zeitpunkt eingetreten, in dem die Umstandsmeldung abgegeben wurde bzw. bei einer
+Meldung nach Beendigung des Vertrags, als zu dem Zeitpunkt des Ablaufs der letzten
+Versicherungsperiode eingetreten.
+5. Neubeherrschung/Verschmelzung/Liquidation/Insolvenz der
+Versicherungsnehmerin
+a) (…)
+Liegt bei der Versicherungsnehmerin ein Eröffnungsgrund gem. §§ 16 ff. InsO oder
+vergleichbarer ausländischer gesetzlicher Bestimmungen während der laufenden
+Versicherungsperiode vor, so erstreckt sich der Versicherungsschutz nur auf
+Versicherungsfälle, die auf Pflichtverletzungen beruhen, welche vor dem Zeitpunkt der
+Antragstellung auf Eröffnung eines Insolvenzverfahrens begangen wurden.
+b) Der Versicherungsvertrag endet automatisch mit dem Ablauf der
+Versicherungsperiode, in welcher die Neubeherrschung, Verschmel-
+
+zung oder Liquidation wirksam geworden oder in welcher der Antrag auf Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin gestellt worden
+ist.
+c) Im Falle der Neubeherrschung, Liquidation oder Verschmelzung der
+Versicherungsnehmerin kann die Versicherungsnehmerin eine Nachmeldefrist von
+insgesamt maximal 60 Monaten gegen Prämienzuschlag erwerben. (…)
+d) Die Möglichkeit der Umstandsmeldung findet ausschließlich Anwendung auf
+Pflichtverletzungen, welche vor der Neubeherrschung, Verschmelzung, Liquidation
+oder Insolvenz der Versicherungsnehmerin begangen wurden. Die Umstandsmeldung
+ist bis zum Ende der Versicherungsperiode abzugeben, in welcher die
+Neubeherrschung, Verschmelzung oder die Liquidation wirksam geworden oder in
+welcher der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen der
+Versicherungsnehmerin gestellt worden ist. (…)
+X. Anspruchsberechtigung und Ersatzanspruch gegen den Versicherer Abweichend
+von den Bestimmungen des Versicherungsvertragsgesetzes (VVG 2008) stehen die
+Rechte auf Versicherungsschutz sowie zu deren Geltendmachung ausschließlich den
+versicherten Personen zu, unabhängig davon, ob sie im Besitz des
+Versicherungsscheins sind. (...)“
+Im Februar 2016 wurde aufgrund eines Eigenantrags vom 25.11.2015 das
+Insolvenzverfahren über das Vermögen der Insolvenzschuldnerin eröffnet. Der Kl.
+leistete im März 2016 auf die angeforderte und durch die Bekl. ausgestellte
+Ersatzrechnung für das Versicherungsjahr ab dem 1.2.2016 einen Betrag iHv 8.449
+EUR aus der Insolvenzmasse, ehe die Bekl. dem Kl. mit Schreiben vom 31.3.2016
+mitteilte, dass der Versicherungsvertrag der Insolvenzschuldnerin automatisch mit
+Ablauf der Versicherungsperiode, in welcher der Antrag auf Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin gestellt worden
+sei, geendet habe und eine Nachmeldefrist nicht bestehe. Dem Schreiben war ein
+Nachtrag zum Versicherungsschein beigefügt. Den durch den Kl. gezahlten Beitrag
+überwies die Bekl. zurück. Im April 2019 nahm der Kl. die ehemaligen
+Vorstandsmitglieder L und F der Insolvenzschuldnerin auf Ersatz von Zahlungen nach
+Insolvenzreife in Anspruch und zeigte gegenüber der Bekl. den Versicherungsfall an.
+Mit seiner Klage begehrte der Kl. die Verurteilung der Bekl. zur Zahlung von 869.314,91
+EUR nebst Zinsen.
+In den Vorinstanzen ist die Klage erfolglos geblieben (LG Frankfurt a. M. 25.3.2022 –
+2-08 O 118/21; OLG Frankfurt a. M. Urt. v. 21.6.2023 – 3 U 113/22). Die Revision der Kl.
+hatte Erfolg und führte zur Aufhebung und Zurückverweisung der Sache an das BerGer.
+Aus den Gründen
+7I. Dieses hat angenommen, dem Kl. stünden gegen die Bekl. infolge einer
+insolvenzbedingten Beendigung des Versicherungsvertrags keine Leistungsansprüche
+zu.
+Die an das Ende der Versicherungsperiode der Insolvenzantragstellung knüpfende
+Beendigungsklausel in Nr. II 5b AVB sei nicht gem. § 134 BGB wegen Verstoßes gegen
+§§ 103, 119 InsO unwirksam. Die Bekl. habe aus Nr. II.1. AVB ohnehin die der
+gesetzlichen Regelung in § 11 I und III VVG entsprechende Möglichkeit, den Vertrag
+jeweils zum Ende der Versicherungsperiode zu kündigen. Zwar handele es sich dabei
+nicht wie bei Nr. II 5b AVB um eine automatische Beendigung, sondern um eine aktiv
+wahrzunehmende Kündigungsmöglichkeit, für die in Nr. II 1 AVB zudem eine
+Kündigungsfrist von drei Monaten vorgeschrieben sei. Auch sei diese jeweils bis 31.10.
+der Versicherungsperiode bestehende Kündigungsfrist im streitgegenständlichen Fall
+bei Insolvenzantragstellung am 25.11.2015 bereits abgelaufen gewesen. Selbst wenn
+man aber im konkreten Fall eine bloße Ersetzung des Kündigungsrechts durch den
+Insolvenzantrag ablehnte und eine Unwirksamkeit der Nr. II 5b AVB wegen Verstoßes
+gegen §§ 103, 119 InsO annähme, habe die Bekl. den Vertrag jedenfalls zum Ende der
+nächsten Versicherungsperiode am 1.2.2017 wirksam gekündigt.
+8Die die Möglichkeit der Umstandsmeldung im Insolvenzfall einschränkende Klausel
+in Nr. II 5d AVB benachteilige den Versicherungsnehmer unangemessen gem. § 307 I
+1 BGB, da sie sowohl intransparent iSv § 307 I 2 BGB sei als auch im Insolvenzfall gem.
+§ 307 II Nr. 2 BGB den Vertragszweck gefährde, insbesondere im Zusammenspiel mit
+den weiteren die Versicherungsleistung im Insolvenzfall einschränkenden Klauseln, die
+diesen Nachteil nicht ausreichend kompensierten. Unwirksam gem. § 306 BGB sei die
+zeitliche Begrenzung der Umstandsmeldung gem. Nr. II 5d AVB sowohl auf
+Pflichtverletzungen vor Eintritt der Insolvenz bzw. Zahlungsunfähigkeit als auch auf
+Meldungen bis zum Ende der Versicherungsperiode, in die der Insolvenzantrag falle.
+Die weiteren den Sachkomplex Insolvenz betreffenden (Unter-)Klauseln stellten aber
+einen sinnvollen Rest dar und seien wirksam. Die Regelung in Nr. II 3 AVB halte einer
+Inhaltskontrolle stand, da die unbegrenzte Rückwärtsdeckung gem. Nr. II 2 AVB und die
+in Folge der Teilunwirksamkeit der Nr. II 5d AVB bestehende Möglichkeit einer
+vorsorglichen Umstandsmeldung gem. Nr. II 4 AVB bis sechs Monate nach
+Vertragsende eine ausreichende Kompensation darstellten. Auch die mit dem „Claims-
+Made-Prinzip“ verbundenen Nachteile stellten dann keine unangemessene
+Benachteiligung iSd § 307 I und II BGB dar, wenn sie durch weitere Regelungen
+kompensiert würden. Das „Claims-Made-Prinzip“ weise für den Versicherungsnehmer
+zwar grundsätzlich einen Nachteil auf, indem es nur solche Schadensersatzansprüche
+erfasse, die während der Versicherungszeit geltend gemacht würden. Dieser Nachteil
+werde hier jedoch durch ihn ausgleichende Vorteile hinreichend kompensiert.
+Demgegenüber erscheine im konkreten Fall eine Streichung des Ausschlusses der
+Nachmeldefrist von 60 Monaten für den Insolvenzfall in Nr. II 3 AVB alternativ zur
+Streichung der Einschränkung der Umstandsmeldung in Nr. II 5d AVB als nicht
+interessengerecht. Auch die Beschränkung auf Pflichtverletzungen vor
+Insolvenzantragstellung gemäß der (Unter-)Klausel in Nr. II 5a AVB erscheine für sich
+genommen sachlich gerechtfertigt. Ebenso sei die (Unter-)Klausel in Nr. II 5b AVB über
+die automatische Beendigung des Versicherungsantrags mit Ablauf der
+Versicherungsperiode der Insolvenzantragstellung wirksam. Zwar dürfte die Klausel
+gem. § 307 II Nr. 1 BGB von dem gesetzlichen Leitbild des § 103 InsO abweichen. Eine
+Unvereinbarkeit mit wesentlichen Grundgedanken dieser gesetzlichen Regelung sei
+aber wegen des ohnehin gem. § 11 I und III VVG auch gesetzlich vorgesehenen
+jährlichen Kündigungsrechts gem. Nr. II 1 AVB zu verneinen. Im konkreten Fall habe
+damit der Kl. die mit Schreiben vom 9.4.2019 der Bekl. erstmals gemeldeten
+potenziellen Versicherungsfälle nicht mehr rechtzeitig geltend gemacht, da die Frist für
+die vorsorgliche Umstandsmeldung sechs Monate nach Vertragsende, mithin ab dem
+1.8.2016, abgelaufen gewesen sei.
+9II. Das hält rechtlicher Nachprüfung nicht stand. Mit der gegebenen Begründung hat
+das BerGer. den geltend gemachten Anspruch nicht verneinen dürfen.
+101. Entgegen der Auffassung des BerGer. hält die Klausel in Nr. II 5b AVB, soweit sie
+das automatische Ende des Versicherungsvertrags mit dem Ablauf der
+Versicherungsperiode vorsieht, in welcher der Antrag auf Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin gestellt worden
+ist, einer Inhaltskontrolle nicht stand. Die Bestimmung benachteiligt den
+Versicherungsnehmer unangemessen iSv § 307 I 1 BGB, weil sie gem. § 307 II Nr. 1
+BGB mit wesentlichen Grundgedanken der gesetzlichen Regelung des § 11 I und III VVG
+– wonach zugunsten des Versicherungsnehmers im Falle der ordentlichen Kündigung
+stets eine Mindestkündigungsfrist von einem Monat einzuhalten ist – unvereinbar ist.
+Die Abweichung von der halbzwingenden Vorschrift (§ 18 VVG) des § 11 III VVG zum
+Nachteil des Versicherungsnehmers stellt eine unangemessene Benachteiligung dar
+11a) Entgegen der Auffassung der Revisionserwiderung ist die Klausel in Nr. II 5b AVB
+einer Inhaltskontrolle nach § 307 III 1 BGB nicht entzogen.
+
+12aa) Kontrollfrei bleiben nach der Rechtsprechung des Senats zu § 307 III BGB und
+der ihm entsprechenden Vorgängervorschrift des § 8 AGBG bloße
+Leistungsbeschreibungen, die Art, Umfang und Güte der geschuldeten Leistungen
+festlegen. Klauseln, die das Hauptleistungsversprechen einschränken, verändern,
+ausgestalten oder modifizieren, sind hingegen inhaltlich zu kontrollieren. Damit bleibt
+für die der Überprüfung entzogene Leistungsbeschreibung nur der enge Bereich der
+Leistungsbezeichnungen, ohne deren Vorliegen mangels Bestimmtheit oder
+Bestimmbarkeit des wesentlichen Vertragsinhalts ein wirksamer Vertrag nicht mehr
+13bb) Danach gehört die Klausel in Nr. II 5b AVB – wie das BerGer. zu Recht
+angenommen hat – nicht zu dem engen Bereich, der durch § 307 III 1 BGB einer
+gerichtlichen Kontrolle entzogen ist. Nach Nr. I 1 AVB verspricht der Versicherer den
+versicherten Personen Versicherungsschutz für den Fall, dass sie wegen einer
+Pflichtverletzung, die sie in ihrer Eigenschaft als versicherte Personen begangen
+haben, aufgrund gesetzlicher Haftpflichtbestimmungen auf Ersatz eines
+Vermögensschadens in Anspruch genommen werden, sofern die versicherten
+Personen bei Abschluss des Versicherungsvertrags von der Pflichtverletzung keine
+Kenntnis hatten. Mit dieser Regelung hat die Bekl. das Hauptleistungsversprechen so
+beschrieben, dass der wesentliche Vertragsinhalt bestimmt werden kann und ein
+wirksamer Vertrag anzunehmen ist. Dagegen gehört die Bestimmung in Nr. II 5b AVB,
+welche die Gewährung von Versicherungsschutz in zeitlicher Hinsicht näher
+ausgestaltet und begrenzt, nicht mehr zum kontrollfreien Minimum, ohne das dem
+Vertrag ein so wesentlicher Bestandteil fehlte, dass ihm die Wirksamkeit zu versagen
+wäre (vgl. Terno SpV 2014, 2 (9)).
+14b) Der zwischen den Parteien geschlossene Versicherungsvertrag fällt in den
+Anwendungsbereich des § 11 III VVG. Die sich aus dieser Bestimmung ergebenden
+Mindest- und Höchstfristen für die Kündigung des Vertrags finden nach allgemeiner
+Ansicht auch auf den in § 11 I VVG geregelten Fall Anwendung, dass die
+Vertragsparteien zunächst ein Versicherungsverhältnis auf bestimmte Zeit
+eingegangen sind und – wie hier in Nr. II 1  AVB – im Voraus eine Verlängerung für
+den Fall vereinbart haben, dass vor Ablauf der Vertragslaufzeit eine Kündigung nicht
+erfolgt (vgl. Schwintowski/Brömmelmeyer/Ebers PK-VersR, 4. Aufl., VVG § 11 Rn. 39,
+46; MüKoVVG/Fausten, 3. Aufl., VVG § 11 Rn. 223, 226; Bruck/Möller/Johannsen/Koch
+VVG, 10. Aufl., VVG § 11 Rn. 12; HK-VVG/Muschner, 4. Aufl., VVG § 11 Rn. 49;
+Langheid/Rixecker/Rixecker VVG, 7. Aufl., VVG § 11 Rn. 7;
+Staudinger/Wendt/Halm/Wendt Versicherungsrecht, 3. Aufl., VVG § 11 Rn. 34). Das
+ergibt sich aus dem Wortlaut der Vorschrift in § 11 III VVG, der einer Erstreckung auf
+die in § 11 I VVG geregelten Fälle nicht entgegensteht. Der Umstand, dass die Vorgaben
+betreffend die Mindest- und Höchstfristen der Kündigung in § 11 III VVG in einem
+eigenen Absatz geregelt sind, spricht auch systematisch für die Erstreckung des
+Anwendungsbereichs der Bestimmung auf beide in den vorstehenden Absätzen
+geregelten Fälle. Zudem entspricht die Geltung der in § 11 III VVG vorgegebenen
+Mindest- bzw. Höchstfristen für die in § 11 I VVG geregelten Fälle dem ausdrücklichen
+Willen des Gesetzgebers, der durch die Verlagerung der mit § 8 II 2 VVG in der bis zum
+31.12.2007 geltenden Fassung (im Folgenden VVG aF) wortgleichen Bestimmung in
+einen gesonderten Absatz den Anwendungsbereich auf Verträge mit bestimmter
+Laufzeit mit Verlängerungsklausel erstrecken wollte (BT-Drs. 16/3945, 63 li. Sp.).
+15c) Die sich aus der gem. § 18 VVG halbzwingenden Regelung in § 11 III VVG
+ergebende Vorgabe, dem Versicherungsnehmer im Falle der Vertragsbeendigung
+durch ordentliche Kündigung des Versicherers eine Mindestkündigungsfrist von einem
+Monat zuzubilligen, gilt – entgegen der Ansicht der Revisionserwiderung – auch für die
+in Nr. II 5b AVB vereinbarte „automatische“ Beendigung des Vertrags mit Ablauf der
+Versicherungsperiode, in die eines der in Nr. II 5b AVB genannten Ereignisse – unter
+anderem die Stellung des Antrags auf Eröffnung des Insolvenzverfahrens über das
+Vermögen der Versicherungsnehmerin – fällt.
+16aa) Der Senat hat bereits zum alten Recht entschieden, dass eine Vertragsklausel,
+nach welcher der Versicherungsschutz nach Eintritt eines (potenziell)
+gefahrerhöhenden Ereignisses ohne Einhaltung einer Frist automatisch erlischt, nach
+§ 34a VVG aF zum Nachteil der versicherten Person von den gesetzlichen Regelungen
+abweicht, da die §§ 23 ff. VVG aF dem Versicherer, der sich wegen einer
+Gefahrerhöhung vom Vertrag lösen will, lediglich ein an bestimmte Fristen gebundenes
+Gestaltungsrecht gewährten, aber kein automatisches Entfallen sämtlicher
+vgl. auch Seitz/Finkel/Klimke D&O-Versicherung, 2016, Nr. 9 AVB-AVG Rn. 20). Nichts
+anderes gilt – wie sich aus einer am Schutzzweck orientierten Auslegung von § 11 III
+VVG ergibt – für Klauseln, die in Fällen, in denen dem Versicherer zum Zwecke der
+Lösung vom Vertrag alternativ nur der Ausspruch einer ordentlichen Kündigung zur
+Verfügung stünde, eine automatische Vertragsbeendigung ohne Einhaltung einer
+Mindestfrist vorsehen.
+17Mit der Normierung von (Mindest-)Kündigungsfristen in Dauerschuldverhältnissen
+beabsichtigt der Gesetzgeber den Schutz des Vertragspartners, dem Gelegenheit
+gegeben werden soll, sich rechtzeitig auf die Beendigung des Vertragsverhältnisses
+einstellen zu können (vgl. BAGE 168, 238 Rn. 45 mwN = NZA-RR 2020, 199). Die
+Regelung des § 11 III VVG soll hierbei dem Versicherungsnehmer auch einen gewissen
+Zeitraum für die Suche nach neuem Versicherungsschutz sichern (vgl.
+Abschlussbericht der Kommission zur Reform des Versicherungsvertragsrechts vom
+19.4.2004, 29; Schwintowski/Brömmelmeyer/Ebers/Ebers, 4. Aufl., VVG § 11 Rn. 47).
+Durch die halbzwingende Vorgabe einer Mindestkündigungsfrist soll er vor einem
+abrupten Ende des Versicherungsverhältnisses geschützt werden. Dieser Schutzzweck
+rechtfertigt es, die sich aus § 11 III VVG ergebende Vorgabe zur
+Mindestkündigungsfrist auch auf in den Anwendungsbereich des § 11 I VVG fallende
+Vertragskonstruktionen zu übertragen, in denen – wie hier – das Erfordernis einer
+Kündigungserklärung im Voraus für bestimmte Fälle vertraglich abbedungen ist; denn
+der Umstand, dass das Versicherungsverhältnis „automatisch“ und ausnahmsweise
+ohne Kündigungserklärung endet, lässt das schutzwürdige Übergangsinteresse des
+Versicherungsnehmers nicht entfallen.
+18bb) Die Klausel in Nr. II 5b AVB weicht zum Nachteil des Versicherungsnehmers von
+§ 11 III VVG ab. Ohne die Regelung in Nr. II 5b AVB stünde dem Versicherer, wollte er
+den Vertrag mit dem Versicherungsnehmer aufgrund eines der in Nr. II 5b AVB
+genannten Ereignisse beenden, nur die Möglichkeit der ordentlichen Kündigung zur
+Verfügung.
+19d) Die Klausel in Nr. II 5b AVB ist – jedenfalls mit Blick auf die in ihr vorgesehene
+Beendigung des Vertrags mit
+
+dem Ablauf der Versicherungsperiode, in welcher der Antrag auf Eröffnung des
+Insolvenzverfahrens über das Vermögen der Versicherungsnehmerin gestellt worden
+ist – auch nicht ausnahmsweise aus sonstigen Gründen trotz der Abweichung von § 11 I und III VVG mit wesentlichen Grundgedanken der gesetzlichen Regelung zu
+vereinbaren.
+20aa) Die Stellung eines Insolvenzantrags über das Vermögen der
+Versicherungsnehmerin rechtfertigt den Verzicht auf die sich im Falle einer
+Vertragsbeendigung durch ordentliche Kündigung aus § 11 III VVG ergebende
+Mindestkündigungsfrist nicht.
+21(1) Ob, wie die Revision geltend macht, Klauseln in Allgemeinen
+Versicherungsbedingungen, die – wie Nr. II 5b AVB – in der Insolvenz des
+Versicherungsnehmers zur automatischen Vertragsbeendigung führen, das ab
+Eröffnung des Insolvenzverfahrens dem Insolvenzverwalter gem. § 103 InsO
+zustehende Recht beschränken, Erfüllung eines beiderseits nicht vollständig erfüllten
+Vertrags zu verlangen, und damit nach § 119 InsO unwirksam sind (Lange D&O-
+Versicherung und Managerhaftung, 2. Aufl., § 3 Rn. 134 f.; Lange r+s 2014, 209 (213 ff.);
+Schaffer Die D&O-Versicherung in Sanierung und Insolvenz, 2021, 174 ff.; Zehentbauer
+Die Versicherung von Risiken der Organhaftung in der Unternehmenskrise, 2020, 207 f.;
+Looschelders/Pohlmann/Schneider VVG, 4. Aufl., VVG § 11 Rn. 29; Orlikowski-Wolf r+s
+2021, 365 (366); Reuter FS Pannen, 2017, 655 (656 f.); Huss/Nordhausen ZInsO 2022,
+807 (809); Werner ZInsO 2014, 1940 (1941)), oder ob, wie die Revisionserwiderung
+meint, eine Beeinträchtigung des Wahlrechts des Insolvenzverwalters aus § 103 InsO
+ausscheidet, wenn – wie hier in Nr. X AVB – ausdrücklich vereinbart ist, dass
+Ansprüche auf den Versicherungsschutz nur durch die versicherten Personen geltend
+NZI 2020, 447; dagegen Zehentbauer, 2020, 76 ff.; Buntenbroich/Schneider r+s 2020,
+270 f.; Lange r+s 2014, 261 (267); Wahlers VersR 2022, 465 (469 f.)), bedarf keiner
+Entscheidung. Soweit die Revisionserwiderung meint, die Interessen der Bekl. seien im
+Fall der Insolvenz der Versicherungsnehmerin durch das bloße Bestehen eines
+Kündigungsrechts zur Verhinderung einer weiteren Vertragsverlängerung über die
+folgende Versicherungsperiode hinaus nicht hinreichend gewahrt, rechtfertigt dies die
+Abweichung von § 11 I und III VVG nicht.
+22Das Versicherungsvertragsgesetz enthält für den Fall der Insolvenz des
+Versicherungsnehmers – anders als für die Insolvenz des Versicherers (§ 16 VVG) –
+keine Regelung. Die frühere Regelung in § 14 VVG aF, die dem Versicherer die
+Möglichkeit eröffnete, sich für den Fall der Eröffnung des Insolvenzverfahrens über das
+Vermögen des Versicherungsnehmers die Befugnis auszubedingen, das
+Versicherungsverhältnis mit einer Frist von einem Monat zu kündigen, hat der
+Gesetzgeber – entgegen dem Vorschlag der Kommission zur Reform des
+Versicherungsvertragsrechts (Abschlussbericht v. 19.4.2004, 204 (306) – nicht in das
+neue Recht übernommen. Die Streichung der Vorschrift erfolgte, weil der Gesetzgeber
+für ein besonderes Kündigungsrecht des Versicherers kein hinreichendes Bedürfnis
+sah (vgl. BT-Drs. 16/3945, 64 li. Sp.). Diese bewusste Wertentscheidung des
+Gesetzgebers, die Insolvenz des Versicherungsnehmers den allgemeinen Regelungen
+zu unterstellen (vgl. BeckOK VVG/Filthuth, VVG § 16 Rn. 20 (1.11.2024); s. auch
+Langheid/Rixecker/Rixecker VVG, 7. Aufl., VVG § 16 Rn. 4), schließt eine Abweichung
+von der Anordnung des § 11 VVG, das Übergangsinteresse des (insolventen)
+Versicherungsnehmers zumindest durch eine einmonatige Mindestkündigungsfrist zu
+schützen, innerhalb derer er (oder der Insolvenzverwalter) sich nach einer
+insolvenzbedingten Kündigung des Versicherungsverhältnisses um anderweitigen
+Versicherungsschutz kümmern kann, aus (vgl. auch Schneider/Köhler r+s 2013, 269
+(270)).
+23(2) Diese gesetzgeberische Wertung wird dadurch bestätigt, dass dem
+Versicherungsnehmer auch durch die gesetzlichen Vorschriften der §§ 23 ff. VVG im
+Grundsatz eine Mindestkündigungsfrist von einem Monat zugebilligt wird. Dem
+Versicherer, der sich wegen einer Gefahrerhöhung vom Vertrag lösen will, eröffnet das
+Gesetz grundsätzlich – vorbehaltlich von § 24 I 1 und § 25 I VVG – lediglich ein an
+bestimmte Fristen gebundenes Gestaltungsrecht. Ein abruptes Ende des
+Versicherungsschutzes ist auch hier im Interesse des Versicherungsnehmers nicht
+daher – wie die Revisionserwiderung geltend macht – der Insolvenzantrag in der D&O-
+Versicherung als Gefahrerhöhung anzusehen wäre (so Schaffer Die D&O-Versicherung
+in Sanierung und Insolvenz, 2021,  ff., 151; wohl auch Zehentbauer, 2020,  f.;
+unklar Jula Praxiskommentar: D&O-Versicherung und Managerhaftung, 2023, B3-2 Rn.
+11; aA Lange D&O-Versicherung und Managerhaftung, 2. Aufl., § 3 Rn. 150; Lange r+s
+2014, 209 (212); Werner ZInsO 2014, 1940 (1941)), wäre nach der Konzeption des
+Gesetzgebers eine Mindestkündigungsfrist zu gewähren.
+24bb) Dass die Anknüpfung der Klausel in Nr. II 5b AVB an den Ablauf der
+Versicherungsperiode für den Großteil der Fälle zu einer Beendigung des Vertrags unter
+Einhaltung einer einmonatigen Auslauffrist führt, soweit das zur Vertragsbeendigung
+führende Ereignis in die ersten elf Monate der jeweiligen Versicherungsperiode fällt,
+steht – entgegen der von der Revisionserwiderung vertretenen Auffassung – einer
+Unvereinbarkeit der Klausel mit wesentlichen Grundgedanken der Regelung in § 11 I
+und III VVG nicht entgegen. Abgesehen davon, dass die Vertragsbeendigung
+automatisch erfolgen soll, liegt der maßgebliche Regelungsgehalt der Klausel in Nr. II
+5b AVB darin, die Einhaltung der in Nr. II 1 AVB vorgesehenen Kündigungsfrist – und
+damit zugleich die in § 11 I und III VVG vorgesehene Mindestkündigungsfrist –
+entbehrlich zu machen. Die Bekl. kann sich nicht darauf berufen, die Fristverkürzung
+komme nur in wenigen Fällen materiell zum Tragen, wenn die Klausel sie gerade in
+diesen wenigen Fällen gegenüber der halbzwingenden gesetzlichen Regelung
+begünstigt.
+252. Rechtsfehlerhaft hat das BerGer. ferner angenommen, dass auch bei einer
+Unwirksamkeit der Klausel in Nr. II 5b AVB einer Geltendmachung von Leistungen der
+insolvenzbedingte Ausschluss der Nachmeldefrist in Nr. II 3 Abs. 1 AVB entgegenstehe
+und deshalb die erstmalige Anspruchserhebung durch den Kl. gegenüber den
+ehemaligen Vorstandsmitgliedern der Insolvenzschuldnerin im April 2019 außerhalb
+einer Nachmeldefrist nach Nr. I 1., II 3 AVB erfolgt sei. Hierbei kann offenbleiben, ob
+die Bekl. – wie das BerGer. angenommen hat – den Vertrag wirksam jedenfalls zum
+Ende der nächsten Versicherungsperiode am 1.2.2017 gekündigt hat, insbesondere ihr
+Schreiben vom 31.3.2016 als konkludente Kündigungserklärung ausgelegt werden
+kann und als solche dem sich aus Nr. II 1 AVB ergebenden Formerfordernis genügt.
+Selbst wenn das Versicherungsverhältnis aufgrund einer – insolvenzbedingten –
+Kündigung
+
+der Bekl. geendet hat, was unterstellt werden kann, wäre das Bestehen einer
+Nachmeldefrist – anders als das BerGer. angenommen hat – nicht gem. Nr. II 3 Abs. 1
+AVB ausgeschlossen. Dies ergibt die Auslegung der Klausel.
+26a) Allgemeine Versicherungsbedingungen sind so auszulegen, wie ein
+durchschnittlicher Versicherungsnehmer sie bei verständiger Würdigung,
+aufmerksamer Durchsicht und unter Berücksichtigung des erkennbaren
+Sinnzusammenhangs versteht. Dabei kommt es auf die Verständnismöglichkeiten
+eines Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse und
+damit auch auf seine Interessen an. In erster Linie ist vom Bedingungswortlaut
+auszugehen. Der mit dem Bedingungswerk verfolgte Zweck und der
+Sinnzusammenhang der Klauseln sind zusätzlich zu berücksichtigen, soweit sie für
+684 mwN; stRspr). Liegt – wie hier – eine Versicherung für fremde Rechnung vor,
+kommt es daneben auch auf die Verständnismöglichkeiten durchschnittlicher
+mwN). Weiter ist zu berücksichtigen, dass der typische Adressaten- und
+Versichertenkreis in der D&O-Versicherung geschäftserfahren und mit Allgemeinen
+27b) Nach diesen Maßstäben wird der durchschnittliche Versicherungsnehmer
+zunächst erkennen, dass Nr. II 3 Abs. 1 AVB für den Fall der Vertragsbeendigung nach
+mehr als einem Jahr Laufzeit dem Versicherungsnehmer grundsätzlich eine
+Nachmeldefrist einräumt. Die Bedeutung dieser Nachmeldefrist für den (zeitlichen)
+Umfang seines Versicherungsschutzes unter Geltung des
+Anspruchserhebungsprinzips wird der durchschnittliche Versicherungsnehmer sich
+dabei aus der eingangs der AVB enthaltenen Versicherungsklausel, der Bestimmung
+zum Versicherungsfall in Nr. I 1 AVB und der Regelung in Nr. II 3 Abs. 2 AVB
+erschließen. Auch wenn ihm die Formulierung in Nr. II 3 Abs. 1 AVB zunächst ein
+umgekehrtes Regel-Ausnahme-Verhältnis nahelegt, wird der Versicherungsnehmer
+erkennen, dass die Bekl. ihm nach Ablauf eines Versicherungsjahres bei Beendigung
+des Vertrags grundsätzlich eine prämienneutrale Nachmeldefrist von 60 Monaten
+gewährt, die nur ausnahmsweise bei Vorliegen einer der in Nr. II 3 Abs. 1 AVB
+enumerativ genannten Beendigungsgründe keinen Bestand haben soll.
+28Dabei wird der durchschnittliche Versicherungsnehmer, der den systematischen
+Zusammenhang der Klausel in den Blick nimmt, feststellen, dass zwischen den in Nr. II
+3 Abs. 1 AVB genannten Umständen, unter denen eine Nachmeldefrist nicht gewährt
+wird, und den in Nr. II 5b AVB geregelten Sonderfällen der „automatischen“
+Vertragsbeendigung weitgehende Deckungsgleichheit besteht, was ihm bereits die
+Überschrift von Nr. II.5. AVB verdeutlicht, in der – mit Ausnahme des
+Prämienzahlungsverzuges – sämtliche Gründe genannt sind, die auch zum Ausschluss
+der Nachmeldefrist führen sollen. Bei näherer Lektüre der Regelungen in Nr. II 5 AVB
+wird der durchschnittliche Versicherungsnehmer sodann feststellen, dass für
+sämtliche in Nr. II 3 Abs. 1 AVB genannten Ausschlussgründe – mit Ausnahme des
+Prämienzahlungsverzuges – Sonderregelungen mit Bezug auf den zeitlichen Umfang
+des Versicherungsschutzes getroffen sind. Dem wird er entnehmen, dass die in Nr. II 3
+Abs. 1 AVB genannten Ausschlussgründe zu einer automatischen Vertragsbeendigung
+führen sollen. Hieraus wird der durchschnittliche Versicherungsnehmer im
+Umkehrschluss ableiten, dass nach dem den AVB zugrunde liegenden
+Regelungskonzept die Fälle der automatischen Vertragsbeendigung in Nr. II 5b AVB
+stets zur Folge haben sollen, dass auch eine Nachmeldefrist nicht besteht, der
+Versicherer mithin bei der Gestaltung der AVB zwischen den zur Vertragsbeendigung
+führenden Gründen einerseits und den zum Ausschluss einer Nachmeldefrist
+führenden Gründen andererseits grundsätzlich eine inhaltliche Kongruenz herstellen
+wollte und eine Nachmeldefrist nach Nr. II 3 Abs. 1 AVB jedenfalls immer dann
+ausgeschlossen sein soll, wenn ein Fall der automatischen Vertragsbeendigung nach
+Nr. II 5b AVB vorliegt.
+29Will der Versicherungsnehmer sodann feststellen, unter welchen Umständen der in
+Nr. II 3 Abs. 1 AVB genannte Ausschlussgrund der „Insolvenz … der
+Versicherungsnehmerin“ Anwendung findet, wird er sich in Kenntnis des soeben
+beschriebenen Sinnzusammenhangs der Bestimmung in Nr. II 5b AVB zuwenden.
+Dieser wird er entnehmen, dass im Hinblick auf die insolvenzbedingte
+Vertragsbeendigung nicht an das Vorhandensein materieller Insolvenzgründe
+angeknüpft, sondern allein auf den formal-prozessualen Gesichtspunkt der
+Insolvenzantragstellung abgestellt wird. Dies wird er auf die Regelung in Nr. II 3 Abs. 1
+AVB übertragen und sich hierin auch durch die Regelungen in Nr. II 5a AVB und Nr. II 5d
+AVB bestätigt sehen, in denen ebenfalls jeweils auf die Insolvenzantragstellung als
+Anknüpfungspunkt für die in ihnen geregelten Rechtsfolgen abgestellt wird.
+30Allerdings wird der durchschnittliche Versicherungsnehmer der Regelung in Nr. II 3
+Abs. 1 AVB deshalb nicht auch entnehmen, dass es für den Ausschluss der
+Nachmeldefrist alleine auf den Umstand der Insolvenzantragstellung ankommt. Er wird
+vielmehr aus der Verknüpfung der beiden Halbsätze dieser Klausel schließen, dass erst
+die kausal nach einem Insolvenzantrag durch Nr. II 5b AVB bedingte
+Vertragsbeendigung zum Entfallen der Nachmeldefrist führen soll. Er wird insoweit
+erkennen, dass die zur Nachmeldefrist getroffenen Regelungen sinnvollerweise erst
+dann eingreifen können, wenn der Vertrag auch tatsächlich beendet worden ist. Die
+Formulierung in Nr. II 3. Abs. 1 AVB wird er deshalb so verstehen, dass der Ausschluss
+der Nachmeldefrist nur bzw. schon dann eingreifen soll, wenn es gerade in Folge einer
+Insolvenzantragstellung zu einer automatischen Vertragsbeendigung nach Nr. II 5b
+AVB kommt. Der durchschnittliche Versicherungsnehmer wird der Regelung daher
+insbesondere nicht entnehmen, dass eine anderweitige Vertragsbeendigung, etwa
+durch eine ordentliche Kündigung des Versicherers – auch wenn sie auf
+insolvenzbedingten Umständen beruhen mag – zum Ausschluss der Nachmeldefrist
+führen soll.
+31c) Legt man diese Auslegung – die auch dem von der Revisionserwiderung
+vertretenen Verständnis der Klausel entspricht – zugrunde, erfolgte die für den Eintritt
+des Versicherungsfalls nach Nr. I 1 AVB maßgebliche erstmalige Anspruchserhebung
+gegenüber den ehemaligen Vorstandsmitgliedern der Insolvenzschuldnerin jedenfalls
+innerhalb laufender Nachmeldefrist, da der in Nr. II 3 Abs. 1 AVB für die Nachmeldefrist
+genannte Ausschlussgrund der „Insolvenz“ deren Ingangsetzung nicht gehindert hat.
+Der Versicherungsvertrag wäre infolge einer am 31.3.2016 erklärten
+
+Kündigung zum Ende der laufenden Versicherungsperiode frühestens am 31.1.2017
+beendet worden. Nachdem der Vertrag zu diesem Zeitpunkt iSv Nr. II 3 Abs. 1 AVB
+länger als ein volles Versicherungsjahr bestand, schloss sich an die
+Vertragsbeendigung bedingungsgemäß jedenfalls die prämienneutrale
+Nachmeldefrist von 60 Monaten an, die demgemäß im Zeitpunkt der erstmaligen
+Anspruchserhebung am 9.4.2019 nicht abgelaufen war.
+32d) Ob die Klausel in Nr. II.3. Abs. 1 AVB einer Inhaltskontrolle am Maßstab der §§ 307 ff. BGB zugänglich ist und ihr standhält, bedarf keiner Entscheidung. Selbst wenn
+– wie es in der obergerichtlichen Rechtsprechung und Teilen der Literatur vertreten
+wird (OLG Hamburg r+s 2015, 498 Rn. 17; OLG Frankfurt a. M. r+s 2013, 329 Rn. 63 ff.;
+OLG München NZG 2009, 714 = VersR 2009, 1066 Rn. 29 ff.; MüKoVVG/Ihlas, 2. Aufl.,
+320. D&O-Versicherung, Rn. 315; Jula, 2. Aufl., A-2 Rn. 11 ff.; Prölss/Martin/Voit VVG,
+32. Aufl., A-2 AVB-D&O Rn. 5 f.; Baumann NZG 2010, 1366 (1368 ff.); Franz DB 2011,
+1961 (1964 f.); Heße NZI 2009, 790 (792 ff.); Koch VersR 2011, 295 (297 f.); Melot de
+Graf von Westphalen VersR 2011, 145 (151 f.); vgl. auch
+Staudinger/Staudinger/Friesen/Halm/Wendt Versicherungsrecht, 3. Aufl., AVB-D&O
+Rn. 83; aA Bruck/Möller/Armbrüster, VVG, 10. Aufl., A-2 AVB/D&O Rn. 5 ff., 42 ff.;
+Seitz/Finkel/Klimke/Finkel/Seitz D&O-Versicherung, 2016, Nr. 2 AVB-AVG Rn. 13 ff.;
+Looschelders/Pohlmann/Kreienkamp VVG, 4. Aufl., Teil 3 Abschn. G Rn. 69; Lange,
+D&O-Versicherung und Managerhaftung, 2. Aufl., § 9 Rn. 72 f.; Schaffer Die D&O-
+Versicherung in Sanierung und Insolvenz, 2021,  ff.; Grote/Schneider BB 2007,
+2689 (2697); Kubiak VersR 2014, 932 (933); Thiel VersR 2015, 946 (950); wohl auch
+Mitterlechner/Wax/Witsch, D&O-Versicherung, 2. Aufl., § 6 Rn. 128 ff.; vgl. auch
+Osswald Die D&O-Versicherung beim Unternehmenskauf, 2009,  ff.) – die
+Einräumung einer Nachmeldefrist bei einer Versicherung nach dem
+Anspruchserhebungsprinzip stets geboten wäre, um eine unangemessene
+Benachteiligung des Versicherungsnehmers zu vermeiden, hätte dies für den Bestand
+des Regelungsteils in Nr. II 3 Abs. 1 AVB, der dem Kl. die auf die Einräumung einer
+Nachmeldefrist gerichtete subjektive Rechtsposition vermittelt, keine Auswirkungen.
+33Entgegen der Ansicht der Revisionserwiderung handelt es sich bei dem
+insolvenzbedingten Ausschluss der Nachmeldefrist um einen inhaltlich vom Rest der
+Regelung in Nr. II 3. Abs. 1 AVB trennbaren, einzeln aus sich heraus verständlichen
+Regelungsbestandteil, der gestrichen werden kann, ohne dass der Sinn des anderen
+der Versicherungsnehmerin eine Nachmeldefrist zugebilligt wird, enthält die inhaltliche
+Hauptaussage von Nr. II 3 Abs. 1 AVB und bliebe ohne die Ausschlussregelung als
+sinnvoller Regelungsbestandteil bestehen. Da die Zusage einer Nachmeldefrist nach
+dem erkennbaren Regelungskonzept der AVB im Falle der Vertragsbeendigung die
+Regel darstellen soll, der Ausschluss derselben demgegenüber die Ausnahme, führte
+eine gesonderte Unwirksamkeit der Ausschlussregelung auch nicht dazu, dass von
+einer gänzlich neuen, von der bisherigen völlig abweichenden Vertragsgestaltung
+34III. Das Urteil des BerGer. stellt sich auch nicht aus anderen Gründen als richtig dar
+(§ 561 ZPO). Entgegen der Ansicht der Revisionserwiderung kommt eine ergänzende
+Auslegung des Vertrags, die trotz der infolge der Unwirksamkeit von Nr. II 5b AVB
+gegebenen Wirkungslosigkeit des in Nr. II 3 Abs. 1 AVB geregelten insolvenzbedingten
+Ausschlusses der Nachmeldefrist zu einer Beschränkung der Nachmeldefrist führte,
+nicht in Betracht.
+351. Zwar ist die ergänzende Vertragsauslegung im Grundsatz auch bei Unwirksamkeit
+einer Klausel in einem vorformulierten Vertrag möglich, wenn dispositive
+Gesetzesbestimmungen nicht zur Verfügung stehen, so dass das Regelungsgefüge
+Voraussetzung hierfür ist aber, dass die ergänzende Vertragsauslegung nicht zu einer
+Erweiterung des Vertragsgegenstandes führt, es dem Versicherer gem. § 306 III BGB
+ohne ergänzende Vertragsauslegung unzumutbar ist, an dem lückenhaften Vertrag
+festgehalten zu werden, und der ergänzte Vertrag für den Versicherungsnehmer
+typischerweise von Interesse ist. Liegen diese Voraussetzungen vor, tritt diejenige
+Gestaltungsmöglichkeit ein, welche die Parteien bei sachgerechter Abwägung der
+beiderseitigen Interessen nach Treu und Glauben redlicherweise vereinbart hätten,
+wenn ihnen die Unwirksamkeit der Klausel bekannt gewesen wäre (Senat BGHZ 211,
+sich hingegen keine ausreichenden Anhaltspunkte dafür finden, welche Regelung die
+Parteien bei Kenntnis der Unwirksamkeit der beanstandeten Klausel vereinbart hätten,
+kommen vielmehr unterschiedliche Gestaltungsmöglichkeiten in Betracht, ohne dass
+erkennbar ist, welche die Parteien gewählt hätten, sind die Gerichte zu einer
+ergänzenden Vertragsauslegung weder in der Lage noch befugt (vgl. Senat BGHZ 211,
+362. Nach diesen Grundsätzen scheidet eine ergänzende Vertragsauslegung hier aus.
+37a) Da das Gesetz keine automatischen Beendigungsgründe im Zusammenhang mit
+der Insolvenz des Versicherungsnehmers kennt, ist keine gesetzliche Regelung
+vorhanden, die insoweit gem. § 306 II BGB an die Stelle der unwirksamen Klausel in
+Nr. II 5b AVB treten könnte. Der Umstand, dass die Regelung über die automatische
+Vertragsbeendigung wegfällt, führt indessen isoliert betrachtet nicht dazu, dass dem
+Versicherer ein Festhalten am Vertrag unzumutbar wird. Dem Versicherer steht – auch
+ohne die Regelung in Nr. II 5b AVB – weiterhin die Möglichkeit der ordentlichen
+Kündigung zur Verfügung, um den Versicherungsvertrag zu beenden. Sein Interesse,
+den Vertrag im Falle der Insolvenz der Versicherungsnehmerin schnell beenden zu
+wollen, wird durch die im Vertrag geregelte, die Versicherungsnehmerin im
+Insolvenzfall treffende Unterrichtungsobliegenheit (Nr. IX 3 AVB) ausreichend
+geschützt; diese gewährleistet, dass der Versicherer zeitnah über die Insolvenz in
+Kenntnis und in die Lage versetzt wird, eine Kündigung auszusprechen.
+38b) Zwar ist der Vertrag auch dadurch lückenhaft geworden, dass durch die
+Unwirksamkeit der Regelung über die automatische Vertragsbeendigung in Nr. II 5b
+AVB der Anknüpfungspunkt für die Ausschlussregelungen hinsichtlich der
+Nachmeldefrist in Nr. II 3 Abs. 1 AVB weggefallen ist, denn die Regelungen über den
+Ausschluss der Nachmeldefrist laufen aufgrund der Unwirksamkeit der Klausel in Nr. II
+5b AVB insoweit leer. Eine bloße Aufrechterhaltung der
+
+Klausel in Nr. II 5b AVB unter Gewährung der nach § 11 III VVG gebotenen
+Mindestkündigungsfrist liefe aber dem in ständiger Rechtsprechung des BGH
+1440 Rn. 18 mwN; vgl. auch Senat NJW-RR 2014, 604 Rn. 26 = VersR 2014, 371).
+Abseits dieser aus Rechtsgründen nicht in Betracht kommenden Regelungsalternative
+sind dem Vertrag keinerlei Anhaltspunkte dafür zu entnehmen, welche Ersatzregelung
+die Parteien in Kenntnis der Unwirksamkeit von Nr. II 5b AVB getroffen hätten.
+Angesichts der Vielzahl der denkbaren Gestaltungsmöglichkeiten kann daher
+jedenfalls nicht festgestellt werden, auf welche Alternativregelung die Parteien
+zurückgegriffen hätten.
+39IV. Die Sache ist nicht zur Endentscheidung reif (§ 563 III ZPO). Das BerGer. hat –
+von seinem Rechtsstandpunkt aus folgerichtig – nicht geprüft, ob und inwieweit die
+aus übergegangenem Recht geltend gemachten Deckungsansprüche möglicherweise
+aus anderen Gründen ausgeschlossen sind. Möglicherweise wird das BerGer. auch
+Feststellungen zur Höhe des Anspruchs zu treffen haben. Das Urteil des BerGer. ist
+daher aufzuheben und die Sache zur neuen Verhandlung und Entscheidung an das
+BerGer. zurückzuverweisen (§ 563 I 1 ZPO).
+Anmerkung
+Die D&O-Versicherung hat in der Insolvenz von Unternehmen besonders große
+Bedeutung, weil Insolvenzverwalter nicht selten Schadensersatzansprüche gegen die
+versicherten Geschäftsleiter geltend machen. Die einschlägigen AVB enthalten
+allerdings regelmäßig Klauseln, die den Versicherungsschutz im Fall der Insolvenz
+einschränken. Mit solchen Klauseln hat der BGH sich in der vorliegenden Entscheidung
+beschäftigt.
+Im Vordergrund des Urteils steht eine Klausel, wonach der Versicherungsvertrag
+automatisch mit dem Ablauf der Versicherungsperiode endet, in welcher der Antrag
+auf Eröffnung des Insolvenzverfahrens über das Vermögen der
+Versicherungsnehmerin gestellt worden ist. In der Literatur ist die Ansicht verbreitet,
+dass solche insolvenzantragsabhängigen Beendigungsklauseln das Wahlrecht des
+Insolvenzverwalters gem. § 103 InsO beschränken und daher nach § 119 InsO
+unwirksam sind (vgl. Lange r+s 2014, 209 (213 ff.); Orlikowski-Wolf r+s 2021, 365
+(366)). Die Beklagte hatte dagegen geltend gemacht, dass eine Beeinträchtigung des
+Wahlrechts des Insolvenzverwalters ausscheide, wenn der Anspruch nach den AVB
+materiell-rechtlich den versicherten Personen und nicht der Versicherungsnehmerin
+Der Senat lässt die Vereinbarkeit der Klausel mit §§ 103, 119 InsO offen und stellt allein
+auf § 307 BGB ab. Die unangemessene Benachteiligung der Versicherungsnehmerin
+wird damit begründet, dass die Klausel gegen die nach § 18 VVG halbzwingende
+Vorschrift des § 11 III VVG verstößt, der eine Mindestkündigungsfrist von einem Monat
+vorschreibt. Die Klausel sieht zwar keine Kündigung vor. Der BGH stellt aber zu Recht
+fest, dass der Zweck des § 11 III VVG, dem Versicherungsnehmer die Verschaffung
+anderweitigen Versicherungsschutzes zu ermöglichen, auch im Fall einer
+automatischen Vertragsbeendigung zutrifft. Mit der ersatzlosen Aufhebung des § 14
+VVG aF habe der Gesetzgeber im Übrigen deutlich gemacht, dass es für
+Sonderregelungen über die Vertragsbeendigung bei Insolvenz des
+Versicherungsnehmers keinen Bedarf gebe. Ergänzend ist zu beachten, dass selbst der
+gestrichene § 14 I VVG aF eine Kündigungsfrist von einem Monat vorgesehen hatte.
+Ein zweiter Problemkreis betrifft den in der D&O-Versicherung ebenfalls häufig
+geregelten Ausschluss der Nachmeldefrist bei Vertragsbeendigung wegen Insolvenz.
+Der BGH legt die Klausel dahin aus, dass sie nur im Fall einer
+insolvenzantragsabhängigen Beendigung des Vertrags anwendbar ist. Wegen der
+Unwirksamkeit der diesbezüglichen Beendigungsklausel lägen auch die
+Voraussetzungen für den Ausschluss der Nachmeldefrist nicht vor. Dass der
+Versicherer den Vertrag später möglicherweise wirksam gekündigt habe, würde nach
+der Klausel gerade nicht zum Ausschluss der Nachmeldefrist führen. Der Senat folgt
+damit dem Grundsatz, dass Einschränkungen des Versicherungsschutzes eng
+auszulegen sind. Die umstrittene Frage, ob ein insolvenzbedingter Ausschluss der
+Nachmeldefrist unter Geltung des Claims-made-Prinzips einer Inhaltskontrolle nach § 307 BGB standhält, lässt der Senat offen, weil die Unwirksamkeit dieses Ausschlusses
+die Wirksamkeit der Vereinbarung über die Nachmeldefrist als solche nicht tangieren
+würde. Da dem Versicherer ein Festhalten am Vertrag zumutbar ist, lehnt der BGH auch
+eine ergänzende Vertragsauslegung zu Recht ab.
+Dem Urteil des BGH ist im Ergebnis uneingeschränkt zuzustimmen. Zu bedauern ist
+allerdings, dass zentrale Fragen wie die Vereinbarkeit insolvenzantragsabhängiger
+Beendigungsklauseln mit §§ 103, 119 InsO und die Wirksamkeit eines
+insolvenzbedingten Ausschlusses der Nachmeldefrist offenbleiben. Insoweit besteht
+weiterer Klärungsbedarf.
+Prof. Dr. Dirk Looschelders, Düsseldorf

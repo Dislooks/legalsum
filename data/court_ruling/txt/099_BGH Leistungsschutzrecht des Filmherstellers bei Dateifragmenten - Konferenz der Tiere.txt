@@ -1,0 +1,181 @@
+der Tiere
+Leistungsschutzrecht des Filmherstellers bei Dateifragmenten - Konferenz der
+Tiere
+ZPO §§ 4 I, 511 II Nr. 1; UrhG §§ 2 I Nr. 6, 19 a, 85 I 2, 94 I 1, 97 II 1
+Der Teilnehmer einer Internettauschbörse, der Dateifragmente in der Tauschbörse
+zum Herunterladen anbietet, die einem urheberrechtlich geschützten Werk
+zuzuordnen sind, das im zeitlichen Zusammenhang mit der beanstandeten Handlung
+in der Tauschbörse zum Herunterladen bereit gehalten wird, haftet regelmäßig als
+Mittäter einer gemeinschaftlich mit den anderen Nutzern der Internettauschbörse
+begangenen Verletzung des Rechts zur öffentlichen Zugänglichmachung des Werks.
+BGH, Urteil vom 6.12.2017 – I ZR 186/16
+Zum Sachverhalt
+Die Kl. behauptet, Inhaberin der ausschließlichen Nutzungs- und Verwertungsrechte an
+dem Film „Konferenz der Tiere 3 D“ zu sein. Dieser Film sei vom 22. bis zum 24.3.2011
+über den dem Bekl. zuzuordnenden Internetanschluss in einer Tauschbörse im Internet
+zum Herunterladen angeboten worden. Sie hat den Bekl. mit anwaltlichem Schreiben
+vom 6.4.2011 abgemahnt und verlangte von ihm die Zahlung von Schadensersatz und
+Abmahnkosten.
+Das AG Frankenthal (Urt. v. 22.1.2015 – 3a C 256/14) hat die Klage abgewiesen. Die
+Berufung der Kl. ist ohne Erfolg geblieben (LG Frankenthal, ZUM-RD 2016, 648 =
+zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das
+BerGer.
+Aus den Gründen
+11II. 2. Mit der vom BerGer. gegebenen Begründung kann der mit der Klage geltend
+gemachte Anspruch auf Schadensersatz gem. § 97 II 1 iVm §§ 19 a, 94 I 1 UrhG nicht
+verneint werden.
+12a) In der Revisionsinstanz ist mangels entgegenstehender Feststellungen des
+BerGer. davon auszugehen, dass die Kl. Inhaberin der ausschließlichen Nutzungs- und
+Verwertungsrechte an dem Film „Konferenz der Tiere 3 D“ ist, dieser Film
+urheberrechtsschutzfähig ist und der Bekl. in dem von der Kl. dargelegten Zeitraum
+über seinen Internetanschluss dem genannten Film zuzuordnende Datenpakete zum
+Herunterladen angeboten hat.
+13b) Mit Erfolg wendet sich die Revision gegen die Annahme des BerGer., eine Haftung
+des Bekl. nach § 97 II 1 UrhG bestehe nicht.
+14aa) Das BerGer. hat angenommen, aus dem Vorbringen der Kl. ergebe sich nicht,
+dass über den Internetanschluss des Bekl. eine lauffähige Version des Films oder eines
+Teils davon zum Herunterladen angeboten worden sei. Dies sei für die
+Geltendmachung von urheber- und leistungsschutzrechtlichen Ansprüchen jedoch
+erforderlich. Eine nur teilweise zur Verfügung gestellte Datei sei regelmäßig nicht
+lauffähig und konsumierbar, weshalb es sich nicht um eine Nutzung des geschützten
+Werks oder seiner Teile handele, sondern lediglich um „Datenmüll“. Die Kl. habe nicht
+dargelegt und unter Beweis gestellt, dass diese Dateifragmente zumindest auch iSd § 11 UrhG nutzbare Werkteile enthielten. Dasselbe gelte für das Leistungsschutzrecht
+des Filmherstellers, weil dieser nicht in stärkerem Umfang geschützt werden könne als
+der Urheber des Films. Diese Beurteilung hält der rechtlichen Nachprüfung nicht stand.
+15bb) Nach § 97 II 1 UrhG ist, wer das Urheberrecht oder ein anderes nach dem
+Urheberrechtsgesetz geschütztes Recht widerrechtlich sowie vorsätzlich oder
+fahrlässig verletzt, dem Verletzten zum Ersatz des daraus entstehenden Schadens
+verpflichtet. Die Kl. hat ihre Klage auf eine Verletzung ihrer ausschließlichen
+Verwertungsrechte gem. § 94 I 1 UrhG und damit auf ein nach dem
+Urheberrechtsgesetz geschütztes Recht gestützt. Nach dieser Bestimmung hat der
+Filmhersteller das ausschließliche Recht, den Bildträger oder Bild- und Tonträger, auf
+den das Filmwerk aufgenommen ist, zu vervielfältigen, zu verbreiten und zur
+öffentlichen Vorführung, Funksendung oder öffentlichen Zugänglichmachung zu
+benutzen. Das Anbieten von Musikstücken oder Filmwerken mittels eines Filesharing-
+Programms in so genannten „Peer-to-Peer“-Netzwerken im Internet verletzt das Recht
+auf öffentliche Zugänglichmachung des Leistungsschutzberechtigten (vgl. EuGH,
+1146 = WRP 2016, 1486 Rn. 81 ff. – McFadden/Sony Music; BGH, NJOZ 2013, 773 =
+16cc) Mit der vom BerGer. gegebenen Begründung können die von der Kl. geltend
+gemachten Ansprüche nicht verneint werden. Dies gilt einmal dann, wenn auch
+Dateifragmente dem Leistungsschutzrecht des Filmherstellers nach § 94 f. UrhG
+unterliegen (dazu nachfolgend II 2 cc [1] und [2]), jedenfalls aber deshalb, weil eine
+mittäterschaftliche Haftung des Bekl. für die öffentliche Zugänglichmachung des
+Gesamtwerks über die Internettauschbörse in Betracht kommt (dazu nachfolgend II
+2 cc [3]).
+17(1) Nach Auffassung des Senats kann das angegriffene Urteil schon deshalb keinen
+Bestand haben, weil die Werkqualität der im Wege des Filesharing zum Herunterladen
+angebotenen Datenpakete iSd § 2 I Nr. 6 UrhG keine Voraussetzung für den
+Leistungsschutz des Filmherstellers nach § 94 I 1 UrhG ist.
+18Hierauf stellt der Senat im Streitfall allerdings nicht entscheidend ab, weil er mit
+[Vorlagefrage 1] – Metall auf Metall III) dem EuGH die Frage zur Vorabentscheidung
+vorgelegt hat,
+ob ein Eingriff in das ausschließliche Recht des Tonträgerherstellers zur
+Vervielfältigung seines Tonträgers aus Art. 2 Buchst. c der RL 2001/29/EG vorliegt,
+wenn seinem Tonträger kleinste Tonfetzen entnommen und auf einen anderen
+Tonträger übertragen werden,
+und eine Antwort des Gerichtshofs noch nicht vorliegt. Die im Streitfall relevante Frage,
+ob Dateifragmente dem Leistungsschutzrecht des Filmherstellers gem. Art. 3 II Buchst.
+c der RL 2001/29/EG unterfallen, kann nicht unabhängig von der Vorlagefrage
+beantwortet werden.
+19Nach Auffassung des erkennenden Senats ist Schutzgegenstand des Schutzrechts
+des Filmherstellers nach §§ 94 f. UrhG die im Filmträger verkörperte organisatorische
+Dreier/Schulze, UrhG, 5. Aufl., § 94 Rn. 20; Katzenberger/N. Reber in
+Schricker/Loewenheim, Urheberrecht, 5. Aufl., § 94 UrhG Rn. 5). Danach ordnet § 94
+UrhG ebenso wie das in § 85 I UrhG geregelte Schutzrecht des Tonträgerherstellers das
+Ergebnis eines besonderen unternehmerischen Aufwands mit den Mitteln eines
+Schutzrechts demjenigen zu, der den Aufwand als Unternehmer getätigt hat (vgl. BGHZ
+unternehmerische Leistung für den gesamten Ton- oder Filmträger erbringt, gibt es
+keinen Teil des Ton- oder Filmträgers, auf den nicht ein Teil dieses Aufwands entfällt
+und der daher nicht ge-
+
+schützt ist. Mithin stellt nach Auffassung des Senats selbst die Entnahme kleinster
+Partikel einen Eingriff in die durch § 94 I 1 UrhG geschützte Leistung des
+– Metall auf Metall III).
+20Es stellt keinen Wertungswiderspruch dar, kleinsten Partikeln eines Film- oder
+Tonträgers Leistungsschutz zuzubilligen, während Teile eines Musikwerks nur dann
+Urheberrechtsschutz genießen, wenn sie für sich genommen den urheberrechtlichen
+Schutzvoraussetzungen genügen (zum Schutz von Teilen eines Werks nach Art. 2
+Buchst. a der RL 2001/29/EG vgl. EuGH, ECLI:EU:C:2009:465 = Slg. 2009, I-6569 [6624]
+Schutzumfang ergeben sich aus dem gänzlich unterschiedlichen Schutzgegenstand
+dieser Rechte. Während das verwandte Schutzrecht am Tonträger den Schutz der
+wirtschaftlichen, organisatorischen und technischen Leistung des Tonträgerherstellers
+zum Gegenstand hat, schützt das Urheberrecht am Musikwerk die persönliche geistige
+21(2) Diese Sichtweise steht entgegen der Ansicht des BerGer. nicht in Widerspruch zu
+der zum Schutzrecht des Tonträgerherstellers nach § 85 UrhG ergangenen
+22Das BVerfG hat ausgesprochen, dass die grundsätzliche Anerkennung eines
+Leistungsschutzrechts zugunsten des Tonträgerherstellers in § 85 I 1 UrhG, das den
+Schutz seiner wirtschaftlichen, organisatorischen und technischen Leistung zum
+Gegenstand hat, mit Blick auf das Grundrecht der Kunstfreiheit gem. Art. 5 III GG
+hat weiter ausgeführt, die Bejahung eines Eingriffs in das Recht des
+Tonträgerherstellers aus § 85 I 1 UrhG schon bei der Entnahme einer nur kurzen
+Rhythmussequenz stelle für sich genommen noch keine ungerechtfertigte
+Die Kunstfreiheit sei im Rahmen der Anwendung des Rechts auf freie Benutzung gem.
+95 ff.). Das BVerfG hat zugleich klargestellt, dass der Schutz des Eigentums gem. Art. 14 I GG die Lizenzpflichtigkeit solcher Nutzungshandlungen erfordert, die nicht von der
+Kunstfreiheit erfasst sind oder die aufgrund ihres Umfangs oder ihres zeitlichen und
+inhaltlichen Zusammenhangs mit dem Originaltonträger für dessen Hersteller nicht
+2247 Rn. 108).
+23Diese für das Verhältnis von Eigentumsschutz und Kunstfreiheit maßgeblichen
+Erwägungen sind im Streitfall unabhängig davon nicht einschlägig, dass aufgrund des
+unionsrechtlichen Hintergrunds des dem Filmhersteller zustehenden
+Leistungsschutzrechts der öffentlichen Zugänglichmachung in Art. 3 II Buchst. c der
+RL 2001/29/EG ausschließlich Unionsgrundrechte zu prüfen sind, soweit die Richtlinie
+den Mitgliedstaaten keinen Umsetzungsspielraum überlässt, sondern zwingende
+Rechtfertigung seiner Teilnahme an einer Internet-Tauschbörse nicht auf das
+Grundrecht der Kunstfreiheit zu berufen und beruft sich auch nicht darauf.
+24(3) Selbst wenn sich das Leistungsschutzrecht des Filmherstellers gem. § 94 I 1
+UrhG nicht auf Dateifragmente erstreckt, kann auf der Grundlage der Feststellungen
+des BerGer. eine Haftung des Bekl. im Streitfall nicht verneint werden. In Betracht
+kommt, dass der Bekl. als Mittäter einer gemeinschaftlich mit den anderen Nutzern der
+Internettauschbörse begangenen Verletzung des Leistungsschutzrechts der Kl. zur
+öffentlichen Zugänglichmachung des Films „Konferenz der Tiere 3 D“ oder
+urheberrechtsschutzfähiger Teile hiervon haftet.
+25Die Frage, ob sich jemand als Täter, Mittäter, Anstifter oder Gehilfe in einer seine
+zivilrechtliche Haftung begründenden Weise an einer deliktischen Handlung beteiligt
+hat, beurteilt sich nach den im Strafrecht entwickelten Grundsätzen. Täter ist danach,
+wer die Zuwiderhandlung selbst oder in mittelbarer Täterschaft begeht (§ 25 I StGB).
+Mittäterschaft (vgl. § 830 I 1 BGB) erfordert eine gemeinschaftliche Begehung, also ein
+bewusstes und gewolltes Zusammenwirken (stRspr; vgl. nur BGH, GRUR 2012, 1279 =
+WRP 2012, 1517 Rn. 38 – DAS GROSSE RÄTSELHEFT; BGH, GRUR 2015, 485 = WRP
+= GRUR 2016, 946 = WRP 2016, 958 Rn. 40 – Freunde finden).
+26Der objektive Tatbeitrag des einzelnen Teilnehmers an einer Internettauschbörse
+liegt in der Bereitstellung von Dateifragmenten, die gemeinsam mit weiteren von
+anderen Teilnehmern der Tauschbörse bereitgestellten Dateifragmenten auf dem
+Computer des herunterladenden Nutzers zur Gesamtdatei zusammengefügt werden
+können. Das Filesharing über so genannte Peer-toPeer-Netzwerke dient der Erlangung
+und Bereitstellung funktionsfähiger Dateien. Jeder Teilnehmer eröffnet anderen
+Teilnehmern des Netzwerks die Möglichkeit, von ihm heruntergeladene Dateien oder
+Dateifragmente ihrerseits von seinem Computer herunterzuladen; der Download geht
+also mit dem Angebot zum Upload einher. Typischerweise bezieht ein Teilnehmer, der
+eine Datei herunterlädt, Dateifragmente von vielen verschiedenen Teilnehmern. Jedes
+Dateifragment lässt sich anhand des so genannten Hashwerts als zu einer bestimmten
+Gesamtdatei zugehörig identifizieren und hat eine Nummer, die seine Position in der
+Ursprungsdatei kennzeichnet (vgl. zum Vorstehenden Solmecke/Bärenfänger, MMR
+2011, 567; Heinemeyer/Kreitlow/Nordmeyer/Sabellek, MMR 2012, 279). Die zum
+Herunterladen bereitgestellten Dateifragmente sind somit – entgegen der Auffassung
+des BerGer. – kein „Datenmüll“, sondern individuell adressierte Datenpakete, die auf
+dem Computer des herunterladenden Nutzers zur Gesamtdatei zusammengefügt
+werden können. Aus der Funktionsweise des Peer-to-Peer-Netzwerks als
+arbeitsteiliges System folgt zugleich, dass den Tatbeiträgen der Teilnehmer eine
+kumulative Wirkung zukommt und die Gesamtheit der im Netzwerk verfügbaren
+Dateifragmente eine funktionsfähige
+Dass es dem Teilnehmer einer Internettauschbörse in erster Linie darauf ankommen
+mag, selbst in den Genuss der heruntergeladenen Dateien zu gelangen, steht der
+Annahme vorsätzlichen Zusammenwirkens mit den anderen Teilnehmern nicht
+entgegen. Weiß er, dass im Rahmen der arbeitsteiligen Funktionsweise der
+Tauschbörse die Bereitstellung der von ihm heruntergeladenen Dateien oder
+Dateifragmente im Netzwerk eine notwendige Begleiterscheinung des Herunterladens
+auf den eigenen Computer ist, so nimmt er diese Folge seines Handelns mindestens
+billigend in Kauf. Dies reicht für die Annahme von Mittäterschaft aus (vgl. Heine/Weißer
+in Schönke/Schröder, § 25 Rn. 99).
+283. Aus den vorstehenden Gründen hat auch die Abweisung des Anspruchs auf
+Zahlung von Abmahnkosten gem. § 97 a UrhG in der Fassung vom 7.7.2008 keinen
+Bestand.
+29III. Eine Vorlage an den EuGH nach Art. 267 III AEUV ist nicht veranlasst (vgl. EuGH,
+ECLI:EU:C:2015:644 = GRUR Int 2015, 1152 Rn. 43 mwN – Doc Generici). Im Streitfall
+stellt sich keine entscheidungserhebliche Frage zur Auslegung des Unionsrechts, die
+nicht zweifelsfrei zu beantworten ist.
+30IV. Danach ist das angegriffene Urteil aufzuheben und die Sache, da sie nicht zur
+Endentscheidung reif ist, zur neuen Verhandlung und Entscheidung – auch über die
+Kosten des Revisionsverfahrens – an das BerGer. zurückzuverweisen (§ 563 I 1 ZPO).
+Anmerkung der Redaktion
+2017, 964.
