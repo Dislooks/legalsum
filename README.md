@@ -37,3 +37,4 @@ Das System bietet automatisierte Metriken wie ROUGE und BERTScore sowie LLM-basi
 Neue Dokumentformate können durch Erweiterung der Reader-Klassen integriert werden. Zusätzliche LLM-Provider erfordern eine neue Client-Implementierung basierend auf base_client.py. Prompt-Templates können in prompt_templates.py angepasst werden.
 
 
+
