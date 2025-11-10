@@ -1,0 +1,38 @@
+[
+  {
+    "experiment_id": "model_validation_court_ruling_20251104_220148_001",
+    "model_provider": "azure_openai",
+    "model_name": "gpt-oss-120b",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T22:01:48.542686",
+    "document_type": "court_ruling"
+  },
+  {
+    "experiment_id": "model_validation_court_ruling_20251104_220148_002",
+    "model_provider": "azure_ai_foundry",
+    "model_name": "Llama-4-Scout-17B-16E-Instruct",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T22:01:48.542686",
+    "document_type": "court_ruling"
+  },
+  {
+    "experiment_id": "model_validation_court_ruling_20251104_220148_003",
+    "model_provider": "azure_ai_foundry",
+    "model_name": "mistral-medium-2505",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T22:01:48.542686",
+    "document_type": "court_ruling"
+  }
+]

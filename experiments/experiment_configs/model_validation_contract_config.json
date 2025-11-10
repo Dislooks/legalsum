@@ -1,0 +1,38 @@
+[
+  {
+    "experiment_id": "model_validation_contract_20251104_194124_001",
+    "model_provider": "azure_openai",
+    "model_name": "gpt-oss-120b",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T19:41:24.434391",
+    "document_type": "contract"
+  },
+  {
+    "experiment_id": "model_validation_contract_20251104_194124_002",
+    "model_provider": "azure_ai_foundry",
+    "model_name": "Llama-4-Scout-17B-16E-Instruct",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T19:41:24.434391",
+    "document_type": "contract"
+  },
+  {
+    "experiment_id": "model_validation_contract_20251104_194124_003",
+    "model_provider": "azure_ai_foundry",
+    "model_name": "mistral-medium-2505",
+    "temperature": 0.4,
+    "top_k": 50,
+    "top_p_values": 0.9,
+    "max_output_length": 3000,
+    "repetition_penalty": 1.1,
+    "timestamp": "2025-11-04T19:41:24.434391",
+    "document_type": "contract"
+  }
+]

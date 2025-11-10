@@ -1,0 +1,480 @@
+# EVALUATION CONFIGURATION
+# Bei Entwicklung, Testing, Debugging und Erweiterung wurde Claude Sonnet 4.5 genutzt
+
+# ROUGE Metriken Konfiguration
+rouge_metrics:
+  enabled: true
+  metrics:
+    - "rouge1"      # Unigram-Überlappung
+    - "rouge2"      # Bigram-Überlappung
+    - "rougeL"      # Längste gemeinsame Subsequenz
+  
+  parameters:
+    use_stemmer: true  # Porter Stemmer für Deutsch
+    split_summaries: true
+    
+  thresholds:  # Interpretationsrichtlinien
+    excellent: 0.5
+    good: 0.4
+    acceptable: 0.3
+    poor: 0.2
+
+# BERTScore Konfiguration
+bertscore:
+  enabled: true
+  model: "deepset/gbert-large"  # Deutsches BERT-Modell
+
+  parameters:
+    num_layers: 6  # Welche BERT-Layer verwenden
+    idf: false  # Inverse Document Frequency Gewichtung
+    rescale_with_baseline: false
+    lang: "de"
+    
+  metrics:
+    - "precision"
+    - "recall"
+    - "f1"
+    
+  thresholds:
+    excellent: 0.85
+    good: 0.75
+    acceptable: 0.65
+    poor: 0.55
+
+# LLM-as-a-Judge Konfiguration
+llm_judge:
+  enabled: true
+  
+  # Welches Modell als Judge verwenden
+  judge_model:
+    provider: "huggingface"
+    name: "Qwen/Qwen3-14B"
+    
+    # Generation Parameters
+    max_tokens: 4096
+    temperature: 0.1
+    top_p: 0.95
+    top_k: null
+    
+    # Request Settings
+    timeout: 180
+    retry_attempts: 5
+    retry_delay: 10.0
+    
+    # Endpoint specific
+    use_inference_endpoint: true
+
+
+  # Bewertungskriterien für juristische Zusammenfassungen
+  default_criteria:
+    correctness:
+      weight: 0.30
+      description: "Faktische Richtigkeit und Vollständigkeit"
+      scale: "1-5"
+      guidelines:
+        5: "Alle wesentlichen Fakten korrekt wiedergegeben"
+        4: "Meiste Fakten korrekt, kleinere Auslassungen"
+        3: "Einige wichtige Fakten fehlen oder sind ungenau"
+        2: "Mehrere faktische Fehler oder große Lücken"
+        1: "Schwerwiegende Fehler, irreführend"
+        
+    completeness:
+      weight: 0.25
+      description: "Abdeckung aller relevanten Aspekte"
+      scale: "1-5"
+      guidelines:
+        5: "Alle Kernpunkte erfasst"
+        4: "Meiste Kernpunkte, kleinere Aspekte fehlen"
+        3: "Wichtige Aspekte fehlen"
+        2: "Nur Teilaspekte abgedeckt"
+        1: "Wesentliche Inhalte nicht erfasst"
+        
+    coherence:
+      weight: 0.20
+      description: "Logischer Aufbau und Verständlichkeit"
+      scale: "1-5"
+      guidelines:
+        5: "Hervorragend strukturiert, leicht verständlich"
+        4: "Gut strukturiert, meist klar"
+        3: "Akzeptable Struktur, stellenweise unklar"
+        2: "Unzusammenhängend, schwer zu folgen"
+        1: "Chaotisch, unverständlich"
+        
+    conciseness:
+      weight: 0.15
+      description: "Prägnanz ohne Informationsverlust"
+      scale: "1-5"
+      guidelines:
+        5: "Optimal komprimiert, keine Redundanz"
+        4: "Gut komprimiert, minimal redundant"
+        3: "Akzeptabel, einige überflüssige Details"
+        2: "Zu ausführlich oder zu knapp"
+        1: "Stark redundant oder zu vage"
+        
+    legal_terminology:
+      weight: 0.10
+      description: "Korrekte Verwendung juristischer Fachbegriffe"
+      scale: "1-5"
+      guidelines:
+        5: "Präzise juristische Terminologie"
+        4: "Meist korrekte Fachbegriffe"
+        3: "Grundlegende Terminologie, Ungenauigkeiten"
+        2: "Häufige terminologische Fehler"
+        1: "Falsche oder fehlende Fachterminologie"
+  
+  judge_prompt_template: |
+    Sie sind ein juristischer Experte und bewerten eine Zusammenfassung eines Gerichtsurteils.
+    
+    GOLD-STANDARD-ZUSAMMENFASSUNG (Referenz):
+    {gold_summary}
+    
+    ZUSAMMENFASSUNG:
+    {summary}
+    
+    Bewerten Sie die Zusammenfassung anhand folgender Kriterien auf einer Skala von 1-5:
+    
+    1. Faktische Richtigkeit (Correctness): Sind alle Fakten korrekt wiedergegeben?
+    2. Vollständigkeit (Completeness): Sind alle wesentlichen Aspekte erfasst?
+    3. Kohärenz (Coherence): Ist die Zusammenfassung logisch strukturiert und verständlich?
+    4. Prägnanz (Conciseness): Ist die Zusammenfassung angemessen kompakt?
+    5. Juristische Terminologie: Werden Fachbegriffe korrekt verwendet?
+    
+    Antworten Sie im folgenden JSON-Format:
+    {{
+      "correctness": {{"score": X, "reasoning": "..."}},
+      "completeness": {{"score": X, "reasoning": "..."}},
+      "coherence": {{"score": X, "reasoning": "..."}},
+      "conciseness": {{"score": X, "reasoning": "..."}},
+      "legal_terminology": {{"score": X, "reasoning": "..."}},
+      "overall_assessment": "..."
+    }}
+  
+  document_type_configs:
+    court_ruling:
+      evaluation_criteria:
+        correctness:
+          weight: 0.35
+          description: "Aufrechterhaltung inhaltlicher, faktischer und juristischer Korrektheit bei Wiedergabe der wichtigsten Punkte"
+          scale: "1-5"
+          guidelines:
+            5: "Alle wesentlichen Sachverhaltsinformationen und Urteilsgründe korrekt wiedergegeben, keine Halluzinationen"
+            4: "Meiste Sachverhaltsinformationen und Urteilsgründe korrekt, kleinere Auslassungen, kaum Halluzinationen"
+            3: "Einige wichtige Sachverhaltsinformationen und Urteilsgründe fehlen oder sind ungenau, mehrere Halluzinationen"
+            2: "Mehrere falsche Sachverhaltsinformationen oder Urteilsgründe oder große Lücken, einige Halluzinationen"
+            1: "Schwerwiegende Fehler, irreführend, viele Halluzinationen"
+            
+        completeness:
+          weight: 0.30
+          description: "Abdeckung aller inhaltlicher Bestandteile (Sachverhalt, Tenor, Entscheidungsgründe) des Urteils, die in die Gold-Standard-Zusammenfassung aufgenommen wurden"
+          scale: "1-5"
+          guidelines:
+            5: "Parteien, Sachverhalt, Rechtsfrage, Entscheidungsgründe, Tenor vollständig"
+            4: "Ein Element fehlt oder unvollständig"
+            3: "Zwei Elemente fehlen"
+            2: "Mehrere wichtige Elemente fehlen"
+            1: "Kaum Kernelemente erfasst"
+                    
+        legal_conciseness:
+          weight: 0.20
+          description: "Prägnate und zielgerichtete Darstellung der wesentlichen Argumente und Entscheidungsgründe im Urteil"
+          scale: "1-5"
+          guidelines:
+            5: "Argumentationskette logisch, prägnant und vollständig nachvollziehbar;  alle entscheidungstragenden Argumente präsent"
+            4: "Argumentation meist klar, kleine Lücken; Hauptargumente vollständig, gelegentliche Redundanzen oder ein fehlendes Bindeglied"
+            3: "Grundstruktur erkennbar, aber Lücken; Hauptentscheidung erkennbar, wichtige Zwischenschritte fehlen oder unklar"
+            2: "Argumentation fragmentiert, logischer Zusammenhang fehlt weitgehend, wichtige Elemente der Entscheidung fehlen"
+            1: "Keine erkennbare Argumentationsstruktur, willkürliche Aneinanderreihung von Fakten/Paragraphen, Entscheidung und Begründung nicht identifizierbar"
+        
+        legal_terminology:
+          weight: 0.10
+          description: "Sicherer und Korrekter Umgang mit rechtlichen Verweisen und Argumenten"
+          scale: "1-5"
+          guidelines:
+            5: "Präzise juristische Terminologie, stimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            4: "Meist korrekte Fachbegriffe, größtenteils stimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            3: "Grundlegende Terminologie, Ungenauigkeiten"
+            2: "Häufige terminologische Fehler, überwiegend unstimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            1: "Falsche oder fehlende Fachterminologie, grob falsche Wiedergabe von rechtlicher Argumentation und Verweisen"
+        
+        coherence:
+          weight: 0.05
+          description: "Logischer Aufbau, ähnlich der Referenzzusammenfassung und sprachliche Verständlichkeit"
+          scale: "1-5"
+          guidelines:
+            5: "Hervorragend strukturiert, leicht verständlich, folgt im Aufbau der Gold-Standard-Zusammenfassung"
+            4: "Gut strukturiert, meist klar, folgt größtenteils im Aufbau der Gold-Standard-Zusammenfassung"
+            3: "Akzeptable Struktur, stellenweise unklar, teils Abweichungen von Gold-Standard-Zusammenfassung"
+            2: "Unzusammenhängend, schwer zu folgen, große Abweichungen von Gold-Standard-Zusammenfassung"
+            1: "Chaotisch, unverständlich"
+
+      judge_prompt_template: |   
+        Sie sind ein juristsicher Experte für Gerichtsurteile und bewerten die Qualität einer Urteilszusammenfassung anhand einer Gold-Standard-Zusammenfassung des Urteils.
+        Untersuchen Sie dabei kritisch, wie sich die Zusammenfassung des Urteils in den unten beschriebenen fünf Kriterien zur Gold-Standard-Zusammenfassung verhält.
+        
+        Gehen Sie dabei kritisch und gründlich vor. Überprüfen Sie beide Dokumente im Detail und nutzen Sie die gesamte Skala, falls es Abweichungen gibt.
+
+        GOLD-STANDARD-ZUSAMMENFASSUNG (Referenz):
+        {gold_summary}
+        
+        ZUSAMMENFASSUNG:
+        {summary}
+        
+        Bewerten Sie die Zusammenfassung des Gerichtsurteils, anhand der Gold-Standard-Zusammenfassung, die eine idealtypische Zusammenfassung des Urteils darstellt, auf einer Skala von 1-5 mithilfe folgender Kriterien:
+        
+        1. **Correctness (Aufrechterhaltung inhaltlicher, faktischer und juristischer Korrektheit bei Wiedergabe der wichtigsten Punkte)** - Gewichtung: 35%
+            5: "Alle wesentlichen Sachverhaltsinformationen und Urteilsgründe korrekt wiedergegeben, keine Halluzinationen"
+            4: "Meiste Sachverhaltsinformationen und Urteilsgründe korrekt, kleinere Auslassungen, kaum Halluzinationen"
+            3: "Einige wichtige Sachverhaltsinformationen und Urteilsgründe fehlen oder sind ungenau, mehrere Halluzinationen"
+            2: "Mehrere falsche Sachverhaltsinformationen oder Urteilsgründe oder große Lücken, einige Halluzinationen"
+            1: "Schwerwiegende Fehler, irreführend, viele Halluzinationen"
+        
+        2. **Completeness (Abdeckung aller inhaltlicher Bestandteile (Sachverhalt, Tenor, Entscheidungsgründe) des Urteils, die in die Gold-Standard-Zusammenfassung aufgenommen wurden)** - Gewichtung: 30%
+            5: "Parteien, Sachverhalt, Rechtsfrage, Entscheidungsgründe, Tenor vollständig"
+            4: "Ein Element fehlt oder unvollständig"
+            3: "Zwei Elemente fehlen"
+            2: "Mehrere wichtige Elemente fehlen"
+            1: "Kaum Kernelemente erfasst"
+        
+        3. **Legal Conciseness (Prägnate und zielgerichtete Darstellung der wesentlichen Argumente und Entscheidungsgründe im Urteil)** - Gewichtung: 20%
+            5: "Argumentationskette logisch, prägnant und vollständig nachvollziehbar;  alle entscheidungstragenden Argumente präsent"
+            4: "Argumentation meist klar, kleine Lücken; Hauptargumente vollständig, gelegentliche Redundanzen oder ein fehlendes Bindeglied"
+            3: "Grundstruktur erkennbar, aber Lücken; Hauptentscheidung erkennbar, wichtige Zwischenschritte fehlen oder unklar"
+            2: "Argumentation fragmentiert, logischer Zusammenhang fehlt weitgehend, wichtige Elemente der Entscheidung fehlen"
+            1: "Keine erkennbare Argumentationsstruktur, willkürliche Aneinanderreihung von Fakten/Paragraphen, Entscheidung und Begründung nicht identifizierbar"
+        
+        4. **Legal Terminology (Fokus auf die wichtigsten Abschnitte und Argumente im Urteil)** - Gewichtung: 10%
+            5: "Präzise juristische Terminologie, stimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            4: "Meist korrekte Fachbegriffe, größtenteils stimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            3: "Grundlegende Terminologie, Ungenauigkeiten"
+            2: "Häufige terminologische Fehler, überwiegend unstimmige Wiedergabe von rechtlicher Argumentation und Verweisen"
+            1: "Falsche oder fehlende Fachterminologie, grob falsche Wiedergabe von rechtlicher Argumentation und Verweisen"
+                    
+        5. **Coherence (Logischer Aufbau, ähnlich der Referenzzusammenfassung und sprachliche Verständlichkeit)** - Gewichtung: 5%
+            5: "Hervorragend strukturiert, leicht verständlich, folgt im Aufbau der Gold-Standard-Zusammenfassung"
+            4: "Gut strukturiert, meist klar, folgt größtenteils im Aufbau der Gold-Standard-Zusammenfassung"
+            3: "Akzeptable Struktur, stellenweise unklar, teils Abweichungen von Gold-Standard-Zusammenfassung"
+            2: "Unzusammenhängend, schwer zu folgen, große Abweichungen von Gold-Standard-Zusammenfassung"
+            1: "Chaotisch, unverständlich"
+        
+        
+        Antworten Sie im JSON-Format mit dieser exakten Struktur:
+        {{
+          "correctness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "completeness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "legal_conciseness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "legal_terminology": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "coherence": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }}
+        }}
+  
+    contract:
+      # Spezifische Kriterien für Verträge
+      evaluation_criteria:
+        correctness:
+          weight: 0.30
+          description: "Faktische Richtigkeit (Parteien, Pflichten, Konditionen)"
+          scale: "1-5"
+          guidelines:
+            5: "Alle Vertragsbestandteile korrekt wiedergegeben, keine Halluzinationen"
+            4: "Minimal unwichtige Details falsch, wenige Halluzinationen"
+            3: "Kleinere Ungenauigkeiten bei Nebenpflichten, mehrere Halluzinationen"
+            2: "Mehrere wichtige Vertragselemente falsch, einige Halluzinationen"
+            1: "Grobe Fehler bei Hauptpflichten, viele Halluzinationen"
+        
+        completeness:
+          weight: 0.30
+          description: "Vollständigkeit der Vertragsbestandteile"
+          scale: "1-5"
+          guidelines:
+            5: "Parteien, Leistungen, Vergütung, Laufzeit, besondere Klauseln vollständig"
+            4: "Ein Nebenelement fehlt"
+            3: "Ein Hauptelement unvollständig"
+            2: "Mehrere wichtige Elemente fehlen"
+            1: "Nur Bruchstücke erfasst"
+        
+        contractual_coherence:
+          weight: 0.20 
+          description: "Klarheit des vertraglichen Aufbaus und der vertraglichen Verpflichtungen"
+          scale: "1-5"
+          guidelines:
+            5: "Hervorragend strukturiert, Rechte und Pflichten beider Parteien kristallklar"
+            4: "Gut strukturiert, meist klar, minimale Unschärfen"
+            3: "Akzeptable Struktur, stellenweise Verpflichtungen unklar"
+            2: "Unzusammenhängend, schwer zu folgen, viele Unklarheiten bei Pflichten"
+            1: "Chaotisch, unverständlich, Vertragsverhältnis nicht nachvollziehbar"
+        
+        conciseness:
+          weight: 0.15
+          description: "Pägnanz und Informationsdichte bei der Vertragsdarstellung, Balance zwischen Vollständigkeit und Kürze"
+          scale: "1-5"
+          guidelines:
+            5: "Optimal komprimiert, alle Klauseln auf Kernaussage reduziert"
+            4: "Gut komprimiert, minimal redundant"
+            3: "Akzeptabel, einige überflüssige Details"
+            2: "Zu ausführlich oder zu knapp"
+            1: "Stark redundant oder zu vage"
+        
+        legal_terminology:
+          weight: 0.05
+          description: "Vertragsrechtliche Fachterminologie"
+          scale: "1-5"
+          guidelines:
+            5: "Präzise juristische Terminologie"
+            4: "Meist korrekte Fachbegriffe"
+            3: "Grundlegende Terminologie, Ungenauigkeiten"
+            2: "Häufige terminologische Fehler"
+            1: "Falsche oder fehlende Fachterminologie"
+
+      # Spezifischer Prompt für Verträge
+      judge_prompt_template: |
+        Sie sind ein juristsicher Experte für Vertragsrecht und bewerten die Qualität einer Vertragszusammenfassung anhand einer Gold-Standard-Zusammenfassung des Vertrags.
+        Untersuchen Sie dabei kritisch, wie sich die Zusammenfassung des Vertrags in den unten beschriebenen fünf Kriterien zur Gold-Standard-Zusammenfassung verhält.
+        
+        Gehen Sie dabei kritisch und gründlich vor. Überprüfen Sie beide Dokumente im Detail und nutzen Sie die gesamte Skala, falls es Abweichungen gibt.
+
+        GOLD-STANDARD-ZUSAMMENFASSUNG (Referenz):
+        {gold_summary}
+        
+        ZUSAMMENFASSUNG:
+        {summary}
+        
+        Bewerten Sie die Zusammenfassung des Vertrags, anhand der Gold-Standard-Zusammenfassung, die eine idealtypische Zusammenfassung des Vertrags darstellt, auf einer Skala von 1-5 mithilfe folgender Kriterien:
+        
+        1. **Correctness (Faktische Richtigkeit (Parteien, Pflichten, Konditionen)** - Gewichtung: 30%
+            5: "Alle Vertragsbestandteile korrekt wiedergegeben, keine Halluzinationen"
+            4: "Minimal unwichtige Details falsch, wenige Halluzinationen"
+            3: "Kleinere Ungenauigkeiten bei Nebenpflichten, mehrere Halluzinationen"
+            2: "Mehrere wichtige Vertragselemente falsch, einige Halluzinationen"
+            1: "Grobe Fehler bei Hauptpflichten, viele Halluzinationen"
+        
+        2. **Completeness (Vollständigkeit der Vertragsbestandteile)** - Gewichtung: 30%
+            5: "Parteien, Leistungen, Vergütung, Laufzeit, besondere Klauseln vollständig"
+            4: "Ein Nebenelement fehlt"
+            3: "Ein Hauptelement unvollständig"
+            2: "Mehrere wichtige Elemente fehlen"
+            1: "Nur Bruchstücke erfasst"
+        
+        3. **Contractual Coherence (Klarheit des vertraglichen Aufbaus und der vertraglichen Verpflichtungen)** - Gewichtung: 20%
+            5: "Hervorragend strukturiert, Rechte und Pflichten beider Parteien kristallklar"
+            4: "Gut strukturiert, meist klar, minimale Unschärfen"
+            3: "Akzeptable Struktur, stellenweise Verpflichtungen unklar"
+            2: "Unzusammenhängend, schwer zu folgen, viele Unklarheiten bei Pflichten"
+            1: "Chaotisch, unverständlich, Vertragsverhältnis nicht nachvollziehbar"
+        
+        4. **Conciseness (Pägnanz und Informationsdichte bei der Vertragsdarstellung, Balance zwischen Vollständigkeit und Kürze)** - Gewichtung: 15%
+            5: "Optimal komprimiert, alle Klauseln auf Kernaussage reduziert"
+            4: "Gut komprimiert, minimal redundant"
+            3: "Akzeptabel, einige überflüssige Details"
+            2: "Zu ausführlich oder zu knapp"
+            1: "Stark redundant oder zu vage"
+        
+        5. **Legal Terminology (Vertragsrechtliche Terminologie)** - Gewichtung: 5%
+            5: "Präzise juristische Terminologie"
+            4: "Meist korrekte Fachbegriffe"
+            3: "Grundlegende Terminologie, Ungenauigkeiten"
+            2: "Häufige terminologische Fehler"
+            1: "Falsche oder fehlende Fachterminologie"
+
+        
+        Antworten Sie im JSON-Format mit dieser exakten Struktur:
+        {{
+          "correctness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "completeness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "contractual_coherence": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},
+          "conciseness": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }},          
+          "legal_terminology": {{
+            "score": <1-5>,
+            "reasoning": "<Ihre Begründung>"
+          }}     
+        }}
+
+# Manuelle Evaluation (für eigene Bewertungen)
+manual_evaluation:
+  enabled: true
+  export_format: "excel" 
+  include_fields:
+    - "document_id"
+    - "model"
+    - "temperature"
+    - "top_p"
+    - "summary_length"
+    - "rating_1_5"
+    - "comments"
+  
+# Vergleichsanalysen
+comparative_analysis:
+  enabled: true
+  
+  comparisons:
+    - type: "model_comparison"
+      description: "Vergleich zwischen GPT-4, Llama, Deepseek"
+      
+    - type: "temperature_impact"
+      description: "Einfluss von Temperatur auf Qualität"
+      
+    - type: "parameter_optimization"
+      description: "Beste Parameterkombination identifizieren"
+  
+  statistical_tests:
+    - "t_test"  # Für Mittelwertvergleiche
+    - "anova"   # Für mehrere Gruppen
+    - "correlation"  # Für Parameterbeziehungen
+
+# Visualisierungseinstellungen
+visualization:
+  enabled: true
+  
+  plot_types:
+    - "bar_charts"        # Modellvergleich
+    - "heatmaps"          # Parametermatrix
+    - "box_plots"         # Verteilungen
+    - "scatter_plots"     # Korrelationen
+    - "radar_charts"      # Kriterien-Profile
+    
+  format: "png"  # oder "svg", "pdf"
+  dpi: 300
+  style: "seaborn-v0_8"  # Matplotlib style
+  
+  colors:
+    gpt_models: "#10a37f"
+    llama_models: "#5436da"
+    deepseek_models: "#ff6b6b"
+
+# Output-Konfiguration
+output:
+  save_individual_scores: true
+  save_aggregated_reports: true
+  generate_latex_tables: true  # Für Masterarbeit
+  
+  report_sections:
+    - "executive_summary"
+    - "detailed_metrics"
+    - "model_comparison"
+    - "parameter_analysis"
+    - "recommendations"

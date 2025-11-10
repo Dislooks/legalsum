@@ -1,0 +1,90 @@
+Cloud Services Vertrag (SaaS)
+Software as a Service-Vertrag
+zwischen
+ 
+Mondschein Innovations AG, Sternenweg 99, 12345 Fantasieburg Deutschland 
+(im Folgenden "Provider")
+ 
+und
+ 
+Regenbogen Technologie GmbH, Wolkenallee 77, 98765 Traumstadt Deutschland 
+(im Folgenden "Kunde")
+ 
+(Provider und Kunde einzeln jeweils auch „Partei“ und gemeinsam „Parteien“)
+§ 1 Vertragsgegenstand
+Gegenstand des Vertrags ist die entgeltliche und zeitlich auf die Dauer des Vertrags begrenzte Gewährung der Nutzung der „DataFlow Manager Pro“ Software (nachfolgend „Software“) im Unternehmen des Kunden über das Internet sowie die Bereitstellung von Speicherplatz auf den Servern des Providers.
+ 
+§ 2 Leistungen des Providers; Software und Speicherplatz
+(1) Der Provider gewährt dem Kunden die Nutzung der jeweils aktuellsten Version der Software für die vereinbarte Anzahl an berechtigen Nutzern über das Internet mittels Zugriff durch einen Browser.
+(2) Der Provider gewährleistet die Funktionsfähigkeit und Verfügbarkeit der Software während der Dauer des Vertragsverhältnisses und wird diese in einem zum vertragsgemäßen Gebrauch geeigneten Zustand erhalten. Der Funktionsumfang der Software sowie die Einsatzbedingungen ergeben sich aus Anlage 1 zu diesem Vertrag.
+(3) Der Kunde kann nach Bedarf die Anzahl der berechtigen Nutzer der Software nach den in Anlage 1 genannten Konditionen erhöhen oder reduzieren. Der Provider wird dem Kunden nach Vertragsschluss unverzüglich in elektronischer Form Zugangsdaten für die entsprechende Anzahl an berechtigen Nutzern übermitteln.
+(4) Der Provider übermittelt dem Kunden nach Vertragsschluss in elektronischer Form eine Benutzerdokumentation. Die Benutzerdokumentation ist zudem während der Nutzung der Software jederzeit einsehbar und kann in einem gängigen Format heruntergeladen werden.
+(5) Der Provider kann, ohne hierzu verpflichtet zu sein, die Software jederzeit aktualisieren oder weiterentwickeln und insbesondere aufgrund geänderter Rechtslage, technischer Entwicklungen oder zur Verbesserung der IT-Sicherheit anpassen. Der Provider wird dabei die berechtigten Interessen des Kunden angemessen berücksichtigen und den Kunden rechtzeitig über notwendige Updates informieren. Im Falle einer wesentlichen Beeinträchtigung der berechtigten Interessen des Kunden steht diesem ein Sonderkündigungsrecht zu.
+(6) Eine Anpassung auf die individuellen Bedürfnisse oder die IT-Umgebung des Kunden schuldet der Provider nicht.
+(7) Der Provider wird die Software regelmäßig warten und den Kunden über etwaige hiermit verbundene Einschränkungen rechtzeitig informieren. Die Wartung wird regelmäßig außerhalb der üblichen Geschäftszeiten des Kunden durchgeführt, es sei denn, aufgrund zwingender Gründe muss eine Wartung zu einer anderen Zeit vorgenommen werden.
+(8) Der Provider stellt dem Kunden zur Ablage von Daten und für Zwecke der Nutzung der Software Speicherplatz auf seinen Servern bis zu einem Umfang von 500 GB zur Verfügung. Der Provider wird für die Abrufbarkeit der Daten im Rahmen der Nutzung der Software sorgen. Der Kunde kann nach Bedarf das Speicherplatzvolumen gemäß den in Anlage 1 genannten Konditionen erweitern oder reduzieren.
+(9) Der Provider wird dem Stand der Technik entsprechende Maßnahmen zum Schutz der Daten vornehmen. Den Provider treffen jedoch keine Verwahrungs- oder Obhutspflichten hinsichtlich der Daten. Für eine ausreichende Sicherung der Daten ist der Kunde verantwortlich.
+(10) Der Kunde bleibt Inhaber der auf den Servern des Providers abgelegten Daten und kann diese jederzeit herausverlangen.
+ 
+§ 3 Nutzungsumfang und -rechte
+(1) Eine physische Überlassung der Software an den Kunden erfolgt nicht.
+(2) Der Kunde erhält an der jeweils aktuellsten Version der Software für die vertraglich festgelegte Anzahl an Nutzern einfache, d. h. nicht unterlizenzierbare und nicht übertragbare, zeitlich auf die Dauer des Vertrags beschränkte Rechte, die Software mittels Zugriff über einen Browser nach Maßgabe der vertraglichen Regelungen zu nutzen.
+(3) Der Kunde darf die Software nur im Rahmen seiner eigenen geschäftlichen Tätigkeit durch eigenes Personal nutzen. Eine weitergehende Nutzung der Software durch den Kunden ist nicht gestattet.
+ 
+§ 4 Support 
+Der Provider richtet für Anfragen des Kunden zu Funktionen der Software einen Support-Service ein. Anfragen können über die auf der Website des Providers angegebene Support-Hotline zu den dort angegebenen Zeiten oder per E-Mail gestellt werden. Die Anfragen werden grundsätzlich in zeitlicher Reihenfolge ihres Eingangs bearbeitet.
+ 
+§ 5 Service Levels; Störungsbehebung
+(1) Der Provider gewährt eine Gesamtverfügbarkeit der Leistungen von mindestens 99,5% im Monat am Übergabepunkt. Der Übergabepunkt ist der Routerausgang des Rechenzentrums des Providers.
+(2) Als Verfügbarkeit gilt die Möglichkeit des Kunden, sämtliche Hauptfunktionen der Software zu nutzen. Wartungszeiten sowie Zeiten der Störung unter Einhaltung der Behebungszeit gelten als Zeiten der Verfügbarkeit der Software. Zeiten unerheblicher Störungen bleiben bei der Berechnung der Verfügbarkeit außer Betracht. Für den Nachweis der Verfügbarkeit sind die Messinstrumente des Providers im Rechenzentrum maßgeblich.
+(3) Der Kunde hat Störungen unverzüglich an die im Anhang 1 genannten Kontaktdaten zu melden. Eine Störungsmeldung und -behebung ist Montag bis Freitag (ausgenommen bundesweite Feiertage) zwischen 9:00 Uhr und 18:00 Uhr gewährleistet (Servicezeiten).
+(4) Schwerwiegende Störungen (die Nutzung der Software insgesamt oder eine Hauptfunktion der Software ist nicht möglich) wird der Provider auch außerhalb der Servicezeiten spätestens binnen 2 Stunden ab Eingang der Meldung der Störung – sofern die Meldung innerhalb der Servicezeiten erfolgt – beheben (Behebungszeit). Sofern absehbar ist, dass eine Behebung der Störung nicht innerhalb dieser Zeitspanne möglich ist, wird er dem Kunde hierüber unverzüglich informieren und die voraussichtliche Überschreitung der Zeitspanne mitteilen.
+(5) Sonstige erhebliche Störungen (Haupt- oder Nebenfunktionen der Software sind gestört, können aber genutzt werden; oder andere nicht nur unerhebliche Störungen) werden spätestens binnen 12 Stunden innerhalb der Servicezeiten behoben (Behebungszeit).
+(6) Die Beseitigung von unerheblichen Störungen liegt im Ermessen des Providers.
+(7) Für jede vollendete Stunde der Unterschreitung der monatlichen Verfügbarkeit der Leistungen verwirkt der Provider eine Vertragsstrafe iHv 100 EUR. Die Vertragsstrafe ist der Höhe nach beschränkt auf 10.000 EUR.
+(8) Etwaige sonstige gesetzliche Ansprüche des Kunden gegen den Provider bleiben unberührt.
+ 
+§ 6 Pflichten des Kunden 
+(1) Der Kunde hat die ihm übermittelten Zugangsdaten dem Stand der Technik entsprechend vor Zugriffen Dritter zu schützen und zu verwahren. Der Kunde wird dafür sorgen, dass eine Nutzung nur im vertraglich vereinbarten Umfang geschieht. Ein unberechtigter Zugriff ist dem Provider unverzüglich mitzuteilen.
+(2) Der Kunde ist verpflichtet, auf dem zur Verfügung gestellten Speicherplatz keine Daten abzulegen, deren Nutzung gegen geltendes Recht, behördliche Anordnungen, Rechte Dritter oder Vereinbarungen mit Dritten verstößt.
+(3) Der Kunde wird die Daten vor deren Ablage oder Nutzung in der Software auf Viren oder sonstige schädliche Komponenten prüfen und hierfür dem Stand der Technik entsprechende Maßnahmen (zB Virenschutzprogramme) einsetzen.
+(4) Der Kunde hat in eigener Verantwortung regelmäßig angemessene Datensicherungen vorzunehmen.
+ 
+§ 7 Gewährleistung 
+(1) Hinsichtlich der Gewährung der Nutzung der Software sowie der Zurverfügungstellung von Speicherplatzes gelten die Gewährleistungsvorschriften des Mietrechts ( §§ 535 ff. BGB).
+(2) Der Kunde hat dem Provider jegliche Mängel unverzüglich anzuzeigen.
+(3) Die Gewährleistung für nur unerhebliche Minderungen der Tauglichkeit der Leistung wird ausgeschlossen. Die verschuldensunabhängige Haftung gem. § 536a Abs. 1 BGB für Mängel, die bereits bei Vertragsschluss vorlagen, ist ausgeschlossen.
+ 
+§ 8 Haftung
+(1) Die Parteien haften unbeschränkt bei Vorsatz, grober Fahrlässigkeit sowie bei schuldhafter Verletzung von Leben, Körper oder Gesundheit.
+(2) Unbeschadet der Fälle unbeschränkter Haftung gemäß § 8 (1) haften die Parteien einander bei leicht fahrlässiger Pflichtverletzung nur bei Verletzung wesentlicher Vertragspflichten, also Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht oder deren Verletzung die Erreichung des Vertragszwecks gefährdet und auf deren Einhaltung die andere Partei regelmäßig vertrauen darf, allerdings beschränkt auf den bei Vertragsschluss vorhersehbaren, vertragstypischen Schaden.
+(3) Die vorstehenden Haftungsbeschränkungen gelten nicht für die Haftung nach dem Produkthaftungsgesetz sowie im Rahmen schriftlich von einer Partei übernommener Garantien.
+(4) § 8 gilt auch zu Gunsten von Mitarbeitern, Vertretern und Organen der Parteien. 
+ 
+§ 9 Rechtsmängel; Freistellung
+(1) Der Provider gewährleistet, dass die Software keine Rechte Dritter verletzt. Der Provider wird dem Kunden von allen Ansprüchen Dritter wegen von ihm zu vertretender Schutzrechtsverletzungen im Zusammenhang mit der vertragsgemäßen Nutzung der Software auf erstes Anfordern hin freistellen sowie die Kosten einer angemessenen Rechtsverfolgung ersetzen. Der Kunde wird den Provider unverzüglich über Ansprüche von Dritten, die diese aufgrund der vertragsgemäßen Nutzung der Software gegen ihn geltend machen, informieren und ihm sämtliche erforderlichen Vollmachten erteilen und Befugnisse einräumen, um die Ansprüche zu verteidigen.
+(2) Der Kunde sichert zu, dass die auf den Servern des Providers abgelegten Inhalte und Daten sowie dessen Nutzung und Bereitstellung durch den Provider, nicht gegen geltendes Recht, behördliche Anordnungen, Rechte Dritter oder Vereinbarungen mit Dritten verstoßen. Der Kunde wird den Provider von Ansprüchen, die Dritte aufgrund eines Verstoßes gegen diese Ziffer geltend machen, auf erstes Anfordern freistellen.
+ 
+§ 10 Vergütungs- und Zahlungsbedingungen 
+(1) Der Kunde hat monatlich ein Entgelt iHv 6.000 EUR an den Provider zu zahlen. Vom Provider nach § 5 (7) verwirkte Vertragsstrafen werden automatisch monatlich mit dem zu zahlenden Entgelt verrechnet.
+(2) Das monatlich zu zahlende Entgelt wird bei Änderungen in der Anzahl der Nutzer oder des Speicherplatzvolumens gemäß den Konditionen in der Anlage 1 angepasst.
+(3) Die Rechnungsstellung erfolgt monatlich. Die Rechnung ist innerhalb von 14 Werktagen zur Zahlung fällig.
+ 
+§ 11 Vertragslaufzeit und Beendigung 
+(1) Der Vertrag tritt am 01.12.2025 in Kraft und wird auf unbestimmte Zeit geschlossen.
+(2) Der Vertrag kann von beiden Parteien mit einer Kündigungsfrist von 3 Monaten zum Monatsende gekündigt werden.
+(3) Das Recht zur fristlosen Kündigung aus wichtigem Grund bleibt unberührt. Die Kündigung bedarf in jedem Fall der Schriftform.
+(4) Der Provider wird dem Kunden auf eigene Kosten nach Beendigung des Vertrags angemessen bei der Rückübertragung oder Sicherung der Daten unterstützen.
+(5) Der Provider wird sämtliche auf seinen Servern verbleibenden Daten des Kunden 30 Tage nach Beendigung des Vertragsverhältnisses unwiederherstellbar löschen. Ein Zurückbehaltungsrecht oder Pfandrechte an den Daten zugunsten des Providers bestehen nicht.   
+ 
+§ 12 Datenschutz; Geheimhaltung
+(1) Die Parteien werden die für sie jeweils geltenden anwendbaren datenschutzrechtlichen Bestimmungen einhalten.
+(2) Sofern und soweit der Provider im Rahmen der Leistungserbringung Zugriff auf personenbezogene Daten des Kunden hat, werden die Parteien vor Beginn der Verarbeitung einen entsprechenden Auftragsverarbeitungsvertrag abschließen und diesem Vertrag als Anlage beifügen. In diesem Fall wird der Provider die entsprechenden personenbezogenen Daten allein nach den dort festgehaltenen Bestimmungen und nach den Weisungen des Kunden verarbeiten.
+(3) Der Provider verpflichtet sich, über alle vertraulichen Informationen (einschließlich Geschäftsgeheimnissen), die er im Zusammenhang mit diesem Vertrag und dessen Durchführung erfährt, Stilschweigen zu bewahren und diese nicht gegenüber Dritten offenzulegen, weiterzugeben oder auf sonstige Art zu verwenden. Vertrauliche Informationen sind dabei solche, die als vertraulich gekennzeichnet sind oder deren Vertraulichkeit sich aus den Umständen ergibt, unabhängig davon, ob sie in schriftlicher, elektronischer, verkörperter oder mündlicher Form mitgeteilt worden sind. Die Geheimhaltungsverpflichtung gilt nicht, soweit der Provider gesetzlich oder aufgrund bestands- bzw. rechtskräftiger Behörden- oder Gerichtsentscheidung zur Offenlegung der vertraulichen Information verpflichtet ist. Der Provider verpflichtet sich, mit allen Mitarbeitern und Subunternehmern eine den vorstehenden Absatz inhaltgleiche Regelung zu vereinbaren.
+ 
+§ 13 Schlussbestimmungen
+(1) Sollten einzelne Regelungen dieses Vertrags unwirksam oder nicht durchführbar sein, bleibt die Wirksamkeit der übrigen Regelungen hiervon unberührt. Die Parteien werden solche Regelungen durch wirksame und durchführbare Regelungen ersetzen, die dem Sinn und wirtschaftlichen Zweck sowie dem Willen der Parteien bei Vertragsschluss möglichst gleichkommen. Entsprechendes gilt im Falle einer Vertragslücke.
+(2) Mündliche oder schriftliche Nebenabreden zu diesem Vertrag bestehen nicht. Änderungen dieses Vertrags und seiner Anlagen bedürfen der Schriftform.
+(3) Es gilt deutsches Recht unter Ausschluss der kollisionsrechtlichen Bestimmungen und des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenverkauf vom 11.4.1980 (UN-Kaufrecht).
+(4) Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist Fantasieburg. 
+ 

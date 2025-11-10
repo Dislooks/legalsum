@@ -1,0 +1,143 @@
+{
+  "description": "Vordefinierte Experiment-Konfigurationen für verschiedene Szenarien",
+  
+  "quick_test": {
+    "name": "Quick Test",
+    "description": "Schneller Test mit 1 Modell und wenigen Parametern",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0.2, 0.5],
+    "top_k": [50],
+    "top_p_values": [0.9],
+    "evaluate": true,
+    "use_llm_judge": false,
+    "document_type": "court_ruling"
+  },
+  
+  "pilot_study": {
+    "name": "Pilot Study",
+    "description": "Kleine Pilotstudie zur Validierung der Pipeline",
+    "models": ["mistral-medium-2505", "Llama-4-Scout-17B-16E-Instruct"],
+    "temperatures": [0.5],
+    "top_k": [50],
+    "top_p_values": [0.9],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "court_ruling"
+  },
+  
+  "model_validation_contract": {
+    "name": "Model Validation",
+    "description": "Vergleich aller Modelle mit Standard-Parametern",
+    "models": ["gpt-oss-120b", "Llama-4-Scout-17B-16E-Instruct", "mistral-medium-2505"],
+    "temperatures": [0.4],
+    "top_k": [50],
+    "top_p_values": [0.9],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "contract"
+  },
+
+  "model_validation_court_ruling": {
+    "name": "Model Validation",
+    "description": "Vergleich aller Modelle mit Standard-Parametern",
+    "models": ["gpt-oss-120b", "Llama-4-Scout-17B-16E-Instruct", "mistral-medium-2505"],
+    "temperatures": [0.4],
+    "top_k": [50],
+    "top_p_values": [0.9],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "court_ruling"
+  },
+  
+  "greedy_sampling_contract": {
+    "name": "Conservative Configuration",
+    "description": "Fokussierte, deterministische Zusammenfassungen",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0.0],
+    "top_k": [50],
+    "top_p_values": [0.01],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "document_type": "contract"
+  },
+  
+  "creative_config_contract": {
+    "name": "Creative Configuration",
+    "description": "Höhere Variabilität für diverse Formulierungen",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [1.5],
+    "top_k": [50],
+    "top_p_values": [1],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "document_type": "contract"
+  },
+
+  "greedy_sampling_court_ruling": {
+    "name": "Conservative Configuration",
+    "description": "Fokussierte, deterministische Zusammenfassungen",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0],
+    "top_k": [50],
+    "top_p_values": [0.01],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "document_type": "court_ruling"
+  },
+  
+  "creative_config_court_ruling": {
+    "name": "Creative Configuration",
+    "description": "Höhere Variabilität für diverse Formulierungen",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [1.5],
+    "top_k": [50],
+    "top_p_values": [1],
+    "repetition_penalty": 1.0,
+    "evaluate": true,
+    "use_llm_judge": true,
+    "document_type": "court_ruling"
+  },
+  
+  "contract_experiment": {
+    "name": "Contract Experiment",
+    "description": "Hauptexperiment Vertragszusammenfassung",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0.1, 0.3, 0.6],
+    "top_k": [50],
+    "top_p_values": [0.5, 0.75, 0.95],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "contract"
+
+  },
+
+  "court_ruling_experiment": {
+    "name": "Rulings Experiment",
+    "description": "Hauptexperiment Urteilsszusammenfassung",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0.1, 0.3, 0.6],
+    "top_k": [50],
+    "top_p_values": [0.5, 0.75, 0.95],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "court_ruling"
+  },
+
+  "court_ruling_experiment_large": {
+    "name": "Rulings Experiment",
+    "description": "Nachexperiment Urteilsszusammenfassung",
+    "models": ["gpt-oss-120b"],
+    "temperatures": [0.1, 0.3, 0.6],
+    "top_k": [50],
+    "top_p_values": [0.5, 0.75, 0.95],
+    "evaluate": true,
+    "use_llm_judge": true,
+    "include_manual_evaluation": true,
+    "document_type": "court_ruling"
+  }
+}

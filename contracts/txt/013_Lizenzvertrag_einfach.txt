@@ -1,0 +1,153 @@
+Lizenzvertrag nicht ausschließliche (einfache) Lizenz
+
+zwischen
+Mondschein Innovations AG, Sternenweg 99, 12345 Fantasieburg Deutschland 
+(nachfolgend: „Lizenzgeber”)
+und
+Regenbogen Technologie GmbH, Wolkenallee 77, 98765 Traumstadt Deutschland 
+(nachfolgend: „Lizenznehmer”)
+ 
+Präambel
+(1) Der Verkäufer ist alleiniger und verfügungsbefugter Inhaber des Europäischen Patents Nr. 15329. Das Patent wurde am 01.12.2024 angemeldet (Im Folgenden „Patent“).
+ 
+(2) Der Verkäufer verfügt des Weiteren über technisches Know-how, das die Optimierung von Kühlsystemen in Hochleistungs-Laserschneidanlagen mittels adaptiver Temperaturregelung und Wärmerückgewinnungstechnologie betrifft (Im Folgenden „Vertrags-Konw-how“).
+ 
+Auf dieser Grundlage vereinbaren der Lizenzgeber und der Lizenznehmer Folgendes:
+ 
+§ 1 Vertragsgegenstand
+(1) Vertragsschutzrecht ist das Europäischen Patents Nr. 15329. Das Patent wurde am 01.12.2024 angemeldet(,,Vertragsschutzrecht‘‘).
+(2) Vertrags-Know-how ist die Gesamtheit geheimer und durch Erfahrung gewonnener technischer Kenntnisse des Lizenzgebers auf dem Gebiet Optimierung von Kühlsystemen in Hochleistungs-Laserschneidanlagen mittels adaptiver Temperaturregelung und Wärmerückgewinnungstechnologie (,,Vertrags-Know-how‘‘).
+(3) Gegenstand des Vertrags ist das Vertragsschutzrecht und das Vertrags-Know-how.
+ 
+§ 2 Lizenzerteilung
+(1) Der Lizenzgeber erteilt dem Lizenznehmer das Recht, von der Lehre des Vertragsschutzrechts und des Vertrags-Know-how Gebrauch zu machen (,,Nutzung‘‘). Dieses Recht umfasst insbesondere alle in §§ 9 , 10 PatG genannten Nutzungsarten.
+(2) Die Lizenz erstreckt sich auf den gesamten Anwendungsbereich des Vertragsschutzrechts und des Vertrags-Know-how, einschließlich technischer Weiterentwicklungen/Die Lizenz beschränkt sich auf das technische Gebiet (z. B. der stationären Fräsmaschinen, unter Ausschluss der handgeführten Fräsmaschinen).
+(3) Als unter die Lizenz fallender Gegenstand (,,Lizenzprodukt'') gilt
+a) die im Anhang 1 beschriebene Fräsmaschine „FräsIX 2000“, und
+b) jeder Gegenstand/jedes Produkt, der/das unter mindestens einen Patentanspruch des Vertragsschutzrechts fällt oder für den/das das Vertrags-Know-how benutzt wird.
+(4) Es handelt sich um eine nicht ausschließliche (einfache) Lizenz, d. h. der Lizenznehmer erwirbt nur ein einfaches Benutzungsrecht am Vertragsgegenstand. Neben dem Lizenznehmer ist der Lizenzgeber weiterhin zur Nutzung des Vertragsgegenstands und zur Vergabe weiterer Lizenzen berechtigt.
+(5) Der Lizenznehmer darf die Lizenz ohne vorherige schriftliche Zustimmung des Lizenzgebers weder ganz noch zum Teil übertragen, noch an Dritte unterlizenzieren.
+ 
+§ 3 Vertragsgebiet
+(1) Die Lizenz hinsichtlich des Vertragsschutzrechts wird für die Bundesrepublik Deutschland erteilt. Die Lizenz hinsichtlich des Know-hows wird weltweit erteilt.
+(2) Die Nutzung des Vertragsgegenstands außerhalb des Vertragsgebietes ist dem Lizenznehmer nicht gestattet.
+ 
+§ 4 Lizenzgebühr
+(1) Der Lizenznehmer zahlt dem Lizenzgeber als Gegenleistung für die Einräumung und Ausübung der Lizenz eine Umsatz-Lizenzgebühr nach Maßgabe von § 4 (2). Umsatz im Sinne dieser Bestimmung sind die Netto-Verkaufspreise abzüglich aller vom Lizenznehmer gewährter, gesondert ausgewiesener Rabatte (Bsp.: Händler- und Barzahlungsrabatte), Kosten für Verpackung und Fracht, etwaiger Verkaufssteuern, Zölle und Versicherungen sowie Skonti und Jahresend-Boni und Provisionen in Bezug auf die Lizenzprodukte.
+(2) Die Lizenzgebühren betragen bei Quartalsumsätzen
+a) bis zu 250.000 EUR 3 %,
+b) bis zu 500.000 EUR 4 %,
+c) bis zu 1.000.000 EUR 5 %,
+d) ab 2.000.000 EUR 7 %.
+(3) Für die Berechnung der Quartalsumsätze nach § 4 (2) ist der Tag der Rechnungsstellung des Lizenznehmers maßgeblich. Zahlungsausfälle beeinflussen die Höhe der Lizenzgebühr nicht.
+(4) Der Lizenznehmer verpflichtet sich zur Zahlung einer Mindestlizenzgebühr. Die Mindestlizenzgebühr beträgt
+a) im ersten Jahr 100.000 EUR,
+b) im zweiten Jahr 120.000 EUR,
+c) im dritten Jahr 130.000 EUR,
+d) ab dem vierte Jahr 140.000 EUR.
+Die Mindestlizenzgebühr wird am … für das zurückliegende Jahr/Quartal fällig. Bereits geleistete Lizenzgebührenzahlungen nach § 4 (1) werden vollumfänglich angerechnet.
+(5) Die Lizenzgebühr ist auf das Konto des Lizenzgebers zuzüglich der gesetzlichen Umsatzsteuer zu zahlen.
+(6) Gezahlte Lizenzgebühren können nicht mit der Begründung zurückverlangt werden, der Lizenznehmer habe sie für einen Umsatz mit Gegenständen gezahlt, die keine Lizenzprodukte darstellen, es sei denn, die Zahlung beruht offensichtlich auf einem Irrtum des Lizenznehmers. Gezahlte Lizenzgebühren sind auch dann nicht erstattungsfähig, auch wenn das Vertragsschutzrecht in einem oder  mehreren Schutzländern rückwirkend vernichtet oder dergestalt eingeschränkt wird, dass ein Lizenzprodukt nicht mehr von dem Vertragsschutzrecht erfasst ist.
+ 
+§ 5 Buchführung
+(1) Der Lizenznehmer muss über die Nutzung gesondert Buch führen. Aus der Buchführung müssen die genaue Anzahl der Lizenzprodukte, die Empfänger und Lieferdaten, der Zeitpunkt und Art der Nutzung, die Registriernummer, das Rechnungsdatum und die Rechnungsnummer, die Preisgestaltung sowie sonstige wesentliche Umstände, wie sie sich aus § 4 (1) ergeben (Bsp.: gewährte Rabatte, Provisionen, etc.), ersichtlich sein.
+(2) Der Lizenzgeber darf zwei Mal pro Jahr die Richtigkeit der Buchführung durch einen zur Berufsverschwiegenheit verpflichteten Dritten (Rechtsanwalt, Buchprüfer) auf seine Kosten prüfen lassen. Sollten bei der Prüfung Unrichtigkeiten in der Buchführung (Abweichungen zu Lasten des Lizenzgebers von mehr als 15.000 EURO) aufgedeckt werden, trägt der Lizenznehmer, die Kosten der Überprüfung.
+ 
+§ 6 Abrechnung und Zahlung
+(1) Der Lizenznehmer hat über die Lizenzgebühr vierteljährlich innerhalb eines Monats nach jedem Abrechnungszeitraum abzurechnen. Dabei übergibt der Lizenznehmer dem Lizenzgeber als Nachweis über die erzielten Umsätze, eine Kopie der jeweiligen Rechnungen über die veräußerten Lizenzprodukte; der Name des Rechnungsempfängers darf dabei geschwärzt werden. Innerhalb des gleichen Zeitraumes hat der Lizenznehmer die fällige Lizenzgebühr auf das Konto des Lizenzgebers zu überweisen. Die Überweisung erfolgt in der Währung des Landes, in dem der Lizenzgeber seinen Sitz hat. Sämtliche Überweisungskosten gehen zu Lasten des Lizenznehmers. Als Wechselkurs gilt der letzte Tag des jeweiligen Abrechnungsquartals.
+(2) Ab dem Fälligkeitstag werden Verzugszinsen in Höhe von 8 % über dem jeweiligen Diskontsatz der Europäischen Zentralbank berechnet, ohne dass es einer Mahnung bedarf. Höhere Zinsen können bei Nachweis berechnet werden.
+(3)  Stimmt der Lizenzgeber einer Unterlizenzierung zu, muss der Lizenznehmer dem Lizenzgeber eine Abrechnung über die Umsätze des/der Unterlizenznehmer(s) vorlegen und die sich aus § 4 ergebende Lizenzgebühr an den Lizenzgeber zahlen. Er wird dann so behandelt, als würde er das Lizenzprodukt selber vertreiben.
+ 
+§ 7 Ausübungspflicht
+(1) Der Lizenznehmer ist verpflichtet, die Lizenz den Vertragsbestimmungen entsprechend bestmöglich auszuüben. Der Lizenznehmer muss die Herstellung des  Lizenzprodukts bis spätestens zum 12.12.2025 aufnehmen.
+ 
+§ 8 Qualitätsvorgaben und Qualitätskontrolle
+(1) Der Lizenznehmer muss den Lizenzgegenstand in der gleichen Qualität wie der Lizenzgeber herstellen.
+(2) Die Mindeststandards für die Lizenzprodukte und sonstige Qualitätsvorgaben des Lizenzgebers ergeben sich aus der Anlage 2, die Bestandteil dieses Vertrags ist. Der Lizenznehmer ist verpflichtet diese Vorschriften einzuhalten.
+(3) Der Lizenzgeber darf die Einhaltung der Mindeststandards und der Qualitätsvorgaben überwachen und zwei Mal im Jahr Qualitätskontrollen der Herstellung der Lizenzprodukte durchführen.
+(4) Ergibt die Qualitätskontrolle, dass nach Auffassung des Lizenzgebers das Lizenzprodukt nicht die vorgegebenen Mindeststandards einhält, ist der Lizenzgeber berechtigt, den Lizenznehmer aufzufordern, die Qualitätsvorgaben einzuhalten. Kommt der Lizenznehmer dieser Pflicht innerhalb einer angemessenen Frist nicht nach, kann der Lizenzgeber den Vertrieb dieses Lizenzprodukts untersagen.
+(5) Gegenüber Ansprüchen Dritter aus Produkthaftung stellt der Lizenznehmer den Lizenzgeber frei. Dasselbe gilt für Werbebehauptungen des Lizenznehmers über das lizenzierte Produkt.
+ 
+§ 9 Unterstützung
+(1) Der Lizenzgeber wird dem Lizenznehmer Fachpersonal im Umfang von 200 Mannstunden innerhalb eines Zeitraumes von … Monaten zur Verfügung stellen, das die Fertigung einrichtet und anfangs überwacht. Der Lizenzgeber trägt die Reisekosten, sowie die Kosten für Kost und Logis. Dafür zahlt der Lizenznehmer dem Lizenzgeber eine Pauschale von 10.000 EUR.
+(2) Die dem Lizenzgeber zur Verfügung gestellten Materialien und Unterlagen bleiben auch nach Übergabe an den Lizenznehmer Eigentum des Lizenzgebers und sind daher unverzüglich und vollständig nach Vertragsbeendigung zurückzugeben.
+ 
+§ 10 Herstellungs- und Vertriebsgenehmigung
+(1) Soweit geboten, wird der Lizenzgeber den Lizenznehmer informieren, ob und inwieweit im Vertragsgebiet die Nutzung der Lizenzprodukte einer Genehmigung bedarf.
+(2) Falls die Lizenzprodukte im Vertragsgebiet ganz oder teilweise nicht ohne Genehmigung genutzt werden dürfen, ist es Angelegenheit des Lizenznehmers, die Genehmigung zu erwirken und alle dafür erforderlichen Vorkehrungen und Maßnahmen zu treffen. Ohne eine notwendige Genehmigung darf der Lizenznehmer die Lizenzprodukte in den betreffenden Gebieten nicht nutzen.
+(3) Der Lizenzgeber wird den Lizenznehmer soweit wie möglich im Rahmen des Genehmigungsverfahrens unterstützen. Er haftet nicht für die Versagung der Genehmigung.
+(4) Der Lizenznehmer übermittelt dem Lizenzgeber eine Kopie des Antrags auf Genehmigung und der Genehmigungserteilung durch die jeweils zuständige nationale Behörde.
+(5) Sollte die Genehmigung spätestens 2 Jahre nach Abschluss dieses Vertrags nicht vorliegen, obwohl der Lizenznehmer alle hierfür erforderlichen Anstrengungen unternommen hat, kann der Lizenznehmer den Lizenzvertrag mit sofortiger Wirkung kündigen.
+ 
+§ 11 Geheimhaltung
+(1) Der Lizenznehmer ist verpflichtet, das Vertrags-Know-how geheim zu halten. Der Lizenzgeber soll die entsprechenden Dokumente als geheim kennzeichnen.
+(2) Der Lizenznehmer muss auch seine Mitarbeiter und Lieferanten entsprechend zur Geheimhaltung verpflichten. Die Geheimhaltungsverpflichtung für die Mitarbeiter und Lieferanten des Lizenznehmers muss diesen auch für die Zeit nach Beendigung ihres jeweiligen Vertrags in einem rechtlich zulässigen Umfang auferlegt werden. Der Lizenznehmer erstellt eine Liste mit allen Personen, die Kenntnis vom Vertrags-Know-how haben.
+(3) Der Lizenznehmer muss alle Unterlagen, die im Zusammenhang mit dem Vertrags-Know-how stehen, vor dem Zugriff Unbefugter sichern und gesichert aufbewahren.
+(4) Die Geheimhaltungspflicht des Lizenznehmers gilt auch nach Vertragsbeendigung fort und endet 4 Jahre nach Vertragsende.
+(5) Die Geheimhaltungspflicht erstreckt sich nicht auf offenkundiges und offenkundig gewordenes sowie anderweitig rechtmäßig erworbenes Vertrags-Know-how, auf Vertrags-Know-how, das dem Vertragspartner schon vor Kundgabe erwiesenermaßen bekannt war oder ohne Verschulden des Lizenznehmers Dritten bekannt wurde.
+(6) Die Parteien verpflichten sich, nach Beendigung des Lizenzvertrages, Unterlagen, welche von der jeweils anderen Partei erhalten wurden und zu diesem Zeitpunkt noch geheime Informationen beinhalten, zurückzugeben.
+(7) Der Lizenzgeber ist verpflichtet, auch anderen Lizenznehmern, d. h. Lizenznehmern für andere Vertragsgebiete, die gleichen Geheimhaltungsverpflichtungen aufzuerlegen wie dem Lizenznehmer dieses Vertrags.
+ 
+§ 12 Werbemaßnahmen
+(1) Der Lizenznehmer ist verpflichtet, den Vertrieb der Lizenzprodukte im Vertragsgebiet angemessen zu bewerben und dafür jährlich 1 % des Jahresumsatzes nach § 4 (2) als Werbungskosten aufwenden. Geeignete Werbemaßnahmen sind beispielsweise die Schaltung von Anzeigen in relevanten Fachzeitschriften, Ausstellung auf relevanten Messen, ohne hierauf beschränkt zu sein.
+(2) Der Lizenznehmer wird den Lizenzgeber zwei Mal im Jahr unaufgefordert über Umfang, Inhalt und Kosten informieren.
+ 
+§ 13 Kennzeichnungspflicht
+(1) Der Lizenznehmer ist verpflichtet, alle von ihm hergestellten Lizenzprodukte mit der Kennzeichnung des Wortlauts „hergestellt unter Lizenz der Firma Mondschein Innovations AG und mit einer dauerhaft lesbaren, fortlaufenden Nummer zu versehen. 
+
+§ 14 Veränderung und Weiterentwicklung durch den Lizenznehmer
+(1) Der Lizenznehmer kann die Lizenzprodukte weiterentwickeln. Er ist zur Weiterentwicklung aber nicht verpflichtet.
+(2) Sollte der Lizenznehmer die Lizenzprodukte weiterentwickeln, hat er den Lizenzgeber hierüber schriftlich zu informieren.
+(3) Wird durch die Weiterentwicklung durch den Lizenznehmer eine schutzrechtsfähige Erfindung geschaffen, kann der Lizenznehmer diese in Ländern seiner Wahl selbst anmelden und an Dritte überlassen, sofern das Geheimhaltungserfordernis dadurch nicht verletzt wird.
+ 
+§ 15 Veränderungen und Weiterentwicklung durch den Lizenzgeber
+(1) Der Lizenzgeber kann die Lizenzprodukte weiterentwickeln. Er ist hierzu aber nicht verpflichtet.
+(2) Sollte der Lizenzgeber die Lizenzprodukte verbessern und weiterentwickeln, hat er den Lizenznehmer hierüber schriftlich zu informieren. Dies gilt auch, wenn die Verbesserung und die Weiterentwicklung zu einer neuen Patentanmeldung führen.
+(3)  Werden die Weiterentwicklungen durch den Lizenzgeber als Schutzrecht angemeldet oder werden darauf Schutzrechte erwirkt, ist der Lizenzgeber verpflichtet, dem Lizenznehmer hieran eine Lizenz anzubieten. Der Umfang dieser Lizenz  ergibt im Übrigen sich aus §§ 1 – 3. Nimmt der Lizenznehmer das Angebot an, so erhöht sich die Lizenzgebühr entsprechend um einen angemessenen Betrag. Will der Lizenznehmer die Lizenz ablehnen, muss die Ablehnung schriftlich innerhalb 3 Wochen ab Bekanntgabe der Anmeldung der Weiterentwicklung als Schutzrecht erfolgen.
+(4) Zur Sicherung einer einheitlichen Verbesserung und Weiterentwicklung der Lizenzprodukte legt der Lizenzgeber seinen sonstigen Lizenznehmern die gleichen Verpflichtungen auf wie dem Lizenznehmer dieses Vertrags.
+ 
+§ 16 Gewährleistung
+(1) Der Lizenzgeber erklärt, dass
+(a) er allein berechtigt ist, über das Vertragsschutzrecht zu verfügen;
+(b) ihm keine Rechte Dritter bekannt sind, die der Einräumung der Lizenz entgegenstehen würden; ferner
+(c) ihm keine Rechtsmängel am Vertragsschutzrecht, eine Abhängigkeit von Schutzrechten Dritter sowie Sachmängel der Erfindung bekannt sind.
+(2) Eine Haftung besteht nur, wenn der Lizenzgeber bei Vertragsschluss positive Kenntnis von der Unrichtigkeit der in (a)-(c) genannten Umstände hat oder seine Unkenntnis der Unrichtigkeit auf grobe Fahrlässigkeit beruht. 
+(3) Eine darüber hinausgehende Haftung  übernimmt der Lizenzgeber nicht. Er haftet insbesondere nicht für die technische Brauchbarkeit oder kaufmännische Verwertbarkeit der Erfindung, für eine sonstige Rechts- und Sachmängelfreiheit, sowie für die Vollständigkeit der Unterlagen gemäß § 1 (2) dieses Vertrags, soweit diese Unterlagen nicht in Anlage 1 zu diesem Vertrag aufgeführt sind.
+ 
+§ 17 Aufrechterhaltung des Vertragsschutzrechtes und Verzicht auf das Vertragsschutzrecht
+(1) Der Lizenzgeber wird das Vertragsschutzrecht für die Dauer des Vertrags auf eigene Kosten aufrechterhalten.
+(2) Verzichtet der Lizenzgeber ganz oder teilweise auf das Vertragsschutzrecht, ist er verpflichtet, dieses zunächst dem Lizenznehmer zur unentgeltlichen Übernahme anzubieten. Die Zahlung der Lizenzgebühr bleibt hiervon unberührt.
+ 
+§ 18 Verteidigung des Vertragsschutzrechts
+(1) Der Lizenzgeber und der Lizenznehmer sind verpflichtet, einander von allen Verletzungen des Vertragsschutzrechts im Vertragsgebiet zu unterrichten.
+(2) Der Lizenzgeber ist ferner verpflichtet, geeignete Maßnahmen zu ergreifen, um Verletzungen des Vertragsschutzrechts, des Vertrags-Know-how oder Angriffe auf den Rechtsbestand des Vertragsschutzrechts zu unterbinden und wenn nötig Klage zu erheben. Er hat den Lizenznehmer darüber zu informieren. Es steht dem Lizenznehmer frei, den Lizenzgeber zu unterstützen und sich somit an dem Rechtsstreit zu beteiligen. Die Kosten des Rechtsstreits trägt der Lizenzgeber.
+ 
+§ 19 Vertragsdauer
+(1) Der Vertrag tritt mit Unterzeichnung beider Parteien in Kraft.
+(2) Der Vertrag endet am 01.01.2027, spätestens aber mit Ablauf der Schutzfrist für das Vertragsschutzrecht.
+ 
+§ 20 Kündigung aus wichtigem Grund
+(1) Der Lizenzgeber ist berechtigt, den Vertrag vor Ende der vereinbarten Vertragsdauer fristlos aus wichtigem Grund zu kündigen. Ein wichtiger Grund liegt insbesondere vor, wenn der Lizenznehmer trotz vorheriger Abmahnung mit angemessener Fristsetzung
+(a) den Vertragsgegenstand ( § 1) außerhalb des Vertragsgebietes nutzt,
+(b) die Geheimhaltungsverpflichtung verletzt, oder
+(c) nicht rechtzeitig oder unvollständig über die geschuldeten Lizenzgebühren Abrechnung erteilt.
+ 
+§ 21 Kündigungsrecht des Lizenznehmers
+Der Lizenznehmer kann den Lizenzvertrag vor Ende der vereinbarten Vertragsdauer zum Ende des laufenden Kalenderjahres mit einer Frist von 6 Monaten kündigen.
+ 
+§ 22 Change of Control
+(1) Im Falle einer Änderung der Kontroll- oder Mehrheitsverhältnisse bei einer der Parteien, hat die betroffene Partei dies der jeweils anderen unverzüglich mitzuteilen. Eine Änderung der Kontroll- bzw. Mehrheitsverhältnisse liegt vor, wenn 12,5 % der Anteilsrechte einer Partei auf einen Dritten übertragen werden oder eine Änderung der Beteiligungsverhältnisse durch Überschreitung der Beteiligungshöhe von 26 %eines Gesellschafters vorliegt.
+(2) Der nicht betroffenen Partei steht aufgrund der Änderung der Kontroll- und Mehrheitsverhältnisse der anderen Partei ein Recht zur fristlosen Kündigung zu, soweit dies nach Abwägung der Interessen der Vertragsparteien angemessen ist. 
+ 
+§ 23 Anzuwendendes Recht, Erfüllungsort und Gerichtsstand
+(1) Auf den Lizenzvertrag findet deutsches Recht Anwendung.
+(2) Erfüllungsort ist der Sitz des Lizenznehmers.
+(3) Ausschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag und seiner Durchführung ist Fantasieburg.
+ 
+§ 24 Schriftform
+(1) Die Parteien sind sich darüber einig, dass außerhalb dieses Vertrags keine Nebenabreden getroffen wurden.
+(2) Änderungen, Ergänzungen und Zusätze dieses Vertrags bedürfen der Schriftform unter ausdrücklicher Bezugnahme auf diesen Vertrag.
+(3) Das Schriftformerfordernis kann selbst auch nur schriftlich abbedungen werden.
+ 
+§ 25 Salvatorische Klausel
+Sollten einzelne Bestimmungen dieses Vertrags unwirksam sein oder werden, berührt das die Wirksamkeit des Vertrags im Übrigen nicht. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen am nächsten kommt. Entsprechendes gilt im Falle einer Vertragslücke.
