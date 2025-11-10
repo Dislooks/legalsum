@@ -1,0 +1,19 @@
+Sachverhalt
+Der Kläger erwarb im Dezember 2011 bei einem Händler einen Neuwagen Pkw Audi Q5 2.0 TDI zum Preis von 54.000 Euro. Das Fahrzeug ist mit einem Dieselmotor der Baureihe EA 189 ausgestattet, den die Beklagte der Pkw-Herstellerin lieferte. Die dort enthaltene Abschalteinrichtung wurde bekanntlich im Jahr 2015 als unzulässige Manipulation des Schadstoffausstoßes und arglistige Täuschung der Motor-Herstellerin entlarvt, woraus sich der sog. Dieselskandal entwickelte, von dem nun auch der Kläger betroffen war. Er verlangte von der Herstellerin des Motors Schadenersatz. Seine Klage reichte er jedoch erst im Jahr 2020 beim LG ein.
+
+Die Beklagte erhob die Einrede der Verjährung, der Kläger hielt dagegen, ihm falle hinsichtlich der Fristversäumnis keine grobe Fahrlässigkeit zu Last. Diese Auffassung wurde vom LG und nach Berufungseinlegung auch vom OLG geteilt, so dass die Klage in den beiden ersten Instanzen weitgehend Erfolg hatte.
+
+Aufgrund der vom OLG zugelassenen Revision der Beklagten wurde das Urteil aufgehoben und die Klage abgewiesen.
+
+Entscheidung
+Der erste Teil des Urteils befasst sich natürlich mit der Verjährungsfrage, da der BGH in ständiger Rechtsprechung Schadenersatzansprüche der streitgegenständlichen Art mit Ablauf des Jahres 2019 als verjährt ansieht, wenn der Anspruchsberechtigte in Folge grober Fahrlässigkeit diese Frist ohne unterbrechende Klagerhebung verstreichen ließ.
+
+Der Einwand, grobe Fahrlässigkeit sei nicht gegeben, bleibt meist erfolglos, nachdem auch der BGH in seinen Entscheidungen regelmäßig wenig Nachsicht zeigte, angesichts des Umstandes, dass der Skandal bereits in den letzten Monaten des Jahres 2015 unübersehbar Wellen schlug, die Hersteller in die Offensive trieb und die Medien permanent beschäftigte. Dies alles wird in dem Urteil kurz referiert und dem Kläger vorgehalten. Den Streit der Parteien, ob eine schriftliche Information der AUDI AG dem Kläger erst im Januar 2017 oder bereits im Vorjahr zugegangen sei, hielt der BGH für unerheblich und blieb auch insoweit seiner Linie treu. Unter den gegebenen Umständen hätte sich der Kläger rechtzeitig kümmern und sich über die Betroffenheit auch seines Fahrzeugs selbst Gewissheit verschaffen müssen. Der Senat verneinte außerdem die Treuwidrigkeit der Verjährungseinrede gem. § 242 BGB.
+
+Interessanter sind die Ausführungen des Senats im zweiten Teil des Urteils zur Anwendbarkeit des § 852 S. 1 BGB in den Fällen, in denen eine Konzerntochter den Neuwagen herstellt und über ihr Händlernetz verkauft, während die Konzernmutter – hier die Beklagte – nur den Motor beigesteuert hat. Entscheidend sei immer dass der Vermögenszuwachs beim Schädiger auf dem Vermögensverlust des Geschädigten beruhen muss. Eine solche Vermögensverschiebung könne auch durch Dritte vermittelt worden sein.
+
+Daran fehle es, so der Senat, im vorliegenden Fall. Die Konzernmutter habe ihren Gewinn nur durch Entwicklung und Einbau des Motors erzielt. Nur das schlage sich in ihrer Bilanz nieder. Mit dem Inverkehrbringen des Fahrzeugs durch die Tochtergesellschaft bzw. die Weiterveräußerung durch einen Händler habe sie dagegen nichts zu tun, insbesondere keinen Vermögensvorteil auf Kosten des Klägers erlangt. Die Rechtsverbindungen innerhalb eines Konzerns, etwa Gewinnabführungsverträge, vermögen daran nichts zu ändern. Es handele sich um zwei getrennt zu betrachtende Vorgänge mit unterschiedlichen Beteiligten, bei denen eine „Vermögensverschiebung“ nicht stattfinde.
+
+Deshalb merke man sich den Schlusssatz des BGH:
+
+„Die Tatbestandsvoraussetzung der Schadenersatzhaftung ist von der Frage zu trennen, ob der Schädiger durch die unerlaubte Handlung selbst etwas im Sinne von § 852 S. 1 BGB auf Kosten des Geschädigten erlangt hat“.

@@ -1,0 +1,15 @@
+Sachverhalt
+Die Klägerin verlangt Schadenersatz und Abmahnkosten. Die Beklagte habe ein Computerspiel der Klägerin über ihren von der 1&1 Internet AG bereitgestellten Festnetzanschluss in einer Tauschbörse im Internet zum Herunterladen angeboten. Die Beklagte meint, die Klägerin habe ihre Identität auf unrechtmäßige Weise erfahren.
+
+Das LG Köln gestattete der Deutschen Telekom, der Klägerin die Namen und Anschriften der Nutzer mitzuteilen, die zu bestimmten Zeiten den IP-Adressen in einer von der Klägerin vorgelegten zuzuordnen waren. Daraufhin erteilte die Deutsche Telekom AG der Klägerin Auskunft über die Benutzerkennung und den Umstand, dass es sich um eine der 1&1 Internet AG zugewiesene Kennung handelte. Nunmehr erteilte die 1&1 Internet AG ohne besondere richterliche Anordnung der Klägerin Auskunft über Namen und Anschrift der Beklagten.
+
+Das AG wies die Klage ab. Die Berufung der Klägerin blieb ohne Erfolg. Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Beklagte beantragt, verfolgt die Klägerin die mit der Klage geltend gemachten Anträge, mit Ausnahme der Ermittlungskosten, weiter.
+
+Entscheidung
+Die Revision der Klägerin hat Erfolg.
+
+Mit der vom Berufungsgericht gegebenen Begründung könne der mit der Klage geltend gemachte Anspruch auf Schadensersatz gemäß § 97 II 1 iVm §§ 19 a, 69 c Nr. 4 UrhG nicht verneint werden.
+
+Danach unterlag im Streitfall zwar die von der Deutsche Telekom AG als Netzbetreiber erteilte Auskunft dem Vorbehalt richterlicher Anordnung gem. § 101 IX 1 UrhG, nicht aber diejenige des Endkundenanbieters, der 1&1 Internet AG. Die von der Klägerin erlangten Auskünfte könnten daher zum Nachweis der Haftung der Beklagten verwertet werden.
+
+Im Streitfall sei danach mit Blick auf Art. 10 I GG die vom Netzbetreiber vorgenommene Zuordnung einer zu einem bestimmten Zeitpunkt genutzten IP-Adresse zu einer individuellen Benutzerkennung grundrechtsrelevant. Die Auskunft des Endkundenanbieters dazu, welchem Anschlussinhaber eine bestimmte Benutzerkennung zuzuordnen sei, beschränke sich hingegen auf die dem Anordnungserfordernis des § 101 IX UrhG, das nur Verkehrsdaten erfasse, nicht unterfallende Bekanntgabe von Bestandsdaten. Zwar müsse der Auskunft des Endkundenanbieters die Verwendung von Verkehrsdaten durch den Netzbetreiber vorausgehen, weil andernfalls der Anschlussinhaber nicht individualisiert werden könne. Der Endkundenanbieter selbst greife jedoch für seine Auskunft nicht auf Verkehrsdaten zu. Die notwendig vorausgehende Verwendung von Verkehrsdaten durch den Netzbetreiber werde vielmehr durch die im Streitfall vorliegende, unter Beteiligung des Netzbetreibers ergehende Anordnung nach § 101 IX UrhG legalisiert.

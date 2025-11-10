@@ -1,0 +1,27 @@
+1. Problembeschreibung
+Die Entscheidung des XII. Zivilsenats des BGH befasst sich mit der Frage, ob die Erteilung einer Vollmacht für Sorgerechtsentscheidungen die Übertragung der alleinigen Sorge verhindern kann.
+
+Die Kindeseltern sind nicht miteinander verheiratet. Nach der Geburt ihres Sohnes im November 2012 haben die Eltern gemeinsame Sorgerechtserklärungen abgegeben.
+
+Im Jahr 2013 beantragte die Kindesmutter, ihr die elterliche Sorge allein zu übertragen. Das AG übertrug ihr mit Zustimmung des Kindesvaters nur einen Teil des Sorgerechts, und zwar das Aufenthaltsbestimmungsrecht. Im Jahr 2016 beantragte die Kindesmutter erneut die Übertragung der vollständigen elterlichen Sorge. Das Verfahren wurde beendet, nachdem der Kindesvater ihr im Februar 2017 eine gerichtlich protokollierte umfängliche Vollmacht erteilt hatte.
+
+In dem jetzigen Verfahren hat die Kindesmutter abermals beantragt, ihr das gesamte alleinige Sorgerecht zu übertragen. Sie beruft sich darauf, dass es trotz der erteilten Vollmacht zu Schwierigkeiten bei der Vertretung des Kindes gekommen sei. So habe die Kindertagesstätte zur Anmeldung ihre alleinige Erklärung nicht akzeptiert, sondern die persönliche Einwilligung des Kindesvaters verlangt. Dabei habe der Kindesvater – unter Berufung auf die erteilte Vollmacht – nicht mitgewirkt.
+
+Das AG Bad Homburg hat das Sorgerecht insgesamt antraggemäß allein auf die Kindesmutter übertragen. Mit der Beschwerde verwies der Kindesvaters auf die bestehende Vollmacht. Das OLG Frankfurt a. M. folgte dieser Begründung und hat den Antrag der Kindesmutter zurückgewiesen.
+
+Mit Blick auf die verweigerte Mitwirkung hat der BGH die Entscheidung aufgehoben und die Sache an das OLG Frankfurt a. M. zurückverwiesen.
+
+2. Rechtliche Wertung
+Der XII. Zivilsenat hat folgende zwei Fragen entschieden, die bisher höchstrichterlich nicht geklärt waren:
+
+Ist eine Sorgerechtsübertragung gem. § 1671 I BGB durch Erteilung einer Sorgerechtsvollmacht entbehrlich?
+
+In welchen Fällen ist trotz vollumfänglicher Sorgerechtsvollmacht die Übertragung des gesamten Sorgerechts geboten?
+
+Die erste Frage, ob eine Sorgerechtsvollmacht die Sorgerechtsübertragung entbehrlich macht, wird in der Rechtsprechung der Obergerichte und im Schrifttum unterschiedlich beurteilt. Zum Teil wird diese Frage allgemein verneint (OLG Düsseldorf NJOZ 2018, 449 = FamRZ 2018, 693 [694]). Zum Teil wird eine Vollmachtserteilung nur dann als ausreichend angesehen, wenn eine Kommunikations- und Kooperationsfähigkeit zwischen den Eltern besteht (OLG Karlsruhe FamRZ 2015.2178, 2179). Andere verlangen für diese Annahme das Bestehen einer sozialen Beziehung des Kindes zum Elternteil, dass die Vollmacht erteilt (Weber, FamRZ 2019, 1125 [1126]). Andere dagegen verlangen dies nicht (OLG Schleswig, NJW-RR 2012, 520 = FamRZ 2012, 1066).
+
+Der XII. Senat folgt zunächst dem Ansatz unter Berücksichtigung des durch Art. 6 II GG geschützten Elternrechts und unter Hervorhebung des Grundsatzes der Verhältnismäßigkeit, dass die Übertragung des Sorgerechts dann nicht in Betracht kommt, wenn dem Kindeswohl auch durch ein milderes Mittel entsprochen werden kann. Dieses mildere Mittel sieht der BGH grundsätzlich in der Sorgerechtsvollmacht. Entscheidend sei, ob dem bevollmächtigten Elternteil eine ausreichend verlässliche Handhabe zur Wahrnehmung der Kindesbelange zur Verfügung gestellt werde. Das setze eine ausreichende Kooperationsfähigkeit und -bereitschaft der Eltern voraus, soweit eine solche unter Berücksichtigung der durch die Vollmacht erweiterten Handlungsbefugnisse unerlässlich sei.
+
+Dass bei Vorliegen dieser Voraussetzungen eine Übertragung des Sorgerechts unterbleiben muss, folge zwingend aus dem Grundsatz der Verhältnismäßigkeit.
+
+Eine Ausnahme von diesem Grundsatz, dass die Sorgerechtsvollmacht die Sorgerechtsübertragung entbehrlich macht, sei dann angezeigt, wenn diese ausreichend verlässliche Handhabe nicht gewährleistet ist. Dies kann dann anzunehmen sein und damit kommt der Senat zur Beantwortung der 2. Frage, wenn der Kindesvater der notwendigen Mitwirkung – trotz bestehender Vollmacht – nicht nachkommt und diese Mitwirkung ohne weiteres zumutbar ist.

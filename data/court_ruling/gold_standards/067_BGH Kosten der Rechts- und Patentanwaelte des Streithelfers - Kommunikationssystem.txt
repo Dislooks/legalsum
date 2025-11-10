@@ -1,0 +1,17 @@
+Sachverhalt
+Der BGH hat über eine Rechtsbeschwerde gegen einen Kostenfestsetzungsbeschluss in einem Patentverletzungsverfahren zu entscheiden, das die angebliche Verletzung eines europäischen Patents der Klägerin betreffend ein Kommunikationssystem betraf. Die Beklagte zu 1 betrieb ein Mobilfunknetz, die Beklagte zu 2 vermittelte ihr Kunden. Komponenten der Systemarchitektur des Mobilfunknetzes stammten von drei Streithelferinnen.
+
+Das LG Düsseldorf hatte die Klage abgewiesen. In der Berufungsinstanz trat die Streithelferin zu 3 dem Rechtsstreit auf Seiten der Beklagten bei. Berufung und Nichtzulassungsbeschwerde der Klägerin blieben erfolglos. Der BGH erlegte die Kosten des Beschwerdeverfahrens einschließlich der Kosten der Streithelferinnen der Klägerin auf.
+
+Im Kostenfestsetzungsverfahren hat die Streithelferin zu 3 sodann beantragt, zu ihren Gunsten jeweils eine 0,8-fache Verfahrensgebühr nach Nr. 3403 VV-RVG nebst Auslagenpauschale und Zinsen für die Tätigkeit ihrer zweitinstanzlichen Prozessbevollmächtigten sowie des mitwirkenden Patentanwalts im Nichtzulassungsbeschwerdeverfahren festzusetzen.
+
+Das LG hat die Anträge zurückgewiesen. Das OLG hat ihnen auf die sofortige Beschwerde der Streithelferin zu 3 stattgegeben und die Rechtsbeschwerde zugelassen.
+
+Entscheidung
+Der BGH weist die Rechtsbeschwerde der Klägerin als unbegründet zurück.
+
+Zunächst weist der BGH darauf hin, dass im formalisierten Kostenfestsetzungsverfahren die Anforderungen an die Substantiierungslast des Erstattungsgläubigers grundsätzlich nicht über die im Zivilprozess geltenden Grundsätze hinausgehen.
+
+In der Sache führt der BGH aus, dass eine Gebühr nach Nr. 3403 VV-RVG anfällt, wenn ein beim BGH nicht zugelassener Rechtsanwalt im Auftrag des Rechtsbeschwerdegegners die Erfolgsaussichten der Nichtzulassungsbeschwerde prüft und sich sachlich damit auseinandersetzt (BGH NJW-RR 2017, 640 Rn. 4). In Patentstreitsachen könne darüber hinaus eine weitere Gebühr nach Nr. 3403 VV-RVG anfallen, wenn ein Patentanwalt an der Prüfung der Erfolgsaussichten und der sachlichen Auseinandersetzung mit der Nichtzulassungsbeschwerde im Auftrag des Beschwerdegegners mitwirkt (§ 143 III PatG iVm § 13 RVG).
+
+Das gelte in Patentstreitsachen auch dann, wenn Patent- und Rechtsanwalt im Auftrag eines Streithelfers des Beschwerdegegners die Nichtzulassungsbeschwerdebegründung sachlich prüfen, mit ihrem Mandanten erörtern und sich mit den anwaltlichen Vertretern des Beschwerdegegners wegen deren im Nichtzulassungsbeschwerdeverfahren einzureichender Schriftsätze abstimmen. In solchen Fällen seien beide Gebühren nach § 91 I 1 ZPO auch erstattungsfähig, wenn sich – im Hinblick auf den Grundsatz der sparsamen Prozessführung – im Rechtsbeschwerdeverfahren für den Streithelfer kein BGH-Anwalt bestellt (vgl. zu dieser Voraussetzung BGH NJW 2012, 2734 Rn. 10 ff.).
