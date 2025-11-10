@@ -7,16 +7,16 @@ Diese Pipeline verarbeitet juristische Dokumente und generiert automatisierte Zu
 Das Projekt folgt einer modularen Architektur mit klarer Trennung zwischen Datenverarbeitung, LLM-Integration, Zusammenfassungsgenerierung und Evaluation. Die Hauptkomponenten befinden sich im src-Verzeichnis und sind nach Funktionsbereichen organisiert.
 
 ## Voraussetzungen
-Python 3.8 oder höher
-API-Zugang zu Azure OpenAI oder Hugging Face
-Ausreichend Speicherplatz für Dokumentverarbeitung
+- Python 3.8 oder höher
+- API-Zugang zu Azure OpenAI oder Hugging Face
+- Ausreichend Speicherplatz für Dokumentverarbeitung
 
 ## Installation
-Repository klonen
-Virtuelle Umgebung erstellen und aktivieren
-Abhängigkeiten installieren: pip install -r requirements.txt
-Konfigurationsdateien im config-Verzeichnis anpassen
-API-Credentials in credentials.env eintragen
+- Repository klonen
+- Virtuelle Umgebung erstellen und aktivieren
+- Abhängigkeiten installieren: pip install -r requirements.txt
+- Konfigurationsdateien im config-Verzeichnis anpassen
+- API-Credentials in credentials.env eintragen
 
 ## Konfiguration
 Die Datei models_config.yaml enthält Einstellungen für verfügbare Modelle und deren Parameter. In evaluation_config.yaml werden Evaluationskriterien und Metriken definiert.
@@ -35,6 +35,7 @@ Das System bietet automatisierte Metriken wie ROUGE und BERTScore sowie LLM-basi
 
 ## Erweiterung
 Neue Dokumentformate können durch Erweiterung der Reader-Klassen integriert werden. Zusätzliche LLM-Provider erfordern eine neue Client-Implementierung basierend auf base_client.py. Prompt-Templates können in prompt_templates.py angepasst werden.
+
 
 
 
