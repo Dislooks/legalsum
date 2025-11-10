@@ -1,0 +1,186 @@
+Cloud Services Vertrag (SaaS) - Software as a Service
+
+Vertragspartner
+
+Provider:
+Mondschein Innovations AG
+Sternenweg 99
+12345 Fantasieburg, Deutschland
+
+Kunde:
+Regenbogen Technologie GmbH
+Wolkenallee 77
+98765 Traumstadt, Deutschland
+
+Wesentliche Vertragsbestimmungen
+
+§ 1 Vertragsgegenstand
+
+Entgeltliche, zeitlich begrenzte Nutzung der Software "DataFlow Manager Pro"
+Bereitstellung von Speicherplatz auf Provider-Servern
+
+§ 2 Leistungen des Providers
+
+Nutzung der aktuellsten Softwareversion für vereinbarte Nutzeranzahl via Browser
+
+Gewährleistung von Funktionsfähigkeit und Verfügbarkeit während Vertragsdauer
+Funktionsumfang und Einsatzbedingungen in Anlage 1
+
+Nutzeranzahl nach Bedarf erhöhbar/reduzierbar gemäß Anlage 1
+Unverzügliche Übermittlung von Zugangsdaten nach Vertragsschluss
+
+Bereitstellung elektronischer Benutzerdokumentation
+Dokumentation jederzeit einsehbar und downloadbar
+
+Provider kann Software jederzeit aktualisieren/weiterentwickeln (nicht verpflichtet)
+Auch aufgrund Rechtslage, technischer Entwicklungen oder IT-Sicherheit
+Berücksichtigung berechtigter Kundeninteressen
+Sonderkündigungsrecht bei wesentlicher Beeinträchtigung
+
+Keine Anpassung auf individuelle Kundenbedürfnisse geschuldet
+
+Regelmäßige Wartung außerhalb üblicher Geschäftszeiten
+Ausnahme: zwingende Gründe
+Rechtzeitige Information über Einschränkungen
+
+Speicherplatz bis 500 GB
+Abrufbarkeitspflicht des Providers
+Erweiterung/Reduzierung nach Bedarf gemäß Anlage 1
+
+Schutzmaßnahmen nach Stand der Technik
+Keine Verwahrungs-/Obhutspflichten des Providers hinsichtlich Daten
+Datensicherung ist Kundenverantwortung
+
+Kunde bleibt Inhaber der Daten
+Herausgabeanspruch jederzeit
+
+§ 3 Nutzungsumfang und -rechte
+
+Keine physische Softwareüberlassung
+
+Einfaches, nicht unterlizenzierbares, nicht übertragbares Nutzungsrecht
+Zeitlich auf Vertragsdauer beschränkt
+Browser-basierter Zugriff
+
+Nutzung nur im Rahmen eigener geschäftlicher Tätigkeit durch eigenes Personal
+Keine weitergehende Nutzung gestattet
+
+§ 4 Support
+
+Support-Service für Funktionsanfragen
+Erreichbarkeit via Hotline (lt. Website) oder E-Mail
+Bearbeitung in zeitlicher Reihenfolge
+
+§ 5 Service Levels; Störungsbehebung
+
+Mindestverfügbarkeit: 99,5% monatlich am Übergabepunkt (Routerausgang Rechenzentrum)
+
+Wartungszeiten und Störungen unter Einhaltung der Behebungszeit = Verfügbarkeitszeiten
+Unerhebliche Störungen nicht verfügbarkeitsrelevant
+Nachweis durch Provider-Messinstrumente
+
+Störungsmeldung unverzüglich an Kontaktdaten lt. Anhang 1
+Servicezeiten: Mo-Fr 9:00-18:00 Uhr (außer bundesweite Feiertage)
+
+Schwerwiegende Störungen: Behebung binnen 2 Stunden (auch außerhalb Servicezeiten, sofern Meldung innerhalb Servicezeit)
+Information bei voraussichtlicher Überschreitung
+
+Sonstige erhebliche Störungen: Behebung binnen 12 Stunden (innerhalb Servicezeiten)
+
+Unerhebliche Störungen: Beseitigung im Ermessen des Providers
+
+Vertragsstrafe: 100 EUR pro Stunde Unterschreitung der Monatsverfügbarkeit
+Maximum: 10.000 EUR
+
+Gesetzliche Ansprüche bleiben unberührt
+
+§ 6 Pflichten des Kunden
+
+Schutz der Zugangsdaten nach Stand der Technik
+Nutzung nur im vereinbarten Umfang
+Unverzügliche Meldung unberechtigter Zugriffe
+
+Keine Ablage rechtswidriger Daten (Verstoß gegen Recht, behördliche Anordnungen, Drittrechte)
+
+Virenprüfung vor Datenablage/Nutzung mit Schutzprogrammen nach Stand der Technik
+
+Regelmäßige eigenverantwortliche Datensicherungen
+
+§ 7 Gewährleistung
+
+Anwendung der Mietrechtsvorschriften (§§ 535 ff. BGB)
+
+Unverzügliche Mängelanzeige durch Kunden
+
+Gewährleistungsausschluss bei unerheblichen Tauglichkeitsminderungen
+Ausschluss verschuldensunabhängiger Haftung gem. § 536a Abs. 1 BGB für Mängel bei Vertragsschluss
+
+§ 8 Haftung
+
+Unbeschränkte Haftung bei: Vorsatz, grober Fahrlässigkeit, schuldhafter Verletzung von Leben/Körper/Gesundheit
+
+Bei leichter Fahrlässigkeit: Haftung nur bei Verletzung wesentlicher Vertragspflichten
+Beschränkt auf vorhersehbaren, vertragstypischen Schaden
+
+Haftungsbeschränkungen gelten nicht für Produkthaftungsgesetz und schriftliche Garantien
+
+Gilt auch zugunsten von Mitarbeitern, Vertretern und Organen
+
+§ 9 Rechtsmängel; Freistellung
+
+Provider gewährleistet Rechtsfreiheit der Software
+Freistellung des Kunden von Drittansprüchen wegen Schutzrechtsverletzungen auf erstes Anfordern
+Ersatz angemessener Rechtsverfolgungskosten
+Unverzügliche Information und Vollmachtserteilung durch Kunden
+
+Kunde sichert Rechtmäßigkeit seiner abgelegten Inhalte/Daten zu
+Freistellung des Providers von Drittansprüchen auf erstes Anfordern
+
+§ 10 Vergütungs- und Zahlungsbedingungen
+
+Monatliches Entgelt: 6.000 EUR
+Automatische Verrechnung verwirkter Vertragsstrafen
+
+Anpassung bei Änderung der Nutzeranzahl/Speichervolumen gemäß Anlage 1
+
+Monatliche Rechnungsstellung
+Zahlungsfrist: 14 Werktage
+
+§ 11 Vertragslaufzeit und Beendigung
+
+Vertragsbeginn: 01.12.2025
+Laufzeit: Unbestimmt
+
+Kündigungsfrist: 3 Monate zum Monatsende (beidseitig)
+
+Fristlose Kündigung aus wichtigem Grund möglich
+Schriftformerfordernis
+
+Provider unterstützt auf eigene Kosten bei Datenrückübertragung/-sicherung nach Vertragsende
+
+Unwiderrufliche Datenlöschung 30 Tage nach Vertragsende
+Kein Zurückbehaltungs-/Pfandrecht des Providers an Daten
+
+§ 12 Datenschutz; Geheimhaltung
+
+Einhaltung datenschutzrechtlicher Bestimmungen
+
+Bei Zugriff auf personenbezogene Daten: Abschluss Auftragsverarbeitungsvertrag vor Verarbeitungsbeginn
+Verarbeitung nur nach Vertrag und Kundenweisungen
+
+Geheimhaltungsverpflichtung des Providers für vertrauliche Informationen/Geschäftsgeheimnisse
+Ausnahme: gesetzliche/behördliche/gerichtliche Offenlegungspflicht
+Inhaltsgleiche Verpflichtung von Mitarbeitern und Subunternehmern verpflichtend
+
+§ 13 Schlussbestimmungen
+
+Salvatorische Klausel
+Ersatz unwirksamer Regelungen durch sinngleiche wirksame Bestimmungen
+
+Keine mündlichen/schriftlichen Nebenabreden
+Änderungen bedürfen der Schriftform
+
+Anwendbares Recht: Deutsches Recht
+Ausschluss: Kollisionsrecht und UN-Kaufrecht
+
+Ausschließlicher Gerichtsstand: Fantasieburg

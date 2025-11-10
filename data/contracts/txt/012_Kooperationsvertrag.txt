@@ -1,0 +1,58 @@
+Kooperationsvertrag
+Zwischen
+Mondschein Innovations AG, Sternenweg 99, 12345 Fantasieburg Deutschlandund
+… (nachfolgend „Partner 1“ genannt)
+Und
+Regenbogen Technologie GmbH, Wolkenallee 77, 98765 Traumstadt Deutschland
+… (nachfolgend Partner 2 genannt)
+wird folgender Kooperationsvertrag geschlossen:
+§ 1 Gegenstand der Zusammenarbeit
+Bezeichnung des Vorhabens
+Ziel dieses Projektes ist die Entwicklung eines energieeffizienten Batteriemanagementsystems für Elektrofahrzeuge mit einer Reichweitensteigerung von mindestens 20% gegenüber bestehenden Systemen.
+Hierzu leisten die zwei Partner jeweils folgende Beiträge zu den erforderlichen Forschungs- und Entwicklungsarbeiten:
+• Mondschein Innovations AG: Bereitstellung der Hardware-Infrastruktur und Testlabore, Entwicklung der elektronischen Steuerungseinheiten und Sensorik
+• Regenbogen Technologie GmbH: Entwicklung der Software-Algorithmen für das Batteriemanagement, Bereitstellung von KI-Expertise und Datenanalyse-Tools
+Das Ziel der Zusammenarbeit, die damit verbundene Aufgabenstellung und die von den zwei Partnern zu leistenden Beiträge sind in Anlage 1 niedergelegt.
+§ 2 Durchführung der Koordinierung
+(1) Das zur Lösung der Projektaufgaben notwendige Zusammenführen von neuesten Ergebnissen der Forschung mit den aktuellen Bedürfnissen der Anwender erfordert während der gesamten Projektlaufzeit eine koordinierte Zusammenarbeit.
+(2) Die Zusammenarbeit der Partner erfolgt gleichberechtigt.
+(3) Als Koordinator wird übereinstimmend Dr. Maximilian Musterdörfer benannt. Der Koordinator ist für die Koordinierung der Zusammenarbeit der Partner und die Leitung der Arbeitstreffen nach Absatz 5 verantwortlich.
+(4) Als Projektleiter benennen die Partner Dr. Martin Reichenbach (für Partner 1) und Dipl.-Ing. Sandra Hofmann (für Partner 2) 
+Die Projektleiter sind auf der Ebene des jeweiligen Partners mit Koordinierungsaufgaben betraut. Sie unterstützen den Koordinator. Sie sind berechtigt, für die betreffende Partei rechtsverbindliche Erklärungen abzugeben.
+(5) Es werden Arbeitstreffen jeweils zum Quartalsanfang im Wechsel bei den Partnern vereinbart.
+§ 3 Vorbestehende Ergebnisse
+(1) Die Partner verfügen bereits über die in Anlage 2 aufgeführten gewerblichen Schutz- und Urheberrechte sowie Know-how auf dem Gebiet der Zusammenarbeit („Vorbestehende Ergebnisse“).
+(2) Soweit die Partner zur Durchführung der Forschungs- und Entwicklungsarbeiten Vorbestehende Ergebnisse eines anderen Partners benötigen, gewährt ihnen dieser hiermit ein einfaches, nicht übertragbares und nicht unterlizenzierbares Nutzungsrecht an diesen Vorbestehenden Ergebnissen während der Laufzeit und ausschließlich zu Zwecken dieses Vertrages.
+(3) Soweit die Vorbestehenden Ergebnisse mit den Arbeitsergebnissen nach § 4 untrennbar verschmolzen und für die Verwertung des Arbeitsergebnisses zwingend erforderlich sind, hat der betreffende Partner das Recht, vom jeweiligen Inhaber der Vorbestehenden Ergebnisse den Abschluss eines Lizenzvertrages zu dessen Nutzung zu angemessenen und marktüblichen Bedingungen zu verlangen.
+§ 4 Arbeitsergebnisse
+(1) Arbeitsergebnisse sind alle bei der Durchführung der Arbeiten nach diesem Vertrag entstandenen Ergebnisse, insbesondere Know-how, Erfindungen, Schutzrechte, urheberrechtlich geschützte Werke, Computerprogramme sowie Dokumentationen, Berichte und Unterlagen, auch soweit sie im Auftrag eines Partners von Dritten ausgeführt werden.
+(2) Die im Rahmen des Vorhabens entstehenden Arbeitsergebnisse stehen demjenigen Partner zu, durch dessen Mitarbeiter bzw Beauftragte sie entstanden sind.
+(3) Im Falle gemeinschaftlich durch Mitarbeiter bzw Beauftragte mindestens zweier Partner erzielter Arbeitsergebnisse einigen sich die betreffenden Partner einvernehmlich über Anteile, Anmeldung, Aufrechterhaltung, Verteidigung sowie Nutzung der erzielten Arbeitsergebnisse. Kommt es zu keiner Einigung der betreffenden Partner, so gelten die Grundsätze über die Bruchteilsgemeinschaft iSd §§ 741 ff. BGB entsprechend.
+(4) Gemeinschaftliche Arbeitsergebnisse dürfen nur nach vorheriger Zustimmung der jeweils beteiligten Partner veröffentlicht werden. Diese Zustimmung darf nur aus wichtigem Grund verweigert werden. Jeder Partner darf die ausschließlich von ihm allein im Rahmen des Vorhabens erarbeiteten Arbeitsergebnisse veröffentlichen.
+(5) Die Partner vereinbaren untereinander einen Informationsaustausch betreffs ihrer Arbeitsergebnisse, soweit dies für die Entwicklung und Anwendung im Rahmen des Vorhabens erforderlich ist. Falls zur Erreichung der gestellten Ziele des Kooperationsprojektes erforderlich, stellt auf Anfrage jeder Partner seine projektbezogenen Arbeitsergebnisse den anderen Partnern während der Laufzeit dieses Vertrages im Wege eines kostenlosen, nicht ausschließlichen sowie nicht übertragbaren und nicht unterlizenzierbaren Nutzungsrechts zur Verfügung.
+§ 5 Geheimhaltung
+(1) Die Partner verpflichten sich, die Arbeitsergebnisse der jeweils anderen Partner sowie alle sonstigen Informationen, insbesondere technischer und wirtschaftlicher Art, Absichten, Erfahrungen, Erkenntnisse, Konstruktionen und Unterlagen, einschließlich der Vorbestehenden Ergebnisse, die ihnen aufgrund der Zusammenarbeit gemäß dieses Vertrages bekannt werden (zusammen „Confidential Information“ genannt), Dritten gegenüber – auch über die Dauer des Vertrages hinaus – vertraulich zu behandeln, Dritten nicht zugänglich zu machen, vor dem Zugriff Dritter zu schützen sowie nicht zum Gegenstand einer eigenen Schutzrechtsanmeldung zu machen.
+(2) Die Partner sind nur mit vorheriger Zustimmung der anderen Partner berechtigt, diese Confidential Information an etwaige Nachunternehmerfirmen unter Auferlegung der Verpflichtungen über die Vertraulichkeit weiterzugeben.
+(3) Die vorstehenden Verpflichtungen gelten nicht für solche Confidential Information, die einem Partner bereits vor ihrer Mitteilung im Rahmen dieses Vertrages bekannt waren, von diesem unabhängig erarbeitet oder anderweitig rechtmäßig erlangt wurden oder die allgemein sind oder ohne Verstoß gegen diesen Vertrag allgemein bekannt werden.
+(4) Die Partner werden in geeigneter Form dafür sorgen, dass auch die von ihnen bei der Durchführung dieses Vertrages hinzugezogenen Mitarbeiter, freien Mitarbeiter und Unterauftragnehmer die vorstehende Vertraulichkeit wahren.
+(5) Nach Beendigung dieses Vertrages sind die in Unterlagen etc, einschließlich sämtlicher Kopien, verkörperten Arbeitsergebnisse und sonstige Confidential Information eines Partners, die sich im Besitz oder unter Kontrolle eines anderen Partners befinden, von diesem an den betreffenden Partner vollständig und unverzüglich zurückzugeben.
+§ 6 Gewährleistung
+(1) Die Partner werden die ihnen in diesem Vertrag obliegenden Verpflichtungen unter Berücksichtigung des aktuellen Stands ihrer wissenschaftlichen und technischen Kenntnisse und Erfahrungen erfüllen.
+(2) Die Partner übernehmen keine Gewährleistung für Mängel ihrer Beiträge, Vorbestehenden Ergebnisse, Arbeitsergebnisse und Confidential Information, insbesondere nicht für die technische und/oder kommerzielle Anwendbarkeit und Verwertbarkeit der aufgrund dieses Vertrages zur Verfügung gestellten Informationen, Kenntnisse, Erfahrungen und Arbeitsergebnisse.
+(3) Die Partner stehen nicht für etwa entgegenstehende Schutz- oder Urheberrechte Dritter ein. Werden einem Vertragspartner jedoch solche Schutz- oder Urheberrechte Dritter bekannt, die für die Arbeiten in Anspruch genommen werden sollen oder die der Nutzung der Arbeitsergebnisse entgegenstehen, so wird der jeweilige Partner dies den übrigen Partnern unverzüglich mitteilen.
+§ 7 Haftung
+Die Partner haften einander ausschließlich für Vorsatz und grobe Fahrlässigkeit. Im Falle der groben Fahrlässigkeit ist die Haftung für mittelbare Schäden und Folgeschäden (insbesondere Betriebsunterbrechungen, Produktionsstillstände, entgangenen Gewinn und vergebliche Aufwendungen) ausgeschlossen.
+§ 8 Finanzierung durch die Kooperationspartner
+Die Finanzierung seiner Arbeitsaufgaben und der notwendigen Sachmittel einschließlich Reisespesen erfolgt eigenständig durch den jeweiligen Partner.
+§ 9 Dauer der Zusammenarbeit
+(1) Der Vertrag hat eine Laufzeit vom 01.01.2026 bis zum 31.12.2027. Der Vertrag ist nur aus wichtigem Grund mit sofortiger Wirkung kündbar.
+(2) Scheidet ein Partner wegen einer solchen Kündigung aus dem Projekt aus, wird er die bis dahin erreichten Ergebnisse innerhalb von 4 Wochen den anderen Partnern zur Verfügung stellen, soweit dies zur Fortsetzung des Projektes notwendig ist. Falls ein Partner ausscheidet, kann das Projekt unter Einbeziehung eines oder mehrerer neuer Partner fortgesetzt werden, ohne dass der ausscheidende Partner Einspruch erheben kann. An den Projektzielen werden keine wesentlichen Änderungen notwendig. Der ausgeschiedene Partner hat keinen Anspruch auf die nach seinem Ausscheiden entstandenen Arbeitsergebnisse.
+(3) Die §§ 3 , 4 , 5 , 6 und 7 bleiben nach Beendigung des Vertrages bzw nach Ausscheiden eines Partners für diesen in Kraft.
+§ 10 Unterauftragnehmer
+Die Vergabe von Unteraufträgen durch einen Vertragspartner ist nur nach vorheriger schriftlicher Zustimmung der übrigen Partner zulässig. Der Partner hat dabei die Einhaltung seiner Pflichten aus diesem Vertrag, insbesondere hinsichtlich der §§ 3 und 4, sicherzustellen. Entsprechende Maßnahmen hat er auf Anfrage den anderen Partnern schriftlich nachzuweisen.
+§ 11 Schlussbestimmungen
+(1) Nebenabreden, Änderungen und Ergänzungen bedürfen der Schriftform. Das gilt auch für einen Verzicht auf dieses Schriftformerfordernis.
+(2) Die Übertragung von Rechten und Pflichten aus diesem Vertrag ist mit vorheriger Zustimmung der anderen verbleibenden Partner oder nach Ausscheiden eines Partners mit vorheriger Zustimmung der verbleibenden Partner möglich.
+(3) Sollte eine Bestimmung dieses Vertrages unwirksam sein, so berührt dies die Wirksamkeit der übrigen Bestimmungen des Vertrages nicht. Die Bestimmung soll vielmehr durch eine Regelung ersetzt werden, die rechtlich zulässig ist und der ursprünglichen Bestimmung am nächsten kommt.
+(4) Die Vorschriften der §§ 705 ff. BGB finden auf die Zusammenarbeit keine Anwendung.
+(5) Ausschließlicher Gerichtsstand ist Fantasieburg; es gilt das Recht der Bundesrepublik Deutschland.
